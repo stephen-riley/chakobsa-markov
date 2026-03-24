@@ -1,1376 +1,1008 @@
 [
    {
-      "d" : 1,
-      "translation" : "She Fremin.",
-      "line" : 14,
-      "transliteration" : "You (are) Fremen.",
-      "phonetic" : "she FRE-min."
+      "line" : "1/10",
+      "phonetic" : "fo-NE-tik REN-dur-ingLiteral translation.",
+      "translation" : "Official transcription for closed captioning and subtitles."
    },
    {
-      "d" : 1,
-      "translation" : "Ruha bela eddem hi uzzul un-raudhiha.",
-      "line" : 61,
-      "transliteration" : "(It is) to-him to-hold life and death in-hands-his.",
-      "phonetic" : "RU-ha be-la ed-DEM hi uz-ZUL un-RAU-dhi-ha."
+      "line" : "1/24",
+      "phonetic" : "she FRE-min.You (are) Fremen.",
+      "translation" : "She Fremin."
    },
    {
-      "d" : 1,
-      "translation" : "Jila hiyak sa fadla.",
-      "line" : 75,
-      "transliteration" : "Go with-them in peace.",
-      "phonetic" : "JI-la hi-yak sa FAD-la."
+      "line" : "1/32",
+      "phonetic" : "(Please see video.)(Please see video.)",
+      "translation" : "(Please see video.)(CONTINUED)37CONTINUED:DuneLanguage Translations09/27/202.37"
    },
    {
-      "transliteration" : "I-recognize-you.",
-      "phonetic" : "he-shii-GII-shii.",
-      "d" : 1,
-      "translation" : "Heshiigiishii.",
-      "line" : 106
+      "line" : "1/71",
+      "phonetic" : "RU-ha be-la ed-DEM hi uz-ZUL un-RAU-dhi-ha.(It is) to-him to-hold life and death in-hands-his.",
+      "translation" : "Ruha bela eddem hi uzzul un-raudhiha."
    },
    {
-      "line" : 120,
-      "translation" : "Ruha leda gefthek sahiimbit qullaha hiyak.",
-      "d" : 1,
-      "phonetic" : "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.",
-      "transliteration" : "(It is) to-him to-know ways-your as-one-who was-born with-them."
+      "line" : "1/85",
+      "phonetic" : "JI-la hi-yak sa FAD-la.Go with-them in peace.",
+      "translation" : "Jila hiyak sa fadla.(CONTINUED)45DuneCONTINUED:Language Translations09/27/203.45"
    },
    {
-      "translation" : "Tsâom brovÃ¼châon gokhulzhon dzoqâayh qaldayh gum.",
-      "line" : 134,
-      "d" : 1,
-      "phonetic" : "TSâOM bro-vÃ¼-châon go-khul-zhon dzo-qâayh qal-dayh guuuuuum.",
-      "transliteration" : "HÃL-gÃ¶r rÃ¶m-bÃ¶zh Ã¥z-qa-dÃ¶zh tâu-rukh sÃ¼n-dukh guuuuuun."
+      "line" : "1/116",
+      "phonetic" : "he-shii-GII-shii.I-recognize-you.",
+      "translation" : "Heshiigiishii."
    },
    {
-      "phonetic" : "kaah SO is-RESH-ma!",
-      "transliteration" : "They (are) not from-desert!",
-      "line" : 243,
-      "translation" : "Kaah so is-reshma!",
-      "d" : 1
+      "line" : "1/130",
+      "phonetic" : "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.(It is) to-him to-know ways-your as-one-who was-born with-them.",
+      "translation" : "Ruha leda gefthek sahiimbit qullaha hiyak."
    },
    {
-      "phonetic" : "ze-YAA-sha-ha QU-mih. o-ma JI-la-dha a-SICH TAB-ra. ru VAA-nar LIIka-sat zi-ha DI-ma-dha-gas CHOS. a-VAN-nat BE-li-lii hi-yak! u-KAIri-bii u-nak.",
-      "transliteration" : "Is-fading night. (It is) on-us to-reach to-Sietch Tabr. (It is) for",
-      "line" : 273,
-      "translation" : "Zeyaashaha qumih. Oma jiladha a-Sich Tabra. Ru vaanar liikasat ziha",
-      "d" : 1
+      "line" : "1/130",
+      "phonetic" : "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.(It is) to-him to-know ways-your as-one-who was-born with-them.",
+      "translation" : "Ruha leda gefthek sahiimbit qullaha hiyak."
    },
    {
-      "transliteration" : "Tell-them to-stop to-hunt son-my.",
-      "phonetic" : "JA-ra-kaa HA-dha VI-za-la KWA-dii.",
-      "d" : 1,
-      "line" : 284,
+      "line" : "1/231",
+      "phonetic" : "kaah SO is-RESH-ma!They (are) not from-desert!",
+      "translation" : "Kaah so is-reshma!"
+   },
+   {
+      "line" : "1/241",
+      "phonetic" : "ze-YAA-sha-ha QU-mih. o-ma JI-la-dha a-SICH TAB-ra. ru VAA-nar LIIka-sat zi-ha DI-ma-dha-gas CHOS. a-VAN-nat BE-li-lii hi-yak! u-KAIri-bii u-nak.Is-fading night. (It is) on-us to-reach to-Sietch Tabr. (It is) forfates of-strangers these to-be-decided there. Until-then countenancemy (is) with-them! Promise-my (is) upon-them.",
+      "translation" : "Zeyaashaha qumih. Oma jiladha a-Sich Tabra. Ru vaanar liikasat zihadimadhagas chos. A-vannat belilii hiyak! Ukairibii unak."
+   },
+   {
+      "line" : "1/251",
+      "phonetic" : "JA-ra-kaa HA-dha VI-za-la KWA-dii.Tell-them to-stop to-hunt son-my.",
       "translation" : "Jarakaa hadha vizala kwadii."
    },
    {
-      "translation" : "A-gef.",
-      "line" : 293,
-      "d" : 1,
-      "phonetic" : "a-GEF.",
-      "transliteration" : "To-the-path."
+      "line" : "1/275",
+      "phonetic" : "a-GEF.To-the-path.",
+      "translation" : "A-gef."
    },
    {
-      "phonetic" : "sa-hi-FIR! sa-GAR-ga! TA-sa-ho! TA-sa NI-chii! e JA-mis! FAI-za!",
-      "transliteration" : "HESH-shyu-ho! A-ga DI-mash! uz-ZUL-lu-ho!",
-      "line" : 317,
-      "translation" : "Sah-ifir! Sa-garga! Tasaho! Tasa nichii! E Jamis! Faiza! Hesshyuho!",
-      "d" : 1
+      "line" : "1/288",
+      "phonetic" : "sa-hi-FIR! sa-GAR-ga! TA-sa-ho! TA-sa NI-chii! e JA-mis! FAI-za!HESH-shyu-ho! A-ga DI-mash! uz-ZUL-lu-ho!By-power! By-might! Strike-him! Strike quickly! O Jamis! Jump! Makesee-him! Use blade-your! Kill-him!",
+      "translation" : "Sah-ifir! Sa-garga! Tasaho! Tasa nichii! E Jamis! Faiza! Hesshyuho!Aga dimash! Uzzulluho!"
    },
    {
-      "transliteration" : "Silently!",
-      "phonetic" : "fa-SHII!",
-      "d" : 1,
-      "line" : 331,
+      "line" : "1/298",
+      "phonetic" : "fa-SHII!Silently!",
       "translation" : "Fashii!"
    },
    {
-      "translation" : "Oma hiila ekker is-thanaha.",
-      "line" : 340,
-      "d" : 1,
-      "phonetic" : "O-ma HII-la ek-KER is-THA-na-ha.",
-      "transliteration" : "(It is) on-us to-collect water from-body-his."
+      "line" : "1/319",
+      "phonetic" : "O-ma HII-la ek-KER is-THA-na-ha.(It is) on-us to-collect water from-body-his.",
+      "translation" : "Oma hiila ekker is-thanaha."
    },
    {
-      "phonetic" : "ni-CHII! ni-CHII!",
-      "transliteration" : "Quickly! Quickly!",
-      "line" : 361,
-      "translation" : "Nichii! Nichii!",
-      "d" : 1
+      "line" : "1/327",
+      "phonetic" : "ni-CHII! ni-CHII!Quickly! Quickly!",
+      "translation" : "Nichii! Nichii!"
    },
    {
-      "translation" : "Ekkerim a-kairash!",
-      "line" : 369,
-      "d" : 1,
-      "phonetic" : "EK-ke-rim a-KAI-rash!",
-      "transliteration" : "Water-our to-water-your!"
+      "line" : "1/339",
+      "phonetic" : "EK-ke-rim a-KAI-rash!Water-our to-water-your!",
+      "translation" : "Ekkerim a-kairash!"
    },
    {
-      "translation" : "Vii minaazashaho vejii ho Chausij?",
-      "line" : 381,
-      "d" : 1,
-      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho CHAU-sij?",
-      "transliteration" : "Do you-think-it truly (that) he (is) the-One?"
+      "line" : "1/370",
+      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho CHAU-sij?Do you-think-it truly (that) he (is) the-One?",
+      "translation" : "Vii minaazashaho vejii ho Chausij?"
    },
    {
-      "transliteration" : "He-favors-him Liet.",
-      "phonetic" : "ya-ZAA-la-ha-o LII-yet.",
-      "d" : 1,
-      "line" : 412,
+      "line" : "1/378",
+      "phonetic" : "ya-ZAA-la-ha-o LII-yet.He-favors-him Liet.",
       "translation" : "Yazaalahao Liiyet."
    },
    {
-      "translation" : "Azaagahayi ho ludhii.",
-      "line" : 420,
-      "d" : 1,
-      "phonetic" : "a-ZAA-ga-ha-yi ho lu-DHII.",
-      "transliteration" : "It-appears-to-me (that) he is-young."
+      "line" : "1/386",
+      "phonetic" : "a-ZAA-ga-ha-yi ho lu-DHII.It-appears-to-me (that) he is-young.",
+      "translation" : "Azaagahayi ho ludhii."
    },
    {
-      "phonetic" : "OG-go-ri che-SHII, e AK-sha-hii.",
-      "transliteration" : "Coffee good, O friend.",
-      "line" : 428,
-      "translation" : "Oggori cheshii, e akshahii.",
-      "d" : 1
+      "line" : "1/394",
+      "phonetic" : "OG-go-ri che-SHII, e AK-sha-hii.Coffee good, O friend.",
+      "translation" : "Oggori cheshii, e akshahii.(CONTINUED)ADRCONTINUED: (2)DuneLanguage Translations09/27/2010.ADR"
    },
    {
-      "phonetic" : "is-KIF-tha CHAI-ya HO CHAU-sij?",
-      "transliteration" : "In-way what he (is) the-One?",
-      "line" : 453,
-      "translation" : "Is-kiftha chaiya ho Chausij?",
-      "d" : 1
+      "line" : "1/419",
+      "phonetic" : "is-KIF-tha CHAI-ya HO CHAU-sij?In-way what he (is) the-One?",
+      "translation" : "Is-kiftha chaiya ho Chausij?"
    },
    {
-      "translation" : "Khura zikh.",
-      "line" : 461,
-      "d" : 1,
-      "phonetic" : "KHU-ra ZIKH.",
-      "transliteration" : "Come here."
+      "line" : "1/433",
+      "phonetic" : "KHU-ra ZIKH.Come here.",
+      "translation" : "Khura zikh."
    },
    {
-      "translation" : "Mursha.",
-      "line" : 475,
-      "d" : 1,
-      "phonetic" : "MUR-sha.",
-      "transliteration" : "(CONTINUED)"
+      "line" : "1/441",
+      "phonetic" : "MUR-sha.(CONTINUED)ADRCONTINUED:DuneLanguage Translations09/27/2011.ADRKneel.",
+      "translation" : "Mursha."
    },
    {
-      "d" : 1,
-      "line" : 484,
-      "translation" : "Khadha.",
-      "transliteration" : "Stop.",
-      "phonetic" : "KHA-dha."
+      "line" : "1/466",
+      "phonetic" : "KHA-dha.Stop.",
+      "translation" : "Khadha."
    },
    {
-      "line" : 508,
-      "translation" : "Zaikha lishki.",
-      "d" : 1,
-      "phonetic" : "ZAI-kha LISH-ki.",
-      "transliteration" : "Drink the-flame."
+      "line" : "1/474",
+      "phonetic" : "ZAI-kha LISH-ki.Drink the-flame.",
+      "translation" : "Zaikha lishki."
    },
    {
-      "d" : 1,
-      "translation" : "Dindhakho fashibakha.",
-      "line" : 516,
-      "transliteration" : "Remove her-gag.",
-      "phonetic" : "DIN-dha-kho fa-SHI-ba-kha."
+      "line" : "1/482",
+      "phonetic" : "DIN-dha-kho fa-SHI-ba-kha.Remove her-gag.",
+      "translation" : "Dindhakho fashibakha."
    },
    {
-      "transliteration" : "Kill-him. Now.",
-      "phonetic" : "VID-za-kho. VAD-zikh.",
-      "d" : 1,
-      "translation" : "Vidzakho. Vadzikh.",
-      "line" : 524
+      "line" : "1/506",
+      "phonetic" : "VID-za-kho. VAD-zikh.Kill-him. Now.",
+      "translation" : "Vidzakho. Vadzikh."
    },
    {
-      "transliteration" : "Free-us.",
-      "phonetic" : "GHAS-su-ma.",
-      "d" : 1,
-      "translation" : "Ghassuma.",
-      "line" : 548
+      "line" : "1/514",
+      "phonetic" : "GHAS-su-ma.Free-us.",
+      "translation" : "Ghassuma."
    },
    {
-      "phonetic" : "GHAS-su-nii sa DIM-bi.",
-      "transliteration" : "Free-me with a-knife.",
-      "line" : 556,
-      "translation" : "Ghassunii sa dimbi.",
-      "d" : 1
+      "line" : "1/522",
+      "phonetic" : "GHAS-su-nii sa DIM-bi.Free-me with a-knife.",
+      "translation" : "Ghassunii sa dimbi."
    },
    {
-      "transliteration" : "Give-it-me the-knife.",
-      "phonetic" : "DHIK-la-nii DIM-bi.",
-      "d" : 1,
-      "translation" : "Dhiklanii dimbi.",
-      "line" : 564
+      "line" : "1/530",
+      "phonetic" : "DHIK-la-nii DIM-bi.Give-it-me the-knife.",
+      "translation" : "Dhiklanii dimbi.(CONTINUED)ADRCONTINUED: (3)DuneLanguage Translations09/27/2013.ADR"
    },
    {
-      "translation" : "Chiveldhanii.",
-      "line" : 589,
-      "d" : 1,
-      "phonetic" : "chi-VEL-dha-nii.",
-      "transliteration" : "Get-off-of-me."
+      "line" : "1/555",
+      "phonetic" : "chi-VEL-dha-nii.Get-off-of-me.",
+      "translation" : "Chiveldhanii."
    },
    {
-      "line" : 597,
-      "translation" : "Kwisats Khaderach.",
-      "d" : 1,
-      "phonetic" : "KWI-sats KHA-de-rach.",
-      "transliteration" : "Kwisatz Haderach."
+      "line" : "1/563",
+      "phonetic" : "KWI-sats KHA-de-rach.Kwisatz Haderach.",
+      "translation" : "Kwisats Khaderach."
    },
    {
-      "line" : 605,
-      "translation" : "Mwad Dib.",
-      "d" : 1,
-      "phonetic" : "MWAD DIB.",
-      "transliteration" : "MuadâDib."
+      "line" : "1/571",
+      "phonetic" : "MWAD DIB.MuadaEURtmDib.(CONTINUED)ADRCONTINUED: (4)DuneLanguage Translations09/27/2014.ADR",
+      "translation" : "Mwad Dib."
    },
    {
-      "transliteration" : "Lisan al-Gaib.",
-      "phonetic" : "LI-san al GHAIB.",
-      "d" : 1,
-      "line" : 613,
+      "line" : "1/596",
+      "phonetic" : "LI-san al GHAIB.Lisan al-Gaib.",
       "translation" : "Lisan al Ghaib."
    },
    {
-      "d" : 1,
-      "translation" : "Paul.",
-      "line" : 638,
-      "transliteration" : "Paul.",
-      "phonetic" : "PAUL."
+      "line" : "1/604",
+      "phonetic" : "PAUL.Paul.",
+      "translation" : "Paul."
    },
    {
-      "transliteration" : "Paul Atreides.",
-      "phonetic" : "PAUL a-TRE-i-dis.",
-      "d" : 1,
-      "line" : 646,
+      "line" : "1/612",
+      "phonetic" : "PAUL a-TRE-i-dis.Paul Atreides.",
       "translation" : "Paul Atreidis."
    },
    {
-      "transliteration" : "*",
-      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho MAH-di?",
-      "d" : 1,
-      "line" : 654,
-      "translation" : "Vii minaazashaho vejii ho Mahdi?"
+      "line" : "1/642",
+      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho MAH-di?**Do you-think-it truly (that) he (is) the-Mahdi?**",
+      "translation" : "Vii minaazashaho vejii ho Mahdi?**"
    },
    {
-      "d" : 1,
-      "translation" : "Hann... So ledii. Nifriha miniza...",
-      "line" : 689,
-      "transliteration" : "*",
-      "phonetic" : "hann... SO LE-dii. NI-fri-ha MI-ni-za..."
+      "line" : "1/670",
+      "phonetic" : "hann... SO LE-dii. NI-fri-ha MI-ni-za...**Hmm... Not I-know. One-is-able to-believe...**",
+      "translation" : "Hann... So ledii. Nifriha miniza...**"
    },
    {
-      "transliteration" : "mar-RII-ho AH-sah LI-san al GAIB, is-na-ta...HO ve-JII, vii mi-NAA- *",
-      "phonetic" : "*",
-      "d" : 1,
-      "translation" : "Marriiho ahsah Lisan al Gaib, is-nata...ho vejii, vii minaazash?",
-      "line" : 717
+      "line" : "1/698",
+      "phonetic" : "*mar-RII-ho AH-sah LI-san al GAIB, is-na-ta...HO ve-JII, vii mi-NAA- *zash?**I-have-heard whispers of-Lisan al Khaib, but...he (is) real, do you- *believe?*",
+      "translation" : "Marriiho ahsah Lisan al Gaib, is-nata...ho vejii, vii minaazash?**"
    },
    {
-      "transliteration" : "mi-NAA-zii, his-NA-ta MAR-ra-sha HO lu-DHII o-MAIZ *",
-      "phonetic" : "*",
-      "d" : 1,
-      "line" : 744,
-      "translation" : "*"
+      "line" : "1/724",
+      "phonetic" : "*mi-NAA-zii, his-NA-ta MAR-ra-sha HO lu-DHII o-MAIZ *DI-ma-la.**Maybe he (is) (the) Chosen-one, I-believe, however it-seems he (is) *young too-much to-lead.*",
+      "translation" : "*Shi ho Chausij, minaazii, haEURtmis-nata marrasha ho ludhii omaiz dimala. *(CONTINUED)ADRCONTINUED: (6)SHI ho CHAU-sij,DuneLanguage Translations09/27/2016.ADR"
    },
    {
-      "transliteration" : "*",
-      "phonetic" : "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?",
-      "d" : 1,
-      "translation" : "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?",
-      "line" : 785
+      "line" : "1/766",
+      "phonetic" : "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?**By-path which are-we to-know? Is-it-that will-it come (a) sign?**",
+      "translation" : "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?**"
    },
    {
-      "line" : 813,
-      "d" : 1
+      "line" : "1/766",
+      "phonetic" : "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?**By-path which are-we to-know? Is-it-that will-it come (a) sign?**",
+      "translation" : "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?**"
    },
    {
-      "d" : 2,
-      "translation" : "Sah.",
-      "line" : 14,
-      "transliteration" : "Take.",
-      "phonetic" : "SAH."
+      "line" : "2/10",
+      "phonetic" : "fo-NE-tik REN-dur-ingLiteral translation.",
+      "translation" : "Official transcription for closed captioning and subtitles."
    },
    {
-      "phonetic" : "ZIH. NAT. CHOS.",
-      "transliteration" : "Here. There. Yonder.",
-      "translation" : "Zih. Nat. Chos.",
-      "line" : 27,
-      "d" : 2
+      "line" : "2/23",
+      "phonetic" : "SAH.Take.",
+      "translation" : "Sah."
    },
    {
-      "translation" : "Tamra zih.",
-      "line" : 52,
-      "d" : 2,
-      "phonetic" : "TAM-ra ZIH.",
-      "transliteration" : "Stay here."
+      "line" : "2/32",
+      "phonetic" : "ZIH. NAT. CHOS.Here. There. Yonder.",
+      "translation" : "Zih. Nat. Chos.(CONTINUED)BGDune: Part TwoCONTINUED:Language Translations11/20/222.BG"
    },
    {
-      "transliteration" : "Keep-an-eye-out.",
-      "phonetic" : "YO-hesh-ya.",
-      "d" : 2,
-      "translation" : "Yoheshya.",
-      "line" : 60
+      "line" : "2/56",
+      "phonetic" : "TAM-ra ZIH.Stay here.",
+      "translation" : "Tamra zih."
    },
    {
-      "d" : 2,
-      "translation" : "Nichii! Nich-nich!",
-      "line" : 68,
-      "transliteration" : "Quickly! Hurry-hurry!",
-      "phonetic" : "ni-CHII! NICH-NICH!"
+      "line" : "2/64",
+      "phonetic" : "YO-hesh-ya.Keep-an-eye-out.",
+      "translation" : "Yoheshya."
    },
    {
-      "d" : 2,
-      "line" : 76,
-      "translation" : "Chahma ofmak.",
-      "transliteration" : "Fall-into spots-your.",
-      "phonetic" : "CHAH-ma OF-mak."
+      "line" : "2/72",
+      "phonetic" : "ni-CHII! NICH-NICH!Quickly! Hurry-hurry!(CONTINUED)BGDune: Part TwoCONTINUED: (2)Language Translations11/20/223.BG",
+      "translation" : "Nichii! Nich-nich!"
    },
    {
-      "d" : 2,
-      "line" : 240,
-      "translation" : "Oma isadha.",
-      "transliteration" : "We-must leave.",
-      "phonetic" : "O-ma I-sa-dha."
+      "line" : "2/96",
+      "phonetic" : "CHAH-ma OF-mak.Fall-into spots-your.",
+      "translation" : "Chahma ofmak."
    },
    {
-      "transliteration" : "All-of-that water: Lost!",
-      "phonetic" : "KE-mim EK-ke-ra: ha-RAA-dhas-ha!",
-      "d" : 2,
-      "line" : 248,
+      "line" : "2/165",
+      "phonetic" : "N/AN/A",
+      "translation" : "N/A(CONTINUED)10Dune: Part TwoCONTINUED: (2)Language Translations11/20/225.10"
+   },
+   {
+      "line" : "2/244",
+      "phonetic" : "O-ma I-sa-dha.We-must leave.",
+      "translation" : "Oma isadha."
+   },
+   {
+      "line" : "2/267",
+      "phonetic" : "KE-mim EK-ke-ra: ha-RAA-dhas-ha!All-of-that water: Lost!",
       "translation" : "Kemim ekkera: Haraadhas-ha!"
    },
    {
-      "d" : 2,
-      "line" : 271,
-      "translation" : "So nifriha sayadha un-reshim!",
-      "transliteration" : "Not can-she be-fit for-the-desert!",
-      "phonetic" : "SO NI-fri-ha SA-ya-dha un-RE-shim!"
+      "line" : "2/275",
+      "phonetic" : "SO NI-fri-ha SA-ya-dha un-RE-shim!Not can-she be-fit for-the-desert!",
+      "translation" : "So nifriha sayadha un-reshim!"
    },
    {
-      "transliteration" : "Not is-for-you peace here.",
-      "phonetic" : "so u-NAA-ra-ha-shii FA-dil zih.",
-      "d" : 2,
-      "line" : 279,
+      "line" : "2/288",
+      "phonetic" : "so u-NAA-ra-ha-shii FA-dil zih.Not is-for-you peace here.",
       "translation" : "So unaarahashii fadil zih."
    },
    {
-      "d" : 2,
-      "line" : 292,
-      "translation" : "Sich Tabr.",
-      "transliteration" : "Sietch Tabr.",
-      "phonetic" : "SICH TA-br."
+      "line" : "2/319",
+      "phonetic" : "SICH TA-br.Sietch Tabr.",
+      "translation" : "Sich Tabr."
    },
    {
-      "d" : 2,
-      "translation" : "Ru-che kaah zih? CHIFTHIT! RAABJIL! Sahtha reshme noqadhakaa!",
-      "line" : 323,
-      "transliteration" : "ZO-thib! e MAH-di! VII she li-SAAN al-GA-yib?",
-      "phonetic" : "ru-CHE KAAH ZIH? CHIF-thit! RAAB-jil! SAH-tha RESH-me NO-qa-dha-kaa!"
+      "line" : "2/328",
+      "phonetic" : "ru-CHE KAAH ZIH? CHIF-thit! RAAB-jil! SAH-tha RESH-me NO-qa-dha-kaa!ZO-thib! e MAH-di! VII she li-SAAN al-GA-yib?For-what they here? WITCH! SPIES! Let (the) desert devour-them!IMPOSTOR! O Mahdi! Are you Lisan al-Gaib?",
+      "translation" : "Ru-che kaah zih? CHIFTHIT! RAABJIL! Sahtha reshme noqadhakaa!ZOTHIB! E Mahdi! Vii she Lisaan al-Gayib?"
    },
    {
-      "phonetic" : "MAR-ra-ka STIL-gar. JI-la.",
-      "transliteration" : "You-have-heard Stilgar. Move.",
-      "line" : 333,
-      "translation" : "Marraka Stilgar. Jila.",
-      "d" : 2
+      "line" : "2/339",
+      "phonetic" : "MAR-ra-ka STIL-gar. JI-la.You-have-heard Stilgar. Move.",
+      "translation" : "Marraka Stilgar. Jila."
    },
    {
-      "line" : 343,
-      "translation" : "Ho so Mahdi!",
-      "d" : 2,
-      "phonetic" : "ho SO MAH-di!",
-      "transliteration" : "He (is) no Mahdi!"
+      "line" : "2/347",
+      "phonetic" : "ho SO MAH-di!He (is) no Mahdi!",
+      "translation" : "Ho so Mahdi!(CONTINUED)14Dune: Part TwoCONTINUED: (2)Language Translations11/20/229.14"
    },
    {
-      "d" : 2,
-      "translation" : "Ru-che ne Mahdi?",
-      "line" : 366,
-      "transliteration" : "Why-should I (be) Mahdi?",
-      "phonetic" : "ru-CHE ne MAH-di?"
+      "line" : "2/370",
+      "phonetic" : "ru-CHE ne MAH-di?Why-should I (be) Mahdi?",
+      "translation" : "Ru-che ne Mahdi?"
    },
    {
-      "line" : 374,
-      "translation" : "Vizdhaha che Jamsa?",
-      "d" : 2,
-      "phonetic" : "VIZ-dha-ha CHE JAM-sa?",
-      "transliteration" : "Killed-him who Jamis?"
+      "line" : "2/384",
+      "phonetic" : "VIZ-dha-ha CHE JAM-sa?Killed-him who Jamis?",
+      "translation" : "Vizdhaha che Jamsa?"
    },
    {
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "HO NAT.",
-      "d" : 2,
-      "translation" : "Ho nat.",
-      "line" : 388
+      "line" : "2/392",
+      "phonetic" : "HO NAT.(CONTINUED)15Dune: Part TwoCONTINUED:Language Translations11/20/2210.15He there.",
+      "translation" : "Ho nat."
    },
    {
-      "translation" : "O zihki lefadhas nichaiza hu haraadhim kimme ekkera.",
-      "line" : 397,
-      "d" : 2,
-      "phonetic" : "o ZIH-ki LE-fa-dhas ni-CHAI-za hu ha-RAA-dhim KIM-me EK-ke-ra.",
-      "transliteration" : "(It is) on this to-be-accomplished most-quickly lest we-lose (the)"
+      "line" : "2/417",
+      "phonetic" : "o ZIH-ki LE-fa-dhas ni-CHAI-za hu ha-RAA-dhim KIM-me EK-ke-ra.(It is) on this to-be-accomplished most-quickly lest we-lose (the)bulk of-the-water.",
+      "translation" : "O zihki lefadhas nichaiza hu haraadhim kimme ekkera."
    },
    {
-      "phonetic" : "BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suunZAAD o QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.",
-      "transliteration" : "Held body of-Jamis half of-body, forty jars, and five-hundred eight",
-      "translation" : "Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qelsshoq akkaarcha ekkera. Rush wa nukah.",
-      "line" : 421,
-      "d" : 2
+      "line" : "2/427",
+      "phonetic" : "BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suunZAAD o QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.Held body of-Jamis half of-body, forty jars, and five-hundred eightdrops of-water. For-you by right.",
+      "translation" : "Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qelsshoq akkaarcha ekkera. Rush wa nukah."
    },
    {
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "EK-ke-ri is-CHA-mas RUSH. is-NA-ta EK-ke-rish RUM.",
-      "d" : 2,
-      "line" : 431,
+      "line" : "2/436",
+      "phonetic" : "EK-ke-ri is-CHA-mas RUSH. is-NA-ta EK-ke-rish RUM.(CONTINUED)15Dune: Part TwoCONTINUED: (2)Language Translations11/20/2211.15Water from-Jamis (is) for-you. But your-water (is) for-us.",
       "translation" : "Ekkeri is-Chamas rush. Is-nata ekkerish rum."
    },
    {
-      "transliteration" : "Stay with-them.",
-      "phonetic" : "TAM-ra hi-yak.",
-      "d" : 2,
-      "line" : 441,
+      "line" : "2/465",
+      "phonetic" : "TAM-ra hi-yak.Stay with-them.",
       "translation" : "Tamra hiyak."
    },
    {
-      "d" : 2,
-      "line" : 469,
-      "translation" : "Unaaha omaiza hajim qumaj. Oma zamashakaa un-yuchkim ozai.",
-      "transliteration" : "It-was-near too-much patrol outsider. We-must engage-them in-north",
-      "phonetic" : "u-NAA-ha o-MAI-za HA-jim QU-maj. O-ma ZA-ma-sha-kaa un-YUCH-kim oZAI. rob-BUUCH-kaa is-SIH."
+      "line" : "2/481",
+      "phonetic" : "u-NAA-ha o-MAI-za HA-jim QU-maj. O-ma ZA-ma-sha-kaa un-YUCH-kim oZAI. rob-BUUCH-kaa is-SIH.It-was-near too-much patrol outsider. We-must engage-them in-northfurther. To-lure-them from-here.",
+      "translation" : "Unaaha omaiza hajim qumaj. Oma zamashakaa un-yuchkim ozai.Robbuuchkaa is-sih."
    },
    {
-      "translation" : "Belaalimshii, e Stilgar. Zamha qumju un-yuchkim ozai.",
-      "line" : 486,
-      "d" : 2,
-      "phonetic" : "be-LAA-lim-shii, e STIL-gar. ZAM-ha QUM-ju un-YUCH-kim o-ZAI.",
-      "transliteration" : "We-support-you, O Stilgar. Attack (the) enemy in-north further."
+      "line" : "2/491",
+      "phonetic" : "be-LAA-lim-shii, e STIL-gar. ZAM-ha QUM-ju un-YUCH-kim o-ZAI.We-support-you, O Stilgar. Attack (the) enemy in-north further.",
+      "translation" : "Belaalimshii, e Stilgar. Zamha qumju un-yuchkim ozai.(CONTINUED)17Dune: Part TwoCONTINUED:Language Translations11/20/2212.17"
    },
    {
-      "translation" : "Ruqaafiikaa dimalanii rii liksit thaa.",
-      "line" : 510,
-      "d" : 2,
-      "phonetic" : "ru-QAA-fii-kaa DI-ma-la-nii rii LIK-sit THAA.",
-      "transliteration" : "I-beg-you to-guide-me regarding foreigners two."
+      "line" : "2/514",
+      "phonetic" : "ru-QAA-fii-kaa DI-ma-la-nii rii LIK-sit THAA.I-beg-you to-guide-me regarding foreigners two.",
+      "translation" : "Ruqaafiikaa dimalanii rii liksit thaa."
    },
    {
-      "transliteration" : "Give-them-back to-the-desert.",
-      "phonetic" : "QAB-dhi-ka-kaa a-RESH-me.",
-      "d" : 2,
-      "translation" : "Qabdhikakaa a-reshme.",
-      "line" : 518
+      "line" : "2/522",
+      "phonetic" : "QAB-dhi-ka-kaa a-RESH-me.Give-them-back to-the-desert.",
+      "translation" : "Qabdhikakaa a-reshme."
    },
    {
-      "phonetic" : "HESH-kii SHYADH-za.",
-      "transliteration" : "I-have-seen (the) signs.",
-      "line" : 526,
-      "translation" : "Heshkii shyadhza.",
-      "d" : 2
+      "line" : "2/530",
+      "phonetic" : "HESH-kii SHYADH-za.I-have-seen (the) signs.(CONTINUED)17Dune: Part TwoCONTINUED: (2)Language Translations11/20/2213.17",
+      "translation" : "Heshkii shyadhza."
    },
    {
-      "phonetic" : "YOSH-la.",
-      "transliteration" : "Again.",
-      "line" : 534,
-      "translation" : "Yoshla.",
-      "d" : 2
+      "line" : "2/554",
+      "phonetic" : "YOSH-la.Again.",
+      "translation" : "Yoshla."
    },
    {
-      "line" : 558,
-      "translation" : "E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhash",
-      "d" : 2,
-      "phonetic" : "e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shii",
-      "transliteration" : "MIN-zi-dhash a-FII."
+      "line" : "2/563",
+      "phonetic" : "e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shiiMIN-zi-dhash a-FII.O Stilgar, how-many-times you-have-seen (the) signs? It-istransforming-you your-faith into-moth. (Expression)",
+      "translation" : "E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhasha-fii."
    },
    {
-      "d" : 2,
-      "translation" : "So chukkuha Lisaan al-Gayib lek! He, he, he! So a-vadzih!",
-      "line" : 568,
-      "transliteration" : "Not he-has-broken Lisan al-Gaib sand! (Expression) Ha, ha, ha! Not",
-      "phonetic" : "SO CHUK-ku-ha li-SAAN al-GA-yib LEK! HE, HE, HE! SO a-vad-ZIH!"
+      "line" : "2/573",
+      "phonetic" : "SO CHUK-ku-ha li-SAAN al-GA-yib LEK! HE, HE, HE! SO a-vad-ZIH!Not he-has-broken Lisan al-Gaib sand! (Expression) Ha, ha, ha! Notyet!",
+      "translation" : "So chukkuha Lisaan al-Gayib lek! He, he, he! So a-vadzih!"
    },
    {
-      "phonetic" : "VIZ-dha-ha JAM-sa o ZAN-la ve-JII. ja-RAA-ga-ha sa KYUR-hum. ha-JAAga-ha NI-chii GEF-tham. qi-RAA-shii DHI-ka-dha-ho ED-de-mii.",
-      "transliteration" : "He-killed Jamis in (a) fight fair. He-speaks our language. He-islearning quickly our-ways. I-am-ready to-pledge-him my-life.",
-      "line" : 577,
-      "translation" : "Vizdhaha Jamsa o zanla vejii. Jaraagaha sa kyurhum. Hajaagaha nichii",
-      "d" : 2
+      "line" : "2/598",
+      "phonetic" : "VIZ-dha-ha JAM-sa o ZAN-la ve-JII. ja-RAA-ga-ha sa KYUR-hum. ha-JAAga-ha NI-chii GEF-tham. qi-RAA-shii DHI-ka-dha-ho ED-de-mii.He-killed Jamis in (a) fight fair. He-speaks our language. He-islearning quickly our-ways. I-am-ready to-pledge-him my-life.",
+      "translation" : "Vizdhaha Jamsa o zanla vejii. Jaraagaha sa kyurhum. Hajaagaha nichiigeftham. Qiraashii dhikadhaho eddemii."
    },
    {
-      "transliteration" : "He (is) no Fremen.",
-      "phonetic" : "ho SO FRE-min.",
-      "d" : 2,
-      "line" : 603,
+      "line" : "2/607",
+      "phonetic" : "ho SO FRE-min.He (is) no Fremen.",
       "translation" : "Ho so Fremin."
    },
    {
-      "transliteration" : "But if you are-blind to-think differently...",
-      "phonetic" : "is-NA-ta hu SHE qo-RIIR MI-na-za o-ZII-gi...",
-      "d" : 2,
-      "line" : 611,
+      "line" : "2/615",
+      "phonetic" : "is-NA-ta hu SHE qo-RIIR MI-na-za o-ZII-gi...But if you are-blind to-think differently...",
       "translation" : "Is-nata hu she qoriir minaza oziigi..."
    },
    {
-      "transliteration" : "May he-live... For (the) time it-allows-him (the) desert during-it.",
-      "phonetic" : "shi ed-de-MAA-dha-ha... o ER-le sa-HAA-tha-ha-ho RE-shim o-bit.",
-      "d" : 2,
-      "line" : 619,
+      "line" : "2/639",
+      "phonetic" : "shi ed-de-MAA-dha-ha... o ER-le sa-HAA-tha-ha-ho RE-shim o-bit.May he-live... For (the) time it-allows-him (the) desert during-it.",
       "translation" : "Shi eddemaadhaha... O erle sahaathahaho reshim obit."
    },
    {
-      "phonetic" : "ru RE-sham DI-ma-dhag VAN-ra-ha. HO che-SHII.",
-      "transliteration" : "Will (the) desert decide his-fate. It (is) good.",
-      "translation" : "Ru resham dimadhag vanraha. Ho cheshii.",
-      "line" : 643,
-      "d" : 2
+      "line" : "2/647",
+      "phonetic" : "ru RE-sham DI-ma-dhag VAN-ra-ha. HO che-SHII.Will (the) desert decide his-fate. It (is) good.",
+      "translation" : "Ru resham dimadhag vanraha. Ho cheshii."
    },
    {
-      "translation" : "Hi rii bil?",
-      "line" : 651,
-      "d" : 2,
-      "phonetic" : "hi RII BIL?",
-      "transliteration" : "And regarding (the) woman?"
+      "line" : "2/655",
+      "phonetic" : "hi RII BIL?And regarding (the) woman?",
+      "translation" : "Hi rii bil?"
    },
    {
-      "d" : 2,
-      "translation" : "Vaiyiz omaiz o lekset?",
-      "line" : 659,
-      "transliteration" : "(There is) spice too-much for (the) foreigner?",
-      "phonetic" : "VAI-yiz o-MAIZ o LEK-set?"
+      "line" : "2/685",
+      "phonetic" : "VAI-yiz o-MAIZ o LEK-set?(There is) spice too-much for (the) foreigner?",
+      "translation" : "Vaiyiz omaiz o lekset?"
    },
    {
-      "phonetic" : "SO VAK-la-ho. O-ma HESH-shyu-ho VO-thim. ho ZA-mit che-SHII.",
-      "transliteration" : "Do-not mock-him. We-must show-him our-eyes. (Expression) He (is a)",
-      "translation" : "So vaklaho. Oma hesshyuho vothim. Ho zamit cheshii.",
-      "line" : 689,
-      "d" : 2
+      "line" : "2/693",
+      "phonetic" : "SO VAK-la-ho. O-ma HESH-shyu-ho VO-thim. ho ZA-mit che-SHII.Do-not mock-him. We-must show-him our-eyes. (Expression) He (is a)fighter good.",
+      "translation" : "So vaklaho. Oma hesshyuho vothim. Ho zamit cheshii."
    },
    {
-      "d" : 2,
-      "translation" : "E Sayyadina, vii sahaalash kalhaha?",
-      "line" : 697,
-      "transliteration" : "O Sayyadina, do you-accept her-heritage?",
-      "phonetic" : "E SAY-ya-di-na, VII sa-HAA-lash KAL-ha-ha?"
+      "line" : "2/708",
+      "phonetic" : "E SAY-ya-di-na, VII sa-HAA-lash KAL-ha-ha?O Sayyadina, do you-accept her-heritage?",
+      "translation" : "E Sayyadina, vii sahaalash kalhaha?"
    },
    {
-      "d" : 2,
-      "line" : 712,
-      "translation" : "Belal kaifa!",
-      "transliteration" : "Without limits!",
-      "phonetic" : "be-LAL KAI-fa!"
+      "line" : "2/737",
+      "phonetic" : "be-LAL KAI-fa!Without limits!",
+      "translation" : "Belal kaifa!"
    },
    {
-      "line" : 741,
-      "translation" : "Zaihaalaha uqnu noqaj!",
-      "d" : 2,
-      "phonetic" : "zai-HAA-la-ha UQ-nu NO-qaj!",
-      "transliteration" : "She-will-drink piss of-a-worm!"
+      "line" : "2/745",
+      "phonetic" : "zai-HAA-la-ha UQ-nu NO-qaj!She-will-drink piss of-a-worm!",
+      "translation" : "Zaihaalaha uqnu noqaj!"
    },
    {
-      "d" : 2,
-      "translation" : "So vakkii. Qiraashaha saya belalaha.",
-      "line" : 749,
-      "transliteration" : "Not funny. He-is-about-to walk without-her. (Expression)",
-      "phonetic" : "SO vak-KII. qi-RAA-sha-ha SA-ya be-LA-la-ha."
+      "line" : "2/753",
+      "phonetic" : "SO vak-KII. qi-RAA-sha-ha SA-ya be-LA-la-ha.Not funny. He-is-about-to walk without-her. (Expression)",
+      "translation" : "So vakkii. Qiraashaha saya belalaha."
    },
    {
-      "d" : 2,
-      "translation" : "Hu ho fiidhiir zaiha nah nati naziim so gondho.",
-      "line" : 757,
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "hu HO fii-DHIIR ZAI-ha NAH NA-ti na-ZIIM SO GON-dho."
+      "line" : "2/761",
+      "phonetic" : "hu HO fii-DHIIR ZAI-ha NAH NA-ti na-ZIIM SO GON-dho.(CONTINUED)23Dune: Part TwoCONTINUED: (2)Language Translations11/20/2218.23If she (is) as-stupid to-drink poison that we-carry no guilt.",
+      "translation" : "Hu ho fiidhiir zaiha nah nati naziim so gondho."
    },
    {
-      "phonetic" : "FASH-shur! ru-QAA-zim.",
-      "transliteration" : "Shut-up! We-are-praying.",
-      "line" : 766,
-      "translation" : "Fasshur! Ruqaazim.",
-      "d" : 2
+      "line" : "2/785",
+      "phonetic" : "FASH-shur! ru-QAA-zim.Shut-up! We-are-praying.",
+      "translation" : "Fasshur! Ruqaazim."
    },
    {
-      "line" : 789,
-      "translation" : "Rum ruqaza hiili.",
-      "d" : 2,
-      "phonetic" : "RUM RU-qa-za HII-li.",
-      "transliteration" : "Letâs pray together."
+      "line" : "2/793",
+      "phonetic" : "RUM RU-qa-za HII-li.LetaEURtms pray together.",
+      "translation" : "Rum ruqaza hiili."
    },
    {
-      "transliteration" : "This (is) Water of-Life, which-frees (the) soul.",
-      "phonetic" : "ZI-hik EK-ke-ri ED-de-ma, gas-SUU-bit fedh.",
-      "d" : 2,
-      "line" : 797,
+      "line" : "2/806",
+      "phonetic" : "ZI-hik EK-ke-ri ED-de-ma, gas-SUU-bit fedh.This (is) Water of-Life, which-frees (the) soul.(CONTINUED)24Dune: Part TwoCONTINUED:Language Translations11/20/2219.24",
       "translation" : "Zihik Ekkeri Eddema, gassuubit fedh."
    },
    {
-      "transliteration" : "If you-drink, you-will die. If you drink, shi you-see.",
-      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
-      "d" : 2,
-      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
-      "line" : 810
+      "line" : "2/830",
+      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.If you-drink, you-will die. If you drink, shi you-see.",
+      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash."
    },
    {
-      "phonetic" : "ZEH-la!",
-      "transliteration" : "Drink!",
-      "translation" : "Zehla!",
-      "line" : 834,
-      "d" : 2
+      "line" : "2/838",
+      "phonetic" : "ZEH-la!Drink!",
+      "translation" : "Zehla!"
    },
    {
-      "d" : 2,
-      "translation" : "Zihik Ardiz.",
-      "line" : 842,
-      "transliteration" : "This (is the) Agony.",
-      "phonetic" : "ZI-hik AR-diz."
+      "line" : "2/846",
+      "phonetic" : "ZI-hik AR-diz.This (is the) Agony.",
+      "translation" : "Zihik Ardiz."
    },
    {
-      "transliteration" : "We-have-done what?",
-      "phonetic" : "SAH-thi-mi CHE?",
-      "d" : 2,
-      "translation" : "Sahthimi che?",
-      "line" : 850
+      "line" : "2/869",
+      "phonetic" : "SAH-thi-mi CHE?We-have-done what?",
+      "translation" : "Sahthimi che?"
    },
    {
-      "transliteration" : "(A) fetus (is) inside-her!",
-      "phonetic" : "EK-ke-rish JI-ya-ha!",
-      "d" : 2,
-      "translation" : "Ekkerish jiyaha!",
-      "line" : 873
+      "line" : "2/877",
+      "phonetic" : "EK-ke-rish JI-ya-ha!(A) fetus (is) inside-her!",
+      "translation" : "Ekkerish jiyaha!"
    },
    {
-      "d" : 2,
-      "line" : 881,
-      "translation" : "Nazgahaho. Jahhufha Vizdhik Ezlii a-ker!",
-      "transliteration" : "She-did-it. She-changed (the) Poison Holy into-water!",
-      "phonetic" : "NAZ-ga-ha-ho. jah-HUF-ha VIZ-dhik EZ-lii a-KER!"
+      "line" : "2/890",
+      "phonetic" : "NAZ-ga-ha-ho. jah-HUF-ha VIZ-dhik EZ-lii a-KER!She-did-it. She-changed (the) Poison Holy into-water!",
+      "translation" : "Nazgahaho. Jahhufha Vizdhik Ezlii a-ker!"
    },
    {
-      "translation" : "Qithlas-ha!",
-      "line" : 894,
-      "d" : 2,
-      "phonetic" : "QITH-las-ha!",
-      "transliteration" : "It-was-written!"
+      "line" : "2/899",
+      "phonetic" : "QITH-las-ha!It-was-written!",
+      "translation" : "Qithlas-ha!(CONTINUED)25Dune: Part TwoCONTINUED:Language Translations11/20/2221.25"
    },
    {
-      "line" : 919,
-      "translation" : "Ho lehii vadzih. Nifrish zaihaho.",
-      "d" : 2,
-      "phonetic" : "Ho le-HII VAD-zih. NI-frish ZAI-ha-ho.",
-      "transliteration" : "It safe now. You-can drink-it."
+      "line" : "2/923",
+      "phonetic" : "Ho le-HII VAD-zih. NI-frish ZAI-ha-ho.It safe now. You-can drink-it.",
+      "translation" : "Ho lehii vadzih. Nifrish zaihaho."
    },
    {
-      "transliteration" : "Mahdi.",
-      "phonetic" : "MAH-di.",
-      "d" : 2,
-      "line" : 927,
+      "line" : "2/936",
+      "phonetic" : "MAH-di.Mahdi.",
       "translation" : "Mahdi."
    },
    {
-      "line" : 940,
-      "translation" : "Chausik so ezlish!",
-      "d" : 2,
-      "phonetic" : "CHAU-sik SO ez-lish!",
-      "transliteration" : "That (was) no miracle!"
+      "line" : "2/950",
+      "phonetic" : "CHAU-sik SO ez-lish!That (was) no miracle!",
+      "translation" : "Chausik so ezlish!(CONTINUED)29Dune: Part TwoCONTINUED:Language Translations11/20/2222.29"
    },
    {
-      "transliteration" : "You-saw-it with your-eyes own! âShe-will Mother give water to-Sonâ!",
-      "phonetic" : "HESH-shya-sa-ho sa VO-thash bir-SII! âru KA-la DHI-ka EK-ker aKWADâ! hi HO ve-JII! QITH-las-ha!",
-      "d" : 2,
-      "translation" : "Hesshyashaho sa vothash birsii! âRu Kala dhika ekker a-Kwadâ! Hi ho",
-      "line" : 970
+      "line" : "2/975",
+      "phonetic" : "HESH-shya-sa-ho sa VO-thash bir-SII! aEURoeru KA-la DHI-ka EK-ker aKWADaEUR! hi HO ve-JII! QITH-las-ha!You-saw-it with your-eyes own! aEURoeShe-will Mother give water to-SonaEUR!And it (is) true! As-written!",
+      "translation" : "Hesshyashaho sa vothash birsii! aEURoeRu Kala dhika ekker a-KwadaEUR! Hi hovejii! Qithlas-ha!"
    },
    {
-      "d" : 2,
-      "translation" : "Qithlaka haiyitaha choska!",
-      "line" : 980,
-      "transliteration" : "Wrote-they her-people that!",
-      "phonetic" : "QITH-la-ka HAI-yi-ta-ha chos-ka!"
+      "line" : "2/985",
+      "phonetic" : "QITH-la-ka HAI-yi-ta-ha chos-ka!Wrote-they her-people that!",
+      "translation" : "Qithlaka haiyitaha choska!"
    },
    {
-      "d" : 2,
-      "translation" : "Dhonaashash! Lefthas-ha ledib! Ho Chausij.",
-      "line" : 989,
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "dho-NAA-shash! LEF-thas-ha LE-dib! HO CHAU-sij."
+      "line" : "2/993",
+      "phonetic" : "dho-NAA-shash! LEF-thas-ha LE-dib! HO CHAU-sij.(CONTINUED)29Dune: Part TwoCONTINUED: (2)Language Translations11/20/2223.29You-blaspheme! Has-been-accomplished (the) prophecy! He (is) theOne.",
+      "translation" : "Dhonaashash! Lefthas-ha ledib! Ho Chausij."
    },
    {
-      "line" : 997,
-      "translation" : "O Mahda ho Fremin!",
-      "d" : 2,
-      "phonetic" : "o MAH-da ho FRE-min!",
-      "transliteration" : "Must Mahdi he (be) Fremen!"
+      "line" : "2/1016",
+      "phonetic" : "o MAH-da ho FRE-min!Must Mahdi he (be) Fremen!",
+      "translation" : "O Mahda ho Fremin!"
    },
    {
-      "d" : 2,
-      "line" : 1020,
-      "translation" : "O Arraksa gasas isru haiyataha birsiiya!",
-      "transliteration" : "Must Arrakis be-freed by its-people own!",
-      "phonetic" : "o AR-rak-sa GA-sas isru HAI-ya-ta-ha bir-SII-ya!"
+      "line" : "2/1024",
+      "phonetic" : "o AR-rak-sa GA-sas isru HAI-ya-ta-ha bir-SII-ya!Must Arrakis be-freed by its-people own!",
+      "translation" : "O Arraksa gasas isru haiyataha birsiiya!"
    },
    {
-      "transliteration" : "I (am) here to-learn your-ways.",
-      "phonetic" : "ne ZIH HA-ja-ga GEF-thak.",
-      "d" : 2,
-      "translation" : "Ne zih hajaga gefthak.",
-      "line" : 1028
+      "line" : "2/1032",
+      "phonetic" : "ne ZIH HA-ja-ga GEF-thak.I (am) here to-learn your-ways.",
+      "translation" : "Ne zih hajaga gefthak."
    },
    {
-      "line" : 1036,
-      "translation" : "E Kwisats Haderach, hesshyumaho gif!",
-      "d" : 2,
-      "phonetic" : "E KWI-sats HA-de-rach, HESH-shyu-ma-ho GIF!",
-      "transliteration" : "O Kwisatz Haderach, show-us-it (the) way!"
+      "line" : "2/1054",
+      "phonetic" : "E KWI-sats HA-de-rach, HESH-shyu-ma-ho GIF!O Kwisatz Haderach, show-us-it (the) way!",
+      "translation" : "E Kwisats Haderach, hesshyumaho gif!"
    },
    {
-      "phonetic" : "E KWI-sats HA-de-rak, HESH-shyu-ma-ho GIF!",
-      "transliteration" : "O Kwisatz Haderach, show-us-it (the) way!",
-      "line" : 1058,
-      "translation" : "E Kwisats Haderak, hesshyumaho gif!",
-      "d" : 2
+      "line" : "2/1063",
+      "phonetic" : "E KWI-sats HA-de-rak, HESH-shyu-ma-ho GIF!O Kwisatz Haderach, show-us-it (the) way!",
+      "translation" : "E Kwisats Haderak, hesshyumaho gif!"
    },
    {
-      "translation" : "RUSH HESHYAKAA! YOZBO HI JAHKAZ!",
-      "line" : 1067,
-      "d" : 2,
-      "phonetic" : "RUSH HESH-ya-kaa! YOZ-bo hi JAH-kaz!",
-      "transliteration" : "You-will see-them! Beauty and horror!"
+      "line" : "2/1071",
+      "phonetic" : "RUSH HESH-ya-kaa! YOZ-bo hi JAH-kaz!You-will see-them! Beauty and horror!",
+      "translation" : "RUSH HESHYAKAA! YOZBO HI JAHKAZ!"
    },
    {
-      "phonetic" : "a-BRAA-na-ha mwad-DIB GE-bre-ha! He, he, he!",
-      "transliteration" : "Likes desert-mouse his-smell! Ha, ha, ha!",
-      "translation" : "Abraanaha mwaddib gebreha! He, he, he!",
-      "line" : 1075,
-      "d" : 2
+      "line" : "2/1092",
+      "phonetic" : "a-BRAA-na-ha mwad-DIB GE-bre-ha! He, he, he!Likes desert-mouse his-smell! Ha, ha, ha!",
+      "translation" : "Abraanaha mwaddib gebreha! He, he, he!"
    },
    {
-      "phonetic" : "HESH-shya-ka che NAZ-ga-ha-bit. HESH-shya-ha hu-RAA-ha--hi KASH-shaha-ho. HESH-shya-ha-ho! NIF-ri-ha HE-shi-sha.",
-      "transliteration" : "You-saw what he-did-it. He-saw it-coming--and he-saved-her. He-sawit! He-can foresee.",
-      "translation" : "Hesshyaka che nazgahabit. Hesshyaha huraaha--hi kasshahaho.",
-      "line" : 1096,
-      "d" : 2
+      "line" : "2/1102",
+      "phonetic" : "HESH-shya-ka che NAZ-ga-ha-bit. HESH-shya-ha hu-RAA-ha--hi KASH-shaha-ho. HESH-shya-ha-ho! NIF-ri-ha HE-shi-sha.You-saw what he-did-it. He-saw it-coming--and he-saved-her. He-sawit! He-can foresee.",
+      "translation" : "Hesshyaka che nazgahabit. Hesshyaha huraaha--hi kasshahaho.Hesshyahaho! Nifriha heshisha."
    },
    {
-      "d" : 2,
-      "translation" : "Hinat ruyi uzzulatha. Shi ruk, faafa. Is-nata kiraalak taamrih",
-      "line" : 1107,
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "hi-nat RU-yi uz-ZU-la-tha. SHI RUK, FAA-fa. is-NA-ta ki-RAA-lak TAAMrih ZA-ma-ha. hi SO ha-DHAAK HWI-shi FRAI-min ga-SIIG."
+      "line" : "2/1112",
+      "phonetic" : "hi-nat RU-yi uz-ZU-la-tha. SHI RUK, FAA-fa. is-NA-ta ki-RAA-lak TAAMrih ZA-ma-ha. hi SO ha-DHAAK HWI-shi FRAI-min ga-SIIG.(CONTINUED)35Dune: Part TwoCONTINUED:Language Translations11/20/2226.35Then will I-die. Maybe you-will, too. But will-continue (the) othersfighting. And not they-will-stop until Fremen are-free.",
+      "translation" : "Hinat ruyi uzzulatha. Shi ruk, faafa. Is-nata kiraalak taamrihzamaha. Hi so hadhaak hwishi Fraimin gasiig."
    },
    {
-      "transliteration" : "Deserves he (to be) Fedaykin!",
-      "phonetic" : "QAZ-dha-ha HO fe-DAI-kin!",
-      "d" : 2,
-      "line" : 1118,
+      "line" : "2/1138",
+      "phonetic" : "QAZ-dha-ha HO fe-DAI-kin!Deserves he (to be) Fedaykin!",
       "translation" : "Qazdhaha ho Fedaikin!"
    },
    {
-      "d" : 2,
-      "line" : 1142,
-      "translation" : "Ho belal kairat, e Stilgar!",
-      "transliteration" : "He (is) without names, O Stilgar!",
-      "phonetic" : "HO be-LAL KAI-rat, e STIL-gar!"
+      "line" : "2/1146",
+      "phonetic" : "HO be-LAL KAI-rat, e STIL-gar!He (is) without names, O Stilgar!",
+      "translation" : "Ho belal kairat, e Stilgar!"
    },
    {
-      "phonetic" : "HO ve-JII.",
-      "transliteration" : "It (is) true.",
-      "translation" : "Ho vejii.",
-      "line" : 1150,
-      "d" : 2
+      "line" : "2/1154",
+      "phonetic" : "HO ve-JII.It (is) true.",
+      "translation" : "Ho vejii."
    },
    {
-      "d" : 2,
-      "translation" : "Sahiim Usla, garig un-bachi belak.",
-      "line" : 1158,
-      "transliteration" : "Like Usul, (the) strength beneath (the) pillar.",
-      "phonetic" : "sa-HIIM US-la, GA-rig un-BA-chi BE-lak."
+      "line" : "2/1177",
+      "phonetic" : "sa-HIIM US-la, GA-rig un-BA-chi BE-lak.Like Usul, (the) strength beneath (the) pillar.",
+      "translation" : "Sahiim Usla, garig un-bachi belak."
    },
    {
-      "transliteration" : "Desert-spring.",
-      "phonetic" : "SI-ha-ya.",
-      "d" : 2,
-      "line" : 1181,
+      "line" : "2/1190",
+      "phonetic" : "SI-ha-ya.Desert-spring.",
       "translation" : "Sihaya."
    },
    {
-      "transliteration" : "O sun be-kind for Desert-mouse!",
-      "phonetic" : "e FI-zi NI-tha ru mwad-DIB!",
-      "d" : 2,
-      "translation" : "E fizi nitha ru Mwaddib!",
-      "line" : 1209
+      "line" : "2/1226",
+      "phonetic" : "e FI-zi NI-tha ru mwad-DIB!O sun be-kind for Desert-mouse!",
+      "translation" : "E fizi nitha ru Mwaddib!"
    },
    {
-      "transliteration" : "Today (is) (the) day! O Desert-Mouse! Be-strong!",
-      "phonetic" : "SHAI-dish FI-zib! e mwad-DIB! O-ja!",
-      "d" : 2,
-      "translation" : "Shaidish fizib! E Mwaddib! Oja!",
-      "line" : 1230
+      "line" : "2/1235",
+      "phonetic" : "SHAI-dish FI-zib! e mwad-DIB! O-ja!Today (is) (the) day! O Desert-Mouse! Be-strong!",
+      "translation" : "Shaidish fizib! E Mwaddib! Oja!"
    },
    {
-      "transliteration" : "O Desert-Mouse! Not embarrass-us! Call (a) large-one!",
-      "phonetic" : "E mwad-DIB! SO GOM-mudh-ma! JAR-ma VAH-cha!",
-      "d" : 2,
-      "line" : 1239,
+      "line" : "2/1248",
+      "phonetic" : "E mwad-DIB! SO GOM-mudh-ma! JAR-ma VAH-cha!O Desert-Mouse! Not embarrass-us! Call (a) large-one!",
       "translation" : "E Mwaddib! So gommudhma! Jarma vahcha!"
    },
    {
-      "line" : 1252,
-      "translation" : "So chivlaho. Ledduhaho cheshii Stilgar.",
-      "d" : 2,
-      "phonetic" : "SO CHIV-la-ho. LED-du-ha-ho CHE-shii STIL-gar.",
-      "transliteration" : "Not worry. Taught-him well Stilgar."
+      "line" : "2/1272",
+      "phonetic" : "SO CHIV-la-ho. LED-du-ha-ho CHE-shii STIL-gar.Not worry. Taught-him well Stilgar.",
+      "translation" : "So chivlaho. Ledduhaho cheshii Stilgar."
    },
    {
-      "line" : 1276,
-      "translation" : "E MWADDIB! VIIIIII!!!",
-      "d" : 2,
-      "phonetic" : "E mwad-DIB! VIIIIII!!!",
-      "transliteration" : "O DESERT-MOUSE! YEAAAAAH!!!"
+      "line" : "2/1280",
+      "phonetic" : "E mwad-DIB! VIIIIII!!!O DESERT-MOUSE! YEAAAAAH!!!",
+      "translation" : "E MWADDIB! VIIIIII!!!"
    },
    {
-      "d" : 2,
-      "line" : 1284,
-      "translation" : "E Mwaddib, hesshyumaho gif!",
-      "transliteration" : "O Desert-Mouse, show-us-it (the) way!",
-      "phonetic" : "e mwad-DIB, HESH-shyu-ma-ho GIF!"
+      "line" : "2/1288",
+      "phonetic" : "e mwad-DIB, HESH-shyu-ma-ho GIF!O Desert-Mouse, show-us-it (the) way!",
+      "translation" : "E Mwaddib, hesshyumaho gif!"
    },
    {
-      "phonetic" : "QITH-las-ha.",
-      "transliteration" : "It-was-written.",
-      "translation" : "Qithlas-ha.",
-      "line" : 1292,
-      "d" : 2
+      "line" : "2/1296",
+      "phonetic" : "QITH-las-ha.It-was-written.",
+      "translation" : "Qithlas-ha.(CONTINUED)62Dune: Part TwoCONTINUED: (2)Language Translations11/20/2230.62"
    },
    {
-      "phonetic" : "re-SHIIIIII!",
-      "transliteration" : "WHOAAAAA!",
-      "translation" : "Reshiiiiii!",
-      "line" : 1316,
-      "d" : 2
+      "line" : "2/1320",
+      "phonetic" : "re-SHIIIIII!WHOAAAAA!",
+      "translation" : "Reshiiiiii!"
    },
    {
-      "d" : 2,
-      "translation" : "So vahii sanai!",
-      "line" : 1324,
-      "transliteration" : "Not big like-that!",
-      "phonetic" : "SO va-HII sa-NAI!"
+      "line" : "2/1328",
+      "phonetic" : "SO va-HII sa-NAI!Not big like-that!",
+      "translation" : "So vahii sanai!"
    },
    {
-      "d" : 2,
-      "line" : 1332,
-      "translation" : "E Kalidh.",
-      "transliteration" : "(CONTINUED)",
-      "phonetic" : "e KA-lidh."
+      "line" : "2/1341",
+      "phonetic" : "e KA-lidh.(CONTINUED)63Dune: Part TwoCONTINUED:Language Translations11/20/2231.63O Reverend-Mother.",
+      "translation" : "E Kalidh."
    },
    {
-      "d" : 2,
-      "translation" : "Wa shaidah sekkaha Mwaddib fadla hi Shai Huluud!",
-      "line" : 1346,
-      "transliteration" : "Finally found Desert-Mouse peace with Shai Hulud!",
-      "phonetic" : "wa-SHAI-dah SEK-ka-ha mwad-DIB FAD-la hi SHAI hu-LUUD!"
+      "line" : "2/1365",
+      "phonetic" : "wa-SHAI-dah SEK-ka-ha mwad-DIB FAD-la hi SHAI hu-LUUD!Finally found Desert-Mouse peace with Shai Hulud!",
+      "translation" : "Wa shaidah sekkaha Mwaddib fadla hi Shai Huluud!"
    },
    {
-      "transliteration" : "Without limits!!!",
-      "phonetic" : "be-LAL KAI-fa!!!",
-      "d" : 2,
-      "line" : 1369,
+      "line" : "2/1373",
+      "phonetic" : "be-LAL KAI-fa!!!Without limits!!!",
       "translation" : "Belal kaifa!!!"
    },
    {
-      "transliteration" : "He-called (a) worm grandfather. (The) biggest has-seen-that anyone",
-      "phonetic" : "JAR-ma-ha NOQ-cho JUU-go. vaa-HAI-za HESH-shya-ha-bit U-nij a-vadZIH.",
-      "d" : 2,
-      "line" : 1377,
+      "line" : "2/1381",
+      "phonetic" : "JAR-ma-ha NOQ-cho JUU-go. vaa-HAI-za HESH-shya-ha-bit U-nij a-vadZIH.He-called (a) worm grandfather. (The) biggest has-seen-that anyoneever.",
       "translation" : "Jarmaha noqcho juugo. Vaahaiza hesshyahabit unij a-vadzih."
    },
    {
-      "d" : 2,
-      "line" : 1385,
-      "translation" : "Qithlas-ha!",
-      "transliteration" : "It-was-written!",
-      "phonetic" : "QITH-las-ha!"
+      "line" : "2/1405",
+      "phonetic" : "QITH-las-ha!It-was-written!",
+      "translation" : "Qithlas-ha!"
    },
    {
-      "phonetic" : "le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.",
-      "transliteration" : "Knows Shai-Hulud (the) coming of-the-storm.",
-      "translation" : "Ledaaha Shayi Huluud hura afshal.",
-      "line" : 1409,
-      "d" : 2
+      "line" : "2/1413",
+      "phonetic" : "le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.Knows Shai-Hulud (the) coming of-the-storm.",
+      "translation" : "Ledaaha Shayi Huluud hura afshal."
    },
    {
-      "phonetic" : "ITH-thuz VESH-sha hi NAZ-ga-ha.",
-      "transliteration" : "Bless (the) Maker and his-works.",
-      "line" : 1417,
-      "translation" : "Itthuz Vessha hi nazgaha.",
-      "d" : 2
+      "line" : "2/1421",
+      "phonetic" : "ITH-thuz VESH-sha hi NAZ-ga-ha.Bless (the) Maker and his-works.",
+      "translation" : "Itthuz Vessha hi nazgaha."
    },
    {
-      "d" : 2,
-      "line" : 1425,
-      "translation" : "So vii ru Shaya Huluud leda Mahda hu huraaha?",
-      "transliteration" : "Not is-it will Shai-Hulud know Mahdi when he-comes?",
-      "phonetic" : "SO VII ru SHA-ya hu-LUUD LE-da MAH-da hu hu-RAA-ha?"
+      "line" : "2/1445",
+      "phonetic" : "SO VII ru SHA-ya hu-LUUD LE-da MAH-da hu hu-RAA-ha?Not is-it will Shai-Hulud know Mahdi when he-comes?",
+      "translation" : "So vii ru Shaya Huluud leda Mahda hu huraaha?"
    },
    {
-      "line" : 1449,
-      "translation" : "Hinat dhiktha ker!",
-      "d" : 2,
-      "phonetic" : "hi-nat DHIK-tha KER!",
-      "transliteration" : "Then share (the) words!"
+      "line" : "2/1453",
+      "phonetic" : "hi-nat DHIK-tha KER!Then share (the) words!",
+      "translation" : "Hinat dhiktha ker!"
    },
    {
-      "phonetic" : "VII HII-lih che-SHII, e KA-lidh?",
-      "transliteration" : "Is everything all-right, O Reverend-Mother?",
-      "translation" : "Vii hiilih cheshii, e Kalidh?",
-      "line" : 1457,
-      "d" : 2
+      "line" : "2/1461",
+      "phonetic" : "VII HII-lih che-SHII, e KA-lidh?Is everything all-right, O Reverend-Mother?",
+      "translation" : "Vii hiilih cheshii, e Kalidh?"
    },
    {
-      "line" : 1465,
-      "translation" : "Marraha letshe.",
-      "d" : 2,
-      "phonetic" : "MAR-ra-ha LET-she.",
-      "transliteration" : "(CONTINUED)"
+      "line" : "2/1469",
+      "phonetic" : "MAR-ra-ha LET-she.(CONTINUED)63Dune: Part TwoCONTINUED: (4)Language Translations11/20/2234.63She-heard (the) news.",
+      "translation" : "Marraha letshe."
    },
    {
-      "d" : 2,
-      "translation" : "Afiz ru shaidash. Jila vadzih.",
-      "line" : 1474,
-      "transliteration" : "Enough for today. Go now.",
-      "phonetic" : "A-fiz ru SHAI-dash. JI-la vad-ZIH."
+      "line" : "2/1493",
+      "phonetic" : "A-fiz ru SHAI-dash. JI-la vad-ZIH.Enough for today. Go now.",
+      "translation" : "Afiz ru shaidash. Jila vadzih."
    },
    {
-      "d" : 2,
-      "translation" : "Jila isim.",
-      "line" : 1497,
-      "transliteration" : "Go from-us.",
-      "phonetic" : "JI-la i-sim."
+      "line" : "2/1501",
+      "phonetic" : "JI-la i-sim.Go from-us.",
+      "translation" : "Jila isim."
    },
    {
-      "d" : 2,
-      "line" : 1505,
-      "translation" : "Vii unaarash hiyii nosshaidah?",
-      "transliteration" : "Will you-be with-me always?",
-      "phonetic" : "VII u-NAA-rash hi-yii nosh-SHAI-dah?"
+      "line" : "2/1515",
+      "phonetic" : "VII u-NAA-rash hi-yii nosh-SHAI-dah?Will you-be with-me always?(CONTINUED)68Dune: Part TwoCONTINUED:Language Translations11/20/2235.68",
+      "translation" : "Vii unaarash hiyii nosshaidah?"
    },
    {
-      "phonetic" : "HA-dha ZAN-la!",
-      "transliteration" : "Stop (the) fight!",
-      "translation" : "Hadha zanla!",
-      "line" : 1519,
-      "d" : 2
+      "line" : "2/1543",
+      "phonetic" : "HA-dha ZAN-la!Stop (the) fight!",
+      "translation" : "Hadha zanla!"
    },
    {
-      "phonetic" : "is-KIF-tha CHAI-ya o-MAA-kath-sha-ho?",
-      "transliteration" : "Way what you-value-him?",
-      "line" : 1547,
-      "translation" : "Is-kiftha chaiya omaakathshaho?",
-      "d" : 2
+      "line" : "2/1558",
+      "phonetic" : "is-KIF-tha CHAI-ya o-MAA-kath-sha-ho?Way what you-value-him?",
+      "translation" : "Is-kiftha chaiya omaakathshaho?"
    },
    {
-      "line" : 1562,
-      "translation" : "Minaazii ho fishlin.",
-      "d" : 2,
-      "phonetic" : "mi-NAA-zii ho FISH-lin.",
-      "transliteration" : "I-think he (is) trouble."
+      "line" : "2/1566",
+      "phonetic" : "mi-NAA-zii ho FISH-lin.I-think he (is) trouble.(CONTINUED)81Dune: Part TwoCONTINUED:Language Translations11/20/2236.81",
+      "translation" : "Minaazii ho fishlin."
    },
    {
-      "phonetic" : "HO je-DHII o-MAIZ!",
-      "transliteration" : "He (is) fat too-much!",
-      "translation" : "Ho jedhii omaiz!",
-      "line" : 1570,
-      "d" : 2
+      "line" : "2/1595",
+      "phonetic" : "HO je-DHII o-MAIZ!He (is) fat too-much!",
+      "translation" : "Ho jedhii omaiz!"
    },
    {
-      "transliteration" : "Will-he come?",
-      "phonetic" : "RU-ha hu-ra?",
-      "d" : 2,
-      "line" : 1599,
+      "line" : "2/1609",
+      "phonetic" : "RU-ha hu-ra?Will-he come?",
       "translation" : "Ruha hura?"
    },
    {
-      "line" : 1613,
-      "translation" : "Hu huraaha, oshii solagaho.",
-      "d" : 2,
-      "phonetic" : "hu hu-RAA-ha, O-shii SO-la-ga-ho.",
-      "transliteration" : "If he-comes, you-must welcome-him."
+      "line" : "2/1618",
+      "phonetic" : "hu hu-RAA-ha, O-shii SO-la-ga-ho.If he-comes, you-must welcome-him.(CONTINUED)89Dune: Part TwoCONTINUED:Language Translations11/20/2237.89",
+      "translation" : "Hu huraaha, oshii solagaho."
    },
    {
-      "line" : 1622,
-      "translation" : "Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak.",
-      "d" : 2,
-      "phonetic" : "BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zuLAA-thak.",
-      "transliteration" : "One at-a-time only. Otherwise they-fight each-other until they-die."
+      "line" : "2/1648",
+      "phonetic" : "BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zuLAA-thak.One at-a-time only. Otherwise they-fight each-other until they-die.",
+      "translation" : "Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak."
    },
    {
-      "translation" : "Che erigaha?",
-      "line" : 1652,
-      "d" : 2,
-      "phonetic" : "CHE E-ri-ga-ha?",
-      "transliteration" : "What (is) its-age?"
+      "line" : "2/1656",
+      "phonetic" : "CHE E-ri-ga-ha?What (is) its-age?",
+      "translation" : "Che erigaha?"
    },
    {
-      "phonetic" : "lu-DHAIZ.",
-      "transliteration" : "Very-young.",
-      "translation" : "Ludhaiz.",
-      "line" : 1660,
-      "d" : 2
+      "line" : "2/1664",
+      "phonetic" : "lu-DHAIZ.Very-young.",
+      "translation" : "Ludhaiz."
    },
    {
-      "transliteration" : "Baby-worm!",
-      "phonetic" : "NOQ-chich!",
-      "d" : 2,
-      "translation" : "Noqchich!",
-      "line" : 1668
+      "line" : "2/1689",
+      "phonetic" : "NOQ-chich!Baby-worm!",
+      "translation" : "Noqchich!"
    },
    {
-      "transliteration" : "How (is) it-accomplished?",
-      "phonetic" : "is-KIF-tha CHAI-ya an-za-GAAS-ha?",
-      "d" : 2,
-      "line" : 1693,
+      "line" : "2/1697",
+      "phonetic" : "is-KIF-tha CHAI-ya an-za-GAAS-ha?How (is) it-accomplished?",
       "translation" : "Is-kiftha chaiya anzagaas-ha?"
    },
    {
-      "phonetic" : "is-KIF-tha CHAI-ya o-GAA-ra-ha?",
-      "transliteration" : "How is-she-moving-herself? (Expression)",
-      "translation" : "Is-kiftha chaiya ogaaraha?",
-      "line" : 1701,
-      "d" : 2
+      "line" : "2/1705",
+      "phonetic" : "is-KIF-tha CHAI-ya o-GAA-ra-ha?How is-she-moving-herself? (Expression)",
+      "translation" : "Is-kiftha chaiya ogaaraha?"
    },
    {
-      "phonetic" : "EK-ke-ri ED-de-ma.",
-      "transliteration" : "(The) Water of-Life.",
-      "line" : 1709,
-      "translation" : "Ekkeri Eddema.",
-      "d" : 2
+      "line" : "2/1729",
+      "phonetic" : "EK-ke-ri ED-de-ma.(The) Water of-Life.",
+      "translation" : "Ekkeri Eddema."
    },
    {
-      "d" : 2,
-      "translation" : "Marza cheshii. Noj erach, ru redha hurana a-minzimash. Ish",
-      "line" : 1733,
-      "transliteration" : "ru-QAA-ha-shii AN-za-ga OG-rog.",
-      "phonetic" : "MAR-za CHE-shii. no-JE-rach, ru RE-dha HU-ra-na a-MIN-zi-mash. ISH"
+      "line" : "2/1738",
+      "phonetic" : "MAR-za CHE-shii. no-JE-rach, ru RE-dha HU-ra-na a-MIN-zi-mash. ISHru-QAA-ha-shii AN-za-ga OG-rog.Listen carefully. Soon, will (a) man visit your-temple. May he-askyou to-perform (the) rite.",
+      "translation" : "Marza cheshii. Noj erach, ru redha hurana a-minzimash. Ishruqaahashii anzaga ogrog."
    },
    {
+      "line" : "2/1748",
       "phonetic" : "MAR-za CHE-shii. ru RE-dha HU-ra-Listen carefully. Will (a) come-",
-      "transliteration" : "JESSICA (OPTION 2)",
-      "line" : 1743,
-      "translation" : "Marza cheshii. Ru redha hura-",
-      "d" : 2
+      "translation" : "Marza cheshii. Ru redha hura-"
    },
    {
-      "transliteration" : "MAKER KEEPER",
+      "line" : "2/1755",
       "phonetic" : "MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi-Listen carefully. At-the-time he-arrives then, may (he)",
-      "d" : 2,
-      "translation" : "Marza cheshii. Nishi huraaha obit, shi-(CONTINUED)",
-      "line" : 1753
+      "translation" : "Marza cheshii. Nishi huraaha obit, shi-(CONTINUED)90Dune: Part TwoCONTINUED: (3)Language Translations11/20/2240.90"
    },
    {
-      "transliteration" : "No, not I-can perform (the) rite.",
-      "phonetic" : "ATS, SO NI-frii AN-za-ga O-grog.",
-      "d" : 2,
-      "translation" : "Ats, so nifrii anzaga ogrog.",
-      "line" : 1774
+      "line" : "2/1776",
+      "phonetic" : "ATS, SO NI-frii AN-za-ga O-grog.No, not I-can perform (the) rite.",
+      "translation" : "Ats, so nifrii anzaga ogrog."
    },
    {
-      "translation" : "Yimaathash a-ledbe?",
-      "line" : 1780,
-      "d" : 2,
-      "phonetic" : "yi-MAA-thash a-LED-be?",
-      "transliteration" : "You-are-questioning the-prophecy?"
+      "line" : "2/1784",
+      "phonetic" : "yi-MAA-thash a-LED-be?You-are-questioning the-prophecy?",
+      "translation" : "Yimaathash a-ledbe?"
    },
    {
-      "transliteration" : "Have-tried men many--have-died all.",
-      "phonetic" : "QITH-na-ka RII-dhi a-FII--uz-ZUL-tha-ka HIIL.",
-      "d" : 2,
-      "line" : 1788,
+      "line" : "2/1792",
+      "phonetic" : "QITH-na-ka RII-dhi a-FII--uz-ZUL-tha-ka HIIL.Have-tried men many--have-died all.(CONTINUED)90Dune: Part TwoCONTINUED: (4)Language Translations11/20/2241.90",
       "translation" : "Qithnaka riidhi afii--uzzulthaka hiil."
    },
    {
-      "translation" : "So ruha eddemadha.",
-      "line" : 1796,
-      "d" : 2,
-      "phonetic" : "SO ru-ha ED-de-ma-dha.",
-      "transliteration" : "Not he-will survive."
+      "line" : "2/1816",
+      "phonetic" : "SO ru-ha ED-de-ma-dha.Not he-will survive.",
+      "translation" : "So ruha eddemadha."
    },
    {
-      "line" : 1820,
-      "translation" : "Sahathaho qithana.",
-      "d" : 2,
-      "phonetic" : "SA-ha-tha-ho QI-tha-na.",
-      "transliteration" : "Let-him try."
+      "line" : "2/1824",
+      "phonetic" : "SA-ha-tha-ho QI-tha-na.Let-him try.",
+      "translation" : "Sahathaho qithana."
    },
    {
-      "d" : 2,
-      "translation" : "Hardhiikaa hiilhi is-lisha.",
-      "line" : 1828,
-      "transliteration" : "I-lost-them all in-the-fire.",
-      "phonetic" : "HAR-dhii-kaa HIIL-hi is-LI-sha."
+      "line" : "2/1838",
+      "phonetic" : "HAR-dhii-kaa HIIL-hi is-LI-sha.I-lost-them all in-the-fire.",
+      "translation" : "Hardhiikaa hiilhi is-lisha."
    },
    {
-      "d" : 2,
-      "line" : 1842,
-      "translation" : "Tassasak saich hiil un-yuchkim. Unaaraha jarmik rii qabgab deqah unnoqchim. E Mwaddib. Tamaakshii.",
-      "transliteration" : "DE-qah un-NOQ-chim. E mwad-DIB. ta-MAAK-shii.",
-      "phonetic" : "TAS-sa-sak SAICH HIIL un-YUCH-kim. u-NAA-ra-ha JAR-mik rii QAB-gab"
+      "line" : "2/1862",
+      "phonetic" : "TAS-sa-sak SAICH HIIL un-YUCH-kim. u-NAA-ra-ha JAR-mik rii QAB-gabDE-qah un-NOQ-chim. E mwad-DIB. ta-MAAK-shii.Have-been-hit Sietches all in-the-north. There-is (a) call for (a)council of-war in-the-south. O MuadaEURtmDib. They-are-waiting-for-you.",
+      "translation" : "Tassasak saich hiil un-yuchkim. Unaaraha jarmik rii qabgab deqah unnoqchim. E Mwaddib. Tamaakshii."
    },
    {
-      "translation" : "So nifrish atmara zih, e Mwaddib! Isaadhak ziihij savi hu so",
-      "line" : 1866,
-      "d" : 2,
-      "phonetic" : "SO NIF-rish AT-ma-ra ZIH, e mwad-DIB! i-SAA-dhak ZII-hij SA-vi hu SO",
-      "transliteration" : "i-SAA-dhash!"
+      "line" : "2/1879",
+      "phonetic" : "SO NIF-rish AT-ma-ra ZIH, e mwad-DIB! i-SAA-dhak ZII-hij SA-vi hu SOi-SAA-dhash!Not you-can stay here, O MuadaEURtmDib! They-will-leave these-people noneof if not you-leave!",
+      "translation" : "So nifrish atmara zih, e Mwaddib! Isaadhak ziihij savi hu soisaadhash!"
    },
    {
-      "d" : 2,
-      "line" : 1884,
-      "translation" : "SO NIFRIYI JILA A-NOQCHOM!",
-      "transliteration" : "NOT I-CAN GO TO-SOUTH!",
-      "phonetic" : "SO NI-fri-yi JI-la a-NOQ-chom!"
+      "line" : "2/1889",
+      "phonetic" : "SO NI-fri-yi JI-la a-NOQ-chom!NOT I-CAN GO TO-SOUTH!(CONTINUED)100Dune: Part TwoCONTINUED:Language Translations11/20/2243.100",
+      "translation" : "SO NIFRIYI JILA A-NOQCHOM!"
    },
    {
-      "transliteration" : "Not for-you to-be here, stranger. Leave or die.",
-      "phonetic" : "SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.",
-      "d" : 2,
-      "line" : 1893,
+      "line" : "2/1916",
+      "phonetic" : "SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.Not for-you to-be here, stranger. Leave or die.",
       "translation" : "So oshii una zih, e leksit. Isa hu uzzulaash."
    },
    {
-      "phonetic" : "RU-yi SO-la-gas.",
-      "transliteration" : "I-should be-welcomed.",
-      "line" : 1920,
-      "translation" : "Ruyi solagas.",
-      "d" : 2
+      "line" : "2/1925",
+      "phonetic" : "RU-yi SO-la-gas.I-should be-welcomed.",
+      "translation" : "Ruyi solagas."
    },
    {
-      "translation" : "Hu she Chausij-",
-      "line" : 1929,
-      "d" : 2,
+      "line" : "2/1933",
       "phonetic" : "hu SHE CHAU-sij-If you (are) the-One-",
-      "transliteration" : "(CONTINUED)"
+      "translation" : "Hu she Chausij-"
    },
    {
-      "translation" : "Tamaahashii dini.",
-      "line" : 1938,
-      "d" : 2,
-      "phonetic" : "ta-MAA-ha-shii DI-ni.",
-      "transliteration" : "Is-awaiting-you God."
+      "line" : "2/1954",
+      "phonetic" : "ta-MAA-ha-shii DI-ni.Is-awaiting-you God.",
+      "translation" : "Tamaahashii dini."
    },
    {
-      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
-      "line" : 1958,
-      "d" : 2,
-      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
-      "transliteration" : "If you-drink, you-will die. If you drink, may you-see."
+      "line" : "2/1962",
+      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.If you-drink, you-will die. If you drink, may you-see.",
+      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash."
    },
    {
-      "transliteration" : "Knows who about this?",
-      "phonetic" : "le-DAA-ha CHE rii ZIH-ki?",
-      "d" : 2,
-      "line" : 1966,
+      "line" : "2/1976",
+      "phonetic" : "le-DAA-ha CHE rii ZIH-ki?Knows who about this?",
       "translation" : "Ledaaha che rii zihki?"
    },
    {
-      "transliteration" : "You only, O Reverend-Mother.",
-      "phonetic" : "She BII-bii, e KA-lidh.",
-      "d" : 2,
-      "line" : 1980,
+      "line" : "2/1999",
+      "phonetic" : "She BII-bii, e KA-lidh.You only, O Reverend-Mother.",
       "translation" : "She biibii, e Kalidh."
    },
    {
-      "phonetic" : "che-SHII. mi-NAASH CHE RII-ho?",
-      "transliteration" : "Good. Are-you-thinking what about-it?",
-      "translation" : "Cheshii. Minaash che riiho?",
-      "line" : 2003,
-      "d" : 2
+      "line" : "2/2007",
+      "phonetic" : "che-SHII. mi-NAASH CHE RII-ho?Good. Are-you-thinking what about-it?",
+      "translation" : "Cheshii. Minaash che riiho?"
    },
    {
-      "d" : 2,
-      "line" : 2011,
-      "translation" : "Junaazaha. Hiyaalaha iferha ezlii wa zamah edhiiya.",
-      "transliteration" : "He-is-in-a-trance. He-is-gathering his-powers holy before (the)",
-      "phonetic" : "ju-NAA-za-ha. hi-YAA-la-ha I-fer-ha EZ-lii wa ZA-mah e-DHII-ya."
+      "line" : "2/2016",
+      "phonetic" : "ju-NAA-za-ha. hi-YAA-la-ha I-fer-ha EZ-lii wa ZA-mah e-DHII-ya.He-is-in-a-trance. He-is-gathering his-powers holy before (the)battle final.",
+      "translation" : "Junaazaha. Hiyaalaha iferha ezlii wa zamah edhiiya."
    },
    {
-      "transliteration" : "Amen.",
-      "phonetic" : "be-LAL KAI-fa.",
-      "d" : 2,
-      "line" : 2020,
-      "translation" : "Belal Kaifa."
+      "line" : "2/2025",
+      "phonetic" : "be-LAL KAI-fa.Amen.",
+      "translation" : "Belal Kaifa.(CONTINUED)106Dune: Part TwoCONTINUED: (2)Language Translations11/20/2246.106"
    },
    {
-      "phonetic" : "ru-VAI-ja ho CHAU-sij. ru li-SAAN al-GA-yib HU-ra-tha a-CHEM JIL-laha SO RE-dhi a-bit.",
-      "transliteration" : "Because he (is) the-One. Should Lisan al-Gaib find-his-way to-where",
-      "line" : 2044,
-      "translation" : "Ru vaija ho Chausij. Ru Lisaan al-Gayib huratha a-chem jillaha so",
-      "d" : 2
+      "line" : "2/2055",
+      "phonetic" : "ru-VAI-ja ho CHAU-sij. ru li-SAAN al-GA-yib HU-ra-tha a-CHEM JIL-laha SO RE-dhi a-bit.Because he (is) the-One. Should Lisan al-Gaib find-his-way to-wherehas-gone no man to-there.",
+      "translation" : "Ru vaija ho Chausij. Ru Lisaan al-Gayib huratha a-chem jillaha soredhi a-bit."
    },
    {
-      "line" : 2060,
-      "translation" : "Zaihaash lek.",
-      "d" : 2,
-      "phonetic" : "ZAI-haash LEK.",
-      "transliteration" : "You-drink sand. (Expression)"
+      "line" : "2/2065",
+      "phonetic" : "ZAI-haash LEK.You-drink sand. (Expression)",
+      "translation" : "Zaihaash lek."
    },
    {
-      "d" : 2,
-      "line" : 2069,
-      "translation" : "Ruha chizzulatha sa mothcha Sihaya.",
-      "transliteration" : "He-shall come-back-from-the-dead with tears of-Desert-Spring.",
-      "phonetic" : "RU-ha chiz-ZU-la-tha sa MOTH-cha SI-ha-ya."
+      "line" : "2/2073",
+      "phonetic" : "RU-ha chiz-ZU-la-tha sa MOTH-cha SI-ha-ya.He-shall come-back-from-the-dead with tears of-Desert-Spring.",
+      "translation" : "Ruha chizzulatha sa mothcha Sihaya.(CONTINUED)108Dune: Part TwoCONTINUED:Language Translations11/20/2247.108"
    },
    {
-      "phonetic" : "NAZ-dha-nii ek-KER-cha EK-ke-ra ED-de-ma.",
-      "transliteration" : "Bring-me drop of-Water of-Life.",
-      "line" : 2091,
-      "translation" : "Nazdhanii ekkercha Ekkera Eddema.",
-      "d" : 2
+      "line" : "2/2095",
+      "phonetic" : "NAZ-dha-nii ek-KER-cha EK-ke-ra ED-de-ma.Bring-me drop of-Water of-Life.",
+      "translation" : "Nazdhanii ekkercha Ekkera Eddema."
    },
    {
-      "d" : 2,
-      "line" : 2099,
-      "translation" : "Qithlasha.",
-      "transliteration" : "It-was-written.",
-      "phonetic" : "QITH-la-sha."
+      "line" : "2/2103",
+      "phonetic" : "QITH-la-sha.It-was-written.",
+      "translation" : "Qithlasha."
    },
    {
-      "line" : 2107,
-      "translation" : "Vii juraak dimbi wak ZAMAHA?",
-      "d" : 2,
-      "phonetic" : "VII ju-RAAK DIM-bi wak ZA-ma-ha?",
-      "transliteration" : "(CONTINUED)"
+      "line" : "2/2116",
+      "phonetic" : "VII ju-RAAK DIM-bi wak ZA-ma-ha?(CONTINUED)112Dune: Part TwoCONTINUED:Language Translations11/20/2248.112Do you-smash knife before-you BATTLE?",
+      "translation" : "Vii juraak dimbi wak ZAMAHA?"
    },
    {
-      "phonetic" : "U-na-ra SOT un-TAU-fih ZI-hi NIF-ri-bit QUM-mu-nii.",
-      "transliteration" : "There-is no-one in-room this can-who stand-against-me.",
-      "translation" : "Unara sot un-taufih zihi nifribit qummunii.",
-      "line" : 2121,
-      "d" : 2
+      "line" : "2/2139",
+      "phonetic" : "U-na-ra SOT un-TAU-fih ZI-hi NIF-ri-bit QUM-mu-nii.There-is no-one in-room this can-who stand-against-me.",
+      "translation" : "Unara sot un-taufih zihi nifribit qummunii."
    },
    {
-      "line" : 2143,
-      "translation" : "Qaubaka kaalik akaa rii hurayi. Jaha ish.",
-      "d" : 2,
-      "phonetic" : "QAU-ba-ka KAA-lik a-KAA rii HU-ra-yi. JA-ha ish.",
-      "transliteration" : "Warned-they mothers-your you about my-coming. Fear (the) moment."
+      "line" : "2/2147",
+      "phonetic" : "QAU-ba-ka KAA-lik a-KAA rii HU-ra-yi. JA-ha ish.Warned-they mothers-your you about my-coming. Fear (the) moment.",
+      "translation" : "Qaubaka kaalik akaa rii hurayi. Jaha ish."
    },
    {
-      "phonetic" : "e SHE mi-NAA-zash NI-frish QI-ra sa-HIIM ZAI-hadh.",
-      "transliteration" : "And you think you-can stand as champion.",
-      "line" : 2151,
-      "translation" : "E she minaazash nifrish qira sahiim zaihadh.",
-      "d" : 2
+      "line" : "2/2155",
+      "phonetic" : "e SHE mi-NAA-zash NI-frish QI-ra sa-HIIM ZAI-hadh.And you think you-can stand as champion.",
+      "translation" : "E she minaazash nifrish qira sahiim zaihadh."
    },
    {
-      "d" : 2,
-      "translation" : "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit o",
-      "line" : 2159,
-      "transliteration" : "o ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bit",
-      "phonetic" : "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bit"
+      "line" : "2/2181",
+      "phonetic" : "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bito ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bitNAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YImash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD hiTHAA ni-shi VAN-na-ha o-bit. o ER-le CHAU-si, ja-RAA-mas-ha AB-zihZI-hi sa KYUR-tu FREM-nii--ho LE-kis.But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is)(the) moment you-have-waited-for-which during life-your all. You-arepraying now--to-your-grandmother--who-died at-months nine ago. Shelost (an) eye. It-had-smashed (a) rock her-face at-the-time she-wascrossing (the) Belt during-it. She-had-walked years twelve at-thatmoment it-occurred during-it. During time that, it-was-being-calledworld this by name Fremen--it-was Dune.",
+      "translation" : "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit oeddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevibarthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalahaJeske obit. Sayyaha airhur zaad hi thaa nishi vannaha obit. O erlechausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis."
    },
    {
-      "transliteration" : "Lisan al-Gaib!",
-      "phonetic" : "li-SAAN al-GA-yib!",
-      "d" : 2,
-      "line" : 2189,
+      "line" : "2/2199",
+      "phonetic" : "li-SAAN al-GA-yib!Lisan al-Gaib!",
       "translation" : "Lisaan al-Gayib!"
    },
    {
-      "translation" : "Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbi",
-      "line" : 2203,
-      "d" : 2,
-      "phonetic" : "un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dhaha CHIM-bi hu-krash.",
-      "transliteration" : "In-nightmares-your, you-give water to-the-dead. And it-brings joy toyour-heart."
+      "line" : "2/2223",
+      "phonetic" : "un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dhaha CHIM-bi hu-krash.In-nightmares-your, you-give water to-the-dead. And it-brings joy toyour-heart.",
+      "translation" : "Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbihukrash."
    },
    {
-      "d" : 2,
-      "translation" : "Shiidhgim Sharii.",
-      "line" : 2228,
-      "transliteration" : "Paradise Green.",
-      "phonetic" : "SHIIDH-gim sha-RII."
+      "line" : "2/2232",
+      "phonetic" : "SHIIDH-gim sha-RII.Paradise Green.",
+      "translation" : "Shiidhgim Sharii."
    },
    {
-      "phonetic" : "e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-la",
-      "transliteration" : "ruk a-SHIDH-gim.",
-      "translation" : "E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk aSHIDHGIM.",
-      "line" : 2236,
-      "d" : 2
+      "line" : "2/2241",
+      "phonetic" : "e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-laruk a-SHIDH-gim.O Hand of-God, witness-me: I (am) Lisan al-Gaib. I-will lead you toParadise.",
+      "translation" : "E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk aSHIDHGIM."
    },
    {
-      "d" : 2,
-      "line" : 2245,
-      "translation" : "LISAAN AL-GAYIB!",
-      "transliteration" : "LISAN AL-GAIB!",
-      "phonetic" : "li-SAAN al-GA-yib!"
+      "line" : "2/2266",
+      "phonetic" : "li-SAAN al-GA-yib!LISAN AL-GAIB!",
+      "translation" : "LISAAN AL-GAYIB!"
    },
    {
-      "phonetic" : "O-jij, e mwad-DIB! AF-shil al-KA-lig.",
-      "transliteration" : "A-mighty-one, O Desert-Mouse! (A) storm great-grandmother.",
-      "line" : 2270,
-      "translation" : "Ojij, e Mwaddib! Afshil al-kalig.",
-      "d" : 2
+      "line" : "2/2279",
+      "phonetic" : "O-jij, e mwad-DIB! AF-shil al-KA-lig.A-mighty-one, O Desert-Mouse! (A) storm great-grandmother.",
+      "translation" : "Ojij, e Mwaddib! Afshil al-kalig."
    },
    {
-      "phonetic" : "RUM GAS-su LEK-se.",
-      "transliteration" : "Letâs free Dune.",
-      "translation" : "Rum gassu Lekse.",
-      "line" : 2283,
-      "d" : 2
+      "line" : "2/2294",
+      "phonetic" : "RUM GAS-su LEK-se.LetaEURtms free Dune.",
+      "translation" : "Rum gassu Lekse."
    },
    {
-      "transliteration" : "Lives long to-the-fighters!",
-      "phonetic" : "ad-DAAM RE-shii a-ZAAN-ta!",
-      "d" : 2,
-      "line" : 2298,
+      "line" : "2/2318",
+      "phonetic" : "ad-DAAM RE-shii a-ZAAN-ta!Lives long to-the-fighters!",
       "translation" : "ADDAAM RESHII A-ZAANTA!!!"
    },
    {
-      "translation" : "Dinla thoddhat Hozjom. Vizdha Sardaakra. Dhika than Dhonaj a-reshme.",
-      "line" : 2322,
-      "d" : 2,
-      "phonetic" : "DIN-la THODH-dhat HOZ-jom. VIZ-dha sar-DAA-kra. DHI-ka THAN DHO-naj",
-      "transliteration" : "a-RESH-me."
+      "line" : "2/2333",
+      "phonetic" : "DIN-la THODH-dhat HOZ-jom. VIZ-dha sar-DAA-kra. DHI-ka THAN DHO-naja-RESH-me.Bring prisoners to-Residency. Kill (the) Sardaukar. Give (the) bodyof-the-Baron to-the-desert.",
+      "translation" : "Dinla thoddhat Hozjom. Vizdha Sardaakra. Dhika than Dhonaj a-reshme."
    },
    {
-      "d" : 2,
-      "line" : 2337,
-      "translation" : "Charra, e Mwaddib.",
-      "transliteration" : "Yes, O Desert-Mouse.",
-      "phonetic" : "CHAR-ra, e mwad-dib."
+      "line" : "2/2343",
+      "phonetic" : "CHAR-ra, e mwad-dib.Yes, O Desert-Mouse.",
+      "translation" : "Charra, e Mwaddib."
    },
    {
-      "transliteration" : "Lisan al-Gaib!!!!",
-      "phonetic" : "li-SAAN al-GA-yib!!!!",
-      "d" : 2,
-      "translation" : "LISAAN AL-GAYIB!!!!",
-      "line" : 2347
+      "line" : "2/2365",
+      "phonetic" : "li-SAAN al-GA-yib!!!!Lisan al-Gaib!!!!",
+      "translation" : "LISAAN AL-GAYIB!!!!"
    },
    {
-      "phonetic" : "SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho.",
-      "transliteration" : "hesh-SHYUU-ha-ma GIF CHAI-yi?",
-      "line" : 2369,
-      "translation" : "So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama *",
-      "d" : 2
+      "line" : "2/2388",
+      "phonetic" : "SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho.hesh-SHYUU-ha-ma GIF CHAI-yi?****Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To- **prove-to-us what? (Expression)",
+      "translation" : "So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama **gif chaiyi?"
    },
    {
-      "translation" : "Minaazash che?",
-      "line" : 2394,
-      "d" : 2,
-      "phonetic" : "mi-NAA-zash CHE?",
-      "transliteration" : "*"
+      "line" : "2/2414",
+      "phonetic" : "mi-NAA-zash CHE?**You-think what?**(CONTINUED)XXXDune: Part TwoCONTINUED:Language Translations11/20/2254.XXX",
+      "translation" : "Minaazash che?**"
    },
    {
-      "transliteration" : "*",
-      "phonetic" : "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off Chaniâs *",
-      "d" : 2,
-      "line" : 2423,
-      "translation" : "Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off Chaniâs look) *"
+      "line" : "2/2455",
+      "phonetic" : "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off ChaniaEURtms **look) ru-CHE? a-BRAA-chash-ho vad-zih?He-shall know (the) ways of-the-desert. I-think it (is) to-thegreater-good. (off ChaniaEURtms look) What? You-care-for-him now?***",
+      "translation" : "Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off ChaniaEURtms look) **Ru-che? Abraachashho vadzih?*"
    },
    {
-      "d" : 2,
-      "line" : 2462,
-      "translation" : "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.",
-      "transliteration" : "*",
-      "phonetic" : "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII."
+      "line" : "2/2481",
+      "phonetic" : "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.**He not (is) like strangers others. I-believe he (is) sincere.**",
+      "translation" : "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.**"
    },
    {
-      "line" : 2490,
-      "d" : 2
+      "line" : "2/2481",
+      "phonetic" : "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.**He not (is) like strangers others. I-believe he (is) sincere.**",
+      "translation" : "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.**"
    }
 ]
 

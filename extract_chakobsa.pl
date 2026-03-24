@@ -2,9 +2,10 @@ use strict;
 use warnings;
 use utf8;
 use JSON::PP;
-use v5.30;
+use Text::Unidecode;
+use v5.40;
 
-my $json = JSON::PP->new->utf8->pretty;
+my $json = JSON::PP->new->utf8->pretty->canonical;
 
 my @files = ('scripts/raw/master_dune_diaglogue.txt', 'scripts/raw/master_dune2_dialogue.txt');
 
@@ -17,15 +18,19 @@ foreach my $f (@files) {
     my $entry;
     my $state = 'seeking_next_entry';
 
+    my $ctr = 0;
     while( <$in> ) {
+        $ctr++;
+        # exit(0) if $ctr > 100;
         chomp;
+        $_ = unidecode($_);
         next if $_ eq '';
-        next if /^-----/;
 
-        s/\x{2019}/'/g;
+        say STDERR "$state: $_";
 
         if( /TRANSLATION/ ) {
             $state = 'reading_translation';
+            $entry = { line => $number . '/' . $. };
             next;
         }
 
@@ -34,23 +39,25 @@ foreach my $f (@files) {
             next;
         }
 
+        if( /^-----/ ) {
+            say STDERR " ** pushing entry";
+            push @chakobsa, $entry if valid($entry);
+            $state = 'seeking_next_entry';
+            next;
+        }
+
         if( $state eq 'reading_translation' ) {
-            $entry->{translation} = $_;
-            $state = '';
+            $entry->{translation} .= trim(' ' . $_);
             next;
         }
 
         if( $state eq 'reading_phonetic' ) {
-            $entry->{phonetic} = $_;
-            $state = 'reading_transliteration';
+            $entry->{phonetic} .= trim(' ' . $_);
             next;
         }
 
         if( $state eq 'reading_transliteration' ) {
-            $entry->{transliteration} = $_;
-            push @chakobsa, $entry if valid($entry);
-            $entry = { d => $number, line => $. };
-            $state = 'seeking_next_entry';
+            $entry->{transliteration} .= trim(' ' . $_);
             next;
         }
 
