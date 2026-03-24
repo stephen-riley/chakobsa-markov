@@ -133,45 +133,7 @@ PHONETIC
 RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.
 (It is) to-him to-know ways-your as-one-who was-born with-them.
 ------------------------------------------------------------------55A
-
-EXT. SALUSA SECUNDUS - MILITARY SPACEPORT - DAY
-
-55A
-
-(SPRIEST_DUNE_8.mp3), (SPRIEST_DUNE_8_PT1-6.mp3), &
-(SPRIEST_DUNE_8_EXP.mp3)
-SARDAUKAR PRIEST
-(Chanting)
-(CONTINUED)
-
-55A
-
-CONTINUED:
-
-Dune
-
-Language Translations
-
-09/27/20
-
-4.
-
-55A
-
-TRANSLATION
-Ts’om brovüch’on gokhulzhon dzoq’ayh qaldayh gum.
-Hölgör römbözh åzqådözh t’urukh sündukh gun.
-Mandon gözdöl våbrukh shok’ubukh qotskå gur.
-P’an ts’ayzuvöl sat ro’ayqözh hölubözh guz.
-Khannon bülnon sat k’åröt’özh åtsürözh guz.
-Jovayh söklöl gådzunöl sat nuvåqözh gur.
-PHONETIC
-TS’OM bro-vü-ch’on go-khul-zhon dzo-q’ayh qal-dayh guuuuuum.
-HÖL-gör röm-bözh åz-qa-dözh t’u-rukh sün-dukh guuuuuun.
-MAN-don göz-döl vå-brukh sho-k’u-bukh qots-kå guuuuuur.
-P’AN ts’ay-zu-völ sat ro-’ay-qözh hö-lü-bözh guuuuuuz.
-KHAN-non bül-non sat k’å-rö-t’özh åt-sü-rözh guuuuuuz.
-JO-vayh sök-löl gåd-zu-nöl sat nu-vå-gözh guuuuuur.
+[REMOVED SARDUKAR]
 ------------------------------------------------------------------84
 
 INT. RESIDENCY CORRIDOR - MINUTES LATER
