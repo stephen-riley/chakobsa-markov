@@ -1,0 +1,2492 @@
+DUNE 2
+Language Translations
+David J. Peterson & Jessie Sams
+Revised 11/20/22
+
+KEY:
+(Title of Associated .mp3 File)
+CHARACTER NAME
+English dialogue as written.
+TRANSLATION
+Official transcription for closed captioning and subtitles.
+PHONETIC
+fo-NE-tik REN-dur-ing
+Literal translation.
+------------------------------------------------------------------BG
+
+BG
+
+WALLAH
+(GROUP_DUNE2_192.mp3)
+GROUP
+Here. (When handing something to someone.)
+TRANSLATION
+Sah.
+PHONETIC
+SAH.
+Take.
+
+------------------------------------------------------------------(GROUP_DUNE2_193.mp3)
+GROUP
+Here. There. Over there. (When pointing to a location.)
+TRANSLATION
+Zih. Nat. Chos.
+
+(CONTINUED)
+
+BG
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+2.
+
+BG
+
+PHONETIC
+ZIH. NAT. CHOS.
+Here. There. Yonder.
+------------------------------------------------------------------(GROUP_DUNE2_194.mp3)
+GROUP
+Stay here.
+TRANSLATION
+Tamra zih.
+PHONETIC
+TAM-ra ZIH.
+Stay here.
+------------------------------------------------------------------(GROUP_DUNE2_195.mp3)
+GROUP
+Keep an eye out.
+TRANSLATION
+Yoheshya.
+PHONETIC
+YO-hesh-ya.
+Keep-an-eye-out.
+------------------------------------------------------------------(GROUP_DUNE2_196.mp3)
+GROUP
+Quickly! Quick-quick!
+TRANSLATION
+Nichii! Nich-nich!
+PHONETIC
+ni-CHII! NICH-NICH!
+Quickly! Hurry-hurry!
+
+(CONTINUED)
+
+BG
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+3.
+
+BG
+
+------------------------------------------------------------------(GROUP_DUNE2_197.mp3)
+GROUP
+Take your positions.
+TRANSLATION
+Chahma ofmak.
+PHONETIC
+CHAH-ma OF-mak.
+Fall-into spots-your.
+------------------------------------------------------------------10
+
+10
+
+EXT. DEEP DESERT - SUNSET
+(JESSICA_DUNE2_1.mp3)
+JESSICA
+Enemy.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+
+------------------------------------------------------------------(JESSICA_DUNE2_180.mp4)
+JESSICA
+They were following us.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------(JESSICA_DUNE2_2.mp4)
+(CONTINUED)
+
+10
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+4.
+
+10
+
+JESSICA
+Down. Left.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------(HCOMMANDER_DUNE2_3.mp4)
+HARKONNEN COMMANDER
+This will attract a worm!
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(HCOMMANDER_DUNE2_4.mp3)
+HARKONNEN COMMANDER (CONT’D)
+Signs?
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(SNIPER_DUNE2_5.mp3)
+SNIPER
+Not yet.
+TRANSLATION
+N/A
+
+(CONTINUED)
+
+10
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+5.
+
+10
+
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(SNIPER_DUNE2_6.mp3)
+SNIPER
+Movement. East.
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(HCOMMANDER_DUNE2_7.mp3)
+HARKONNEN COMMANDER
+Shoot it down!
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(HCOMMANDER_DUNE2_8.mp3)
+HARKONNEN COMMANDER
+These rats are afraid to face us-TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+
+(CONTINUED)
+
+10
+
+Dune: Part Two
+CONTINUED: (3)
+
+Language Translations
+
+11/20/22
+
+6.
+
+10
+
+------------------------------------------------------------------(SOLDIER_DUNE2_9.mp3)
+SOLDIER
+SHIELDS!
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(SOLDIER_DUNE2_10.mp3)
+SNIPER
+NO SHIELDS!!! NO SHIELDS!!! WORMS ARE TOO CLOSE!!!
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+------------------------------------------------------------------(STILGAR_DUNE2_11.mp3)
+STILGAR
+We must leave.
+TRANSLATION
+Oma isadha.
+PHONETIC
+O-ma I-sa-dha.
+We-must leave.
+------------------------------------------------------------------(STILGAR_DUNE2_198.mp3)
+STILGAR
+All that water: Lost!
+(CONTINUED)
+
+10
+
+Dune: Part Two
+CONTINUED: (4)
+
+Language Translations
+
+11/20/22
+
+7.
+
+10
+
+TRANSLATION
+Kemim ekkera: Haraadhas-ha!
+PHONETIC
+KE-mim EK-ke-ra: ha-RAA-dhas-ha!
+All-of-that water: Lost!
+------------------------------------------------------------------(STILGAR_DUNE2_199.mp3)
+STILGAR
+She is not fit for the desert!
+TRANSLATION
+So nifriha sayadha un-reshim!
+PHONETIC
+SO NI-fri-ha SA-ya-dha un-RE-shim!
+Not can-she be-fit for-the-desert!
+------------------------------------------------------------------12
+
+12
+
+EXT. DESERT - NIGHT
+(SLEADER_DUNE2_12.mp3)
+SENTINELS LEADER
+You’re not welcome here.
+TRANSLATION
+So unaarahashii fadil zih.
+PHONETIC
+so u-NAA-ra-ha-shii FA-dil zih.
+Not is-for-you peace here.
+
+------------------------------------------------------------------14
+
+INT. SIETCH TABR - RIGHT AFTER
+
+14
+
+(STILGAR_DUNE2_13.mp3)
+STILGAR
+Sietch Tabr.
+
+(CONTINUED)
+
+14
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+8.
+
+14
+
+TRANSLATION
+Sich Tabr.
+PHONETIC
+SICH TA-br.
+Sietch Tabr.
+------------------------------------------------------------------(GROUP_DUNE2_181A.mp3)
+GROUP
+What are they doing here? WITCH! SPIES! Leave them to the desert!
+IMPOSTOR! Mahdi! Are you the Lisan al-Gaib?
+TRANSLATION
+Ru-che kaah zih? CHIFTHIT! RAABJIL! Sahtha reshme noqadhakaa!
+ZOTHIB! E Mahdi! Vii she Lisaan al-Gayib?
+PHONETIC
+ru-CHE KAAH ZIH? CHIF-thit! RAAB-jil! SAH-tha RESH-me NO-qa-dha-kaa!
+ZO-thib! e MAH-di! VII she li-SAAN al-GA-yib?
+For-what they here? WITCH! SPIES! Let (the) desert devour-them!
+IMPOSTOR! O Mahdi! Are you Lisan al-Gaib?
+------------------------------------------------------------------(CHANI_DUNE2_14.mp3)
+CHANI
+You heard Stilgar. Move.
+TRANSLATION
+Marraka Stilgar. Jila.
+PHONETIC
+MAR-ra-ka STIL-gar. JI-la.
+You-have-heard Stilgar. Move.
+------------------------------------------------------------------(ACHILD_DUNE2_15.mp3)
+ALPHA CHILD
+He’s no Mahdi!
+TRANSLATION
+Ho so Mahdi!
+(CONTINUED)
+
+14
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+9.
+
+14
+
+PHONETIC
+ho SO MAH-di!
+He (is) no Mahdi!
+------------------------------------------------------------------(PAUL_DUNE2_16.mp3)
+PAUL
+Why should I be?
+TRANSLATION
+Ru-che ne Mahdi?
+PHONETIC
+ru-CHE ne MAH-di?
+Why-should I (be) Mahdi?
+------------------------------------------------------------------15
+
+INT. SIETCH TABR, ROOM OF THE DEAD - RIGHT AFTER
+
+15
+
+(WATERMASTER_DUNE2_17B.mp3)
+WATERMASTER
+Who killed Jamis?
+TRANSLATION
+Vizdhaha che Jamsa?
+PHONETIC
+VIZ-dha-ha CHE JAM-sa?
+Killed-him who Jamis?
+------------------------------------------------------------------(STILGAR_DUNE2_18.mp3)
+STILGAR
+He did.
+TRANSLATION
+Ho nat.
+PHONETIC
+HO NAT.
+
+(CONTINUED)
+
+15
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+10.
+
+15
+
+He there.
+------------------------------------------------------------------(CHANI_DUNE2_166.mp3)
+CHANI
+This has to be done as soon as possible otherwise we lose much of
+the water.
+TRANSLATION
+O zihki lefadhas nichaiza hu haraadhim kimme ekkera.
+PHONETIC
+o ZIH-ki LE-fa-dhas ni-CHAI-za hu ha-RAA-dhim KIM-me EK-ke-ra.
+(It is) on this to-be-accomplished most-quickly lest we-lose (the)
+bulk of-the-water.
+------------------------------------------------------------------(WATERMASTER_DUNE2_34B.mp3)
+WATERMASTER
+Jamis’s body yields thirty-three liters and seven drachms of water.
+Yours by right.
+TRANSLATION
+Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qelsshoq akkaarcha ekkera. Rush wa nukah.
+PHONETIC
+BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suunZAAD o QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.
+Held body of-Jamis half of-body, forty jars, and five-hundred eight
+drops of-water. For-you by right.
+------------------------------------------------------------------(CHANI_DUNE2_167A.mp3)
+CHANI
+Jamis’ water is yours. But your water is ours.
+TRANSLATION
+Ekkeri is-Chamas rush. Is-nata ekkerish rum.
+PHONETIC
+EK-ke-ri is-CHA-mas RUSH. is-NA-ta EK-ke-rish RUM.
+
+(CONTINUED)
+
+15
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+11.
+
+15
+
+Water from-Jamis (is) for-you. But your-water (is) for-us.
+------------------------------------------------------------------16
+
+16
+
+INT. SIETCH TABR, ALCOVES ROOM - RIGHT AFTER
+(STILGAR_DUNE2_168A.mp3)
+STILGAR
+Stay with them.
+TRANSLATION
+Tamra hiyak.
+PHONETIC
+TAM-ra hi-yak.
+Stay with-them.
+
+------------------------------------------------------------------17
+
+17
+
+INT. SIETCH TABR, COUNCIL’S DOME ROOM
+(STILGAR_DUNE2_19.mp3)
+
+STILGAR
+That outsider patrol was too close. We need to engage them further
+north. Lure them away.
+TRANSLATION
+Unaaha omaiza hajim qumaj. Oma zamashakaa un-yuchkim ozai.
+Robbuuchkaa is-sih.
+PHONETIC
+u-NAA-ha o-MAI-za HA-jim QU-maj. O-ma ZA-ma-sha-kaa un-YUCH-kim oZAI. rob-BUUCH-kaa is-SIH.
+It-was-near too-much patrol outsider. We-must engage-them in-north
+further. To-lure-them from-here.
+------------------------------------------------------------------(FELDER_DUNE2_20A.mp3)
+FEMALE ELDER
+You have our blessing, Stilgar. Attack the enemy further north.
+TRANSLATION
+Belaalimshii, e Stilgar. Zamha qumju un-yuchkim ozai.
+(CONTINUED)
+
+17
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+12.
+
+17
+
+PHONETIC
+be-LAA-lim-shii, e STIL-gar. ZAM-ha QUM-ju un-YUCH-kim o-ZAI.
+We-support-you, O Stilgar. Attack (the) enemy in-north further.
+------------------------------------------------------------------(STILGAR_DUNE2_21.mp3)
+STILGAR
+I need your guidance with the two foreigners.
+TRANSLATION
+Ruqaafiikaa dimalanii rii liksit thaa.
+PHONETIC
+ru-QAA-fii-kaa DI-ma-la-nii rii LIK-sit THAA.
+I-beg-you to-guide-me regarding foreigners two.
+------------------------------------------------------------------(FELDER_DUNE2_22A.mp3)
+FEMALE ELDER
+Give them back to the desert.
+TRANSLATION
+Qabdhikakaa a-reshme.
+PHONETIC
+QAB-dhi-ka-kaa a-RESH-me.
+Give-them-back to-the-desert.
+------------------------------------------------------------------(STILGAR_DUNE2_25.mp3)
+STILGAR
+I saw the signs.
+TRANSLATION
+Heshkii shyadhza.
+PHONETIC
+HESH-kii SHYADH-za.
+I-have-seen (the) signs.
+
+(CONTINUED)
+
+17
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+13.
+
+17
+
+------------------------------------------------------------------(FELDER_DUNE2_26.mp3)
+FEMALE ELDER
+Again.
+TRANSLATION
+Yoshla.
+PHONETIC
+YOSH-la.
+Again.
+------------------------------------------------------------------(OELDER_DUNE2_27.mp3)
+OLDEST ELDER
+Stilgar, how many times have you seen the signs? Your faith is
+playing tricks on you.
+TRANSLATION
+E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhash
+a-fii.
+PHONETIC
+e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shii
+MIN-zi-dhash a-FII.
+O Stilgar, how-many-times you-have-seen (the) signs? It-istransforming-you your-faith into-moth. (Expression)
+------------------------------------------------------------------(FELDER_DUNE2_168.mp3)
+FEMALE ELDER
+The Lisan al-Gaib has not shown his face yet! Ha, ha, ha! Not yet!
+TRANSLATION
+So chukkuha Lisaan al-Gayib lek! He, he, he! So a-vadzih!
+PHONETIC
+SO CHUK-ku-ha li-SAAN al-GA-yib LEK! HE, HE, HE! SO a-vad-ZIH!
+Not he-has-broken Lisan al-Gaib sand! (Expression) Ha, ha, ha! Not
+yet!
+------------------------------------------------------------------(CONTINUED)
+
+17
+
+Dune: Part Two
+CONTINUED: (3)
+
+Language Translations
+
+11/20/22
+
+14.
+
+17
+
+(STILGAR_DUNE2_28B.mp3)
+STILGAR
+He killed Jamis in a fair fight. He speaks our language. He will
+quickly learn our ways. I’m ready to pledge my life for him.
+TRANSLATION
+Vizdhaha Jamsa o zanla vejii. Jaraagaha sa kyurhum. Hajaagaha nichii
+geftham. Qiraashii dhikadhaho eddemii.
+PHONETIC
+VIZ-dha-ha JAM-sa o ZAN-la ve-JII. ja-RAA-ga-ha sa KYUR-hum. ha-JAAga-ha NI-chii GEF-tham. qi-RAA-shii DHI-ka-dha-ho ED-de-mii.
+He-killed Jamis in (a) fight fair. He-speaks our language. He-islearning quickly our-ways. I-am-ready to-pledge-him my-life.
+------------------------------------------------------------------(OELDER_DUNE2_29.mp3)
+OLDEST ELDER
+He’s no Fremen.
+TRANSLATION
+Ho so Fremin.
+PHONETIC
+ho SO FRE-min.
+He (is) no Fremen.
+------------------------------------------------------------------(OELDER_DUNE2_187.mp3)
+OLDEST ELDER
+But if you are so blind as to think otherwise...
+TRANSLATION
+Is-nata hu she qoriir minaza oziigi...
+PHONETIC
+is-NA-ta hu SHE qo-RIIR MI-na-za o-ZII-gi...
+But if you are-blind to-think differently...
+------------------------------------------------------------------(OELDER_DUNE2_188.mp3)
+
+(CONTINUED)
+
+17
+
+Dune: Part Two
+CONTINUED: (4)
+
+Language Translations
+
+11/20/22
+
+15.
+
+17
+
+OLDEST ELDER
+He may live... For as long as the desert allows.
+TRANSLATION
+Shi eddemaadhaha... O erle sahaathahaho reshim obit.
+PHONETIC
+shi ed-de-MAA-dha-ha... o ER-le sa-HAA-tha-ha-ho RE-shim o-bit.
+May he-live... For (the) time it-allows-him (the) desert during-it.
+------------------------------------------------------------------(FELDER_DUNE2_30.mp3)
+FEMALE ELDER
+The desert will handle his fate. That’s good.
+TRANSLATION
+Ru resham dimadhag vanraha. Ho cheshii.
+PHONETIC
+ru RE-sham DI-ma-dhag VAN-ra-ha. HO che-SHII.
+Will (the) desert decide his-fate. It (is) good.
+------------------------------------------------------------------(OELDER_DUNE2_31.mp3)
+OLDEST ELDER
+What about the woman?
+TRANSLATION
+Hi rii bil?
+PHONETIC
+hi RII BIL?
+And regarding (the) woman?
+------------------------------------------------------------------18
+
+INT. SIETCH TABR, COMMUNAL ROOM - SAME MOMENT
+
+18
+
+(SHISHAKLI_DUNE2_32.mp3)
+SHISHAKLI
+Too spicy for the foreigner?
+
+(CONTINUED)
+
+18
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+16.
+
+18
+
+TRANSLATION
+Vaiyiz omaiz o lekset?
+PHONETIC
+VAI-yiz o-MAIZ o LEK-set?
+(There is) spice too-much for (the) foreigner?
+------------------------------------------------------------------(CHANI_DUNE2_33A.mp3)
+CHANI
+Don’t mock him. He deserves our respect. He’s a good fighter.
+TRANSLATION
+So vaklaho. Oma hesshyuho vothim. Ho zamit cheshii.
+PHONETIC
+SO VAK-la-ho. O-ma HESH-shyu-ho VO-thim. ho ZA-mit che-SHII.
+Do-not mock-him. We-must show-him our-eyes. (Expression) He (is a)
+fighter good.
+------------------------------------------------------------------22
+
+INT. RAMALLO’S DEN - DAY
+
+22
+
+(NUN_DUNE2_35.mp3)
+NUN
+Sayyadina, do you accept her heritage?
+TRANSLATION
+E Sayyadina, vii sahaalash kalhaha?
+PHONETIC
+E SAY-ya-di-na, VII sa-HAA-lash KAL-ha-ha?
+O Sayyadina, do you-accept her-heritage?
+------------------------------------------------------------------23
+
+23
+
+EXT. OUTSIDE
+(SHISHAKLI_DUNE2_37.mp3)
+SHISHAKLI
+Bi-lal kaifa! (Amen!)
+
+(CONTINUED)
+
+23
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+17.
+
+23
+
+TRANSLATION
+Belal kaifa!
+PHONETIC
+be-LAL KAI-fa!
+Without limits!
+------------------------------------------------------------------(SHISHAKLI_DUNE2_38.mp3)
+SHISHAKLI
+She’ll drink worm piss!
+TRANSLATION
+Zaihaalaha uqnu noqaj!
+PHONETIC
+zai-HAA-la-ha UQ-nu NO-qaj!
+She-will-drink piss of-a-worm!
+------------------------------------------------------------------(CHANI_DUNE2_39.mp3)
+CHANI
+Not funny. He’s about to lose her.
+TRANSLATION
+So vakkii. Qiraashaha saya belalaha.
+PHONETIC
+SO vak-KII. qi-RAA-sha-ha SA-ya be-LA-la-ha.
+Not funny. He-is-about-to walk without-her. (Expression)
+------------------------------------------------------------------(SHISHAKLI_DUNE2_40.mp3)
+SHISHAKLI
+If she’s stupid enough to drink that poison that’s not our problem.
+TRANSLATION
+Hu ho fiidhiir zaiha nah nati naziim so gondho.
+PHONETIC
+hu HO fii-DHIIR ZAI-ha NAH NA-ti na-ZIIM SO GON-dho.
+
+(CONTINUED)
+
+23
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+18.
+
+23
+
+If she (is) as-stupid to-drink poison that we-carry no guilt.
+------------------------------------------------------------------(STILGAR_DUNE2_41.mp3)
+STILGAR
+Shut up! We’re praying.
+TRANSLATION
+Fasshur! Ruqaazim.
+PHONETIC
+FASH-shur! ru-QAA-zim.
+Shut-up! We-are-praying.
+------------------------------------------------------------------(STILGAR_DUNE2_200.mp3)
+STILGAR
+Let’s pray together.
+TRANSLATION
+Rum ruqaza hiili.
+PHONETIC
+RUM RU-qa-za HII-li.
+Let’s pray together.
+------------------------------------------------------------------24
+
+24
+
+INT. BACK INSIDE THE DEN
+(OWATERMASTER_DUNE2_42.mp3)
+OLD WATERMASTER
+Here is the Water of Life, which frees the soul.
+TRANSLATION
+Zihik Ekkeri Eddema, gassuubit fedh.
+PHONETIC
+ZI-hik EK-ke-ri ED-de-ma, gas-SUU-bit fedh.
+This (is) Water of-Life, which-frees (the) soul.
+
+(CONTINUED)
+
+24
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+19.
+
+24
+
+------------------------------------------------------------------(OWATERMASTER_DUNE2_43A.mp3)
+OLD WATERMASTER
+If you drink, you shall die. If you drink, you may see.
+TRANSLATION
+Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.
+PHONETIC
+HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.
+If you-drink, you-will die. If you drink, shi you-see.
+------------------------------------------------------------------(NUN_DUNE2_44A.mp3)
+NUN
+Drink!
+TRANSLATION
+Zehla!
+PHONETIC
+ZEH-la!
+Drink!
+------------------------------------------------------------------(OWATERMASTER_DUNE2_45.mp3)
+OLD WATERMASTER
+This is the Agony.
+TRANSLATION
+Zihik Ardiz.
+PHONETIC
+ZI-hik AR-diz.
+This (is the) Agony.
+------------------------------------------------------------------(RMRAMALLO_DUNE2_47.mp3)
+REVEREND MOTHER RAMALLO
+What have we done?
+(CONTINUED)
+
+24
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+20.
+
+24
+
+TRANSLATION
+Sahthimi che?
+PHONETIC
+SAH-thi-mi CHE?
+We-have-done what?
+------------------------------------------------------------------(RMRAMALLO_DUNE2_48.mp3)
+REVEREND MOTHER RAMALLO
+She is pregnant!
+TRANSLATION
+Ekkerish jiyaha!
+PHONETIC
+EK-ke-rish JI-ya-ha!
+(A) fetus (is) inside-her!
+------------------------------------------------------------------25
+
+25
+
+OUTSIDE
+(OWATERMASTER_DUNE2_97A.mp3)
+OLD WATERMASTER
+She did it. She changed the Holy Poison into water!
+TRANSLATION
+Nazgahaho. Jahhufha Vizdhik Ezlii a-ker!
+PHONETIC
+NAZ-ga-ha-ho. jah-HUF-ha VIZ-dhik EZ-lii a-KER!
+She-did-it. She-changed (the) Poison Holy into-water!
+
+------------------------------------------------------------------(STILGAR_DUNE2_23.mp3)
+STILGAR
+As written!
+TRANSLATION
+Qithlas-ha!
+
+(CONTINUED)
+
+25
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+21.
+
+25
+
+PHONETIC
+QITH-las-ha!
+It-was-written!
+------------------------------------------------------------------(OWATERMASTER_DUNE2_169.mp3)
+OLD WATERMASTER (CONT’D)
+It is safe now. You can drink it.
+TRANSLATION
+Ho lehii vadzih. Nifrish zaihaho.
+PHONETIC
+Ho le-HII VAD-zih. NI-frish ZAI-ha-ho.
+It safe now. You-can drink-it.
+------------------------------------------------------------------28
+
+28
+
+BRUTAL DESERT LANDSCAPE - DAY
+(STILGAR_DUNE2_50.mp3)
+STILGAR
+Mahdi.
+TRANSLATION
+Mahdi.
+PHONETIC
+MAH-di.
+Mahdi.
+
+------------------------------------------------------------------29
+
+29
+
+A MOMENT LATER
+(CHANI_DUNE2_51.mp3)
+CHANI
+That was no miracle!
+TRANSLATION
+Chausik so ezlish!
+
+(CONTINUED)
+
+29
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+22.
+
+29
+
+PHONETIC
+CHAU-sik SO ez-lish!
+That (was) no miracle!
+------------------------------------------------------------------(STILGAR_DUNE2_53.mp3)
+STILGAR
+You saw it with your OWN EYES! “The Mother shall give the water to
+the Son”! And she did it! As written!
+TRANSLATION
+Hesshyashaho sa vothash birsii! “Ru Kala dhika ekker a-Kwad”! Hi ho
+vejii! Qithlas-ha!
+PHONETIC
+HESH-shya-sa-ho sa VO-thash bir-SII! “ru KA-la DHI-ka EK-ker aKWAD”! hi HO ve-JII! QITH-las-ha!
+You-saw-it with your-eyes own! “She-will Mother give water to-Son”!
+And it (is) true! As-written!
+------------------------------------------------------------------(CHANI_DUNE2_54.mp3)
+CHANI
+Her people wrote that!
+TRANSLATION
+Qithlaka haiyitaha choska!
+PHONETIC
+QITH-la-ka HAI-yi-ta-ha chos-ka!
+Wrote-they her-people that!
+------------------------------------------------------------------(STILGAR_DUNE2_170.mp3)
+STILGAR
+Blasphemy! The prophecy has been accomplished! He is the One.
+TRANSLATION
+Dhonaashash! Lefthas-ha ledib! Ho Chausij.
+PHONETIC
+dho-NAA-shash! LEF-thas-ha LE-dib! HO CHAU-sij.
+(CONTINUED)
+
+29
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+23.
+
+29
+
+You-blaspheme! Has-been-accomplished (the) prophecy! He (is) theOne.
+------------------------------------------------------------------(SHISHAKLI_DUNE2_55.mp3)
+SHISHAKLI
+The Mahdi must be Fremen!
+TRANSLATION
+O Mahda ho Fremin!
+PHONETIC
+o MAH-da ho FRE-min!
+Must Mahdi he (be) Fremen!
+------------------------------------------------------------------(CHANI_DUNE2_56.mp3)
+CHANI
+Arrakis must be freed by its own people!
+TRANSLATION
+O Arraksa gasas isru haiyataha birsiiya!
+PHONETIC
+o AR-rak-sa GA-sas isru HAI-ya-ta-ha bir-SII-ya!
+Must Arrakis be-freed by its-people own!
+------------------------------------------------------------------(PAUL_DUNE2_58A.mp3)
+PAUL
+I’m here to learn your ways.
+TRANSLATION
+Ne zih hajaga gefthak.
+PHONETIC
+ne ZIH HA-ja-ga GEF-thak.
+I (am) here to-learn your-ways.
+-------------------------------------------------------------------
+
+Dune: Part Two
+31
+
+Language Translations
+
+11/20/22
+
+INT. SIETCH TABR - JESSICA’S YALI
+
+24.
+31
+
+(JESSICA_DUNE2_59.mp3)
+JESSICA (CONT'D)
+Kwisatz Haderach, show us the way!
+TRANSLATION
+E Kwisats Haderach, hesshyumaho gif!
+PHONETIC
+E KWI-sats HA-de-rach, HESH-shyu-ma-ho GIF!
+O Kwisatz Haderach, show-us-it (the) way!
+------------------------------------------------------------------ALTERNATE PRONUNCIATION
+(JESSICA_DUNE2_59A.mp3)
+JESSICA (CONT'D)
+Kwisatz Haderach, show us the way!
+TRANSLATION
+E Kwisats Haderak, hesshyumaho gif!
+PHONETIC
+E KWI-sats HA-de-rak, HESH-shyu-ma-ho GIF!
+O Kwisatz Haderach, show-us-it (the) way!
+------------------------------------------------------------------(JESSICA_DUNE2_60.mp3)
+JESSICA
+YOU WILL SEE! THE BEAUTY AND THE HORROR!
+TRANSLATION
+RUSH HESHYAKAA! YOZBO HI JAHKAZ!
+PHONETIC
+RUSH HESH-ya-kaa! YOZ-bo hi JAH-kaz!
+You-will see-them! Beauty and horror!
+-------------------------------------------------------------------
+
+Dune: Part Two
+35
+
+Language Translations
+
+11/20/22
+
+25.
+35
+
+INT. DEEP DESERT, FEDAYKIN CAMP - NIGHT
+(SHISHAKLI_DUNE2_70.mp3)
+SHISHAKLI
+Muad’Dib likes his smell! Ha, ha, ha!
+TRANSLATION
+Abraanaha mwaddib gebreha! He, he, he!
+PHONETIC
+a-BRAA-na-ha mwad-DIB GE-bre-ha! He, he, he!
+Likes desert-mouse his-smell! Ha, ha, ha!
+
+------------------------------------------------------------------(STILGAR_DUNE2_171.mp3)
+STILGAR
+You saw what he did. He saw it coming--and he saved her life. He saw
+it! He can foresee.
+TRANSLATION
+Hesshyaka che nazgahabit. Hesshyaha huraaha--hi kasshahaho.
+Hesshyahaho! Nifriha heshisha.
+PHONETIC
+HESH-shya-ka che NAZ-ga-ha-bit. HESH-shya-ha hu-RAA-ha--hi KASH-shaha-ho. HESH-shya-ha-ho! NIF-ri-ha HE-shi-sha.
+You-saw what he-did-it. He-saw it-coming--and he-saved-her. He-sawit! He-can foresee.
+------------------------------------------------------------------(PAUL_DUNE2_172.mp3)
+PAUL
+Then I’ll die. Maybe you will, too. But the others will keep going.
+And they won’t stop until the Fremen are free.
+TRANSLATION
+Hinat ruyi uzzulatha. Shi ruk, faafa. Is-nata kiraalak taamrih
+zamaha. Hi so hadhaak hwishi Fraimin gasiig.
+PHONETIC
+hi-nat RU-yi uz-ZU-la-tha. SHI RUK, FAA-fa. is-NA-ta ki-RAA-lak TAAMrih ZA-ma-ha. hi SO ha-DHAAK HWI-shi FRAI-min ga-SIIG.
+
+(CONTINUED)
+
+35
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+26.
+
+35
+
+Then will I-die. Maybe you-will, too. But will-continue (the) others
+fighting. And not they-will-stop until Fremen are-free.
+------------------------------------------------------------------(SHISHAKLI_DUNE2_72A.mp3)
+SHISHAKLI
+He deserves to be Fedaykin!
+TRANSLATION
+Qazdhaha ho Fedaikin!
+PHONETIC
+QAZ-dha-ha HO fe-DAI-kin!
+Deserves he (to be) Fedaykin!
+------------------------------------------------------------------(AFEDAYKIN_DUNE2_73.mp3)
+A FEDAYKIN
+He needs names, Stilgar!
+TRANSLATION
+Ho belal kairat, e Stilgar!
+PHONETIC
+HO be-LAL KAI-rat, e STIL-gar!
+He (is) without names, O Stilgar!
+------------------------------------------------------------------(STILGAR_DUNE2_74.mp3)
+STILGAR
+He does.
+TRANSLATION
+Ho vejii.
+PHONETIC
+HO ve-JII.
+It (is) true.
+------------------------------------------------------------------(STILGAR_DUNE2_75.mp3)
+(CONTINUED)
+
+35
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+27.
+
+35
+
+STILGAR
+Like Usul, the strength beneath the base of a pillar.
+TRANSLATION
+Sahiim Usla, garig un-bachi belak.
+PHONETIC
+sa-HIIM US-la, GA-rig un-BA-chi BE-lak.
+Like Usul, (the) strength beneath (the) pillar.
+------------------------------------------------------------------36
+
+36
+
+EXT. DEEP DESERT - SUNRISE
+(CHANI_DUNE2_173.mp3)
+CHANI
+Sihaya.
+TRANSLATION
+Sihaya.
+PHONETIC
+SI-ha-ya.
+Desert-spring.
+
+------------------------------------------------------------------57
+
+EXT. GIEDI PRIME, ARENA - RIGHT AFTER
+
+57
+
+(DEEPVOICE_DUNE2_78.mp3)
+DEEP VOICE (V.O.)
+Holy birthday to our beloved Na-Baron!
+TRANSLATION
+N/A
+PHONETIC
+N/A
+N/A
+-------------------------------------------------------------------
+
+Dune: Part Two
+61
+
+Language Translations
+
+11/20/22
+
+28.
+61
+
+EXT. ARRAKIS DESERT, FEDAYKIN CAMP - DAWN
+(SHISHAKLI_DUNE2_182.mp3)
+SHISHAKLI
+Sun be kind to Muad’Dib!
+TRANSLATION
+E fizi nitha ru Mwaddib!
+PHONETIC
+e FI-zi NI-tha ru mwad-DIB!
+O sun be-kind for Desert-mouse!
+
+------------------------------------------------------------------(FEDAYKIN_DUNE2_190.mp3)
+FEDAYKIN
+Today is the day! Muad’Dib! Be strong!
+TRANSLATION
+Shaidish fizib! E Mwaddib! Oja!
+PHONETIC
+SHAI-dish FI-zib! e mwad-DIB! O-ja!
+Today (is) (the) day! O Desert-Mouse! Be-strong!
+------------------------------------------------------------------62
+
+62
+
+EXT. DESERT - MORNING
+(STILGAR_DUNE2_183A.mp3)
+STILGAR
+Muad’Dib! Don’t embarrass us! Call a big one!
+TRANSLATION
+E Mwaddib! So gommudhma! Jarma vahcha!
+PHONETIC
+E mwad-DIB! SO GOM-mudh-ma! JAR-ma VAH-cha!
+O Desert-Mouse! Not embarrass-us! Call (a) large-one!
+
+------------------------------------------------------------------(SHISHAKLI_DUNE2_185A.mp3)
+(CONTINUED)
+
+62
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+29.
+
+62
+
+SHISHAKLI
+Don’t worry. Stilgar taught him well.
+TRANSLATION
+So chivlaho. Ledduhaho cheshii Stilgar.
+PHONETIC
+SO CHIV-la-ho. LED-du-ha-ho CHE-shii STIL-gar.
+Not worry. Taught-him well Stilgar.
+------------------------------------------------------------------(FREMEN_DUNE2_186.mp3)
+FREMEN
+MUAD’DIB! YEAAAAAH!!!
+TRANSLATION
+E MWADDIB! VIIIIII!!!
+PHONETIC
+E mwad-DIB! VIIIIII!!!
+O DESERT-MOUSE! YEAAAAAH!!!
+------------------------------------------------------------------(AFEDAYKIN_DUNE2_174.mp3)
+A FEDAYKIN
+Muad’Dib show us the way!
+TRANSLATION
+E Mwaddib, hesshyumaho gif!
+PHONETIC
+e mwad-DIB, HESH-shyu-ma-ho GIF!
+O Desert-Mouse, show-us-it (the) way!
+------------------------------------------------------------------(STILGAR_DUNE2_85.mp3)
+STILGAR
+As written.
+TRANSLATION
+Qithlas-ha.
+
+(CONTINUED)
+
+62
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+30.
+
+62
+
+PHONETIC
+QITH-las-ha.
+It-was-written.
+------------------------------------------------------------------(STILGAR_DUNE2_201.mp3)
+STILGAR
+Whoa!
+TRANSLATION
+Reshiiiiii!
+PHONETIC
+re-SHIIIIII!
+WHOAAAAA!
+------------------------------------------------------------------(STILGAR_DUNE2_202.mp3)
+STILGAR
+Not that big!
+TRANSLATION
+So vahii sanai!
+PHONETIC
+SO va-HII sa-NAI!
+Not big like-that!
+------------------------------------------------------------------63
+
+63
+
+EXT. DESERT - MORNING
+(YOUNGNUN_DUNE2_86.mp3)
+YOUNG NUN
+Reverend Mother.
+TRANSLATION
+E Kalidh.
+PHONETIC
+e KA-lidh.
+
+(CONTINUED)
+
+63
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+31.
+
+63
+
+O Reverend-Mother.
+------------------------------------------------------------------(YOUNGNUN_DUNE2_87.mp3)
+YOUNG NUN
+Muad’Dib finally made peace with Shai-Hulud!
+TRANSLATION
+Wa shaidah sekkaha Mwaddib fadla hi Shai Huluud!
+PHONETIC
+wa-SHAI-dah SEK-ka-ha mwad-DIB FAD-la hi SHAI hu-LUUD!
+Finally found Desert-Mouse peace with Shai Hulud!
+------------------------------------------------------------------(DEVOTEES_DUNE2_88.mp3)
+DEVOTEES
+Bi-lal kaifa!!!
+TRANSLATION
+Belal kaifa!!!
+PHONETIC
+be-LAL KAI-fa!!!
+Without limits!!!
+------------------------------------------------------------------(YOUNGNUN_DUNE2_160.mp3)
+YOUNG NUN
+He called a grandfather worm. The biggest anyone’s ever seen.
+TRANSLATION
+Jarmaha noqcho juugo. Vaahaiza hesshyahabit unij a-vadzih.
+PHONETIC
+JAR-ma-ha NOQ-cho JUU-go. vaa-HAI-za HESH-shya-ha-bit U-nij a-vadZIH.
+He-called (a) worm grandfather. (The) biggest has-seen-that anyone
+ever.
+------------------------------------------------------------------(CONTINUED)
+
+63
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+32.
+
+63
+
+(DEVOTEES_DUNE2_89.mp3)
+DEVOTEES
+As written!
+TRANSLATION
+Qithlas-ha!
+PHONETIC
+QITH-las-ha!
+It-was-written!
+------------------------------------------------------------------(JESSICA_DUNE2_90.mp3)
+JESSICA
+Shai-Hulud knows the coming of the storm.
+TRANSLATION
+Ledaaha Shayi Huluud hura afshal.
+PHONETIC
+le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.
+Knows Shai-Hulud (the) coming of-the-storm.
+------------------------------------------------------------------(DEVOTEES_DUNE2_91.mp3)
+DEVOTEES
+Bless the Maker and his works.
+TRANSLATION
+Itthuz Vessha hi nazgaha.
+PHONETIC
+ITH-thuz VESH-sha hi NAZ-ga-ha.
+Bless (the) Maker and his-works.
+------------------------------------------------------------------(JESSICA_DUNE2_92.mp3)
+JESSICA
+Will not Shai-Hulud know the Mahdi when he comes?
+
+(CONTINUED)
+
+63
+
+Dune: Part Two
+CONTINUED: (3)
+
+Language Translations
+
+11/20/22
+
+33.
+
+63
+
+TRANSLATION
+So vii ru Shaya Huluud leda Mahda hu huraaha?
+PHONETIC
+SO VII ru SHA-ya hu-LUUD LE-da MAH-da hu hu-RAA-ha?
+Not is-it will Shai-Hulud know Mahdi when he-comes?
+------------------------------------------------------------------(JESSICA_DUNE2_175A.mp3)
+JESSICA
+Then share the words!
+TRANSLATION
+Hinat dhiktha ker!
+PHONETIC
+hi-nat DHIK-tha KER!
+Then share (the) words!
+------------------------------------------------------------------(NUN_DUNE2_93.mp3)
+NUN
+Is everything all right, Reverend Mother?
+TRANSLATION
+Vii hiilih cheshii, e Kalidh?
+PHONETIC
+VII HII-lih che-SHII, e KA-lidh?
+Is everything all-right, O Reverend-Mother?
+------------------------------------------------------------------(JESSICA_DUNE2_94.mp3)
+JESSICA
+She heard the news.
+TRANSLATION
+Marraha letshe.
+PHONETIC
+MAR-ra-ha LET-she.
+
+(CONTINUED)
+
+63
+
+Dune: Part Two
+CONTINUED: (4)
+
+Language Translations
+
+11/20/22
+
+34.
+
+63
+
+She-heard (the) news.
+------------------------------------------------------------------(JESSICA_DUNE2_95.mp3)
+JESSICA
+Enough for today. Go now.
+TRANSLATION
+Afiz ru shaidash. Jila vadzih.
+PHONETIC
+A-fiz ru SHAI-dash. JI-la vad-ZIH.
+Enough for today. Go now.
+------------------------------------------------------------------(JESSICA_DUNE2_96.mp3)
+JESSICA
+Leave us.
+TRANSLATION
+Jila isim.
+PHONETIC
+JI-la i-sim.
+Go from-us.
+------------------------------------------------------------------68
+
+INT. SIETCH TABR, YALI - NIGHT
+
+68
+
+(CHANI_DUNE2_176.mp3)
+CHANI
+Will you always be with me?
+TRANSLATION
+Vii unaarash hiyii nosshaidah?
+PHONETIC
+VII u-NAA-rash hi-yii nosh-SHAI-dah?
+Will you-be with-me always?
+(CONTINUED)
+
+68
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+35.
+
+68
+
+------------------------------------------------------------------77
+
+77
+
+EXT. DESERT - CONTINUOUS
+(FFIGHTER_DUNE2_100.mp3)
+FREMEN FIGHTER
+Stop the fight!
+TRANSLATION
+Hadha zanla!
+PHONETIC
+HA-dha ZAN-la!
+Stop (the) fight!
+
+------------------------------------------------------------------81
+
+EXT. DESERT, FEDAYKIN CAMP - NIGHT
+
+81
+
+(SHISHAKLI_DUNE2_101.mp3)
+SHISHAKLI
+What do you think of him?
+TRANSLATION
+Is-kiftha chaiya omaakathshaho?
+PHONETIC
+is-KIF-tha CHAI-ya o-MAA-kath-sha-ho?
+Way what you-value-him?
+------------------------------------------------------------------(SHISHAKLI_DUNE2_102.mp3)
+SHISHAKLI
+I think he’s trouble.
+TRANSLATION
+Minaazii ho fishlin.
+PHONETIC
+mi-NAA-zii ho FISH-lin.
+I-think he (is) trouble.
+
+(CONTINUED)
+
+81
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+36.
+
+81
+
+------------------------------------------------------------------84
+
+84
+
+EXT. MOUNTAIN’S FOOT - DAY
+(CHANI_DUNE2_112.mp3)
+CHANI
+He’s too fat!
+TRANSLATION
+Ho jedhii omaiz!
+PHONETIC
+HO je-DHII o-MAIZ!
+He (is) fat too-much!
+
+------------------------------------------------------------------89
+
+89
+
+EXT. MAKER’S TEMPLE - DAY
+(PILGRIM_DUNE2_103.mp3)
+PILGRIM
+Will He come?
+TRANSLATION
+Ruha hura?
+PHONETIC
+RU-ha hu-ra?
+Will-he come?
+
+------------------------------------------------------------------(JESSICA_DUNE2_104.mp3)
+JESSICA
+If He comes, you must welcome Him.
+TRANSLATION
+Hu huraaha, oshii solagaho.
+PHONETIC
+hu hu-RAA-ha, O-shii SO-la-ga-ho.
+If he-comes, you-must welcome-him.
+
+(CONTINUED)
+
+89
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+37.
+
+89
+
+------------------------------------------------------------------90
+
+90
+
+EXT. MAKER’S TEMPLE - DAY
+(MKEEPER_DUNE2_105.mp3)
+MAKER KEEPER
+Only one at a time. Otherwise they fight each other to death.
+
+TRANSLATION
+Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak.
+PHONETIC
+BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zuLAA-thak.
+One at-a-time only. Otherwise they-fight each-other until they-die.
+------------------------------------------------------------------(JESSICA_DUNE2_106.mp3)
+JESSICA
+How old?
+TRANSLATION
+Che erigaha?
+PHONETIC
+CHE E-ri-ga-ha?
+What (is) its-age?
+------------------------------------------------------------------(MKEEPER_DUNE2_107.mp3)
+MAKER KEEPER
+Very young.
+TRANSLATION
+Ludhaiz.
+PHONETIC
+lu-DHAIZ.
+Very-young.
+-------------------------------------------------------------------
+
+(CONTINUED)
+
+90
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+38.
+
+90
+
+(ALIA_DUNE2_161.mp3)
+ALIA
+Baby worm!
+TRANSLATION
+Noqchich!
+PHONETIC
+NOQ-chich!
+Baby-worm!
+------------------------------------------------------------------(JESSICA_DUNE2_108.mp3)
+JESSICA
+How is it done?
+TRANSLATION
+Is-kiftha chaiya anzagaas-ha?
+PHONETIC
+is-KIF-tha CHAI-ya an-za-GAAS-ha?
+How (is) it-accomplished?
+------------------------------------------------------------------(ALIA_DUNE2_109.mp3)
+ALIA
+What is she doing?
+TRANSLATION
+Is-kiftha chaiya ogaaraha?
+PHONETIC
+is-KIF-tha CHAI-ya o-GAA-ra-ha?
+How is-she-moving-herself? (Expression)
+------------------------------------------------------------------(MKEEPER_DUNE2_110.mp3)
+MAKER KEEPER
+The Water of Life.
+
+(CONTINUED)
+
+90
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+39.
+
+90
+
+TRANSLATION
+Ekkeri Eddema.
+PHONETIC
+EK-ke-ri ED-de-ma.
+(The) Water of-Life.
+------------------------------------------------------------------(JESSICA_DUNE2_111A.mp3)
+JESSICA
+Listen carefully. Soon, a man will visit your Temple. He may want
+you to perform the rite.
+TRANSLATION
+Marza cheshii. Noj erach, ru redha hurana a-minzimash. Ish
+ruqaahashii anzaga ogrog.
+PHONETIC
+MAR-za CHE-shii. no-JE-rach, ru RE-dha HU-ra-na a-MIN-zi-mash. ISH
+ru-QAA-ha-shii AN-za-ga OG-rog.
+Listen carefully. Soon, will (a) man visit your-temple. May he-askyou to-perform (the) rite.
+------------------------------------------------------------------(JESSICA_DUNE2_111B.mp3)
+JESSICA (OPTION 1)
+Listen carefully. A man is going to arrive-TRANSLATION
+Marza cheshii. Ru redha hura-PHONETIC
+MAR-za CHE-shii. ru RE-dha HU-ra-Listen carefully. Will (a) come-------------------------------------------------------------------(JESSICA_DUNE2_111C.mp3)
+JESSICA (OPTION 2)
+Listen carefully. When he arrives, he may-TRANSLATION
+Marza cheshii. Nishi huraaha obit, shi-(CONTINUED)
+
+90
+
+Dune: Part Two
+CONTINUED: (3)
+
+Language Translations
+
+11/20/22
+
+40.
+
+90
+
+PHONETIC
+MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi-Listen carefully. At-the-time he-arrives then, may (he)-------------------------------------------------------------------(MKEEPER_DUNE2_191.mp3)
+MAKER KEEPER
+No, I can’t perform the rite.
+TRANSLATION
+Ats, so nifrii anzaga ogrog.
+PHONETIC
+ATS, SO NI-frii AN-za-ga O-grog.
+No, not I-can perform (the) rite.
+------------------------------------------------------------------(JESSICA_DUNE2_163A.mp3)
+JESSICA
+You question the prophecy?
+TRANSLATION
+Yimaathash a-ledbe?
+PHONETIC
+yi-MAA-thash a-LED-be?
+You-are-questioning the-prophecy?
+------------------------------------------------------------------(MKEEPER_DUNE2_162A.mp3)
+MAKER KEEPER
+Many men tried--all have died.
+TRANSLATION
+Qithnaka riidhi afii--uzzulthaka hiil.
+PHONETIC
+QITH-na-ka RII-dhi a-FII--uz-ZUL-tha-ka HIIL.
+Have-tried men many--have-died all.
+
+(CONTINUED)
+
+90
+
+Dune: Part Two
+CONTINUED: (4)
+
+Language Translations
+
+11/20/22
+
+41.
+
+90
+
+------------------------------------------------------------------(MKEEPER_DUNE2_164B.mp3)
+MAKER KEEPER
+He won’t survive.
+TRANSLATION
+So ruha eddemadha.
+PHONETIC
+SO ru-ha ED-de-ma-dha.
+Not he-will survive.
+------------------------------------------------------------------(JESSICA_DUNE2_181.mp3)
+JESSICA
+Let him try.
+TRANSLATION
+Sahathaho qithana.
+PHONETIC
+SA-ha-tha-ho QI-tha-na.
+Let-him try.
+------------------------------------------------------------------99
+
+INT. CAVE OF BIRDS - SAME MOMENT
+
+99
+
+(OWOMAN_DUNE2_113.mp3)
+OLD WOMAN
+I lost them all in the fire.
+TRANSLATION
+Hardhiikaa hiilhi is-lisha.
+PHONETIC
+HAR-dhii-kaa HIIL-hi is-LI-sha.
+I-lost-them all in-the-fire.
+------------------------------------------------------------------(SHISHAKLI_DUNE2_114.mp3)
+(CONTINUED)
+
+99
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+42.
+
+99
+
+SHISHAKLI
+All Northern Sietches have been hit. There is a call for a war
+council in the south. Muad’Dib. They’re waiting for you.
+TRANSLATION
+Tassasak saich hiil un-yuchkim. Unaaraha jarmik rii qabgab deqah unnoqchim. E Mwaddib. Tamaakshii.
+PHONETIC
+TAS-sa-sak SAICH HIIL un-YUCH-kim. u-NAA-ra-ha JAR-mik rii QAB-gab
+DE-qah un-NOQ-chim. E mwad-DIB. ta-MAAK-shii.
+Have-been-hit Sietches all in-the-north. There-is (a) call for (a)
+council of-war in-the-south. O Muad’Dib. They-are-waiting-for-you.
+------------------------------------------------------------------100
+
+100
+
+EXT. CAVE OF BIRDS - RIGHT AFTER
+(SHISHAKLI_DUNE2_177.mp3)
+
+SHISHAKLI
+You can’t stay here Muad’Dib! None of these people will leave if you
+don’t leave!
+TRANSLATION
+So nifrish atmara zih, e Mwaddib! Isaadhak ziihij savi hu so
+isaadhash!
+PHONETIC
+SO NIF-rish AT-ma-ra ZIH, e mwad-DIB! i-SAA-dhak ZII-hij SA-vi hu SO
+i-SAA-dhash!
+Not you-can stay here, O Muad’Dib! They-will-leave these-people noneof if not you-leave!
+------------------------------------------------------------------(PAUL_DUNE2_165.mp3)
+PAUL
+I CAN’T GO SOUTH!
+TRANSLATION
+SO NIFRIYI JILA A-NOQCHOM!
+PHONETIC
+SO NI-fri-yi JI-la a-NOQ-chom!
+NOT I-CAN GO TO-SOUTH!
+(CONTINUED)
+
+100
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+43.
+100
+
+------------------------------------------------------------------104
+
+104
+
+INT. MAKER’S TEMPLE - CONTINUOUS
+(MKEEPER_DUNE2_127.mp3)
+MAKER KEEPER
+You’re not allowed in here, stranger. Leave or die.
+TRANSLATION
+So oshii una zih, e leksit. Isa hu uzzulaash.
+PHONETIC
+SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.
+Not for-you to-be here, stranger. Leave or die.
+
+------------------------------------------------------------------(PAUL_DUNE2_128.mp3)
+PAUL
+I should be welcomed.
+TRANSLATION
+Ruyi solagas.
+PHONETIC
+RU-yi SO-la-gas.
+I-should be-welcomed.
+------------------------------------------------------------------(MKEEPER_DUNE2_129.mp3)
+MAKER KEEPER
+If you are the One-TRANSLATION
+Hu she Chausij-PHONETIC
+hu SHE CHAU-sij-If you (are) the-One-------------------------------------------------------------------(MKEEPER_DUNE2_130A.mp3)
+(CONTINUED)
+
+104
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+44.
+104
+
+MAKER KEEPER
+God is waiting for you.
+TRANSLATION
+Tamaahashii dini.
+PHONETIC
+ta-MAA-ha-shii DI-ni.
+Is-awaiting-you God.
+------------------------------------------------------------------(MKEEPER_DUNE2_131A.mp3)
+MAKER KEEPER
+If you drink, you shall die. If you drink, you may see.
+TRANSLATION
+Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.
+PHONETIC
+HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.
+If you-drink, you-will die. If you drink, may you-see.
+------------------------------------------------------------------106
+
+EXT. MAKER’S TEMPLE - DAY
+
+106
+
+(JESSICA_DUNE2_132.mp3)
+JESSICA
+Who knows about this?
+TRANSLATION
+Ledaaha che rii zihki?
+PHONETIC
+le-DAA-ha CHE rii ZIH-ki?
+Knows who about this?
+------------------------------------------------------------------(MKEEPER_DUNE2_133.mp3)
+MAKER KEEPER
+Only you, Reverend Mother.
+
+(CONTINUED)
+
+106
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+45.
+106
+
+TRANSLATION
+She biibii, e Kalidh.
+PHONETIC
+She BII-bii, e KA-lidh.
+You only, O Reverend-Mother.
+------------------------------------------------------------------(JESSICA_DUNE2_134A.mp3)
+JESSICA
+Good. What do you make of it?
+TRANSLATION
+Cheshii. Minaash che riiho?
+PHONETIC
+che-SHII. mi-NAASH CHE RII-ho?
+Good. Are-you-thinking what about-it?
+------------------------------------------------------------------(FEDAYKIN_DUNE2_135.mp3)
+FEDAYKIN
+He is in a sacred trance, gathering his holy powers before the final
+battle.
+TRANSLATION
+Junaazaha. Hiyaalaha iferha ezlii wa zamah edhiiya.
+PHONETIC
+ju-NAA-za-ha. hi-YAA-la-ha I-fer-ha EZ-lii wa ZA-mah e-DHII-ya.
+He-is-in-a-trance. He-is-gathering his-powers holy before (the)
+battle final.
+------------------------------------------------------------------(JESSICA_DUNE2_136.mp3)
+JESSICA
+Amen.
+TRANSLATION
+Belal Kaifa.
+
+(CONTINUED)
+
+106
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+46.
+106
+
+PHONETIC
+be-LAL KAI-fa.
+Amen.
+------------------------------------------------------------------108
+
+108
+
+INT. MAKER’S TEMPLE - RIGHT AFTER
+(STILGAR_DUNE2_138.mp3)
+
+STILGAR
+Because he’s the One. The Lisan al-Gaib should find his way to where
+no man has ever been.
+TRANSLATION
+Ru vaija ho Chausij. Ru Lisaan al-Gayib huratha a-chem jillaha so
+redhi a-bit.
+PHONETIC
+ru-VAI-ja ho CHAU-sij. ru li-SAAN al-GA-yib HU-ra-tha a-CHEM JIL-laha SO RE-dhi a-bit.
+Because he (is) the-One. Should Lisan al-Gaib find-his-way to-where
+has-gone no man to-there.
+------------------------------------------------------------------(CHANI_DUNE2_139.mp3)
+CHANI
+You’re insane.
+TRANSLATION
+Zaihaash lek.
+PHONETIC
+ZAI-haash LEK.
+You-drink sand. (Expression)
+------------------------------------------------------------------(STILGAR_DUNE2_140.mp3)
+STILGAR
+He shall come back from the dead with Desert Spring tears.
+TRANSLATION
+Ruha chizzulatha sa mothcha Sihaya.
+(CONTINUED)
+
+108
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+47.
+108
+
+PHONETIC
+RU-ha chiz-ZU-la-tha sa MOTH-cha SI-ha-ya.
+He-shall come-back-from-the-dead with tears of-Desert-Spring.
+------------------------------------------------------------------(CHANI_DUNE2_141B.mp3)
+CHANI
+Bring me a drop of Water of Life.
+TRANSLATION
+Nazdhanii ekkercha Ekkera Eddema.
+PHONETIC
+NAZ-dha-nii ek-KER-cha EK-ke-ra ED-de-ma.
+Bring-me drop of-Water of-Life.
+------------------------------------------------------------------(STILGAR_DUNE2_164.mp3)
+STILGAR
+As written.
+TRANSLATION
+Qithlasha.
+PHONETIC
+QITH-la-sha.
+It-was-written.
+------------------------------------------------------------------112
+
+112
+
+INT. ASSEMBLY CHAMBER - MORNING
+(PAUL_DUNE2_142.mp3)
+PAUL
+Do you smash a knife before going to BATTLE?
+TRANSLATION
+Vii juraak dimbi wak ZAMAHA?
+PHONETIC
+VII ju-RAAK DIM-bi wak ZA-ma-ha?
+
+(CONTINUED)
+
+112
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+48.
+112
+
+Do you-smash knife before-you BATTLE?
+------------------------------------------------------------------(PAUL_DUNE2_143.mp3)
+PAUL
+There is no one in this room who can stand against me.
+TRANSLATION
+Unara sot un-taufih zihi nifribit qummunii.
+PHONETIC
+U-na-ra SOT un-TAU-fih ZI-hi NIF-ri-bit QUM-mu-nii.
+There-is no-one in-room this can-who stand-against-me.
+------------------------------------------------------------------(PAUL_DUNE2_144.mp3)
+PAUL
+Your mothers warned you about my coming. Fear the moment.
+TRANSLATION
+Qaubaka kaalik akaa rii hurayi. Jaha ish.
+PHONETIC
+QAU-ba-ka KAA-lik a-KAA rii HU-ra-yi. JA-ha ish.
+Warned-they mothers-your you about my-coming. Fear (the) moment.
+------------------------------------------------------------------(PAUL_DUNE2_145.mp3)
+PAUL (CONT'D)
+You think you could have a chance.
+TRANSLATION
+E she minaazash nifrish qira sahiim zaihadh.
+PHONETIC
+e SHE mi-NAA-zash NI-frish QI-ra sa-HIIM ZAI-hadh.
+And you think you-can stand as champion.
+------------------------------------------------------------------(PAUL_DUNE2_146B.mp3)
+(CONTINUED)
+
+112
+
+Dune: Part Two
+CONTINUED: (2)
+
+Language Translations
+
+11/20/22
+
+49.
+112
+
+PAUL (CONT'D)
+But you’re afraid: What if he could be the One? This could be the
+moment you’ve been waiting for all your life. You’re praying now--to
+your grandmother--who passed away nine moons ago. She lost an eye. A
+rock had smashed her face as she was crossing the Belt. She was
+twelve when it happened. At that time, this world had a Fremen name-Dune.
+TRANSLATION
+Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit o
+eddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevi
+barthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalaha
+Jeske obit. Sayyaha airhur zaad hi thaa nishi vannaha obit. O erle
+chausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis.
+PHONETIC
+is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bit
+o ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bit
+NAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YImash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD hi
+THAA ni-shi VAN-na-ha o-bit. o ER-le CHAU-si, ja-RAA-mas-ha AB-zih
+ZI-hi sa KYUR-tu FREM-nii--ho LE-kis.
+But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is)
+(the) moment you-have-waited-for-which during life-your all. You-arepraying now--to-your-grandmother--who-died at-months nine ago. Shelost (an) eye. It-had-smashed (a) rock her-face at-the-time she-wascrossing (the) Belt during-it. She-had-walked years twelve at-thatmoment it-occurred during-it. During time that, it-was-being-called
+world this by name Fremen--it-was Dune.
+------------------------------------------------------------------(HFIGHTER_DUNE2_188.mp3)
+HUGE FIGHTER
+Lisan al-Gaib!
+TRANSLATION
+Lisaan al-Gayib!
+PHONETIC
+li-SAAN al-GA-yib!
+Lisan al-Gaib!
+------------------------------------------------------------------(PAUL_DUNE2_147A.mp3)
+
+(CONTINUED)
+
+112
+
+Dune: Part Two
+CONTINUED: (3)
+
+Language Translations
+
+11/20/22
+
+50.
+112
+
+PAUL
+In your nightmares, you give water to the dead. And it brings joy to
+your heart.
+TRANSLATION
+Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbi
+hukrash.
+PHONETIC
+un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dhaha CHIM-bi hu-krash.
+In-nightmares-your, you-give water to-the-dead. And it-brings joy toyour-heart.
+------------------------------------------------------------------(PAUL_DUNE2_148.mp3)
+PAUL
+Green Paradise.
+TRANSLATION
+Shiidhgim Sharii.
+PHONETIC
+SHIIDH-gim sha-RII.
+Paradise Green.
+------------------------------------------------------------------(PAUL_DUNE2_178.mp3)
+PAUL
+The Hand of God be my witness, I am the Voice from the Outer World.
+I will lead you to PARADISE.
+TRANSLATION
+E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk aSHIDHGIM.
+PHONETIC
+e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-la
+ruk a-SHIDH-gim.
+O Hand of-God, witness-me: I (am) Lisan al-Gaib. I-will lead you toParadise.
+-------------------------------------------------------------------
+
+(CONTINUED)
+
+112
+
+Dune: Part Two
+CONTINUED: (4)
+
+Language Translations
+
+11/20/22
+
+51.
+112
+
+(ALLFREMEN_DUNE2_189.mp3)
+ALL FREMEN
+LISAN AL-GAIB!
+TRANSLATION
+LISAAN AL-GAYIB!
+PHONETIC
+li-SAAN al-GA-yib!
+LISAN AL-GAIB!
+------------------------------------------------------------------120
+
+120
+
+INT. ARRAKEEN / MOUNTAINS - DAY
+(SHISHAKLI_DUNE2_151.mp3)
+SHISHAKLI
+A mighty one, Muad’Dib! A great grandmother of a storm.
+TRANSLATION
+Ojij, e Mwaddib! Afshil al-kalig.
+PHONETIC
+O-jij, e mwad-DIB! AF-shil al-KA-lig.
+A-mighty-one, O Desert-Mouse! (A) storm great-grandmother.
+
+------------------------------------------------------------------123
+
+EXT. MOUNTAINS - CONTINUOUS
+
+123
+
+(CHANI_DUNE2_153.mp3)
+CHANI
+Let’s free Dune.
+TRANSLATION
+Rum gassu Lekse.
+PHONETIC
+RUM GAS-su LEK-se.
+Let’s free Dune.
+-------------------------------------------------------------------
+
+(CONTINUED)
+
+123
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+52.
+123
+
+(PAUL_DUNE2_154A.mp3) & (FREMENARMY_DUNE2_155A.mp3)
+PAUL/WHOLE FREMEN ARMY
+LONG LIVE THE FIGHTERS!!!
+TRANSLATION
+ADDAAM RESHII A-ZAANTA!!!
+PHONETIC
+ad-DAAM RE-shii a-ZAAN-ta!
+Lives long to-the-fighters!
+------------------------------------------------------------------126
+
+INT. IMPERIAL TENT - SAME MOMENT
+
+126
+
+(PAUL_DUNE2_156A.mp3)
+PAUL
+Bring the prisoners to the Residency. Kill the Sardaukar. Give the
+Baron’s body to the desert.
+TRANSLATION
+Dinla thoddhat Hozjom. Vizdha Sardaakra. Dhika than Dhonaj a-reshme.
+PHONETIC
+DIN-la THODH-dhat HOZ-jom. VIZ-dha sar-DAA-kra. DHI-ka THAN DHO-naj
+a-RESH-me.
+Bring prisoners to-Residency. Kill (the) Sardaukar. Give (the) body
+of-the-Baron to-the-desert.
+------------------------------------------------------------------(STILGAR_DUNE2_157.mp3)
+STILGAR
+Yes, Muad’Dib.
+TRANSLATION
+Charra, e Mwaddib.
+PHONETIC
+CHAR-ra, e mwad-dib.
+Yes, O Desert-Mouse.
+-------------------------------------------------------------------
+
+Dune: Part Two
+131
+
+Language Translations
+
+INT. ARRAKEEN RESIDENCY WAR ROOM - RISING SUN
+
+11/20/22
+
+53.
+131
+
+(ALLFEDAYKIN_DUNE2_179.mp3)
+ALL FEDAYKIN
+LISAN AL-GAIB!!!!
+TRANSLATION
+LISAAN AL-GAYIB!!!!
+PHONETIC
+li-SAAN al-GA-yib!!!!
+Lisan al-Gaib!!!!
+------------------------------------------------------------------- *
+XXX
+
+EXT. STILGAR ASKING PAUL TO CROSS AN ERG
+
+XXX *
+*
+
+(CHANI_DUNE2_203.mp3)
+CHANI
+He doesn’t know how to cross! Stilgar is going to get him killed.
+What is he trying to prove?
+
+*
+*
+*
+
+*
+TRANSLATION
+So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama *
+*
+gif chaiyi?
+PHONETIC
+SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho.
+hesh-SHYUU-ha-ma GIF CHAI-yi?
+
+*
+*
+*
+
+*
+Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To- *
+*
+prove-to-us what? (Expression)
+------------------------------------------------------------------- *
+*
+
+(SHISHAKLI_DUNE2_204.mp3)
+SHISHAKLI
+What do you think?
+
+*
+*
+
+TRANSLATION
+Minaazash che?
+
+*
+*
+
+PHONETIC
+mi-NAA-zash CHE?
+
+*
+*
+
+You-think what?
+
+*
+*
+(CONTINUED)
+
+XXX
+
+Dune: Part Two
+CONTINUED:
+
+Language Translations
+
+11/20/22
+
+54.
+XXX
+
+------------------------------------------------------------------- *
+(SHISHAKLI_DUNE2_205.mp3)
+
+*
+
+*
+SHISHAKLI
+He shall know the ways of the desert. I think it’s all for the best. *
+*
+(off Chani’s look) What? You care for him now?
+*
+TRANSLATION
+Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off Chani’s look) *
+*
+Ru-che? Abraachashho vadzih?
+*
+PHONETIC
+RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off Chani’s *
+*
+look) ru-CHE? a-BRAA-chash-ho vad-zih?
+He-shall know (the) ways of-the-desert. I-think it (is) to-thegreater-good. (off Chani’s look) What? You-care-for-him now?
+
+*
+*
+*
+
+------------------------------------------------------------------- *
+(CHANI_DUNE2_206.mp3)
+
+*
+
+CHANI
+He’s not like the other strangers. I feel he’s sincere.
+
+*
+*
+
+TRANSLATION
+Ho so sahiim laiksat oziiyag. Minaazii ho vejii.
+
+*
+*
+
+PHONETIC
+ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.
+
+*
+*
+
+He not (is) like strangers others. I-believe he (is) sincere.
+
+*
+*
+
+------------------------------------------------------------------- *
+
+

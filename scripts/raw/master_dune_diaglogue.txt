@@ -1,0 +1,823 @@
+Dune
+Language Translations
+David J. Peterson
+Revised 09/27/20
+
+KEY:
+(Title of Associated .mp3 File)
+CHARACTER NAME
+English dialogue as written.
+TRANSLATION
+Official transcription for closed captioning and subtitles.
+PHONETIC
+fo-NE-tik REN-dur-ing
+Literal translation.
+------------------------------------------------------------------37
+
+INT. DINING HALL - DAY
+
+37
+
+(JESSICA_DUNE_10.mp3)
+JESSICA
+You’re Fremen.
+TRANSLATION
+She Fremin.
+PHONETIC
+she FRE-min.
+You (are) Fremen.
+------------------------------------------------------------------(JESSICA_DUNE_11.mp4)
+JESSICA
+Not now.
+TRANSLATION
+(Please see video.)
+
+(CONTINUED)
+
+37
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+2.
+
+37
+
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------(JESSICA_DUNE_12.mp4)
+JESSICA
+Be ready for violence.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------39
+
+INT. PAUL’S ROOM - DAY
+
+39
+
+(SMAPES_DUNE_1.mp3)
+SHADOUT MAPES
+He shall hold life and death in his hands.
+TRANSLATION
+Ruha bela eddem hi uzzul un-raudhiha.
+PHONETIC
+RU-ha be-la ed-DEM hi uz-ZUL un-RAU-dhi-ha.
+(It is) to-him to-hold life and death in-hands-his.
+------------------------------------------------------------------45
+
+EXT. ARRAKEEN LANDING - TARMAC - DAY
+
+45
+
+(DIDAHO_DUNE_8.mp3)
+DUNCAN IDAHO
+Go with them in peace.
+TRANSLATION
+Jila hiyak sa fadla.
+
+(CONTINUED)
+
+45
+
+Dune
+
+CONTINUED:
+
+Language Translations
+
+09/27/20
+
+3.
+
+45
+
+PHONETIC
+JI-la hi-yak sa FAD-la.
+Go with-them in peace.
+------------------------------------------------------------------46
+
+INT. RESIDENCY - WAR ROOM - DAY
+
+46
+
+(STILGAR_DUNE_2.mp3)
+STILGAR
+I recognize you.
+TRANSLATION
+Heshiigiishii.
+PHONETIC
+he-shii-GII-shii.
+I-recognize-you.
+------------------------------------------------------------------48
+
+INT. ARRAKEEN RESIDENCY - AIRCRAFT BAY - MORNING
+
+48
+
+(KYNES_DUNE_3.mp3)
+KYNES
+He shall know your ways as though born to them.
+TRANSLATION
+Ruha leda gefthek sahiimbit qullaha hiyak.
+PHONETIC
+RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.
+(It is) to-him to-know ways-your as-one-who was-born with-them.
+------------------------------------------------------------------55A
+
+EXT. SALUSA SECUNDUS - MILITARY SPACEPORT - DAY
+
+55A
+
+(SPRIEST_DUNE_8.mp3), (SPRIEST_DUNE_8_PT1-6.mp3), &
+(SPRIEST_DUNE_8_EXP.mp3)
+SARDAUKAR PRIEST
+(Chanting)
+(CONTINUED)
+
+55A
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+4.
+
+55A
+
+TRANSLATION
+Ts’om brovüch’on gokhulzhon dzoq’ayh qaldayh gum.
+Hölgör römbözh åzqådözh t’urukh sündukh gun.
+Mandon gözdöl våbrukh shok’ubukh qotskå gur.
+P’an ts’ayzuvöl sat ro’ayqözh hölubözh guz.
+Khannon bülnon sat k’åröt’özh åtsürözh guz.
+Jovayh söklöl gådzunöl sat nuvåqözh gur.
+PHONETIC
+TS’OM bro-vü-ch’on go-khul-zhon dzo-q’ayh qal-dayh guuuuuum.
+HÖL-gör röm-bözh åz-qa-dözh t’u-rukh sün-dukh guuuuuun.
+MAN-don göz-döl vå-brukh sho-k’u-bukh qots-kå guuuuuur.
+P’AN ts’ay-zu-völ sat ro-’ay-qözh hö-lü-bözh guuuuuuz.
+KHAN-non bül-non sat k’å-rö-t’özh åt-sü-rözh guuuuuuz.
+JO-vayh sök-löl gåd-zu-nöl sat nu-vå-gözh guuuuuur.
+------------------------------------------------------------------84
+
+INT. RESIDENCY CORRIDOR - MINUTES LATER
+
+84
+
+(PAUL_DUNE_4.mp4)
+PAUL
+The scarred one is deaf.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------88
+
+INT. ORNITHOPTER (IN FLIGHT) - CONTINUOUS
+
+88
+
+(DTROOPER_DUNE_5.mp4) & (DTROOPER_DUNE_EXP.mp4)
+DEAF TROOPER
+Let’s feed the cub to the worms and give her a long goodbye.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+
+(CONTINUED)
+
+88
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+5.
+
+88
+
+------------------------------------------------------------------(DTROOPER_DUNE_6.mp4) & (DTROOPER_DUNE_EXP.mp4)
+DEAF TROOPER
+Don’t talk.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------(JESSICA_DUNE_13.mp4)
+JESSICA
+Don’t do this. You are not ready!
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------(JESSICA_DUNE_14.mp4)
+JESSICA
+Your pitch was too high.
+TRANSLATION
+(Please see video.)
+PHONETIC
+(Please see video.)
+(Please see video.)
+------------------------------------------------------------------132
+
+EXT. ROCKY BASIN - NIGHT
+
+132
+
+(MFREMEN_DUNE_18.mp3)
+(CONTINUED)
+
+132
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+6.
+
+132
+
+MALE FREMEN (O.S.)
+They are not of the desert!
+TRANSLATION
+Kaah so is-reshma!
+PHONETIC
+kaah SO is-RESH-ma!
+They (are) not from-desert!
+------------------------------------------------------------------(STILGAR_DUNE_7A.mp3)
+STILGAR
+The night is fading. We must reach Sietch Tabr. The fates of these
+strangers will be decided there. Until then they have my
+countenance! My word is on them.
+TRANSLATION
+Zeyaashaha qumih. Oma jiladha a-Sich Tabra. Ru vaanar liikasat ziha
+dimadhagas chos. A-vannat belilii hiyak! Ukairibii unak.
+PHONETIC
+ze-YAA-sha-ha QU-mih. o-ma JI-la-dha a-SICH TAB-ra. ru VAA-nar LIIka-sat zi-ha DI-ma-dha-gas CHOS. a-VAN-nat BE-li-lii hi-yak! u-KAIri-bii u-nak.
+Is-fading night. (It is) on-us to-reach to-Sietch Tabr. (It is) for
+fates of-strangers these to-be-decided there. Until-then countenancemy (is) with-them! Promise-my (is) upon-them.
+------------------------------------------------------------------(JESSICA_DUNE_15.mp3)
+JESSICA
+Tell them to stop hunting my son.
+TRANSLATION
+Jarakaa hadha vizala kwadii.
+PHONETIC
+JA-ra-kaa HA-dha VI-za-la KWA-dii.
+Tell-them to-stop to-hunt son-my.
+------------------------------------------------------------------(GROUP_DUNE_19.mp3)
+(CONTINUED)
+
+132
+
+CONTINUED: (2)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+7.
+
+132
+
+GROUP
+Let’s go.
+TRANSLATION
+A-gef.
+PHONETIC
+a-GEF.
+To-the-path.
+------------------------------------------------------------------132B EXT. ROCKY BASIN - PRE-DAWN
+
+132B
+
+(FREMEN_DUNE_9.mp3)
+FREMEN
+By power! By might! Strike him! Strike fast! Hey Jamis! Jump! Make
+him see! Use your blade! Kill him!
+TRANSLATION
+Sah-ifir! Sa-garga! Tasaho! Tasa nichii! E Jamis! Faiza! Hesshyuho!
+Aga dimash! Uzzulluho!
+PHONETIC
+sa-hi-FIR! sa-GAR-ga! TA-sa-ho! TA-sa NI-chii! e JA-mis! FAI-za!
+HESH-shyu-ho! A-ga DI-mash! uz-ZUL-lu-ho!
+By-power! By-might! Strike-him! Strike quickly! O Jamis! Jump! Makesee-him! Use blade-your! Kill-him!
+------------------------------------------------------------------(STILGAR_DUNE_16.mp3)
+STILGAR
+Silence!
+TRANSLATION
+Fashii!
+PHONETIC
+fa-SHII!
+Silently!
+------------------------------------------------------------------(MFREMEN_DUNE_20.mp3)
+(CONTINUED)
+
+Dune
+
+132B CONTINUED:
+
+Language Translations
+
+09/27/20
+
+8.
+132B
+
+MALE FREMEN
+We must get his body’s water.
+TRANSLATION
+Oma hiila ekker is-thanaha.
+PHONETIC
+O-ma HII-la ek-KER is-THA-na-ha.
+(It is) on-us to-collect water from-body-his.
+------------------------------------------------------------------(FFREMEN_DUNE_21.mp3)
+FEMALE FREMEN
+Quick! Quick!
+TRANSLATION
+Nichii! Nichii!
+PHONETIC
+ni-CHII! ni-CHII!
+Quickly! Quickly!
+------------------------------------------------------------------132C EXT. MINUTES LATER - DAWN (BEFORE SUNRISE)
+
+132C
+
+(STILGAR_DUNE_17.mp3)
+STILGAR
+Welcome!
+TRANSLATION
+Ekkerim a-kairash!
+PHONETIC
+EK-ke-rim a-KAI-rash!
+Water-our to-water-your!
+------------------------------------------------------------------ADR
+
+POSTPRODUCTION
+
+ADR
+
+(GROUP_DUNE_22.mp3)
+
+(CONTINUED)
+
+ADR
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+9.
+
+ADR
+
+GROUP
+Do you really think he is the One?
+TRANSLATION
+Vii minaazashaho vejii ho Chausij?
+PHONETIC
+vii mi-NAA-za-sha-ho ve-JII ho CHAU-sij?
+Do you-think-it truly (that) he (is) the-One?
+------------------------------------------------------------------(GROUP_DUNE_23.mp3)
+GROUP
+Liet favors him.
+TRANSLATION
+Yazaalahao Liiyet.
+PHONETIC
+ya-ZAA-la-ha-o LII-yet.
+He-favors-him Liet.
+------------------------------------------------------------------(GROUP_DUNE_24.mp3)
+GROUP
+He looks young to me.
+TRANSLATION
+Azaagahayi ho ludhii.
+PHONETIC
+a-ZAA-ga-ha-yi ho lu-DHII.
+It-appears-to-me (that) he is-young.
+------------------------------------------------------------------(GROUP_DUNE_25.mp3)
+GROUP
+Good coffee, friend.
+TRANSLATION
+Oggori cheshii, e akshahii.
+
+(CONTINUED)
+
+ADR
+
+CONTINUED: (2)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+10.
+
+ADR
+
+PHONETIC
+OG-go-ri che-SHII, e AK-sha-hii.
+Coffee good, O friend.
+------------------------------------------------------------------(GROUP_DUNE_26.mp3)
+GROUP
+How can he be the One?
+TRANSLATION
+Is-kiftha chaiya ho Chausij?
+PHONETIC
+is-KIF-tha CHAI-ya HO CHAU-sij?
+In-way what he (is) the-One?
+------------------------------------------------------------------ADR
+
+VOICE COMMANDS
+
+ADR
+
+(GROUP_DUNE_27.mp3)
+GROUP
+Come here.
+TRANSLATION
+Khura zikh.
+PHONETIC
+KHU-ra ZIKH.
+Come here.
+------------------------------------------------------------------(GROUP_DUNE_28.mp3)
+GROUP
+Kneel.
+TRANSLATION
+Mursha.
+PHONETIC
+MUR-sha.
+
+(CONTINUED)
+
+ADR
+
+CONTINUED:
+
+Dune
+
+Language Translations
+
+09/27/20
+
+11.
+
+ADR
+
+Kneel.
+------------------------------------------------------------------(GROUP_DUNE_29.mp3)
+GROUP
+Stop.
+TRANSLATION
+Khadha.
+PHONETIC
+KHA-dha.
+Stop.
+------------------------------------------------------------------(GROUP_DUNE_30.mp3)
+GROUP
+Drink the flame.
+TRANSLATION
+Zaikha lishki.
+PHONETIC
+ZAI-kha LISH-ki.
+Drink the-flame.
+------------------------------------------------------------------(GROUP_DUNE_31.mp3)
+GROUP
+Remove her gag.
+TRANSLATION
+Dindhakho fashibakha.
+PHONETIC
+DIN-dha-kho fa-SHI-ba-kha.
+Remove her-gag.
+------------------------------------------------------------------(GROUP_DUNE_32.mp3)
+(CONTINUED)
+
+ADR
+
+CONTINUED: (2)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+12.
+
+ADR
+
+GROUP
+Kill him. Now.
+TRANSLATION
+Vidzakho. Vadzikh.
+PHONETIC
+VID-za-kho. VAD-zikh.
+Kill-him. Now.
+------------------------------------------------------------------(GROUP_DUNE_33.mp3)
+GROUP
+Set us free.
+TRANSLATION
+Ghassuma.
+PHONETIC
+GHAS-su-ma.
+Free-us.
+------------------------------------------------------------------(GROUP_DUNE_34.mp3)
+GROUP
+Cut me loose.
+TRANSLATION
+Ghassunii sa dimbi.
+PHONETIC
+GHAS-su-nii sa DIM-bi.
+Free-me with a-knife.
+------------------------------------------------------------------(GROUP_DUNE_35.mp3)
+GROUP
+Give me the knife.
+TRANSLATION
+Dhiklanii dimbi.
+
+(CONTINUED)
+
+ADR
+
+CONTINUED: (3)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+13.
+
+ADR
+
+PHONETIC
+DHIK-la-nii DIM-bi.
+Give-it-me the-knife.
+------------------------------------------------------------------(GROUP_DUNE_36.mp3)
+GROUP
+Get off of me.
+TRANSLATION
+Chiveldhanii.
+PHONETIC
+chi-VEL-dha-nii.
+Get-off-of-me.
+------------------------------------------------------------------(GROUP_DUNE_37.mp3)
+GROUP
+Kwisatz Haderach.
+TRANSLATION
+Kwisats Khaderach.
+PHONETIC
+KWI-sats KHA-de-rach.
+Kwisatz Haderach.
+------------------------------------------------------------------(GROUP_DUNE_38.mp3)
+GROUP
+Muad’Dib.
+TRANSLATION
+Mwad Dib.
+PHONETIC
+MWAD DIB.
+Muad’Dib.
+
+(CONTINUED)
+
+ADR
+
+CONTINUED: (4)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+14.
+
+ADR
+
+------------------------------------------------------------------(GROUP_DUNE_39.mp3)
+GROUP
+Lisan al-Gaib.
+TRANSLATION
+Lisan al Ghaib.
+PHONETIC
+LI-san al GHAIB.
+Lisan al-Gaib.
+------------------------------------------------------------------(GROUP_DUNE_40.mp3)
+GROUP
+Paul.
+TRANSLATION
+Paul.
+PHONETIC
+PAUL.
+Paul.
+------------------------------------------------------------------(GROUP_DUNE_41.mp3)
+GROUP
+Paul Atreides.
+TRANSLATION
+Paul Atreidis.
+PHONETIC
+PAUL a-TRE-i-dis.
+Paul Atreides.
+------------------------------------------------------------------(FREMEN1_DUNE_42.mp3)
+
+*
+
+FREMEN 1
+Do you really think he is the Mahdi?
+
+*
+*
+(CONTINUED)
+
+ADR
+
+CONTINUED: (5)
+
+Dune
+
+Language Translations
+
+09/27/20
+
+15.
+
+ADR
+
+TRANSLATION
+Vii minaazashaho vejii ho Mahdi?
+
+*
+*
+
+PHONETIC
+vii mi-NAA-za-sha-ho ve-JII ho MAH-di?
+
+*
+*
+
+Do you-think-it truly (that) he (is) the-Mahdi?
+
+*
+*
+
+------------------------------------------------------------------- *
+(FREMEN2_DUNE_43.mp3)
+
+*
+
+FREMEN 2
+Hmm... I don’t know. He could be...
+
+*
+*
+
+TRANSLATION
+Hann... So ledii. Nifriha miniza...
+
+*
+*
+
+PHONETIC
+hann... SO LE-dii. NI-fri-ha MI-ni-za...
+
+*
+*
+
+Hmm... Not I-know. One-is-able to-believe...
+
+*
+*
+
+------------------------------------------------------------------- *
+(FREMEN3_DUNE_44.mp3)
+
+*
+
+FREMEN 3
+I’ve heard tell of the Lisan al Ghaib but...could it really be?
+
+*
+*
+
+TRANSLATION
+Marriiho ahsah Lisan al Gaib, is-nata...ho vejii, vii minaazash?
+
+*
+*
+
+PHONETIC
+*
+mar-RII-ho AH-sah LI-san al GAIB, is-na-ta...HO ve-JII, vii mi-NAA- *
+zash?
+*
+*
+I-have-heard whispers of-Lisan al Khaib, but...he (is) real, do you- *
+believe?
+*
+------------------------------------------------------------------- *
+(FREMEN1_DUNE_45.mp3)
+
+*
+
+FREMEN 1
+I think he may be the chosen one, but he seems too young to lead.
+
+*
+*
+
+TRANSLATION
+*
+Shi ho Chausij, minaazii, h’is-nata marrasha ho ludhii omaiz dimala. *
+
+(CONTINUED)
+
+ADR
+
+CONTINUED: (6)
+SHI ho CHAU-sij,
+
+Dune
+
+Language Translations
+
+09/27/20
+
+16.
+
+ADR
+
+PHONETIC
+*
+mi-NAA-zii, his-NA-ta MAR-ra-sha HO lu-DHII o-MAIZ *
+DI-ma-la.
+*
+
+*
+Maybe he (is) (the) Chosen-one, I-believe, however it-seems he (is) *
+young too-much to-lead.
+*
+------------------------------------------------------------------- *
+(FREMEN2_DUNE_46.mp3)
+
+*
+
+FREMEN 2
+How are we to know? Will there be a sign?
+
+*
+*
+
+TRANSLATION
+Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?
+
+*
+*
+
+PHONETIC
+is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?
+
+*
+*
+
+By-path which are-we to-know? Is-it-that will-it come (a) sign?
+
+*
+*
+
+------------------------------------------------------------------- *
+
+
