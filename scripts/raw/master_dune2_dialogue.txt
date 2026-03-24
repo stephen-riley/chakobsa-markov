@@ -1744,11 +1744,15 @@ ru-QAA-ha-shii AN-za-ga OG-rog.
 Listen carefully. Soon, will (a) man visit your-temple. May he-askyou to-perform (the) rite.
 ------------------------------------------------------------------(JESSICA_DUNE2_111B.mp3)
 JESSICA (OPTION 1)
-Listen carefully. A man is going to arrive-TRANSLATION
-Marza cheshii. Ru redha hura-PHONETIC
-MAR-za CHE-shii. ru RE-dha HU-ra-Listen carefully. Will (a) come-------------------------------------------------------------------(JESSICA_DUNE2_111C.mp3)
+Listen carefully. A man is going to arrive-
+TRANSLATION
+Marza cheshii. Ru redha hura-
+PHONETIC
+MAR-za CHE-shii. ru RE-dha HU-ra-Listen carefully. Will (a) come-
+------------------------------------------------------------------(JESSICA_DUNE2_111C.mp3)
 JESSICA (OPTION 2)
-Listen carefully. When he arrives, he may-TRANSLATION
+Listen carefully. When he arrives, he may-
+TRANSLATION
 Marza cheshii. Nishi huraaha obit, shi-(CONTINUED)
 
 90
@@ -1765,7 +1769,8 @@ Language Translations
 90
 
 PHONETIC
-MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi-Listen carefully. At-the-time he-arrives then, may (he)-------------------------------------------------------------------(MKEEPER_DUNE2_191.mp3)
+MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi-Listen carefully. At-the-time he-arrives then, may (he)
+-------------------------------------------------------------------(MKEEPER_DUNE2_191.mp3)
 MAKER KEEPER
 No, I can’t perform the rite.
 TRANSLATION
@@ -1924,9 +1929,12 @@ RU-yi SO-la-gas.
 I-should be-welcomed.
 ------------------------------------------------------------------(MKEEPER_DUNE2_129.mp3)
 MAKER KEEPER
-If you are the One-TRANSLATION
-Hu she Chausij-PHONETIC
-hu SHE CHAU-sij-If you (are) the-One-------------------------------------------------------------------(MKEEPER_DUNE2_130A.mp3)
+If you are the One-
+TRANSLATION
+Hu she Chausij-
+PHONETIC
+hu SHE CHAU-sij-If you (are) the-One-
+------------------------------------------------------------------(MKEEPER_DUNE2_130A.mp3)
 (CONTINUED)
 
 104
