@@ -1,1008 +1,1554 @@
 [
    {
-      "line" : "1/10",
-      "phonetic" : "fo-NE-tik REN-dur-ingLiteral translation.",
-      "translation" : "Official transcription for closed captioning and subtitles."
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Here. (When handing something to someone.)",
+      "chakobsa_translation": "Sah.",
+      "phonetic_transcription": "SAH.",
+      "translation_english": "Take."
+   },
+   {
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Here. There. Over there. (When pointing to a location.)",
+      "chakobsa_translation": "Zih. Nat. Chos.",
+      "phonetic_transcription": "ZIH. NAT. CHOS.",
+      "translation_english": "Here. There. Yonder."
+   },
+   {
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Stay here.",
+      "chakobsa_translation": "Tamra zih.",
+      "phonetic_transcription": "TAM-ra ZIH.",
+      "translation_english": "Stay here."
+   },
+   {
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Keep an eye out.",
+      "chakobsa_translation": "Yoheshya.",
+      "phonetic_transcription": "YO-hesh-ya.",
+      "translation_english": "Keep-an-eye-out."
+   },
+   {
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Quickly! Quick-quick!",
+      "chakobsa_translation": "Nichii! Nich-nich!",
+      "phonetic_transcription": "ni-CHII! NICH-NICH!",
+      "translation_english": "Quickly! Hurry-hurry!"
+   },
+   {
+      "scene": "BG",
+      "character": "GROUP",
+      "english_dialogue": "Take your positions.",
+      "chakobsa_translation": "Chahma ofmak.",
+      "phonetic_transcription": "CHAH-ma OF-mak.",
+      "translation_english": "Fall-into spots-your."
+   },
+   {
+      "scene": 10,
+      "character": "STILGAR",
+      "english_dialogue": "We must leave.",
+      "chakobsa_translation": "Oma isadha.",
+      "phonetic_transcription": "O-ma I-sa-dha.",
+      "translation_english": "We-must leave."
+   },
+   {
+      "scene": 10,
+      "character": "STILGAR",
+      "english_dialogue": "All that water: Lost!",
+      "chakobsa_translation": "Kemim ekkera: Haraadhas-ha!",
+      "phonetic_transcription": "KE-mim EK-ke-ra: ha-RAA-dhas-ha!",
+      "translation_english": "All-of-that water: Lost!"
+   },
+   {
+      "scene": 10,
+      "character": "STILGAR",
+      "english_dialogue": "She is not fit for the desert!",
+      "chakobsa_translation": "So nifriha sayadha un-reshim!",
+      "phonetic_transcription": "SO NI-fri-ha SA-ya-dha un-RE-shim!",
+      "translation_english": "Not can-she be-fit for-the-desert!"
+   },
+   {
+      "scene": 12,
+      "character": "SENTINELS LEADER",
+      "english_dialogue": "You're not welcome here.",
+      "chakobsa_translation": "So unaarahashii fadil zih.",
+      "phonetic_transcription": "so u-NAA-ra-ha-shii FA-dil zih.",
+      "translation_english": "Not is-for-you peace here."
+   },
+   {
+      "scene": 14,
+      "character": "STILGAR",
+      "english_dialogue": "Sietch Tabr.",
+      "chakobsa_translation": "Sich Tabr.",
+      "phonetic_transcription": "SICH TA-br.",
+      "translation_english": "Sietch Tabr."
+   },
+   {
+      "scene": 14,
+      "character": "GROUP",
+      "english_dialogue": "What are they doing here? WITCH! SPIES! Leave them to the desert! IMPOSTOR! Mahdi! Are you the Lisan al-Gaib?",
+      "chakobsa_translation": "Ru-che kaah zih? CHIFTHIT! RAABJIL! Sahtha reshme noqadhakaa! ZOTHIB! E Mahdi! Vii she Lisaan al-Gayib?",
+      "phonetic_transcription": "ru-CHE KAAH ZIH? CHIF-thit! RAAB-jil! SAH-tha RESH-me NO-qa-dha-kaa! ZO-thib! e MAH-di! VII she li-SAAN al-GA-yib?",
+      "translation_english": "For-what they here? WITCH! SPIES! Let (the) desert devour-them! IMPOSTOR! O Mahdi! Are you Lisan al-Gaib?"
+   },
+   {
+      "scene": 14,
+      "character": "CHANI",
+      "english_dialogue": "You heard Stilgar. Move.",
+      "chakobsa_translation": "Marraka Stilgar. Jila.",
+      "phonetic_transcription": "MAR-ra-ka STIL-gar JI-la.",
+      "translation_english": "You-have-heard Stilgar. Move."
    },
    {
-      "line" : "1/24",
-      "phonetic" : "she FRE-min.You (are) Fremen.",
-      "translation" : "She Fremin."
+      "scene": 14,
+      "character": "ALPHA CHILD",
+      "english_dialogue": "He's no Mahdi!",
+      "chakobsa_translation": "Ho so Mahdi!",
+      "phonetic_transcription": "ho SO MAH-di!",
+      "translation_english": "He (is) no Mahdi!"
    },
    {
-      "line" : "1/32",
-      "phonetic" : "(Please see video.)(Please see video.)",
-      "translation" : "(Please see video.)(CONTINUED)37CONTINUED:DuneLanguage Translations09/27/202.37"
+      "scene": 15,
+      "character": "PAUL",
+      "english_dialogue": "Why should I be?",
+      "chakobsa_translation": "Ru-che ne Mahdi?",
+      "phonetic_transcription": "ru-CHE ne MAH-di?",
+      "translation_english": "Why-should I (be) Mahdi?"
    },
    {
-      "line" : "1/71",
-      "phonetic" : "RU-ha be-la ed-DEM hi uz-ZUL un-RAU-dhi-ha.(It is) to-him to-hold life and death in-hands-his.",
-      "translation" : "Ruha bela eddem hi uzzul un-raudhiha."
+      "scene": 15,
+      "character": "WATERMASTER",
+      "english_dialogue": "Who killed Jamis?",
+      "chakobsa_translation": "Vizdhaha che Jamsa?",
+      "phonetic_transcription": "VIZ-dha-ha CHE JAM-sa?",
+      "translation_english": "Killed-him who Jamis?"
    },
    {
-      "line" : "1/85",
-      "phonetic" : "JI-la hi-yak sa FAD-la.Go with-them in peace.",
-      "translation" : "Jila hiyak sa fadla.(CONTINUED)45DuneCONTINUED:Language Translations09/27/203.45"
+      "scene": 15,
+      "character": "STILGAR",
+      "english_dialogue": "He did.",
+      "chakobsa_translation": "Ho nat.",
+      "phonetic_transcription": "HO NAT.",
+      "translation_english": "He there."
    },
    {
-      "line" : "1/116",
-      "phonetic" : "he-shii-GII-shii.I-recognize-you.",
-      "translation" : "Heshiigiishii."
+      "scene": 15,
+      "character": "CHANI",
+      "english_dialogue": "This has to be done as soon as possible otherwise we lose much of the water.",
+      "chakobsa_translation": "O zihki lefadhas nichaiza hu haraadhim kimme ekkera.",
+      "phonetic_transcription": "o ZIH-ki LE-fa-dhas ni-CHAI-za hu ha-RAA-dhim KIM-me EK-ke-ra.",
+      "translation_english": "(It is) on this to-be-accomplished most-quickly lest we-lose (the) bulk of-the-water."
    },
    {
-      "line" : "1/130",
-      "phonetic" : "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.(It is) to-him to-know ways-your as-one-who was-born with-them.",
-      "translation" : "Ruha leda gefthek sahiimbit qullaha hiyak."
+      "scene": 15,
+      "character": "WATERMASTER",
+      "english_dialogue": "Jamis's body yields thirty-three liters and seven drachms of water. Yours by right.",
+      "chakobsa_translation": "Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qels-shoq akkaarcha ekkera. Rush wa nukah.",
+      "phonetic_transcription": "BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suun-ZAAD O QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.",
+      "translation_english": "Held body of-Jamis half of-body, forty jars, and five-hundred eight drops of-water. For-you by right."
    },
    {
-      "line" : "1/130",
-      "phonetic" : "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.(It is) to-him to-know ways-your as-one-who was-born with-them.",
-      "translation" : "Ruha leda gefthek sahiimbit qullaha hiyak."
+      "scene": 15,
+      "character": "CHANI",
+      "english_dialogue": "Jamis' water is yours. But your water is ours.",
+      "chakobsa_translation": "Ekkeri is-Chamas rush. Is-nata ekkerish rum.",
+      "phonetic_transcription": "EK-ke-ri is-CHA-mas RUSH. is-NA-ta EK-ke-rish RUM.",
+      "translation_english": "Water from-Jamis (is) for-you. But your-water (is) for-us."
    },
    {
-      "line" : "1/231",
-      "phonetic" : "kaah SO is-RESH-ma!They (are) not from-desert!",
-      "translation" : "Kaah so is-reshma!"
+      "scene": 16,
+      "character": "STILGAR",
+      "english_dialogue": "Stay with them.",
+      "chakobsa_translation": "Tamra hiyak.",
+      "phonetic_transcription": "TAM-ra hi-yak.",
+      "translation_english": "Stay with-them."
    },
    {
-      "line" : "1/241",
-      "phonetic" : "ze-YAA-sha-ha QU-mih. o-ma JI-la-dha a-SICH TAB-ra. ru VAA-nar LIIka-sat zi-ha DI-ma-dha-gas CHOS. a-VAN-nat BE-li-lii hi-yak! u-KAIri-bii u-nak.Is-fading night. (It is) on-us to-reach to-Sietch Tabr. (It is) forfates of-strangers these to-be-decided there. Until-then countenancemy (is) with-them! Promise-my (is) upon-them.",
-      "translation" : "Zeyaashaha qumih. Oma jiladha a-Sich Tabra. Ru vaanar liikasat zihadimadhagas chos. A-vannat belilii hiyak! Ukairibii unak."
+      "scene": 17,
+      "character": "STILGAR",
+      "english_dialogue": "That outsider patrol was too close. We need to engage them further north. Lure them away.",
+      "chakobsa_translation": "Unaaha omaiza hajim qumaj. Oma zamashakaa un-yuchkim ozai. Robbuuchkaa is-sih.",
+      "phonetic_transcription": "u-NAA-ha o-MAI-za HA-jim QU-maj. O-ma ZA-ma-sha-kaa un-YUCH-kim o-ZAI. rob-BUUCH-kaa is-SIH.",
+      "translation_english": "It-was-near too-much patrol outsider. We-must engage-them in-north further. To-lure-them from-here."
    },
    {
-      "line" : "1/251",
-      "phonetic" : "JA-ra-kaa HA-dha VI-za-la KWA-dii.Tell-them to-stop to-hunt son-my.",
-      "translation" : "Jarakaa hadha vizala kwadii."
+      "scene": 17,
+      "character": "FEMALE ELDER",
+      "english_dialogue": "You have our blessing, Stilgar. Attack the enemy further north.",
+      "chakobsa_translation": "Belaalimshii, e Stilgar. Zamha qumju un-yuchkim ozai.",
+      "phonetic_transcription": "be-LAA-lim-shii, e STIL-gar. ZAM-ha QUM-ju un-YUCH-kim o-ZAI.",
+      "translation_english": "We-support-you, O Stilgar. Attack (the) enemy in-north further."
    },
    {
-      "line" : "1/275",
-      "phonetic" : "a-GEF.To-the-path.",
-      "translation" : "A-gef."
+      "scene": 17,
+      "character": "STILGAR",
+      "english_dialogue": "I need your guidance with the two foreigners.",
+      "chakobsa_translation": "Ruqaafiikaa dimalanii rii liksit thaa.",
+      "phonetic_transcription": "ru-QAA-fii-kaa DI-ma-la-nii rii LIK-sit THAA.",
+      "translation_english": "I-beg-you to-guide-me regarding foreigners two."
    },
    {
-      "line" : "1/288",
-      "phonetic" : "sa-hi-FIR! sa-GAR-ga! TA-sa-ho! TA-sa NI-chii! e JA-mis! FAI-za!HESH-shyu-ho! A-ga DI-mash! uz-ZUL-lu-ho!By-power! By-might! Strike-him! Strike quickly! O Jamis! Jump! Makesee-him! Use blade-your! Kill-him!",
-      "translation" : "Sah-ifir! Sa-garga! Tasaho! Tasa nichii! E Jamis! Faiza! Hesshyuho!Aga dimash! Uzzulluho!"
+      "scene": 17,
+      "character": "FEMALE ELDER",
+      "english_dialogue": "Give them back to the desert.",
+      "chakobsa_translation": "Qabdhikakaa a-reshme.",
+      "phonetic_transcription": "QAB-dhi-ka-kaa a-RESH-me.",
+      "translation_english": "Give-them-back to-the-desert."
    },
    {
-      "line" : "1/298",
-      "phonetic" : "fa-SHII!Silently!",
-      "translation" : "Fashii!"
+      "scene": 17,
+      "character": "STILGAR",
+      "english_dialogue": "I saw the signs.",
+      "chakobsa_translation": "Heshkii shyadhza.",
+      "phonetic_transcription": "HESH-kii SHYADH-za.",
+      "translation_english": "I-have-seen (the) signs."
    },
    {
-      "line" : "1/319",
-      "phonetic" : "O-ma HII-la ek-KER is-THA-na-ha.(It is) on-us to-collect water from-body-his.",
-      "translation" : "Oma hiila ekker is-thanaha."
+      "scene": 17,
+      "character": "FEMALE ELDER",
+      "english_dialogue": "Again.",
+      "chakobsa_translation": "Yoshla.",
+      "phonetic_transcription": "YOSH-la.",
+      "translation_english": "Again."
    },
    {
-      "line" : "1/327",
-      "phonetic" : "ni-CHII! ni-CHII!Quickly! Quickly!",
-      "translation" : "Nichii! Nichii!"
+      "scene": 17,
+      "character": "OLDEST ELDER",
+      "english_dialogue": "Stilgar, how many times have you seen the signs? Your faith is playing tricks on you.",
+      "chakobsa_translation": "E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhash a-fii.",
+      "phonetic_transcription": "e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shii MIN-zi-dhash a-FII.",
+      "translation_english": "O Stilgar, how-many-times you-have-seen (the) signs? It-is-transforming-you your-faith into-moth. (Expression)"
    },
    {
-      "line" : "1/339",
-      "phonetic" : "EK-ke-rim a-KAI-rash!Water-our to-water-your!",
-      "translation" : "Ekkerim a-kairash!"
+      "scene": 17,
+      "character": "FEMALE ELDER",
+      "english_dialogue": "The Lisan al-Gaib has not shown his face yet! Ha, ha, ha! Not yet!",
+      "chakobsa_translation": "So chukkuha Lisaan al-Gayib lek! He, he, he! So a-vadzih!",
+      "phonetic_transcription": "SO CHUK-ku-ha li-SAAN al-GA-yib LEK! HE, HE, HE! SO a-vad-ZIH!",
+      "translation_english": "Not he-has-broken Lisan al-Gaib sand! (Expression) Ha, ha, ha! Not yet!"
    },
    {
-      "line" : "1/370",
-      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho CHAU-sij?Do you-think-it truly (that) he (is) the-One?",
-      "translation" : "Vii minaazashaho vejii ho Chausij?"
+      "scene": 17,
+      "character": "STILGAR",
+      "english_dialogue": "He killed Jamis in a fair fight. He speaks our language. He will quickly learn our ways. I'm ready to pledge my life for him.",
+      "chakobsa_translation": "Vizdhaha Jamsa o zanla vejii. Jaraagaha sa kyurhum. Hajaagaha nichii geftham. Qiraashii dhikadhaho eddemii.",
+      "phonetic_transcription": "VIZ-dha-ha JAM-sa o ZAN-la ve-JII. ja-RAA-ga-ha sa KYUR-hum. ha-JAA-ga-ha NI-chii GEF-tham. qi-RAA-shii DHI-ka-dha-ho ED-de-mii.",
+      "translation_english": "He-killed Jamis in (a) fight fair. He-speaks our language. He-is-learning quickly our-ways. I-am-ready to-pledge-him my-life."
    },
    {
-      "line" : "1/378",
-      "phonetic" : "ya-ZAA-la-ha-o LII-yet.He-favors-him Liet.",
-      "translation" : "Yazaalahao Liiyet."
+      "scene": 17,
+      "character": "OLDEST ELDER",
+      "english_dialogue": "He's no Fremen.",
+      "chakobsa_translation": "Ho so Fremin.",
+      "phonetic_transcription": "ho SO FRE-min.",
+      "translation_english": "He (is) no Fremen."
    },
    {
-      "line" : "1/386",
-      "phonetic" : "a-ZAA-ga-ha-yi ho lu-DHII.It-appears-to-me (that) he is-young.",
-      "translation" : "Azaagahayi ho ludhii."
+      "scene": 17,
+      "character": "OLDEST ELDER",
+      "english_dialogue": "But if you are so blind as to think otherwise...",
+      "chakobsa_translation": "Is-nata hu she qoriir minaza oziigi...",
+      "phonetic_transcription": "is-NA-ta hu SHE qo-RIIR MI-na-za o-ZII-gi...",
+      "translation_english": "But if you are-blind to-think differently..."
    },
    {
-      "line" : "1/394",
-      "phonetic" : "OG-go-ri che-SHII, e AK-sha-hii.Coffee good, O friend.",
-      "translation" : "Oggori cheshii, e akshahii.(CONTINUED)ADRCONTINUED: (2)DuneLanguage Translations09/27/2010.ADR"
+      "scene": 17,
+      "character": "OLDEST ELDER",
+      "english_dialogue": "He may live... For as long as the desert allows.",
+      "chakobsa_translation": "Shi eddemaadhaha... O erle sahaathahaho reshim obit.",
+      "phonetic_transcription": "shi ed-de-MAA-dha-ha... o ER-le sa-HAA-tha-ha-ho RE-shim o-bit.",
+      "translation_english": "May he-live... For (the) time it-allows-him (the) desert during-it."
    },
    {
-      "line" : "1/419",
-      "phonetic" : "is-KIF-tha CHAI-ya HO CHAU-sij?In-way what he (is) the-One?",
-      "translation" : "Is-kiftha chaiya ho Chausij?"
+      "scene": 17,
+      "character": "FEMALE ELDER",
+      "english_dialogue": "The desert will handle his fate. That's good.",
+      "chakobsa_translation": "Ru resham dimadhag vanraha. Ho cheshii.",
+      "phonetic_transcription": "ru RE-sham DI-ma-dhag VAN-ra-ha. HO che-SHII.",
+      "translation_english": "Will (the) desert decide his-fate. It (is) good."
    },
    {
-      "line" : "1/433",
-      "phonetic" : "KHU-ra ZIKH.Come here.",
-      "translation" : "Khura zikh."
+      "scene": 17,
+      "character": "OLDEST ELDER",
+      "english_dialogue": "What about the woman?",
+      "chakobsa_translation": "Hi rii bil?",
+      "phonetic_transcription": "hi RII BIL?",
+      "translation_english": "And regarding (the) woman?"
    },
    {
-      "line" : "1/441",
-      "phonetic" : "MUR-sha.(CONTINUED)ADRCONTINUED:DuneLanguage Translations09/27/2011.ADRKneel.",
-      "translation" : "Mursha."
+      "scene": 18,
+      "character": "SHISHAKLI",
+      "english_dialogue": "Too spicy for the foreigner?",
+      "chakobsa_translation": "Vaiyiz omaiz o lekset?",
+      "phonetic_transcription": "VAI-yiz o-MAIZ O LEK-set?",
+      "translation_english": "(There is) spice too-much for (the) foreigner?"
    },
    {
-      "line" : "1/466",
-      "phonetic" : "KHA-dha.Stop.",
-      "translation" : "Khadha."
+      "scene": 18,
+      "character": "CHANI",
+      "english_dialogue": "Don't mock him. He deserves our respect. He's a good fighter.",
+      "chakobsa_translation": "So vaklaho. Oma hesshyuho vothim. Ho zamit cheshii.",
+      "phonetic_transcription": "SO VAK-la-ho. O-ma HESH-shyu-ho VO-thim. ho ZA-mit che-SHII.",
+      "translation_english": "Do-not mock-him. We-must show-him our-eyes. (Expression) He (is a) fighter good."
    },
    {
-      "line" : "1/474",
-      "phonetic" : "ZAI-kha LISH-ki.Drink the-flame.",
-      "translation" : "Zaikha lishki."
+      "scene": 22,
+      "character": "NUN",
+      "english_dialogue": "Sayyadina, do you accept her heritage?",
+      "chakobsa_translation": "E Sayyadina, vii sahaalash kalhaha?",
+      "phonetic_transcription": "E SAY-ya-di-na, VII sa-HAA-lash KAL-ha-ha?",
+      "translation_english": "O Sayyadina, do you-accept her-heritage?"
    },
    {
-      "line" : "1/482",
-      "phonetic" : "DIN-dha-kho fa-SHI-ba-kha.Remove her-gag.",
-      "translation" : "Dindhakho fashibakha."
+      "scene": 23,
+      "character": "SHISHAKLI",
+      "english_dialogue": "Bi-lal kaifa! (Amen!)",
+      "chakobsa_translation": "Belal kaifa!",
+      "phonetic_transcription": "be-LAL KAI-fa!",
+      "translation_english": "Without limits!"
    },
    {
-      "line" : "1/506",
-      "phonetic" : "VID-za-kho. VAD-zikh.Kill-him. Now.",
-      "translation" : "Vidzakho. Vadzikh."
+      "scene": 23,
+      "character": "SHISHAKLI",
+      "english_dialogue": "She'll drink worm piss!",
+      "chakobsa_translation": "Zaihaalaha uqnu nogaj!",
+      "phonetic_transcription": "zai-HAA-la-ha UQ-nu NO-qaj!",
+      "translation_english": "She-will-drink piss of-a-worm!"
    },
    {
-      "line" : "1/514",
-      "phonetic" : "GHAS-su-ma.Free-us.",
-      "translation" : "Ghassuma."
+      "scene": 23,
+      "character": "CHANI",
+      "english_dialogue": "Not funny. He's about to lose her.",
+      "chakobsa_translation": "So vakkii. Qiraashaha saya belalaha.",
+      "phonetic_transcription": "SO vak-KII. qi-RAA-sha-ha SA-ya be-LA-la-ha.",
+      "translation_english": "Not funny. He-is-about-to walk without-her. (Expression)"
    },
    {
-      "line" : "1/522",
-      "phonetic" : "GHAS-su-nii sa DIM-bi.Free-me with a-knife.",
-      "translation" : "Ghassunii sa dimbi."
+      "scene": 23,
+      "character": "SHISHAKLI",
+      "english_dialogue": "If she's stupid enough to drink that poison that's not our problem.",
+      "chakobsa_translation": "Hu ho fiidhiir zaiha nah nati naziim so gondho.",
+      "phonetic_transcription": "hu HO fii-DHIIR ZAI-ha NAH NA-ti na-ZIIM SO GON-dho.",
+      "translation_english": "If she (is) as-stupid to-drink poison that we-carry no guilt."
    },
    {
-      "line" : "1/530",
-      "phonetic" : "DHIK-la-nii DIM-bi.Give-it-me the-knife.",
-      "translation" : "Dhiklanii dimbi.(CONTINUED)ADRCONTINUED: (3)DuneLanguage Translations09/27/2013.ADR"
+      "scene": 23,
+      "character": "STILGAR",
+      "english_dialogue": "Shut up! We're praying.",
+      "chakobsa_translation": "Fasshur! Ruqaazim.",
+      "phonetic_transcription": "FASH-shur! ru-QAA-zim.",
+      "translation_english": "Shut-up! We-are-praying."
    },
    {
-      "line" : "1/555",
-      "phonetic" : "chi-VEL-dha-nii.Get-off-of-me.",
-      "translation" : "Chiveldhanii."
+      "scene": 23,
+      "character": "STILGAR",
+      "english_dialogue": "Let's pray together.",
+      "chakobsa_translation": "Rum ruqaza hiili.",
+      "phonetic_transcription": "RUM RU-qa-za HII-li.",
+      "translation_english": "Let's pray together."
    },
    {
-      "line" : "1/563",
-      "phonetic" : "KWI-sats KHA-de-rach.Kwisatz Haderach.",
-      "translation" : "Kwisats Khaderach."
+      "scene": 24,
+      "character": "OLD WATERMASTER",
+      "english_dialogue": "Here is the Water of Life, which frees the soul.",
+      "chakobsa_translation": "Zihik Ekkeri Eddema, gassuubit fedh.",
+      "phonetic_transcription": "ZI-hik EK-ke-ri ED-de-ma, gas-SUU-bit fedh.",
+      "translation_english": "This (is) Water of-Life, which-frees (the) soul."
    },
    {
-      "line" : "1/571",
-      "phonetic" : "MWAD DIB.MuadaEURtmDib.(CONTINUED)ADRCONTINUED: (4)DuneLanguage Translations09/27/2014.ADR",
-      "translation" : "Mwad Dib."
+      "scene": 24,
+      "character": "OLD WATERMASTER",
+      "english_dialogue": "If you drink, you shall die. If you drink, you may see.",
+      "chakobsa_translation": "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
+      "phonetic_transcription": "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
+      "translation_english": "If you-drink, you-will die. If you drink, shi you-see."
    },
    {
-      "line" : "1/596",
-      "phonetic" : "LI-san al GHAIB.Lisan al-Gaib.",
-      "translation" : "Lisan al Ghaib."
+      "scene": 24,
+      "character": "NUN",
+      "english_dialogue": "Drink!",
+      "chakobsa_translation": "Zehla!",
+      "phonetic_transcription": "ZEH-la!",
+      "translation_english": "Drink!"
    },
    {
-      "line" : "1/604",
-      "phonetic" : "PAUL.Paul.",
-      "translation" : "Paul."
+      "scene": 24,
+      "character": "OLD WATERMASTER",
+      "english_dialogue": "This is the Agony.",
+      "chakobsa_translation": "Zihik Ardiz.",
+      "phonetic_transcription": "ZI-hik AR-diz.",
+      "translation_english": "This (is the) Agony."
    },
    {
-      "line" : "1/612",
-      "phonetic" : "PAUL a-TRE-i-dis.Paul Atreides.",
-      "translation" : "Paul Atreidis."
+      "scene": 24,
+      "character": "REVEREND MOTHER RAMALLO",
+      "english_dialogue": "What have we done?",
+      "chakobsa_translation": "Sahthimi che?",
+      "phonetic_transcription": "SAH-thi-mi CHE?",
+      "translation_english": "We-have-done what?"
    },
    {
-      "line" : "1/642",
-      "phonetic" : "vii mi-NAA-za-sha-ho ve-JII ho MAH-di?**Do you-think-it truly (that) he (is) the-Mahdi?**",
-      "translation" : "Vii minaazashaho vejii ho Mahdi?**"
+      "scene": 24,
+      "character": "REVEREND MOTHER RAMALLO",
+      "english_dialogue": "She is pregnant!",
+      "chakobsa_translation": "Ekkerish jiyaha!",
+      "phonetic_transcription": "EK-ke-rish JI-ya-ha!",
+      "translation_english": "(A) fetus (is) inside-her!"
    },
    {
-      "line" : "1/670",
-      "phonetic" : "hann... SO LE-dii. NI-fri-ha MI-ni-za...**Hmm... Not I-know. One-is-able to-believe...**",
-      "translation" : "Hann... So ledii. Nifriha miniza...**"
+      "scene": 25,
+      "character": "OLD WATERMASTER",
+      "english_dialogue": "She did it. She changed the Holy Poison into water!",
+      "chakobsa_translation": "Nazgahaho. Jahhufha Vizdhik Ezlii a-ker!",
+      "phonetic_transcription": "NAZ-ga-ha-ho. jah-HUF-ha VIZ-dhik EZ-lii a-KER!",
+      "translation_english": "She-did-it. She-changed (the) Poison Holy into-water!"
    },
    {
-      "line" : "1/698",
-      "phonetic" : "*mar-RII-ho AH-sah LI-san al GAIB, is-na-ta...HO ve-JII, vii mi-NAA- *zash?**I-have-heard whispers of-Lisan al Khaib, but...he (is) real, do you- *believe?*",
-      "translation" : "Marriiho ahsah Lisan al Gaib, is-nata...ho vejii, vii minaazash?**"
+      "scene": 25,
+      "character": "STILGAR",
+      "english_dialogue": "As written!",
+      "chakobsa_translation": "Qithlas-ha!",
+      "phonetic_transcription": "QITH-las-ha!",
+      "translation_english": "It-was-written!"
    },
    {
-      "line" : "1/724",
-      "phonetic" : "*mi-NAA-zii, his-NA-ta MAR-ra-sha HO lu-DHII o-MAIZ *DI-ma-la.**Maybe he (is) (the) Chosen-one, I-believe, however it-seems he (is) *young too-much to-lead.*",
-      "translation" : "*Shi ho Chausij, minaazii, haEURtmis-nata marrasha ho ludhii omaiz dimala. *(CONTINUED)ADRCONTINUED: (6)SHI ho CHAU-sij,DuneLanguage Translations09/27/2016.ADR"
+      "scene": 25,
+      "character": "OLD WATERMASTER",
+      "english_dialogue": "It is safe now. You can drink it.",
+      "chakobsa_translation": "Ho lehii vadzih. Nifrish zaihaho.",
+      "phonetic_transcription": "Ho le-HII VAD-zih. NI-frish ZAI-ha-ho.",
+      "translation_english": "It safe now. You-can drink-it."
    },
    {
-      "line" : "1/766",
-      "phonetic" : "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?**By-path which are-we to-know? Is-it-that will-it come (a) sign?**",
-      "translation" : "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?**"
+      "scene": 28,
+      "character": "STILGAR",
+      "english_dialogue": "Mahdi.",
+      "chakobsa_translation": "Mahdi.",
+      "phonetic_transcription": "MAH-di.",
+      "translation_english": "Mahdi."
    },
    {
-      "line" : "1/766",
-      "phonetic" : "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?**By-path which are-we to-know? Is-it-that will-it come (a) sign?**",
-      "translation" : "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?**"
+      "scene": 29,
+      "character": "CHANI",
+      "english_dialogue": "That was no miracle!",
+      "chakobsa_translation": "Chausik so ezlish!",
+      "phonetic_transcription": "CHAU-sik SO ez-lish!",
+      "translation_english": "That (was) no miracle!"
    },
    {
-      "line" : "2/10",
-      "phonetic" : "fo-NE-tik REN-dur-ingLiteral translation.",
-      "translation" : "Official transcription for closed captioning and subtitles."
+      "scene": 29,
+      "character": "STILGAR",
+      "english_dialogue": "You saw it with your OWN EYES! \"The Mother shall give the water to the Son\"! And she did it! As written!",
+      "chakobsa_translation": "Hesshyashaho sa vothash birsii! \"Ru Kala dhika ekker a-Kwad\"! Hi ho vejii! Qithlas-ha!",
+      "phonetic_transcription": "HESH-shya-sa-ho sa VO-thash bir-SII! \"ru KA-la DHI-ka EK-ker a-KWAD\"! hi HO ve-JII! QITH-las-ha!",
+      "translation_english": "You-saw-it with your-eyes own! \"She-will Mother give water to-Son\"! And it (is) true! As-written!"
    },
    {
-      "line" : "2/23",
-      "phonetic" : "SAH.Take.",
-      "translation" : "Sah."
+      "scene": 29,
+      "character": "CHANI",
+      "english_dialogue": "Her people wrote that!",
+      "chakobsa_translation": "Qithlaka haiyitaha choska!",
+      "phonetic_transcription": "QITH-la-ka HAI-yi-ta-ha chos-ka!",
+      "translation_english": "Wrote-they her-people that!"
    },
    {
-      "line" : "2/32",
-      "phonetic" : "ZIH. NAT. CHOS.Here. There. Yonder.",
-      "translation" : "Zih. Nat. Chos.(CONTINUED)BGDune: Part TwoCONTINUED:Language Translations11/20/222.BG"
+      "scene": 29,
+      "character": "STILGAR",
+      "english_dialogue": "Blasphemy! The prophecy has been accomplished! He is the One.",
+      "chakobsa_translation": "Dhonaashash! Lefthas-ha ledib! Ho Chausij.",
+      "phonetic_transcription": "dho-NAA-shash! LEF-thas-ha LE-dib! HO CHAU-sij.",
+      "translation_english": "You-blaspheme! Has-been-accomplished (the) prophecy! He (is) the-One."
    },
    {
-      "line" : "2/56",
-      "phonetic" : "TAM-ra ZIH.Stay here.",
-      "translation" : "Tamra zih."
+      "scene": 29,
+      "character": "SHISHAKLI",
+      "english_dialogue": "The Mahdi must be Fremen!",
+      "chakobsa_translation": "O Mahda ho Fremin!",
+      "phonetic_transcription": "o MAH-da ho FRE-min!",
+      "translation_english": "Must Mahdi he (be) Fremen!"
    },
    {
-      "line" : "2/64",
-      "phonetic" : "YO-hesh-ya.Keep-an-eye-out.",
-      "translation" : "Yoheshya."
+      "scene": 29,
+      "character": "CHANI",
+      "english_dialogue": "Arrakis must be freed by its own people!",
+      "chakobsa_translation": "O Arraksa gasas isru haiyataha birsiiya!",
+      "phonetic_transcription": "o AR-rak-sa GA-sas isru HAI-ya-ta-ha bir-SII-ya!",
+      "translation_english": "Must Arrakis be-freed by its-people own!"
    },
    {
-      "line" : "2/72",
-      "phonetic" : "ni-CHII! NICH-NICH!Quickly! Hurry-hurry!(CONTINUED)BGDune: Part TwoCONTINUED: (2)Language Translations11/20/223.BG",
-      "translation" : "Nichii! Nich-nich!"
+      "scene": 29,
+      "character": "PAUL",
+      "english_dialogue": "I'm here to learn your ways.",
+      "chakobsa_translation": "Ne zih hajaga gefthak.",
+      "phonetic_transcription": "ne ZIH HA-ja-ga GEF-thak.",
+      "translation_english": "I (am) here to-learn your-ways."
    },
    {
-      "line" : "2/96",
-      "phonetic" : "CHAH-ma OF-mak.Fall-into spots-your.",
-      "translation" : "Chahma ofmak."
+      "scene": 31,
+      "character": "JESSICA",
+      "english_dialogue": "Kwisatz Haderach, show us the way!",
+      "chakobsa_translation": "E Kwisats Haderach, hesshyumaho gif!",
+      "phonetic_transcription": "E KWI-sats HA-de-rach, HESH-shyu-ma-ho GIF!",
+      "translation_english": "O Kwisatz Haderach, show-us-it (the) way!"
    },
    {
-      "line" : "2/165",
-      "phonetic" : "N/AN/A",
-      "translation" : "N/A(CONTINUED)10Dune: Part TwoCONTINUED: (2)Language Translations11/20/225.10"
+      "scene": 31,
+      "character": "JESSICA (CONT'D)",
+      "english_dialogue": "Kwisatz Haderach, show us the way!",
+      "chakobsa_translation": "E Kwisats Haderak, hesshyumaho gif!",
+      "phonetic_transcription": "E KWI-sats HA-de-rak, HESH-shyu-ma-ho GIF!",
+      "translation_english": "O Kwisatz Haderach, show-us-it (the) way!"
    },
    {
-      "line" : "2/244",
-      "phonetic" : "O-ma I-sa-dha.We-must leave.",
-      "translation" : "Oma isadha."
+      "scene": 31,
+      "character": "JESSICA",
+      "english_dialogue": "YOU WILL SEE! THE BEAUTY AND THE HORROR!",
+      "chakobsa_translation": "RUSH HESHYAKAA! YOZBO HI JAHKAZ!",
+      "phonetic_transcription": "RUSH HESH-ya-kaa! YOZ-bo hi JAH-kaz!",
+      "translation_english": "You-will see-them! Beauty and horror!"
    },
    {
-      "line" : "2/267",
-      "phonetic" : "KE-mim EK-ke-ra: ha-RAA-dhas-ha!All-of-that water: Lost!",
-      "translation" : "Kemim ekkera: Haraadhas-ha!"
+      "scene": 35,
+      "character": "SHISHAKLI",
+      "english_dialogue": "Muad'Dib likes his smell! Ha, ha, ha!",
+      "chakobsa_translation": "Abraanaha mwaddib gebreha! He, he, he!",
+      "phonetic_transcription": "a-BRAA-na-ha mwad-DIB GE-bre-ha! He, he, he!",
+      "translation_english": "Likes desert-mouse his-smell! Ha, ha, ha!"
    },
    {
-      "line" : "2/275",
-      "phonetic" : "SO NI-fri-ha SA-ya-dha un-RE-shim!Not can-she be-fit for-the-desert!",
-      "translation" : "So nifriha sayadha un-reshim!"
+      "scene": 35,
+      "character": "STILGAR",
+      "english_dialogue": "You saw what he did. He saw it coming--and he saved her life. He saw it! He can foresee.",
+      "chakobsa_translation": "Hesshyaka che nazgahabit. Hesshyaha huraaha--hi kasshahaho. Hesshyahaho! Nifriha heshisha.",
+      "phonetic_transcription": "HESH-shya-ka che NAZ-ga-ha-bit. HESH-shya-ha hu-RAA-ha--hi KASH-sha-ha-ho. HESH-shya-ha-ho! NIF-ri-ha HE-shi-sha.",
+      "translation_english": "You-saw what he-did-it. He-saw it-coming--and he-saved-her. He-saw-it! He-can foresee."
    },
    {
-      "line" : "2/288",
-      "phonetic" : "so u-NAA-ra-ha-shii FA-dil zih.Not is-for-you peace here.",
-      "translation" : "So unaarahashii fadil zih."
+      "scene": 35,
+      "character": "PAUL",
+      "english_dialogue": "Then I'll die. Maybe you will, too. But the others will keep going. And they won't stop until the Fremen are free.",
+      "chakobsa_translation": "Hinat ruyi uzzulatha. Shi ruk, faafa. Is-nata kiraalak taamrih zamaha. Hi so hadhaak hwishi Fraimin gasiig.",
+      "phonetic_transcription": "hi-nat RU-yi uz-ZU-la-tha. SHI RUK, FAA-fa. is-NA-ta ki-RAA-lak TAAM-rih ZA-ma-ha. hi SO ha-DHAAK HWI-shi FRAI-min ga-SIIG.",
+      "translation_english": "Then will I-die. Maybe you-will, too. But will-continue (the) others fighting. And not they-will-stop until Fremen are-free."
    },
    {
-      "line" : "2/319",
-      "phonetic" : "SICH TA-br.Sietch Tabr.",
-      "translation" : "Sich Tabr."
+      "scene": 35,
+      "character": "SHISHAKLI",
+      "english_dialogue": "He deserves to be Fedaykin!",
+      "chakobsa_translation": "Qazdhaha ho Fedaikin!",
+      "phonetic_transcription": "QAZ-dha-ha HO fe-DAI-kin!",
+      "translation_english": "Deserves he (to be) Fedaykin!"
    },
    {
-      "line" : "2/328",
-      "phonetic" : "ru-CHE KAAH ZIH? CHIF-thit! RAAB-jil! SAH-tha RESH-me NO-qa-dha-kaa!ZO-thib! e MAH-di! VII she li-SAAN al-GA-yib?For-what they here? WITCH! SPIES! Let (the) desert devour-them!IMPOSTOR! O Mahdi! Are you Lisan al-Gaib?",
-      "translation" : "Ru-che kaah zih? CHIFTHIT! RAABJIL! Sahtha reshme noqadhakaa!ZOTHIB! E Mahdi! Vii she Lisaan al-Gayib?"
+      "scene": 35,
+      "character": "A FEDAYKIN",
+      "english_dialogue": "He needs names, Stilgar!",
+      "chakobsa_translation": "Ho belal kairat, e Stilgar!",
+      "phonetic_transcription": "HO be-LAL KAI-rat, e STIL-gar!",
+      "translation_english": "He (is) without names, O Stilgar!"
    },
    {
-      "line" : "2/339",
-      "phonetic" : "MAR-ra-ka STIL-gar. JI-la.You-have-heard Stilgar. Move.",
-      "translation" : "Marraka Stilgar. Jila."
+      "scene": 35,
+      "character": "STILGAR",
+      "english_dialogue": "He does.",
+      "chakobsa_translation": "Ho vejii.",
+      "phonetic_transcription": "HO ve-JII.",
+      "translation_english": "It (is) true."
    },
    {
-      "line" : "2/347",
-      "phonetic" : "ho SO MAH-di!He (is) no Mahdi!",
-      "translation" : "Ho so Mahdi!(CONTINUED)14Dune: Part TwoCONTINUED: (2)Language Translations11/20/229.14"
+      "scene": 35,
+      "character": "STILGAR",
+      "english_dialogue": "Like Usul, the strength beneath the base of a pillar.",
+      "chakobsa_translation": "Sahiim Usla, garig un-bachi belak.",
+      "phonetic_transcription": "sa-HIIM US-la, GA-rig un-BA-chi BE-lak.",
+      "translation_english": "Like Usul, (the) strength beneath (the) pillar."
    },
    {
-      "line" : "2/370",
-      "phonetic" : "ru-CHE ne MAH-di?Why-should I (be) Mahdi?",
-      "translation" : "Ru-che ne Mahdi?"
+      "scene": 36,
+      "character": "CHANI",
+      "english_dialogue": "Sihaya.",
+      "chakobsa_translation": "Sihaya.",
+      "phonetic_transcription": "SI-ha-ya.",
+      "translation_english": "Desert-spring."
    },
    {
-      "line" : "2/384",
-      "phonetic" : "VIZ-dha-ha CHE JAM-sa?Killed-him who Jamis?",
-      "translation" : "Vizdhaha che Jamsa?"
+      "scene": 61,
+      "character": "SHISHAKLI",
+      "english_dialogue": "Sun be kind to Muad'Dib!",
+      "chakobsa_translation": "E fizi nitha ru Mwaddib!",
+      "phonetic_transcription": "e FI-zi NI-tha ru mwad-DIB!",
+      "translation_english": "O sun be-kind for Desert-mouse!"
    },
    {
-      "line" : "2/392",
-      "phonetic" : "HO NAT.(CONTINUED)15Dune: Part TwoCONTINUED:Language Translations11/20/2210.15He there.",
-      "translation" : "Ho nat."
+      "scene": 61,
+      "character": "FEDAYKIN",
+      "english_dialogue": "Today is the day! Muad'Dib! Be strong!",
+      "chakobsa_translation": "Shaidish fizib! E Mwaddib! Oja!",
+      "phonetic_transcription": "SHAI-dish FI-zib! e mwad-DIB! O-ja!",
+      "translation_english": "Today (is) (the) day! O Desert-Mouse! Be-strong!"
    },
    {
-      "line" : "2/417",
-      "phonetic" : "o ZIH-ki LE-fa-dhas ni-CHAI-za hu ha-RAA-dhim KIM-me EK-ke-ra.(It is) on this to-be-accomplished most-quickly lest we-lose (the)bulk of-the-water.",
-      "translation" : "O zihki lefadhas nichaiza hu haraadhim kimme ekkera."
+      "scene": 62,
+      "character": "STILGAR",
+      "english_dialogue": "Muad'Dib! Don't embarrass us! Call a big one!",
+      "chakobsa_translation": "E Mwaddib! So gommudhma! Jarma vahcha!",
+      "phonetic_transcription": "E mwad-DIB! SO GOM-mudh-ma! JAR-ma VAH-cha!",
+      "translation_english": "O Desert-Mouse! Not embarrass-us! Call (a) large-one!"
    },
    {
-      "line" : "2/427",
-      "phonetic" : "BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suunZAAD o QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.Held body of-Jamis half of-body, forty jars, and five-hundred eightdrops of-water. For-you by right.",
-      "translation" : "Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qelsshoq akkaarcha ekkera. Rush wa nukah."
+      "scene": 62,
+      "character": "SHISHAKLI",
+      "english_dialogue": "Don't worry. Stilgar taught him well.",
+      "chakobsa_translation": "So chivlaho. Ledduhaho cheshii Stilgar.",
+      "phonetic_transcription": "SO CHIV-la-ho. LED-du-ha-ho CHE-shii STIL-gar.",
+      "translation_english": "Not worry. Taught-him well Stilgar."
    },
    {
-      "line" : "2/436",
-      "phonetic" : "EK-ke-ri is-CHA-mas RUSH. is-NA-ta EK-ke-rish RUM.(CONTINUED)15Dune: Part TwoCONTINUED: (2)Language Translations11/20/2211.15Water from-Jamis (is) for-you. But your-water (is) for-us.",
-      "translation" : "Ekkeri is-Chamas rush. Is-nata ekkerish rum."
+      "scene": 62,
+      "character": "FREMEN",
+      "english_dialogue": "MUAD'DIB! YEAAAAAH!!!",
+      "chakobsa_translation": "E MWADDIB! VIIIIII!!!",
+      "phonetic_transcription": "E mwad-DIB! VIIIIII!!!",
+      "translation_english": "O DESERT-MOUSE! YEAAAAAH!!!"
    },
    {
-      "line" : "2/465",
-      "phonetic" : "TAM-ra hi-yak.Stay with-them.",
-      "translation" : "Tamra hiyak."
+      "scene": 62,
+      "character": "A FEDAYKIN",
+      "english_dialogue": "Muad'Dib show us the way!",
+      "chakobsa_translation": "E Mwaddib, hesshyumaho gif!",
+      "phonetic_transcription": "e mwad-DIB, HESH-shyu-ma-ho GIF!",
+      "translation_english": "O Desert-Mouse, show-us-it (the) way!"
    },
    {
-      "line" : "2/481",
-      "phonetic" : "u-NAA-ha o-MAI-za HA-jim QU-maj. O-ma ZA-ma-sha-kaa un-YUCH-kim oZAI. rob-BUUCH-kaa is-SIH.It-was-near too-much patrol outsider. We-must engage-them in-northfurther. To-lure-them from-here.",
-      "translation" : "Unaaha omaiza hajim qumaj. Oma zamashakaa un-yuchkim ozai.Robbuuchkaa is-sih."
+      "scene": 62,
+      "character": "STILGAR",
+      "english_dialogue": "As written.",
+      "chakobsa_translation": "Qithlas-ha.",
+      "phonetic_transcription": "QITH-las-ha.",
+      "translation_english": "It-was-written."
    },
    {
-      "line" : "2/491",
-      "phonetic" : "be-LAA-lim-shii, e STIL-gar. ZAM-ha QUM-ju un-YUCH-kim o-ZAI.We-support-you, O Stilgar. Attack (the) enemy in-north further.",
-      "translation" : "Belaalimshii, e Stilgar. Zamha qumju un-yuchkim ozai.(CONTINUED)17Dune: Part TwoCONTINUED:Language Translations11/20/2212.17"
+      "scene": 62,
+      "character": "STILGAR",
+      "english_dialogue": "Whoa!",
+      "chakobsa_translation": "Reshiiiiii!",
+      "phonetic_transcription": "re-SHIIIIII!",
+      "translation_english": "WHOAAAAA!"
    },
    {
-      "line" : "2/514",
-      "phonetic" : "ru-QAA-fii-kaa DI-ma-la-nii rii LIK-sit THAA.I-beg-you to-guide-me regarding foreigners two.",
-      "translation" : "Ruqaafiikaa dimalanii rii liksit thaa."
+      "scene": 62,
+      "character": "STILGAR",
+      "english_dialogue": "Not that big!",
+      "chakobsa_translation": "So vahii sanai!",
+      "phonetic_transcription": "SO va-HII sa-NAI!",
+      "translation_english": "Not big like-that!"
    },
    {
-      "line" : "2/522",
-      "phonetic" : "QAB-dhi-ka-kaa a-RESH-me.Give-them-back to-the-desert.",
-      "translation" : "Qabdhikakaa a-reshme."
+      "scene": 63,
+      "character": "YOUNG NUN",
+      "english_dialogue": "Reverend Mother.",
+      "chakobsa_translation": "E Kalidh.",
+      "phonetic_transcription": "e KA-lidh.",
+      "translation_english": "O Reverend-Mother."
    },
    {
-      "line" : "2/530",
-      "phonetic" : "HESH-kii SHYADH-za.I-have-seen (the) signs.(CONTINUED)17Dune: Part TwoCONTINUED: (2)Language Translations11/20/2213.17",
-      "translation" : "Heshkii shyadhza."
+      "scene": 63,
+      "character": "YOUNG NUN",
+      "english_dialogue": "Muad'Dib finally made peace with Shai-Hulud!",
+      "chakobsa_translation": "Wa shaidah sekkaha Mwaddib fadla hi Shai Huluud!",
+      "phonetic_transcription": "wa-SHAI-dah SEK-ka-ha mwad-DIB FAD-la hi SHAI hu-LUUD!",
+      "translation_english": "Finally found Desert-Mouse peace with Shai Hulud!"
    },
    {
-      "line" : "2/554",
-      "phonetic" : "YOSH-la.Again.",
-      "translation" : "Yoshla."
+      "scene": 63,
+      "character": "DEVOTEES",
+      "english_dialogue": "Bi-lal kaifa!!!",
+      "chakobsa_translation": "Belal kaifa!!!",
+      "phonetic_transcription": "be-LAL KAI-fa!!!",
+      "translation_english": "Without limits!!!"
    },
    {
-      "line" : "2/563",
-      "phonetic" : "e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shiiMIN-zi-dhash a-FII.O Stilgar, how-many-times you-have-seen (the) signs? It-istransforming-you your-faith into-moth. (Expression)",
-      "translation" : "E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhasha-fii."
+      "scene": 63,
+      "character": "YOUNG NUN",
+      "english_dialogue": "He called a grandfather worm. The biggest anyone's ever seen.",
+      "chakobsa_translation": "Jarmaha noqcho juugo. Vaahaiza hesshyahabit unij a-vadzih.",
+      "phonetic_transcription": "JAR-ma-ha NOQ-cho JUU-go. vaa-HAI-za HESH-shya-ha-bit U-nij a-vad-ZIH.",
+      "translation_english": "He-called (a) worm grandfather. (The) biggest has-seen-that anyone ever."
    },
    {
-      "line" : "2/573",
-      "phonetic" : "SO CHUK-ku-ha li-SAAN al-GA-yib LEK! HE, HE, HE! SO a-vad-ZIH!Not he-has-broken Lisan al-Gaib sand! (Expression) Ha, ha, ha! Notyet!",
-      "translation" : "So chukkuha Lisaan al-Gayib lek! He, he, he! So a-vadzih!"
+      "scene": 63,
+      "character": "DEVOTEES",
+      "english_dialogue": "As written!",
+      "chakobsa_translation": "Qithlas-ha!",
+      "phonetic_transcription": "QITH-las-ha!",
+      "translation_english": "It-was-written!"
    },
    {
-      "line" : "2/598",
-      "phonetic" : "VIZ-dha-ha JAM-sa o ZAN-la ve-JII. ja-RAA-ga-ha sa KYUR-hum. ha-JAAga-ha NI-chii GEF-tham. qi-RAA-shii DHI-ka-dha-ho ED-de-mii.He-killed Jamis in (a) fight fair. He-speaks our language. He-islearning quickly our-ways. I-am-ready to-pledge-him my-life.",
-      "translation" : "Vizdhaha Jamsa o zanla vejii. Jaraagaha sa kyurhum. Hajaagaha nichiigeftham. Qiraashii dhikadhaho eddemii."
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "Shai-Hulud knows the coming of the storm.",
+      "chakobsa_translation": "Ledaaha Shayi Huluud hura afshal.",
+      "phonetic_transcription": "le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.",
+      "translation_english": "Knows Shai-Hulud (the) coming of-the-storm."
    },
    {
-      "line" : "2/607",
-      "phonetic" : "ho SO FRE-min.He (is) no Fremen.",
-      "translation" : "Ho so Fremin."
+      "scene": 63,
+      "character": "DEVOTEES",
+      "english_dialogue": "Bless the Maker and his works.",
+      "chakobsa_translation": "Itthuz Vessha hi nazgaha.",
+      "phonetic_transcription": "ITH-thuz VESH-sha hi NAZ-ga-ha.",
+      "translation_english": "Bless (the) Maker and his-works."
    },
    {
-      "line" : "2/615",
-      "phonetic" : "is-NA-ta hu SHE qo-RIIR MI-na-za o-ZII-gi...But if you are-blind to-think differently...",
-      "translation" : "Is-nata hu she qoriir minaza oziigi..."
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "Will not Shai-Hulud know the Mahdi when he comes?",
+      "chakobsa_translation": "So vii ru Shaya Huluud leda Mahda hu huraaha?",
+      "phonetic_transcription": "SO VII ru SHA-ya hu-LUUD LE-da MAH-da hu hu-RAA-ha?",
+      "translation_english": "Not is-it will Shai-Hulud know Mahdi when he comes?"
    },
    {
-      "line" : "2/639",
-      "phonetic" : "shi ed-de-MAA-dha-ha... o ER-le sa-HAA-tha-ha-ho RE-shim o-bit.May he-live... For (the) time it-allows-him (the) desert during-it.",
-      "translation" : "Shi eddemaadhaha... O erle sahaathahaho reshim obit."
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "Then share the words!",
+      "chakobsa_translation": "Hinat dhiktha ker!",
+      "phonetic_transcription": "hi-nat DHIK-tha KER!",
+      "translation_english": "Then share (the) words!"
    },
    {
-      "line" : "2/647",
-      "phonetic" : "ru RE-sham DI-ma-dhag VAN-ra-ha. HO che-SHII.Will (the) desert decide his-fate. It (is) good.",
-      "translation" : "Ru resham dimadhag vanraha. Ho cheshii."
+      "scene": 63,
+      "character": "NUN",
+      "english_dialogue": "Is everything all right, Reverend Mother?",
+      "chakobsa_translation": "Vii hiilih cheshii, e Kalidh?",
+      "phonetic_transcription": "VII HII-lih che-SHII, e KA-lidh?",
+      "translation_english": "Is everything all-right, O Reverend-Mother?"
    },
    {
-      "line" : "2/655",
-      "phonetic" : "hi RII BIL?And regarding (the) woman?",
-      "translation" : "Hi rii bil?"
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "She heard the news.",
+      "chakobsa_translation": "Marraha letshe.",
+      "phonetic_transcription": "MAR-ra-ha LET-she.",
+      "translation_english": "She-heard (the) news."
    },
    {
-      "line" : "2/685",
-      "phonetic" : "VAI-yiz o-MAIZ o LEK-set?(There is) spice too-much for (the) foreigner?",
-      "translation" : "Vaiyiz omaiz o lekset?"
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "Enough for today. Go now.",
+      "chakobsa_translation": "Afiz ru shaidash. Jila vadzih.",
+      "phonetic_transcription": "A-fiz ru SHAI-dash. JI-la vad-ZIH.",
+      "translation_english": "Enough for today. Go now."
    },
    {
-      "line" : "2/693",
-      "phonetic" : "SO VAK-la-ho. O-ma HESH-shyu-ho VO-thim. ho ZA-mit che-SHII.Do-not mock-him. We-must show-him our-eyes. (Expression) He (is a)fighter good.",
-      "translation" : "So vaklaho. Oma hesshyuho vothim. Ho zamit cheshii."
+      "scene": 63,
+      "character": "JESSICA",
+      "english_dialogue": "Leave us.",
+      "chakobsa_translation": "Jila isim.",
+      "phonetic_transcription": "JI-la i-sim.",
+      "translation_english": "Go from-us."
    },
    {
-      "line" : "2/708",
-      "phonetic" : "E SAY-ya-di-na, VII sa-HAA-lash KAL-ha-ha?O Sayyadina, do you-accept her-heritage?",
-      "translation" : "E Sayyadina, vii sahaalash kalhaha?"
+      "scene": 68,
+      "character": "CHANI",
+      "english_dialogue": "Will you always be with me?",
+      "chakobsa_translation": "Vii unaarash hiyii nosshaidah?",
+      "phonetic_transcription": "VII u-NAA-rash hi-yii nosh-SHAI-dah?",
+      "translation_english": "Will you-be with-me always?"
    },
    {
-      "line" : "2/737",
-      "phonetic" : "be-LAL KAI-fa!Without limits!",
-      "translation" : "Belal kaifa!"
+      "scene": 77,
+      "character": "FREMEN FIGHTER",
+      "english_dialogue": "Stop the fight!",
+      "chakobsa_translation": "Hadha zanla!",
+      "phonetic_transcription": "HA-dha ZAN-la!",
+      "translation_english": "Stop (the) fight!"
    },
    {
-      "line" : "2/745",
-      "phonetic" : "zai-HAA-la-ha UQ-nu NO-qaj!She-will-drink piss of-a-worm!",
-      "translation" : "Zaihaalaha uqnu noqaj!"
+      "scene": 81,
+      "character": "SHISHAKLI",
+      "english_dialogue": "What do you think of him?",
+      "chakobsa_translation": "Is-kiftha chaiya omaakathshaho?",
+      "phonetic_transcription": "is-KIF-tha CHAI-ya o-MAA-kath-sha-ho?",
+      "translation_english": "Way what you-value-him?"
    },
    {
-      "line" : "2/753",
-      "phonetic" : "SO vak-KII. qi-RAA-sha-ha SA-ya be-LA-la-ha.Not funny. He-is-about-to walk without-her. (Expression)",
-      "translation" : "So vakkii. Qiraashaha saya belalaha."
+      "scene": 81,
+      "character": "SHISHAKLI",
+      "english_dialogue": "I think he's trouble.",
+      "chakobsa_translation": "Minaazii ho fishlin.",
+      "phonetic_transcription": "mi-NAA-zii ho FISH-lin.",
+      "translation_english": "I-think he (is) trouble."
    },
    {
-      "line" : "2/761",
-      "phonetic" : "hu HO fii-DHIIR ZAI-ha NAH NA-ti na-ZIIM SO GON-dho.(CONTINUED)23Dune: Part TwoCONTINUED: (2)Language Translations11/20/2218.23If she (is) as-stupid to-drink poison that we-carry no guilt.",
-      "translation" : "Hu ho fiidhiir zaiha nah nati naziim so gondho."
+      "scene": 84,
+      "character": "CHANI",
+      "english_dialogue": "He's too fat!",
+      "chakobsa_translation": "Ho jedhii omaiz!",
+      "phonetic_transcription": "HO je-DHII O-MAIZ!",
+      "translation_english": "He (is) fat too-much!"
    },
    {
-      "line" : "2/785",
-      "phonetic" : "FASH-shur! ru-QAA-zim.Shut-up! We-are-praying.",
-      "translation" : "Fasshur! Ruqaazim."
+      "scene": 89,
+      "character": "PILGRIM",
+      "english_dialogue": "Will He come?",
+      "chakobsa_translation": "Ruha hura?",
+      "phonetic_transcription": "RU-ha hu-ra?",
+      "translation_english": "Will-he come?"
    },
    {
-      "line" : "2/793",
-      "phonetic" : "RUM RU-qa-za HII-li.LetaEURtms pray together.",
-      "translation" : "Rum ruqaza hiili."
+      "scene": 89,
+      "character": "JESSICA",
+      "english_dialogue": "If He comes, you must welcome Him.",
+      "chakobsa_translation": "Hu huraaha, oshii solagaho.",
+      "phonetic_transcription": "hu hu-RAA-ha, O-shii So-la-ga-ho.",
+      "translation_english": "If he-comes, you-must welcome-him."
    },
    {
-      "line" : "2/806",
-      "phonetic" : "ZI-hik EK-ke-ri ED-de-ma, gas-SUU-bit fedh.This (is) Water of-Life, which-frees (the) soul.(CONTINUED)24Dune: Part TwoCONTINUED:Language Translations11/20/2219.24",
-      "translation" : "Zihik Ekkeri Eddema, gassuubit fedh."
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "Only one at a time. Otherwise they fight each other to death.",
+      "chakobsa_translation": "Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak.",
+      "phonetic_transcription": "BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zu-LAA-thak.",
+      "translation_english": "One at-a-time only. Otherwise they-fight each-other until they-die."
    },
    {
-      "line" : "2/830",
-      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.If you-drink, you-will die. If you drink, shi you-see.",
-      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash."
+      "scene": 90,
+      "character": "JESSICA",
+      "english_dialogue": "How old?",
+      "chakobsa_translation": "Che erigaha?",
+      "phonetic_transcription": "CHE E-ri-ga-ha?",
+      "translation_english": "What (is) its-age?"
    },
    {
-      "line" : "2/838",
-      "phonetic" : "ZEH-la!Drink!",
-      "translation" : "Zehla!"
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "Very young.",
+      "chakobsa_translation": "Ludhaiz.",
+      "phonetic_transcription": "lu-DHAIZ.",
+      "translation_english": "Very-young."
    },
    {
-      "line" : "2/846",
-      "phonetic" : "ZI-hik AR-diz.This (is the) Agony.",
-      "translation" : "Zihik Ardiz."
+      "scene": 90,
+      "character": "ALIA",
+      "english_dialogue": "Baby worm!",
+      "chakobsa_translation": "Noqchich!",
+      "phonetic_transcription": "NOQ-chich!",
+      "translation_english": "Baby-worm!"
    },
    {
-      "line" : "2/869",
-      "phonetic" : "SAH-thi-mi CHE?We-have-done what?",
-      "translation" : "Sahthimi che?"
+      "scene": 90,
+      "character": "JESSICA",
+      "english_dialogue": "How is it done?",
+      "chakobsa_translation": "Is-kiftha chaiya anzagaas-ha?",
+      "phonetic_transcription": "is-KIF-tha CHAI-ya an-za-GAAS-ha?",
+      "translation_english": "How (is) it-accomplished?"
    },
    {
-      "line" : "2/877",
-      "phonetic" : "EK-ke-rish JI-ya-ha!(A) fetus (is) inside-her!",
-      "translation" : "Ekkerish jiyaha!"
+      "scene": 90,
+      "character": "ALIA",
+      "english_dialogue": "What is she doing?",
+      "chakobsa_translation": "Is-kiftha chaiya ogaaraha?",
+      "phonetic_transcription": "is-KIF-tha CHAI-ya o-GAA-ra-ha?",
+      "translation_english": "How is-she-moving-herself? (Expression)"
    },
    {
-      "line" : "2/890",
-      "phonetic" : "NAZ-ga-ha-ho. jah-HUF-ha VIZ-dhik EZ-lii a-KER!She-did-it. She-changed (the) Poison Holy into-water!",
-      "translation" : "Nazgahaho. Jahhufha Vizdhik Ezlii a-ker!"
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "The Water of Life.",
+      "chakobsa_translation": "Ekkeri Eddema.",
+      "phonetic_transcription": "EK-ke-ri ED-de-ma.",
+      "translation_english": "(The) Water of-Life."
    },
    {
-      "line" : "2/899",
-      "phonetic" : "QITH-las-ha!It-was-written!",
-      "translation" : "Qithlas-ha!(CONTINUED)25Dune: Part TwoCONTINUED:Language Translations11/20/2221.25"
+      "scene": 90,
+      "character": "JESSICA",
+      "english_dialogue": "Listen carefully. Soon, a man will visit your Temple. He may want you to perform the rite.",
+      "chakobsa_translation": "Marza cheshii. Noj erach, ru redha hurana a-minzimash. Ish ruqaahashii anzaga ogrog.",
+      "phonetic_transcription": "MAR-za CHE-shii. no-JE-rach, ru RE-dha HU-ra-na a-MIN-zi-mash. ISH ru-QAA-ha-shii AN-za-ga OG-rog.",
+      "translation_english": "Listen carefully. Soon, will (a) man visit your-temple. May he-ask-you to-perform (the) rite."
    },
    {
-      "line" : "2/923",
-      "phonetic" : "Ho le-HII VAD-zih. NI-frish ZAI-ha-ho.It safe now. You-can drink-it.",
-      "translation" : "Ho lehii vadzih. Nifrish zaihaho."
+      "scene": 90,
+      "character": "JESSICA (OPTION 1)",
+      "english_dialogue": "Listen carefully. A man is going to arrive--",
+      "chakobsa_translation": "Marza cheshii. Ru redha hura--",
+      "phonetic_transcription": "MAR-za CHE-shii. ru RE-dha HU-ra--",
+      "translation_english": "Listen carefully. Will (a) come--"
    },
    {
-      "line" : "2/936",
-      "phonetic" : "MAH-di.Mahdi.",
-      "translation" : "Mahdi."
+      "scene": 90,
+      "character": "JESSICA (OPTION 2)",
+      "english_dialogue": "Listen carefully. When he arrives, he may--",
+      "chakobsa_translation": "Marza cheshii. Nishi huraaha obit, shi--",
+      "phonetic_transcription": "MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi--",
+      "translation_english": "Listen carefully. At-the-time he-arrives then, may (he)--"
    },
    {
-      "line" : "2/950",
-      "phonetic" : "CHAU-sik SO ez-lish!That (was) no miracle!",
-      "translation" : "Chausik so ezlish!(CONTINUED)29Dune: Part TwoCONTINUED:Language Translations11/20/2222.29"
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "No, I can't perform the rite.",
+      "chakobsa_translation": "Ats, so nifrii anzaga ogrog.",
+      "phonetic_transcription": "ATS, SO NI-frii AN-za-ga O-grog.",
+      "translation_english": "No, not I-can perform (the) rite."
    },
    {
-      "line" : "2/975",
-      "phonetic" : "HESH-shya-sa-ho sa VO-thash bir-SII! aEURoeru KA-la DHI-ka EK-ker aKWADaEUR! hi HO ve-JII! QITH-las-ha!You-saw-it with your-eyes own! aEURoeShe-will Mother give water to-SonaEUR!And it (is) true! As-written!",
-      "translation" : "Hesshyashaho sa vothash birsii! aEURoeRu Kala dhika ekker a-KwadaEUR! Hi hovejii! Qithlas-ha!"
+      "scene": 90,
+      "character": "JESSICA",
+      "english_dialogue": "You question the prophecy?",
+      "chakobsa_translation": "Yimaathash a-ledbe?",
+      "phonetic_transcription": "yi-MAA-thash a-LED-be?",
+      "translation_english": "You-are-questioning the-prophecy?"
    },
    {
-      "line" : "2/985",
-      "phonetic" : "QITH-la-ka HAI-yi-ta-ha chos-ka!Wrote-they her-people that!",
-      "translation" : "Qithlaka haiyitaha choska!"
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "Many men tried--all have died.",
+      "chakobsa_translation": "Qithnaka riidhi afii--uzzulthaka hiil.",
+      "phonetic_transcription": "QITH-na-ka RII-dhi a-FII--uz-ZUL-tha-ka HIIL.",
+      "translation_english": "Have-tried men many--have-died all."
    },
    {
-      "line" : "2/993",
-      "phonetic" : "dho-NAA-shash! LEF-thas-ha LE-dib! HO CHAU-sij.(CONTINUED)29Dune: Part TwoCONTINUED: (2)Language Translations11/20/2223.29You-blaspheme! Has-been-accomplished (the) prophecy! He (is) theOne.",
-      "translation" : "Dhonaashash! Lefthas-ha ledib! Ho Chausij."
+      "scene": 90,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "He won't survive.",
+      "chakobsa_translation": "So ruha eddemadha.",
+      "phonetic_transcription": "SO ru-ha ED-de-ma-dha.",
+      "translation_english": "Not he-will survive."
    },
    {
-      "line" : "2/1016",
-      "phonetic" : "o MAH-da ho FRE-min!Must Mahdi he (be) Fremen!",
-      "translation" : "O Mahda ho Fremin!"
+      "scene": 90,
+      "character": "JESSICA",
+      "english_dialogue": "Let him try.",
+      "chakobsa_translation": "Sahathaho qithana.",
+      "phonetic_transcription": "SA-ha-tha-ho QI-tha-na.",
+      "translation_english": "Let-him try."
    },
    {
-      "line" : "2/1024",
-      "phonetic" : "o AR-rak-sa GA-sas isru HAI-ya-ta-ha bir-SII-ya!Must Arrakis be-freed by its-people own!",
-      "translation" : "O Arraksa gasas isru haiyataha birsiiya!"
+      "scene": 99,
+      "character": "OLD WOMAN",
+      "english_dialogue": "I lost them all in the fire.",
+      "chakobsa_translation": "Hardhiikaa hiilhi is-lisha.",
+      "phonetic_transcription": "HAR-dhii-kaa HIIL-hi is-LI-sha.",
+      "translation_english": "I-lost-them all in-the-fire."
    },
    {
-      "line" : "2/1032",
-      "phonetic" : "ne ZIH HA-ja-ga GEF-thak.I (am) here to-learn your-ways.",
-      "translation" : "Ne zih hajaga gefthak."
+      "scene": 99,
+      "character": "SHISHAKLI",
+      "english_dialogue": "All Northern Sietches have been hit. There is a call for a war council in the south. Muad'Dib. They're waiting for you.",
+      "chakobsa_translation": "Tassasak saich hiil un-yuchkim. Unaaraha jarmik rii qabgab deqah un-noqchim. E Mwaddib. Tamaakshii.",
+      "phonetic_transcription": "TAS-sa-sak SAICH HIIL un-YUCH-kim. u-NAA-ra-ha JAR-mik rii QAB-gab DE-qah un-NOQ-chim. E mwad-DIB. ta-MAAK-shii.",
+      "translation_english": "Have-been-hit Sietches all in-the-north. There-is (a) call for (a) council of-war in-the-south. O Muad'Dib. They-are-waiting-for-you."
    },
    {
-      "line" : "2/1054",
-      "phonetic" : "E KWI-sats HA-de-rach, HESH-shyu-ma-ho GIF!O Kwisatz Haderach, show-us-it (the) way!",
-      "translation" : "E Kwisats Haderach, hesshyumaho gif!"
+      "scene": 100,
+      "character": "SHISHAKLI",
+      "english_dialogue": "You can't stay here Muad'Dib! None of these people will leave if you don't leave!",
+      "chakobsa_translation": "So nifrish atmara zih, e Mwaddib! Isaadhak ziihij savi hu so isaadhash!",
+      "phonetic_transcription": "SO NIF-rish AT-ma-ra ZIH, e mwad-DIB! i-SAA-dhak ZII-hij SA-vi hu SO i-SAA-dhash!",
+      "translation_english": "Not you-can stay here, O Muad'Dib! They-will-leave these-people none-of if not you-leave!"
    },
    {
-      "line" : "2/1063",
-      "phonetic" : "E KWI-sats HA-de-rak, HESH-shyu-ma-ho GIF!O Kwisatz Haderach, show-us-it (the) way!",
-      "translation" : "E Kwisats Haderak, hesshyumaho gif!"
+      "scene": 100,
+      "character": "PAUL",
+      "english_dialogue": "I CAN'T GO SOUTH!",
+      "chakobsa_translation": "SO NIFRIYI JILA A-NOQCHOM!",
+      "phonetic_transcription": "SO NI-fri-yi JI-la a-NOQ-chom!",
+      "translation_english": "NOT I-CAN GO TO-SOUTH!"
    },
    {
-      "line" : "2/1071",
-      "phonetic" : "RUSH HESH-ya-kaa! YOZ-bo hi JAH-kaz!You-will see-them! Beauty and horror!",
-      "translation" : "RUSH HESHYAKAA! YOZBO HI JAHKAZ!"
+      "scene": 104,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "You're not allowed in here, stranger. Leave or die.",
+      "chakobsa_translation": "So oshii una zih, e leksit. Isa hu uzzulaash.",
+      "phonetic_transcription": "SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.",
+      "translation_english": "Not for-you to-be here, stranger. Leave or die."
    },
    {
-      "line" : "2/1092",
-      "phonetic" : "a-BRAA-na-ha mwad-DIB GE-bre-ha! He, he, he!Likes desert-mouse his-smell! Ha, ha, ha!",
-      "translation" : "Abraanaha mwaddib gebreha! He, he, he!"
+      "scene": 104,
+      "character": "PAUL",
+      "english_dialogue": "I should be welcomed.",
+      "chakobsa_translation": "Ruyi solagas.",
+      "phonetic_transcription": "RU-yi SO-la-gas.",
+      "translation_english": "I-should be-welcomed."
    },
    {
-      "line" : "2/1102",
-      "phonetic" : "HESH-shya-ka che NAZ-ga-ha-bit. HESH-shya-ha hu-RAA-ha--hi KASH-shaha-ho. HESH-shya-ha-ho! NIF-ri-ha HE-shi-sha.You-saw what he-did-it. He-saw it-coming--and he-saved-her. He-sawit! He-can foresee.",
-      "translation" : "Hesshyaka che nazgahabit. Hesshyaha huraaha--hi kasshahaho.Hesshyahaho! Nifriha heshisha."
+      "scene": 104,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "If you are the One--",
+      "chakobsa_translation": "Hu she Chausij--",
+      "phonetic_transcription": "hu SHE CHAU-sij--",
+      "translation_english": "If you (are) the-One--"
    },
    {
-      "line" : "2/1112",
-      "phonetic" : "hi-nat RU-yi uz-ZU-la-tha. SHI RUK, FAA-fa. is-NA-ta ki-RAA-lak TAAMrih ZA-ma-ha. hi SO ha-DHAAK HWI-shi FRAI-min ga-SIIG.(CONTINUED)35Dune: Part TwoCONTINUED:Language Translations11/20/2226.35Then will I-die. Maybe you-will, too. But will-continue (the) othersfighting. And not they-will-stop until Fremen are-free.",
-      "translation" : "Hinat ruyi uzzulatha. Shi ruk, faafa. Is-nata kiraalak taamrihzamaha. Hi so hadhaak hwishi Fraimin gasiig."
+      "scene": 104,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "God is waiting for you.",
+      "chakobsa_translation": "Tamaahashii dini.",
+      "phonetic_transcription": "ta-MAA-ha-shii DI-ni.",
+      "translation_english": "Is-awaiting-you God."
    },
    {
-      "line" : "2/1138",
-      "phonetic" : "QAZ-dha-ha HO fe-DAI-kin!Deserves he (to be) Fedaykin!",
-      "translation" : "Qazdhaha ho Fedaikin!"
+      "scene": 104,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "If you drink, you shall die. If you drink, you may see.",
+      "chakobsa_translation": "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
+      "phonetic_transcription": "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
+      "translation_english": "If you-drink, you-will die. If you drink, may you-see."
    },
    {
-      "line" : "2/1146",
-      "phonetic" : "HO be-LAL KAI-rat, e STIL-gar!He (is) without names, O Stilgar!",
-      "translation" : "Ho belal kairat, e Stilgar!"
+      "scene": 106,
+      "character": "JESSICA",
+      "english_dialogue": "Who knows about this?",
+      "chakobsa_translation": "Ledaaha che rii zihki?",
+      "phonetic_transcription": "le-DAA-ha CHE rii ZIH-ki?",
+      "translation_english": "Knows who about this?"
    },
    {
-      "line" : "2/1154",
-      "phonetic" : "HO ve-JII.It (is) true.",
-      "translation" : "Ho vejii."
+      "scene": 106,
+      "character": "MAKER KEEPER",
+      "english_dialogue": "Only you, Reverend Mother.",
+      "chakobsa_translation": "She biibii, e Kalidh.",
+      "phonetic_transcription": "She BII-bii, e KA-lidh.",
+      "translation_english": "You only, O Reverend-Mother."
    },
    {
-      "line" : "2/1177",
-      "phonetic" : "sa-HIIM US-la, GA-rig un-BA-chi BE-lak.Like Usul, (the) strength beneath (the) pillar.",
-      "translation" : "Sahiim Usla, garig un-bachi belak."
+      "scene": 106,
+      "character": "JESSICA",
+      "english_dialogue": "Good. What do you make of it?",
+      "chakobsa_translation": "Cheshii. Minaash che riiho?",
+      "phonetic_transcription": "che-SHII. mi-NAASH CHE RII-ho?",
+      "translation_english": "Good. Are-you-thinking what about-it?"
    },
    {
-      "line" : "2/1190",
-      "phonetic" : "SI-ha-ya.Desert-spring.",
-      "translation" : "Sihaya."
+      "scene": 106,
+      "character": "FEDAYKIN",
+      "english_dialogue": "He is in a sacred trance, gathering his holy powers before the final battle.",
+      "chakobsa_translation": "Junaazaha. Hiyaalaha iferha ezlii wa zamah edhiiya.",
+      "phonetic_transcription": "ju-NAA-za-ha. hi-YAA-la-ha I-fer-ha EZ-lii wa ZA-mah e-DHII-ya.",
+      "translation_english": "He-is-in-a-trance. He-is-gathering his-powers holy before (the) battle final."
    },
    {
-      "line" : "2/1226",
-      "phonetic" : "e FI-zi NI-tha ru mwad-DIB!O sun be-kind for Desert-mouse!",
-      "translation" : "E fizi nitha ru Mwaddib!"
+      "scene": 106,
+      "character": "JESSICA",
+      "english_dialogue": "Amen.",
+      "chakobsa_translation": "Belal Kaifa.",
+      "phonetic_transcription": "be-LAL KAI-fa.",
+      "translation_english": "Amen."
    },
    {
-      "line" : "2/1235",
-      "phonetic" : "SHAI-dish FI-zib! e mwad-DIB! O-ja!Today (is) (the) day! O Desert-Mouse! Be-strong!",
-      "translation" : "Shaidish fizib! E Mwaddib! Oja!"
+      "scene": 108,
+      "character": "STILGAR",
+      "english_dialogue": "Because he's the One. The Lisan al-Gaib should find his way to where no man has ever been.",
+      "chakobsa_translation": "Ru vaija ho Chausij. Ru Lisaan al-Gayib huratha a-chem jillaha so redhi a-bit.",
+      "phonetic_transcription": "ru-VAI-ja ho CHAU-sij. ru li-SAAN al-GA-yib HU-ra-tha a-CHEM JIL-la-ha SO RE-dhi a-bit.",
+      "translation_english": "Because he (is) the-One. Should Lisan al-Gaib find-his-way to-where has-gone no man to-there."
    },
    {
-      "line" : "2/1248",
-      "phonetic" : "E mwad-DIB! SO GOM-mudh-ma! JAR-ma VAH-cha!O Desert-Mouse! Not embarrass-us! Call (a) large-one!",
-      "translation" : "E Mwaddib! So gommudhma! Jarma vahcha!"
+      "scene": 108,
+      "character": "CHANI",
+      "english_dialogue": "You're insane.",
+      "chakobsa_translation": "Zaihaash lek.",
+      "phonetic_transcription": "ZAI-haash LEK.",
+      "translation_english": "You-drink sand. (Expression)"
    },
    {
-      "line" : "2/1272",
-      "phonetic" : "SO CHIV-la-ho. LED-du-ha-ho CHE-shii STIL-gar.Not worry. Taught-him well Stilgar.",
-      "translation" : "So chivlaho. Ledduhaho cheshii Stilgar."
+      "scene": 108,
+      "character": "STILGAR",
+      "english_dialogue": "He shall come back from the dead with Desert Spring tears.",
+      "chakobsa_translation": "Ruha chizzulatha sa mothcha Sihaya.",
+      "phonetic_transcription": "RU-ha chiz-ZU-la-tha sa MOTH-cha SI-ha-ya.",
+      "translation_english": "He-shall come-back-from-the-dead with tears of-Desert-Spring."
    },
    {
-      "line" : "2/1280",
-      "phonetic" : "E mwad-DIB! VIIIIII!!!O DESERT-MOUSE! YEAAAAAH!!!",
-      "translation" : "E MWADDIB! VIIIIII!!!"
+      "scene": 108,
+      "character": "CHANI",
+      "english_dialogue": "Bring me a drop of Water of Life.",
+      "chakobsa_translation": "Nazdhanii ekkercha Ekkera Eddema.",
+      "phonetic_transcription": "NAZ-dha-nii ek-KER-cha EK-ke-ra ED-de-ma.",
+      "translation_english": "Bring-me drop of-Water of-Life."
    },
    {
-      "line" : "2/1288",
-      "phonetic" : "e mwad-DIB, HESH-shyu-ma-ho GIF!O Desert-Mouse, show-us-it (the) way!",
-      "translation" : "E Mwaddib, hesshyumaho gif!"
+      "scene": 108,
+      "character": "STILGAR",
+      "english_dialogue": "As written.",
+      "chakobsa_translation": "Qithlasha.",
+      "phonetic_transcription": "QITH-la-sha.",
+      "translation_english": "It-was-written."
    },
    {
-      "line" : "2/1296",
-      "phonetic" : "QITH-las-ha.It-was-written.",
-      "translation" : "Qithlas-ha.(CONTINUED)62Dune: Part TwoCONTINUED: (2)Language Translations11/20/2230.62"
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "Do you smash a knife before going to BATTLE?",
+      "chakobsa_translation": "Vii juraak dimbi wak ZAMAHA?",
+      "phonetic_transcription": "VII ju-RAAK DIM-bi wak ZA-ma-ha?",
+      "translation_english": "Do you-smash knife before-you BATTLE?"
    },
    {
-      "line" : "2/1320",
-      "phonetic" : "re-SHIIIIII!WHOAAAAA!",
-      "translation" : "Reshiiiiii!"
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "There is no one in this room who can stand against me.",
+      "chakobsa_translation": "Unara sot un-taufih zihi nifribit qummunii.",
+      "phonetic_transcription": "U-na-ra SOT un-TAU-fih ZI-hi NIF-ri-bit QUM-mu-nii.",
+      "translation_english": "There-is no-one in-room this can-who stand-against-me."
    },
    {
-      "line" : "2/1328",
-      "phonetic" : "SO va-HII sa-NAI!Not big like-that!",
-      "translation" : "So vahii sanai!"
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "Your mothers warned you about my coming. Fear the moment.",
+      "chakobsa_translation": "Qaubaka kaalik akaa rii hurayi. Jaha ish.",
+      "phonetic_transcription": "QAU-ba-ka KAA-lik a-KAA rii HU-ra-yi. JA-ha ish.",
+      "translation_english": "Warned-they mothers-your you about my-coming. Fear (the) moment."
    },
    {
-      "line" : "2/1341",
-      "phonetic" : "e KA-lidh.(CONTINUED)63Dune: Part TwoCONTINUED:Language Translations11/20/2231.63O Reverend-Mother.",
-      "translation" : "E Kalidh."
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "You think you could have a chance.",
+      "chakobsa_translation": "E she minaazash nifrish qira sahiim zaihadh.",
+      "phonetic_transcription": "e SHE mi-NAA-zash NI-frish QI-ra sa-HIIM ZAI-hadh.",
+      "translation_english": "And you think you-can stand as champion."
    },
    {
-      "line" : "2/1365",
-      "phonetic" : "wa-SHAI-dah SEK-ka-ha mwad-DIB FAD-la hi SHAI hu-LUUD!Finally found Desert-Mouse peace with Shai Hulud!",
-      "translation" : "Wa shaidah sekkaha Mwaddib fadla hi Shai Huluud!"
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "But you're afraid: What if he could be the One? This could be the moment you've been waiting for all your life. You're praying now--to your grandmother--who passed away nine moons ago. She lost an eye. A rock had smashed her face as she was crossing the Belt. She was twelve when it happened. At that time, this world had a Fremen name--Dune.",
+      "chakobsa_translation": "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit o eddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevi barthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalaha Jeske obit. Sayyaha airhur zaad hi thaa nishi vannaha obit. erle chausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis.",
+      "phonetic_transcription": "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bit o ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bit NAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YI-mash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD hi THAA ni-shi VAN-na-ha o-bit. ER-le CHAU-si, ja-RAA-mas-ha AB-zih ZI-hi sa KYUR-tu FREM-nii--ho LE-kis.",
+      "translation_english": "But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is) (the) moment you-have-waited-for-which during life-your all. You-are-praying now--to-your-grandmother--who-died at-months nine ago. She-lost (an) eye. It-had-smashed (a) rock her-face at-the-time she-was-crossing (the) Belt during-it. She-had-walked years twelve at-that-moment it-occurred during-it. During time that, it-was-being-called world this by name Fremen--it-was Dune."
    },
    {
-      "line" : "2/1373",
-      "phonetic" : "be-LAL KAI-fa!!!Without limits!!!",
-      "translation" : "Belal kaifa!!!"
+      "scene": 112,
+      "character": "HUGE FIGHTER",
+      "english_dialogue": "Lisan al-Gaib!",
+      "chakobsa_translation": "Lisaan al-Gayib!",
+      "phonetic_transcription": "li-SAAN al-GA-yib!",
+      "translation_english": "Lisan al-Gaib!"
    },
    {
-      "line" : "2/1381",
-      "phonetic" : "JAR-ma-ha NOQ-cho JUU-go. vaa-HAI-za HESH-shya-ha-bit U-nij a-vadZIH.He-called (a) worm grandfather. (The) biggest has-seen-that anyoneever.",
-      "translation" : "Jarmaha noqcho juugo. Vaahaiza hesshyahabit unij a-vadzih."
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "In your nightmares, you give water to the dead. And it brings joy to your heart.",
+      "chakobsa_translation": "Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbi hukrash.",
+      "phonetic_transcription": "un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dha-ha CHIM-bi hu-krash.",
+      "translation_english": "In-nightmares-your, you-give water to-the-dead. And it-brings joy to-your-heart."
    },
    {
-      "line" : "2/1405",
-      "phonetic" : "QITH-las-ha!It-was-written!",
-      "translation" : "Qithlas-ha!"
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "Green Paradise.",
+      "chakobsa_translation": "Shiidhgim Sharii.",
+      "phonetic_transcription": "SHIIDH-gim sha-RII.",
+      "translation_english": "Paradise Green."
    },
    {
-      "line" : "2/1413",
-      "phonetic" : "le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.Knows Shai-Hulud (the) coming of-the-storm.",
-      "translation" : "Ledaaha Shayi Huluud hura afshal."
+      "scene": 112,
+      "character": "PAUL",
+      "english_dialogue": "The Hand of God be my witness, I am the Voice from the Outer World. I will lead you to PARADISE.",
+      "chakobsa_translation": "E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk a-SHIDHGIM.",
+      "phonetic_transcription": "e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-la ruk a-SHIDH-gim.",
+      "translation_english": "O Hand of God, witness-me: I (am) Lisan al-Gaib. I-will lead you to-Paradise."
    },
    {
-      "line" : "2/1421",
-      "phonetic" : "ITH-thuz VESH-sha hi NAZ-ga-ha.Bless (the) Maker and his-works.",
-      "translation" : "Itthuz Vessha hi nazgaha."
+      "scene": 112,
+      "character": "ALL FREMEN",
+      "english_dialogue": "LISAN AL-GAIB!",
+      "chakobsa_translation": "LISAAN AL-GAYIB!",
+      "phonetic_transcription": "li-SAAN al-GA-yib!",
+      "translation_english": "LISAN AL-GAIB!"
    },
    {
-      "line" : "2/1445",
-      "phonetic" : "SO VII ru SHA-ya hu-LUUD LE-da MAH-da hu hu-RAA-ha?Not is-it will Shai-Hulud know Mahdi when he-comes?",
-      "translation" : "So vii ru Shaya Huluud leda Mahda hu huraaha?"
+      "scene": 120,
+      "character": "SHISHAKLI",
+      "english_dialogue": "A mighty one, Muad'Dib! A great grandmother of a storm.",
+      "chakobsa_translation": "Ojij, e Mwaddib! Afshil al-kalig.",
+      "phonetic_transcription": "O-jij, e mwad-DIB! AF-shil al-KA-lig.",
+      "translation_english": "A-mighty-one, O Desert-Mouse! (A) storm great-grandmother."
    },
    {
-      "line" : "2/1453",
-      "phonetic" : "hi-nat DHIK-tha KER!Then share (the) words!",
-      "translation" : "Hinat dhiktha ker!"
+      "scene": 123,
+      "character": "CHANI",
+      "english_dialogue": "Let's free Dune.",
+      "chakobsa_translation": "Rum gassu Lekse.",
+      "phonetic_transcription": "RUM GAS-su LEK-se.",
+      "translation_english": "Let's free Dune."
    },
    {
-      "line" : "2/1461",
-      "phonetic" : "VII HII-lih che-SHII, e KA-lidh?Is everything all-right, O Reverend-Mother?",
-      "translation" : "Vii hiilih cheshii, e Kalidh?"
+      "scene": 123,
+      "character": "PAUL/WHOLE FREMEN ARMY",
+      "english_dialogue": "LONG LIVE THE FIGHTERS!!!",
+      "chakobsa_translation": "ADDAAM RESHII A-ZAANTA!!!",
+      "phonetic_transcription": "ad-DAAM RE-shii a-ZAAN-ta!",
+      "translation_english": "Lives long to-the-fighters!"
    },
    {
-      "line" : "2/1469",
-      "phonetic" : "MAR-ra-ha LET-she.(CONTINUED)63Dune: Part TwoCONTINUED: (4)Language Translations11/20/2234.63She-heard (the) news.",
-      "translation" : "Marraha letshe."
+      "scene": 126,
+      "character": "PAUL",
+      "english_dialogue": "Bring the prisoners to the Residency. Kill the Sardaukar. Give the Baron's body to the desert.",
+      "chakobsa_translation": "Dinla thoddhat Hozjom. Vizdha Sardaakra. Dhika than Dhonaj a-reshme.",
+      "phonetic_transcription": "DIN-la THODH-dhat HOZ-jom. VIZ-dha sar-DAA-kra. DHI-ka THAN DHO-naj a-RESH-me.",
+      "translation_english": "Bring prisoners to-Residency. Kill (the) Sardaukar. Give (the) body of-the-Baron to-the-desert."
    },
    {
-      "line" : "2/1493",
-      "phonetic" : "A-fiz ru SHAI-dash. JI-la vad-ZIH.Enough for today. Go now.",
-      "translation" : "Afiz ru shaidash. Jila vadzih."
+      "scene": 126,
+      "character": "STILGAR",
+      "english_dialogue": "Yes, Muad'Dib.",
+      "chakobsa_translation": "Charra, e Mwaddib.",
+      "phonetic_transcription": "CHAR-ra, e mwad-dib.",
+      "translation_english": "Yes, O Desert-Mouse."
    },
    {
-      "line" : "2/1501",
-      "phonetic" : "JI-la i-sim.Go from-us.",
-      "translation" : "Jila isim."
+      "scene": 131,
+      "character": "ALL FEDAYKIN",
+      "english_dialogue": "LISAN AL-GAIB!!!!",
+      "chakobsa_translation": "LISAAN AL-GAYIB!!!!",
+      "phonetic_transcription": "li-SAAN al-GA-yib!!!!",
+      "translation_english": "Lisan al-Gaib!!!!"
    },
    {
-      "line" : "2/1515",
-      "phonetic" : "VII u-NAA-rash hi-yii nosh-SHAI-dah?Will you-be with-me always?(CONTINUED)68Dune: Part TwoCONTINUED:Language Translations11/20/2235.68",
-      "translation" : "Vii unaarash hiyii nosshaidah?"
+      "scene": "XXX",
+      "character": "CHANI",
+      "english_dialogue": "He doesn't know how to cross! Stilgar is going to get him killed. What is he trying to prove?",
+      "chakobsa_translation": "So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama gif chaiyi?",
+      "phonetic_transcription": "SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho. hesh-SHYUU-ha-ma GIF CHAI-yi?",
+      "translation_english": "Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To-prove-to-us what? (Expression)"
    },
    {
-      "line" : "2/1543",
-      "phonetic" : "HA-dha ZAN-la!Stop (the) fight!",
-      "translation" : "Hadha zanla!"
+      "scene": "XXX",
+      "character": "SHISHAKLI",
+      "english_dialogue": "What do you think?",
+      "chakobsa_translation": "Minaazash che?",
+      "phonetic_transcription": "mi-NAA-zash CHE?",
+      "translation_english": "You-think what?"
    },
    {
-      "line" : "2/1558",
-      "phonetic" : "is-KIF-tha CHAI-ya o-MAA-kath-sha-ho?Way what you-value-him?",
-      "translation" : "Is-kiftha chaiya omaakathshaho?"
+      "scene": "XXX",
+      "character": "SHISHAKLI",
+      "english_dialogue": "He shall know the ways of the desert. I think it's all for the best. (off Chani's look) What? You care for him now?",
+      "chakobsa_translation": "Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off Chani's look) Ru-che? Abraachashho vadzih?",
+      "phonetic_transcription": "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off Chani's look) ru-CHE? a-BRAA-chash-ho vad-zih?",
+      "translation_english": "He-shall know (the) ways of-the-desert. I-think it (is) to-the-greater-good. (off Chani's look) What? You-care-for-him now?"
    },
    {
-      "line" : "2/1566",
-      "phonetic" : "mi-NAA-zii ho FISH-lin.I-think he (is) trouble.(CONTINUED)81Dune: Part TwoCONTINUED:Language Translations11/20/2236.81",
-      "translation" : "Minaazii ho fishlin."
+      "scene": "XXX",
+      "character": "CHANI",
+      "english_dialogue": "He's not like the other strangers. I feel he's sincere.",
+      "chakobsa_translation": "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.",
+      "phonetic_transcription": "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.",
+      "translation_english": "He not (is) like strangers others. I-believe he (is) sincere."
    },
    {
-      "line" : "2/1595",
-      "phonetic" : "HO je-DHII o-MAIZ!He (is) fat too-much!",
-      "translation" : "Ho jedhii omaiz!"
+      "scene": 37,
+      "character": "JESSICA",
+      "english_dialogue": "You're Fremen.",
+      "chakobsa_translation": "She Fremin.",
+      "phonetic_transcription": "she FRE-min.",
+      "translation_english": "You (are) Fremen."
    },
    {
-      "line" : "2/1609",
-      "phonetic" : "RU-ha hu-ra?Will-he come?",
-      "translation" : "Ruha hura?"
+      "scene": 39,
+      "character": "SHADOUT MAPES",
+      "english_dialogue": "He shall hold life and death in his hands.",
+      "chakobsa_translation": "Ruha bela eddem hi uzzul un-raudhiha.",
+      "phonetic_transcription": "RU-ha be-la ed-DEM hi uz-ZUL un-RAU-dhi-ha.",
+      "translation_english": "(It is) to-him to-hold life and death in-hands-his."
    },
    {
-      "line" : "2/1618",
-      "phonetic" : "hu hu-RAA-ha, O-shii SO-la-ga-ho.If he-comes, you-must welcome-him.(CONTINUED)89Dune: Part TwoCONTINUED:Language Translations11/20/2237.89",
-      "translation" : "Hu huraaha, oshii solagaho."
+      "scene": 45,
+      "character": "DUNCAN IDAHO",
+      "english_dialogue": "Go with them in peace.",
+      "chakobsa_translation": "Jila hiyak sa fadla.",
+      "phonetic_transcription": "JI-la hi-yak sa FAD-la.",
+      "translation_english": "Go with-them in peace."
    },
    {
-      "line" : "2/1648",
-      "phonetic" : "BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zuLAA-thak.One at-a-time only. Otherwise they-fight each-other until they-die.",
-      "translation" : "Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak."
+      "scene": 46,
+      "character": "STILGAR",
+      "english_dialogue": "I recognize you.",
+      "chakobsa_translation": "Heshiigiishii.",
+      "phonetic_transcription": "he-shii-GII-shii.",
+      "translation_english": "I-recognize-you."
    },
    {
-      "line" : "2/1656",
-      "phonetic" : "CHE E-ri-ga-ha?What (is) its-age?",
-      "translation" : "Che erigaha?"
+      "scene": 48,
+      "character": "KYNES",
+      "english_dialogue": "He shall know your ways as though born to them.",
+      "chakobsa_translation": "Ruha leda gefthek sahiimbit qullaha hiyak.",
+      "phonetic_transcription": "RU-ha le-da GEF-thek sa-HIIM-bit QUL-la-ha hi-yak.",
+      "translation_english": "(It is) to-him to-know ways-your as-one-who was-born with-them."
    },
    {
-      "line" : "2/1664",
-      "phonetic" : "lu-DHAIZ.Very-young.",
-      "translation" : "Ludhaiz."
+      "scene": 132,
+      "character": "MALE FREMEN (O.S.)",
+      "english_dialogue": "They are not of the desert!",
+      "chakobsa_translation": "Kaah so is-reshma!",
+      "phonetic_transcription": "kaah SO is-RESH-ma!",
+      "translation_english": "They (are) not from-desert!"
    },
    {
-      "line" : "2/1689",
-      "phonetic" : "NOQ-chich!Baby-worm!",
-      "translation" : "Noqchich!"
+      "scene": 132,
+      "character": "STILGAR",
+      "english_dialogue": "The night is fading. We must reach Sietch Tabr. The fates of these strangers will be decided there. Until then they have my countenance! My word is on them.",
+      "chakobsa_translation": "Zeyaashaha qumih. Oma jiladha a-Sich Tabra. Ru vaanar liikasat ziha dimadhagas chos. A-vannat belilii hiyak! Ukairibii unak.",
+      "phonetic_transcription": "ze-YAA-sha-ha QU-mih. o-ma JI-la-dha a-SICH TAB-ra. ru VAA-nar LII-ka-sat zi-ha DI-ma-dha-gas CHOS. a-VAN-nat BE-li-lii hi-yak! u-KAI-ri-bii u-nak.",
+      "translation_english": "Is-fading night. (It is) on-us to-reach to-Sietch Tabr. (It is) for fates of-strangers these to-be-decided there. Until-then countenance-my (is) with-them! Promise-my (is) upon-them."
    },
    {
-      "line" : "2/1697",
-      "phonetic" : "is-KIF-tha CHAI-ya an-za-GAAS-ha?How (is) it-accomplished?",
-      "translation" : "Is-kiftha chaiya anzagaas-ha?"
+      "scene": 132,
+      "character": "JESSICA",
+      "english_dialogue": "Tell them to stop hunting my son.",
+      "chakobsa_translation": "Jarakaa hadha vizala kwadii.",
+      "phonetic_transcription": "JA-ra-kaa HA-dha VI-za-la KWA-dii.",
+      "translation_english": "Tell-them to-stop to-hunt son-my."
    },
    {
-      "line" : "2/1705",
-      "phonetic" : "is-KIF-tha CHAI-ya o-GAA-ra-ha?How is-she-moving-herself? (Expression)",
-      "translation" : "Is-kiftha chaiya ogaaraha?"
+      "scene": "132B",
+      "character": "GROUP",
+      "english_dialogue": "Let's go.",
+      "chakobsa_translation": "A-gef.",
+      "phonetic_transcription": "a-GEF.",
+      "translation_english": "To-the-path."
    },
    {
-      "line" : "2/1729",
-      "phonetic" : "EK-ke-ri ED-de-ma.(The) Water of-Life.",
-      "translation" : "Ekkeri Eddema."
+      "scene": "132B",
+      "character": "FREMEN",
+      "english_dialogue": "By power! By might! Strike him! Strike fast! Hey Jamis! Jump! Make him see! Use your blade! Kill him!",
+      "chakobsa_translation": "Sah-ifir! Sa-garga! Tasaho! Tasa nichii! E Jamis! Faiza! Hesshyuho! Aga dimash! Uzzulluho!",
+      "phonetic_transcription": "sa-hi-FIR! sa-GAR-ga! TA-sa-ho! TA-sa NI-chii! e JA-mis! FAI-za! HESH-shyu-ho! A-ga DI-mash! uz-ZUL-lu-ho!",
+      "translation_english": "By-power! By-might! Strike-him! Strike quickly! O Jamis! Jump! Make-see-him! Use blade-your! Kill-him!"
    },
    {
-      "line" : "2/1738",
-      "phonetic" : "MAR-za CHE-shii. no-JE-rach, ru RE-dha HU-ra-na a-MIN-zi-mash. ISHru-QAA-ha-shii AN-za-ga OG-rog.Listen carefully. Soon, will (a) man visit your-temple. May he-askyou to-perform (the) rite.",
-      "translation" : "Marza cheshii. Noj erach, ru redha hurana a-minzimash. Ishruqaahashii anzaga ogrog."
+      "scene": "132B",
+      "character": "STILGAR",
+      "english_dialogue": "Silence!",
+      "chakobsa_translation": "Fashii!",
+      "phonetic_transcription": "fa-SHII!",
+      "translation_english": "Silently!"
    },
    {
-      "line" : "2/1748",
-      "phonetic" : "MAR-za CHE-shii. ru RE-dha HU-ra-Listen carefully. Will (a) come-",
-      "translation" : "Marza cheshii. Ru redha hura-"
+      "scene": "132B",
+      "character": "MALE FREMEN",
+      "english_dialogue": "We must get his body's water.",
+      "chakobsa_translation": "Oma hiila ekker is-thanaha.",
+      "phonetic_transcription": "O-ma HII-la ek-KER is-THA-na-ha.",
+      "translation_english": "(It is) on-us to-collect water from-body-his."
    },
    {
-      "line" : "2/1755",
-      "phonetic" : "MAR-za CHE-shii. NI-shi hu-RAA-ha o-bit, shi-Listen carefully. At-the-time he-arrives then, may (he)",
-      "translation" : "Marza cheshii. Nishi huraaha obit, shi-(CONTINUED)90Dune: Part TwoCONTINUED: (3)Language Translations11/20/2240.90"
+      "scene": "132B",
+      "character": "FEMALE FREMEN",
+      "english_dialogue": "Quick! Quick!",
+      "chakobsa_translation": "Nichii! Nichii!",
+      "phonetic_transcription": "ni-CHII! ni-CHII!",
+      "translation_english": "Quickly! Quickly!"
    },
    {
-      "line" : "2/1776",
-      "phonetic" : "ATS, SO NI-frii AN-za-ga O-grog.No, not I-can perform (the) rite.",
-      "translation" : "Ats, so nifrii anzaga ogrog."
+      "scene": "132C",
+      "character": "STILGAR",
+      "english_dialogue": "Welcome!",
+      "chakobsa_translation": "Ekkerim a-kairash!",
+      "phonetic_transcription": "EK-ke-rim a-KAI-rash!",
+      "translation_english": "Water-our to-water-your!"
    },
    {
-      "line" : "2/1784",
-      "phonetic" : "yi-MAA-thash a-LED-be?You-are-questioning the-prophecy?",
-      "translation" : "Yimaathash a-ledbe?"
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Do you really think he is the One?",
+      "chakobsa_translation": "Vii minaazashaho vejii ho Chausij?",
+      "phonetic_transcription": "vii mi-NAA-za-sha-ho ve-JII ho CHAU-sij?",
+      "translation_english": "Do you-think-it truly (that) he (is) the-One?"
    },
    {
-      "line" : "2/1792",
-      "phonetic" : "QITH-na-ka RII-dhi a-FII--uz-ZUL-tha-ka HIIL.Have-tried men many--have-died all.(CONTINUED)90Dune: Part TwoCONTINUED: (4)Language Translations11/20/2241.90",
-      "translation" : "Qithnaka riidhi afii--uzzulthaka hiil."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Liet favors him.",
+      "chakobsa_translation": "Yazaalahao Liiyet.",
+      "phonetic_transcription": "ya-ZAA-la-ha-o LII-yet.",
+      "translation_english": "He-favors-him Liet."
    },
    {
-      "line" : "2/1816",
-      "phonetic" : "SO ru-ha ED-de-ma-dha.Not he-will survive.",
-      "translation" : "So ruha eddemadha."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "He looks young to me.",
+      "chakobsa_translation": "Azaagahayi ho ludhii.",
+      "phonetic_transcription": "a-ZAA-ga-ha-yi ho lu-DHII.",
+      "translation_english": "It-appears-to-me (that) he is-young."
    },
    {
-      "line" : "2/1824",
-      "phonetic" : "SA-ha-tha-ho QI-tha-na.Let-him try.",
-      "translation" : "Sahathaho qithana."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Good coffee, friend.",
+      "chakobsa_translation": "Oggori cheshii, e akshahii.",
+      "phonetic_transcription": "OG-go-ri che-SHII, e AK-sha-hii.",
+      "translation_english": "Coffee good, O friend."
    },
    {
-      "line" : "2/1838",
-      "phonetic" : "HAR-dhii-kaa HIIL-hi is-LI-sha.I-lost-them all in-the-fire.",
-      "translation" : "Hardhiikaa hiilhi is-lisha."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "How can he be the One?",
+      "chakobsa_translation": "Is-kiftha chaiya ho Chausij?",
+      "phonetic_transcription": "is-KIF-tha CHAI-ya HO CHAU-sij?",
+      "translation_english": "In-way what he (is) the-One?"
    },
    {
-      "line" : "2/1862",
-      "phonetic" : "TAS-sa-sak SAICH HIIL un-YUCH-kim. u-NAA-ra-ha JAR-mik rii QAB-gabDE-qah un-NOQ-chim. E mwad-DIB. ta-MAAK-shii.Have-been-hit Sietches all in-the-north. There-is (a) call for (a)council of-war in-the-south. O MuadaEURtmDib. They-are-waiting-for-you.",
-      "translation" : "Tassasak saich hiil un-yuchkim. Unaaraha jarmik rii qabgab deqah unnoqchim. E Mwaddib. Tamaakshii."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Come here.",
+      "chakobsa_translation": "Khura zikh.",
+      "phonetic_transcription": "KHU-ra ZIKH.",
+      "translation_english": "Come here."
    },
    {
-      "line" : "2/1879",
-      "phonetic" : "SO NIF-rish AT-ma-ra ZIH, e mwad-DIB! i-SAA-dhak ZII-hij SA-vi hu SOi-SAA-dhash!Not you-can stay here, O MuadaEURtmDib! They-will-leave these-people noneof if not you-leave!",
-      "translation" : "So nifrish atmara zih, e Mwaddib! Isaadhak ziihij savi hu soisaadhash!"
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Kneel.",
+      "chakobsa_translation": "Mursha.",
+      "phonetic_transcription": "MUR-sha.",
+      "translation_english": "Kneel."
    },
    {
-      "line" : "2/1889",
-      "phonetic" : "SO NI-fri-yi JI-la a-NOQ-chom!NOT I-CAN GO TO-SOUTH!(CONTINUED)100Dune: Part TwoCONTINUED:Language Translations11/20/2243.100",
-      "translation" : "SO NIFRIYI JILA A-NOQCHOM!"
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Stop.",
+      "chakobsa_translation": "Khadha.",
+      "phonetic_transcription": "KHA-dha.",
+      "translation_english": "Stop."
    },
    {
-      "line" : "2/1916",
-      "phonetic" : "SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.Not for-you to-be here, stranger. Leave or die.",
-      "translation" : "So oshii una zih, e leksit. Isa hu uzzulaash."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Drink the flame.",
+      "chakobsa_translation": "Zaikha lishki.",
+      "phonetic_transcription": "ZAI-kha LISH-ki.",
+      "translation_english": "Drink the-flame."
    },
    {
-      "line" : "2/1925",
-      "phonetic" : "RU-yi SO-la-gas.I-should be-welcomed.",
-      "translation" : "Ruyi solagas."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Remove her gag.",
+      "chakobsa_translation": "Dindhakho fashibakha.",
+      "phonetic_transcription": "DIN-dha-kho fa-SHI-ba-kha.",
+      "translation_english": "Remove her-gag."
    },
    {
-      "line" : "2/1933",
-      "phonetic" : "hu SHE CHAU-sij-If you (are) the-One-",
-      "translation" : "Hu she Chausij-"
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Kill him. Now.",
+      "chakobsa_translation": "Vidzakho. Vadzikh.",
+      "phonetic_transcription": "VID-za-kho. VAD-zikh.",
+      "translation_english": "Kill-him. Now."
    },
    {
-      "line" : "2/1954",
-      "phonetic" : "ta-MAA-ha-shii DI-ni.Is-awaiting-you God.",
-      "translation" : "Tamaahashii dini."
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Set us free.",
+      "chakobsa_translation": "Ghassuma.",
+      "phonetic_transcription": "GHAS-su-ma.",
+      "translation_english": "Free-us."
    },
    {
-      "line" : "2/1962",
-      "phonetic" : "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.If you-drink, you-will die. If you drink, may you-see.",
-      "translation" : "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash."
-   },
-   {
-      "line" : "2/1976",
-      "phonetic" : "le-DAA-ha CHE rii ZIH-ki?Knows who about this?",
-      "translation" : "Ledaaha che rii zihki?"
-   },
-   {
-      "line" : "2/1999",
-      "phonetic" : "She BII-bii, e KA-lidh.You only, O Reverend-Mother.",
-      "translation" : "She biibii, e Kalidh."
-   },
-   {
-      "line" : "2/2007",
-      "phonetic" : "che-SHII. mi-NAASH CHE RII-ho?Good. Are-you-thinking what about-it?",
-      "translation" : "Cheshii. Minaash che riiho?"
-   },
-   {
-      "line" : "2/2016",
-      "phonetic" : "ju-NAA-za-ha. hi-YAA-la-ha I-fer-ha EZ-lii wa ZA-mah e-DHII-ya.He-is-in-a-trance. He-is-gathering his-powers holy before (the)battle final.",
-      "translation" : "Junaazaha. Hiyaalaha iferha ezlii wa zamah edhiiya."
-   },
-   {
-      "line" : "2/2025",
-      "phonetic" : "be-LAL KAI-fa.Amen.",
-      "translation" : "Belal Kaifa.(CONTINUED)106Dune: Part TwoCONTINUED: (2)Language Translations11/20/2246.106"
-   },
-   {
-      "line" : "2/2055",
-      "phonetic" : "ru-VAI-ja ho CHAU-sij. ru li-SAAN al-GA-yib HU-ra-tha a-CHEM JIL-laha SO RE-dhi a-bit.Because he (is) the-One. Should Lisan al-Gaib find-his-way to-wherehas-gone no man to-there.",
-      "translation" : "Ru vaija ho Chausij. Ru Lisaan al-Gayib huratha a-chem jillaha soredhi a-bit."
-   },
-   {
-      "line" : "2/2065",
-      "phonetic" : "ZAI-haash LEK.You-drink sand. (Expression)",
-      "translation" : "Zaihaash lek."
-   },
-   {
-      "line" : "2/2073",
-      "phonetic" : "RU-ha chiz-ZU-la-tha sa MOTH-cha SI-ha-ya.He-shall come-back-from-the-dead with tears of-Desert-Spring.",
-      "translation" : "Ruha chizzulatha sa mothcha Sihaya.(CONTINUED)108Dune: Part TwoCONTINUED:Language Translations11/20/2247.108"
-   },
-   {
-      "line" : "2/2095",
-      "phonetic" : "NAZ-dha-nii ek-KER-cha EK-ke-ra ED-de-ma.Bring-me drop of-Water of-Life.",
-      "translation" : "Nazdhanii ekkercha Ekkera Eddema."
-   },
-   {
-      "line" : "2/2103",
-      "phonetic" : "QITH-la-sha.It-was-written.",
-      "translation" : "Qithlasha."
-   },
-   {
-      "line" : "2/2116",
-      "phonetic" : "VII ju-RAAK DIM-bi wak ZA-ma-ha?(CONTINUED)112Dune: Part TwoCONTINUED:Language Translations11/20/2248.112Do you-smash knife before-you BATTLE?",
-      "translation" : "Vii juraak dimbi wak ZAMAHA?"
-   },
-   {
-      "line" : "2/2139",
-      "phonetic" : "U-na-ra SOT un-TAU-fih ZI-hi NIF-ri-bit QUM-mu-nii.There-is no-one in-room this can-who stand-against-me.",
-      "translation" : "Unara sot un-taufih zihi nifribit qummunii."
-   },
-   {
-      "line" : "2/2147",
-      "phonetic" : "QAU-ba-ka KAA-lik a-KAA rii HU-ra-yi. JA-ha ish.Warned-they mothers-your you about my-coming. Fear (the) moment.",
-      "translation" : "Qaubaka kaalik akaa rii hurayi. Jaha ish."
-   },
-   {
-      "line" : "2/2155",
-      "phonetic" : "e SHE mi-NAA-zash NI-frish QI-ra sa-HIIM ZAI-hadh.And you think you-can stand as champion.",
-      "translation" : "E she minaazash nifrish qira sahiim zaihadh."
-   },
-   {
-      "line" : "2/2181",
-      "phonetic" : "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bito ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bitNAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YImash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD hiTHAA ni-shi VAN-na-ha o-bit. o ER-le CHAU-si, ja-RAA-mas-ha AB-zihZI-hi sa KYUR-tu FREM-nii--ho LE-kis.But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is)(the) moment you-have-waited-for-which during life-your all. You-arepraying now--to-your-grandmother--who-died at-months nine ago. Shelost (an) eye. It-had-smashed (a) rock her-face at-the-time she-wascrossing (the) Belt during-it. She-had-walked years twelve at-thatmoment it-occurred during-it. During time that, it-was-being-calledworld this by name Fremen--it-was Dune.",
-      "translation" : "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit oeddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevibarthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalahaJeske obit. Sayyaha airhur zaad hi thaa nishi vannaha obit. O erlechausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis."
-   },
-   {
-      "line" : "2/2199",
-      "phonetic" : "li-SAAN al-GA-yib!Lisan al-Gaib!",
-      "translation" : "Lisaan al-Gayib!"
-   },
-   {
-      "line" : "2/2223",
-      "phonetic" : "un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dhaha CHIM-bi hu-krash.In-nightmares-your, you-give water to-the-dead. And it-brings joy toyour-heart.",
-      "translation" : "Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbihukrash."
-   },
-   {
-      "line" : "2/2232",
-      "phonetic" : "SHIIDH-gim sha-RII.Paradise Green.",
-      "translation" : "Shiidhgim Sharii."
-   },
-   {
-      "line" : "2/2241",
-      "phonetic" : "e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-laruk a-SHIDH-gim.O Hand of-God, witness-me: I (am) Lisan al-Gaib. I-will lead you toParadise.",
-      "translation" : "E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk aSHIDHGIM."
-   },
-   {
-      "line" : "2/2266",
-      "phonetic" : "li-SAAN al-GA-yib!LISAN AL-GAIB!",
-      "translation" : "LISAAN AL-GAYIB!"
-   },
-   {
-      "line" : "2/2279",
-      "phonetic" : "O-jij, e mwad-DIB! AF-shil al-KA-lig.A-mighty-one, O Desert-Mouse! (A) storm great-grandmother.",
-      "translation" : "Ojij, e Mwaddib! Afshil al-kalig."
-   },
-   {
-      "line" : "2/2294",
-      "phonetic" : "RUM GAS-su LEK-se.LetaEURtms free Dune.",
-      "translation" : "Rum gassu Lekse."
-   },
-   {
-      "line" : "2/2318",
-      "phonetic" : "ad-DAAM RE-shii a-ZAAN-ta!Lives long to-the-fighters!",
-      "translation" : "ADDAAM RESHII A-ZAANTA!!!"
-   },
-   {
-      "line" : "2/2333",
-      "phonetic" : "DIN-la THODH-dhat HOZ-jom. VIZ-dha sar-DAA-kra. DHI-ka THAN DHO-naja-RESH-me.Bring prisoners to-Residency. Kill (the) Sardaukar. Give (the) bodyof-the-Baron to-the-desert.",
-      "translation" : "Dinla thoddhat Hozjom. Vizdha Sardaakra. Dhika than Dhonaj a-reshme."
-   },
-   {
-      "line" : "2/2343",
-      "phonetic" : "CHAR-ra, e mwad-dib.Yes, O Desert-Mouse.",
-      "translation" : "Charra, e Mwaddib."
-   },
-   {
-      "line" : "2/2365",
-      "phonetic" : "li-SAAN al-GA-yib!!!!Lisan al-Gaib!!!!",
-      "translation" : "LISAAN AL-GAYIB!!!!"
-   },
-   {
-      "line" : "2/2388",
-      "phonetic" : "SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho.hesh-SHYUU-ha-ma GIF CHAI-yi?****Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To- **prove-to-us what? (Expression)",
-      "translation" : "So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama **gif chaiyi?"
-   },
-   {
-      "line" : "2/2414",
-      "phonetic" : "mi-NAA-zash CHE?**You-think what?**(CONTINUED)XXXDune: Part TwoCONTINUED:Language Translations11/20/2254.XXX",
-      "translation" : "Minaazash che?**"
-   },
-   {
-      "line" : "2/2455",
-      "phonetic" : "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off ChaniaEURtms **look) ru-CHE? a-BRAA-chash-ho vad-zih?He-shall know (the) ways of-the-desert. I-think it (is) to-thegreater-good. (off ChaniaEURtms look) What? You-care-for-him now?***",
-      "translation" : "Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off ChaniaEURtms look) **Ru-che? Abraachashho vadzih?*"
-   },
-   {
-      "line" : "2/2481",
-      "phonetic" : "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.**He not (is) like strangers others. I-believe he (is) sincere.**",
-      "translation" : "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.**"
-   },
-   {
-      "line" : "2/2481",
-      "phonetic" : "ho SO sa-HIIM LAIK-sat o-ZII-yag. mi-NAA-zii HO ve-JII.**He not (is) like strangers others. I-believe he (is) sincere.**",
-      "translation" : "Ho so sahiim laiksat oziiyag. Minaazii ho vejii.**"
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Cut me loose.",
+      "chakobsa_translation": "Ghassunii sa dimbi.",
+      "phonetic_transcription": "GHAS-su-nii sa DIM-bi.",
+      "translation_english": "Free-me with a-knife."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Give me the knife.",
+      "chakobsa_translation": "Dhiklanii dimbi.",
+      "phonetic_transcription": "DHIK-la-nii DIM-bi.",
+      "translation_english": "Give-it-me the-knife."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Get off of me.",
+      "chakobsa_translation": "Chiveldhanii.",
+      "phonetic_transcription": "chi-VEL-dha-nii.",
+      "translation_english": "Get-off-of-me."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Kwisatz Haderach.",
+      "chakobsa_translation": "Kwisats Khaderach.",
+      "phonetic_transcription": "KWI-sats KHA-de-rach.",
+      "translation_english": "Kwisatz Haderach."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Muad'Dib.",
+      "chakobsa_translation": "Mwad Dib.",
+      "phonetic_transcription": "MWAD DIB.",
+      "translation_english": "Muad'Dib."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Lisan al-Gaib.",
+      "chakobsa_translation": "Lisan al Ghaib.",
+      "phonetic_transcription": "LI-san al GHAIB.",
+      "translation_english": "Lisan al-Gaib."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Paul.",
+      "chakobsa_translation": "Paul.",
+      "phonetic_transcription": "PAUL.",
+      "translation_english": "Paul."
+   },
+   {
+      "scene": "ADR",
+      "character": "GROUP",
+      "english_dialogue": "Paul Atreides.",
+      "chakobsa_translation": "Paul Atreidis.",
+      "phonetic_transcription": "PAUL a-TRE-i-dis.",
+      "translation_english": "Paul Atreides."
+   },
+   {
+      "scene": "ADR",
+      "character": "FREMEN 1",
+      "english_dialogue": "Do you really think he is the Mahdi?",
+      "chakobsa_translation": "Vii minaazashaho vejii ho Mahdi?",
+      "phonetic_transcription": "vii mi-NAA-za-sha-ho ve-JII ho MAH-di?",
+      "translation_english": "Do you-think-it truly (that) he (is) the-Mahdi?"
+   },
+   {
+      "scene": "ADR",
+      "character": "FREMEN 2",
+      "english_dialogue": "Hmm... I don't know. He could be...",
+      "chakobsa_translation": "Hann... So ledii. Nifriha miniza...",
+      "phonetic_transcription": "hann... SO LE-dii. NI-fri-ha MI-ni-za...",
+      "translation_english": "Hmm... Not I-know. One-is-able to-believe..."
+   },
+   {
+      "scene": "ADR",
+      "character": "FREMEN 3",
+      "english_dialogue": "I've heard tell of the Lisan al Ghaib but...could it really be?",
+      "chakobsa_translation": "Marriiho ahsah Lisan al Gaib, is-nata...ho vejii, vii minaazash?",
+      "phonetic_transcription": "mar-RII-ho AH-sah LI-san al GAIB, is-na-ta...HO ve-JII, vii mi-NAA-zash?",
+      "translation_english": "I-have-heard whispers of-Lisan al Khaib, but...he (is) real, do you-believe?"
+   },
+   {
+      "scene": "ADR",
+      "character": "FREMEN 1",
+      "english_dialogue": "I think he may be the chosen one, but he seems too young to lead.",
+      "chakobsa_translation": "Shi ho Chausij, minaazii, h'is-nata marrasha ho ludhii omaiz dimala.",
+      "phonetic_transcription": "SHI ho CHAU-sij, mi-NAA-zii, his-NA-ta MAR-ra-sha HO lu-DHII O-MAIZ DI-ma-la.",
+      "translation_english": "Maybe he (is) (the) Chosen-one, I-believe, however it-seems he (is) young too-much to-lead."
+   },
+   {
+      "scene": "ADR",
+      "character": "FREMEN 2",
+      "english_dialogue": "How are we to know? Will there be a sign?",
+      "chakobsa_translation": "Is-kiftha chaiya rum leda? Vii ruha hura shiidhiz?",
+      "phonetic_transcription": "is-KIF-tha CHAI-ya RUM LE-da? Vii RU-ha HU-ra SHII-dhiz?",
+      "translation_english": "By-path which are-we to-know? Is-it-that will-it come (a) sign?"
    }
 ]
-

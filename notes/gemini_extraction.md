@@ -1,5 +1,7 @@
 # Extracting the Chakobsa using Gemini 3.1 Pro
 
+This was done on the PDF script files.
+
 ## Prompt
 
 ```
