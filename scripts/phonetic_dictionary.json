@@ -1,2170 +1,3254 @@
 {
    "a-bit" : {
+      "chakobsa" : "abit",
       "count" : 1,
+      "phonetic" : "a-bit",
       "word" : "to-there"
    },
    "a-braa-chash-ho" : {
+      "chakobsa" : "abraachashho",
       "count" : 1,
+      "phonetic" : "a-braa-chash-ho",
       "word" : "you-care-for-him"
    },
    "a-braa-na-ha" : {
+      "chakobsa" : "abraanaha",
       "count" : 1,
+      "phonetic" : "a-braa-na-ha",
       "word" : "likes"
    },
    "a-chem" : {
+      "chakobsa" : "achem",
       "count" : 1,
+      "phonetic" : "a-chem",
       "word" : "to-where"
    },
    "a-chesh-he" : {
+      "chakobsa" : "acheshhe",
       "count" : 1,
+      "phonetic" : "a-chesh-he",
       "word" : "to-the-greater-good"
    },
    "a-fii" : {
+      "chakobsa" : "afii",
       "count" : 2,
+      "phonetic" : "a-fii",
       "word" : "into-moth"
    },
    "a-fiz" : {
+      "chakobsa" : "afiz",
       "count" : 1,
+      "phonetic" : "a-fiz",
       "word" : "enough"
    },
    "a-ga" : {
+      "chakobsa" : "aga",
       "count" : 1,
+      "phonetic" : "a-ga",
       "word" : "use"
    },
    "a-gef" : {
+      "chakobsa" : "agef",
       "count" : 1,
+      "phonetic" : "a-gef",
       "word" : "to-the-path"
    },
    "a-kaa" : {
+      "chakobsa" : "akaa",
       "count" : 1,
+      "phonetic" : "a-kaa",
       "word" : "you"
    },
    "a-kai-rash" : {
+      "chakobsa" : "akairash",
       "count" : 1,
+      "phonetic" : "a-kai-rash",
       "word" : "to-water-your"
    },
    "a-ker" : {
+      "chakobsa" : "aker",
       "count" : 1,
+      "phonetic" : "a-ker",
       "word" : "into-water"
    },
    "a-kwad" : {
+      "chakobsa" : "akwad",
       "count" : 1,
+      "phonetic" : "a-kwad",
       "word" : "to-son"
    },
    "a-led-be" : {
+      "chakobsa" : "aledbe",
       "count" : 1,
+      "phonetic" : "a-led-be",
       "word" : "the-prophecy"
    },
    "a-min-zi-mash" : {
+      "chakobsa" : "aminzimash",
       "count" : 1,
+      "phonetic" : "a-min-zi-mash",
       "word" : "your-temple"
    },
    "a-noq-chom" : {
+      "chakobsa" : "anoqchom",
       "count" : 1,
+      "phonetic" : "a-noq-chom",
       "word" : "to-south"
    },
    "a-resh-me" : {
+      "chakobsa" : "areshme",
       "count" : 2,
+      "phonetic" : "a-resh-me",
       "word" : "to-the-desert"
    },
    "a-shidh-gim" : {
+      "chakobsa" : "ashidhgim",
       "count" : 1,
+      "phonetic" : "a-shidh-gim",
       "word" : "to-paradise"
    },
    "a-sich" : {
+      "chakobsa" : "asich",
       "count" : 1,
+      "phonetic" : "a-sich",
       "word" : "to-sietch"
    },
    "a-tre-i-dis" : {
+      "chakobsa" : "atreidis",
       "count" : 1,
+      "phonetic" : "a-tre-i-dis",
       "word" : "atreides"
    },
    "a-vad-zih" : {
+      "chakobsa" : "avadzih",
       "count" : 2,
+      "phonetic" : "a-vad-zih",
       "word" : "yet"
    },
    "a-van-nat" : {
+      "chakobsa" : "avannat",
       "count" : 1,
+      "phonetic" : "a-van-nat",
       "word" : "until-then"
    },
    "a-zaa-ga-ha-yi" : {
+      "chakobsa" : "azaagahayi",
       "count" : 1,
+      "phonetic" : "a-zaa-ga-ha-yi",
       "word" : "it-appears-to-me"
    },
    "a-zaan-ta" : {
+      "chakobsa" : "azaanta",
       "count" : 1,
+      "phonetic" : "a-zaan-ta",
       "word" : "to-the-fighters"
    },
    "a-zul-hu" : {
+      "chakobsa" : "azulhu",
       "count" : 1,
+      "phonetic" : "a-zul-hu",
       "word" : "to-the-dead"
    },
    "ab-zih" : {
+      "chakobsa" : "abzih",
       "count" : 1,
+      "phonetic" : "ab-zih",
       "word" : "world"
    },
    "ad-daam" : {
+      "chakobsa" : "addaam",
       "count" : 1,
+      "phonetic" : "ad-daam",
       "word" : "lives"
    },
    "af-shal" : {
+      "chakobsa" : "afshal",
       "count" : 1,
+      "phonetic" : "af-shal",
       "word" : "of-the-storm"
    },
    "af-shil" : {
+      "chakobsa" : "afshil",
       "count" : 1,
+      "phonetic" : "af-shil",
       "word" : "storm"
    },
    "ah-sah" : {
+      "chakobsa" : "ahsah",
       "count" : 1,
+      "phonetic" : "ah-sah",
       "word" : "whispers"
    },
    "air-hur" : {
+      "chakobsa" : "airhur",
       "count" : 1,
+      "phonetic" : "air-hur",
       "word" : "years"
    },
    "ak-kaar-cha" : {
+      "chakobsa" : "akkaarcha",
       "count" : 1,
+      "phonetic" : "ak-kaar-cha",
       "word" : "drops"
    },
    "ak-sha-hii" : {
+      "chakobsa" : "akshahii",
       "count" : 1,
+      "phonetic" : "ak-sha-hii",
       "word" : "friend"
    },
    "al" : {
+      "chakobsa" : "al",
       "count" : 1,
+      "phonetic" : "al",
       "word" : "al"
    },
    "al-ga-yib" : {
+      "chakobsa" : "algayib",
       "count" : 7,
+      "phonetic" : "al-ga-yib",
       "word" : "al-gaib"
    },
    "al-ghaib" : {
+      "chakobsa" : "alghaib",
       "count" : 1,
+      "phonetic" : "al-ghaib",
       "word" : "al-gaib"
    },
    "al-ka-lig" : {
+      "chakobsa" : "alkalig",
       "count" : 1,
+      "phonetic" : "al-ka-lig",
       "word" : "great-grandmother"
    },
    "am-hadh" : {
+      "chakobsa" : "amhadh",
       "count" : 1,
+      "phonetic" : "am-hadh",
       "word" : "jars"
    },
    "an-za-ga" : {
+      "chakobsa" : "anzaga",
       "count" : 2,
+      "phonetic" : "an-za-ga",
       "word" : "to-perform"
    },
    "an-za-gaas-ha" : {
+      "chakobsa" : "anzagaasha",
       "count" : 1,
+      "phonetic" : "an-za-gaas-ha",
       "word" : "it-accomplished"
    },
    "an-zaa-dha-ha" : {
+      "chakobsa" : "anzaadhaha",
       "count" : 1,
+      "phonetic" : "an-zaa-dha-ha",
       "word" : "it-brings"
    },
    "ar-diz" : {
+      "chakobsa" : "ardiz",
       "count" : 1,
+      "phonetic" : "ar-diz",
       "word" : "agony"
    },
    "ar-rak-sa" : {
+      "chakobsa" : "arraksa",
       "count" : 1,
+      "phonetic" : "ar-rak-sa",
       "word" : "arrakis"
    },
    "at-ma-ra" : {
+      "chakobsa" : "atmara",
       "count" : 1,
+      "phonetic" : "at-ma-ra",
       "word" : "stay"
    },
    "ats" : {
+      "chakobsa" : "ats",
       "count" : 1,
+      "phonetic" : "ats",
       "word" : "no"
    },
    "bar-thaa" : {
+      "chakobsa" : "barthaa",
       "count" : 1,
+      "phonetic" : "bar-thaa",
       "word" : "nine"
    },
    "be-la" : {
+      "chakobsa" : "bela",
       "count" : 1,
+      "phonetic" : "be-la",
       "word" : "to-hold"
    },
    "be-la-la-ha" : {
+      "chakobsa" : "belalaha",
       "count" : 1,
+      "phonetic" : "be-la-la-ha",
       "word" : "without-her"
    },
    "be-laa-lim-shii" : {
+      "chakobsa" : "belaalimshii",
       "count" : 1,
+      "phonetic" : "be-laa-lim-shii",
       "word" : "we-support-you"
    },
    "be-lak" : {
+      "chakobsa" : "belak",
       "count" : 1,
+      "phonetic" : "be-lak",
       "word" : "pillar"
    },
    "be-lal" : {
+      "chakobsa" : "belal",
       "count" : 2,
+      "phonetic" : "be-lal",
       "word" : "without"
    },
    "be-lal-kai-fa" : {
+      "chakobsa" : "belalkaifa",
       "count" : 2,
+      "phonetic" : "be-lal-kai-fa",
       "word" : "amen"
    },
    "be-li-lii" : {
+      "chakobsa" : "belilii",
       "count" : 1,
+      "phonetic" : "be-li-lii",
       "word" : "countenance-my"
    },
    "bel-la-ha" : {
+      "chakobsa" : "bellaha",
       "count" : 1,
+      "phonetic" : "bel-la-ha",
       "word" : "held"
    },
    "bii" : {
+      "chakobsa" : "bii",
       "count" : 1,
+      "phonetic" : "bii",
       "word" : "one"
    },
    "bii-bii" : {
+      "chakobsa" : "biibii",
       "count" : 2,
+      "phonetic" : "bii-bii",
       "word" : "only"
    },
    "bil" : {
+      "chakobsa" : "bil",
       "count" : 1,
+      "phonetic" : "bil",
       "word" : "woman"
    },
    "bir-sii" : {
+      "chakobsa" : "birsii",
       "count" : 1,
+      "phonetic" : "bir-sii",
       "word" : "own"
    },
    "bir-sii-ya" : {
+      "chakobsa" : "birsiiya",
       "count" : 1,
+      "phonetic" : "bir-sii-ya",
       "word" : "own"
    },
    "chah-ma" : {
+      "chakobsa" : "chahma",
       "count" : 1,
+      "phonetic" : "chah-ma",
       "word" : "fall-into"
    },
    "chai-ya" : {
+      "chakobsa" : "chaiya",
       "count" : 5,
+      "phonetic" : "chai-ya",
       "word" : "what"
    },
    "chai-yi" : {
+      "chakobsa" : "chaiyi",
       "count" : 1,
+      "phonetic" : "chai-yi",
       "word" : "is-it"
    },
    "char-ra" : {
+      "chakobsa" : "charra",
       "count" : 1,
+      "phonetic" : "char-ra",
       "word" : "yes"
    },
    "chau-si" : {
+      "chakobsa" : "chausi",
       "count" : 1,
+      "phonetic" : "chau-si",
       "word" : "time-that"
    },
    "chau-sij" : {
+      "chakobsa" : "chausij",
       "count" : 7,
+      "phonetic" : "chau-sij",
       "word" : "the-one"
    },
    "chau-sik" : {
+      "chakobsa" : "chausik",
       "count" : 1,
+      "phonetic" : "chau-sik",
       "word" : "that"
    },
    "che" : {
+      "chakobsa" : "che",
       "count" : 7,
+      "phonetic" : "che",
       "word" : "who"
    },
    "che-shii" : {
+      "chakobsa" : "cheshii",
       "count" : 9,
+      "phonetic" : "che-shii",
       "word" : "good"
    },
    "chi-vel-dha-nii" : {
+      "chakobsa" : "chiveldhanii",
       "count" : 1,
+      "phonetic" : "chi-vel-dha-nii",
       "word" : "get-off-of-me"
    },
    "chif-thit" : {
+      "chakobsa" : "chifthit",
       "count" : 1,
+      "phonetic" : "chif-thit",
       "word" : "witch"
    },
    "chim-bi" : {
+      "chakobsa" : "chimbi",
       "count" : 1,
+      "phonetic" : "chim-bi",
       "word" : "joy"
    },
    "chiv-la-ho" : {
+      "chakobsa" : "chivlaho",
       "count" : 1,
+      "phonetic" : "chiv-la-ho",
       "word" : "worry"
    },
    "chiz-zu-la-tha" : {
+      "chakobsa" : "chizzulatha",
       "count" : 1,
+      "phonetic" : "chiz-zu-la-tha",
       "word" : "come-back-from-the-dead"
    },
    "chos" : {
+      "chakobsa" : "chos",
       "count" : 2,
+      "phonetic" : "chos",
       "word" : "yonder"
    },
    "chos-ka" : {
+      "chakobsa" : "choska",
       "count" : 1,
+      "phonetic" : "chos-ka",
       "word" : "that"
    },
    "chuk-ku-ha" : {
+      "chakobsa" : "chukkuha",
       "count" : 1,
+      "phonetic" : "chuk-ku-ha",
       "word" : "he-has-broken"
    },
    "de-qah" : {
+      "chakobsa" : "deqah",
       "count" : 1,
+      "phonetic" : "de-qah",
       "word" : "of-war"
    },
    "dhi-ka" : {
+      "chakobsa" : "dhika",
       "count" : 2,
+      "phonetic" : "dhi-ka",
       "word" : "give"
    },
    "dhi-ka-dha-ho" : {
+      "chakobsa" : "dhikadhaho",
       "count" : 1,
+      "phonetic" : "dhi-ka-dha-ho",
       "word" : "to-pledge-him"
    },
    "dhi-kaash" : {
+      "chakobsa" : "dhikaash",
       "count" : 1,
+      "phonetic" : "dhi-kaash",
       "word" : "you-give"
    },
    "dhik-la-nii" : {
+      "chakobsa" : "dhiklanii",
       "count" : 1,
+      "phonetic" : "dhik-la-nii",
       "word" : "give-it-me"
    },
    "dhik-tha" : {
+      "chakobsa" : "dhiktha",
       "count" : 1,
+      "phonetic" : "dhik-tha",
       "word" : "share"
    },
    "dho-naa-shash" : {
+      "chakobsa" : "dhonaashash",
       "count" : 1,
+      "phonetic" : "dho-naa-shash",
       "word" : "you-blaspheme"
    },
    "dho-naj" : {
+      "chakobsa" : "dhonaj",
       "count" : 1,
+      "phonetic" : "dho-naj",
       "word" : "of-the-baron"
    },
    "di-ma-dha-gas" : {
+      "chakobsa" : "dimadhagas",
       "count" : 1,
+      "phonetic" : "di-ma-dha-gas",
       "word" : "to-be-decided"
    },
    "di-ma-dhag" : {
+      "chakobsa" : "dimadhag",
       "count" : 1,
+      "phonetic" : "di-ma-dhag",
       "word" : "decide"
    },
    "di-ma-la" : {
+      "chakobsa" : "dimala",
       "count" : 2,
+      "phonetic" : "di-ma-la",
       "word" : "lead"
    },
    "di-ma-la-nii" : {
+      "chakobsa" : "dimalanii",
       "count" : 1,
+      "phonetic" : "di-ma-la-nii",
       "word" : "to-guide-me"
    },
    "di-mash" : {
+      "chakobsa" : "dimash",
       "count" : 1,
+      "phonetic" : "di-mash",
       "word" : "blade-your"
    },
    "di-na" : {
+      "chakobsa" : "dina",
       "count" : 1,
+      "phonetic" : "di-na",
       "word" : "of-god"
    },
    "di-ni" : {
+      "chakobsa" : "dini",
       "count" : 1,
+      "phonetic" : "di-ni",
       "word" : "god"
    },
    "dim-bi" : {
+      "chakobsa" : "dimbi",
       "count" : 3,
+      "phonetic" : "dim-bi",
       "word" : "knife"
    },
    "din-dha-kho" : {
+      "chakobsa" : "dindhakho",
       "count" : 1,
+      "phonetic" : "din-dha-kho",
       "word" : "remove"
    },
    "din-la" : {
+      "chakobsa" : "dinla",
       "count" : 1,
+      "phonetic" : "din-la",
       "word" : "bring"
    },
    "e" : {
+      "chakobsa" : "e",
       "count" : 24,
+      "phonetic" : "e",
       "word" : "o"
    },
    "e-dhii-ya" : {
+      "chakobsa" : "edhiiya",
       "count" : 1,
+      "phonetic" : "e-dhii-ya",
       "word" : "final"
    },
    "e-rah-chai-ya" : {
+      "chakobsa" : "erahchaiya",
       "count" : 1,
+      "phonetic" : "e-rah-chai-ya",
       "word" : "how-many-times"
    },
    "e-ri-ga-ha" : {
+      "chakobsa" : "erigaha",
       "count" : 1,
+      "phonetic" : "e-ri-ga-ha",
       "word" : "its-age"
    },
    "ed-de-ma" : {
+      "chakobsa" : "eddema",
       "count" : 3,
+      "phonetic" : "ed-de-ma",
       "word" : "of-life"
    },
    "ed-de-ma-dha" : {
+      "chakobsa" : "eddemadha",
       "count" : 1,
+      "phonetic" : "ed-de-ma-dha",
       "word" : "survive"
    },
    "ed-de-maa-dha-ha" : {
+      "chakobsa" : "eddemaadhaha",
       "count" : 1,
+      "phonetic" : "ed-de-maa-dha-ha",
       "word" : "he-live"
    },
    "ed-de-mash" : {
+      "chakobsa" : "eddemash",
       "count" : 1,
+      "phonetic" : "ed-de-mash",
       "word" : "life-your"
    },
    "ed-de-mii" : {
+      "chakobsa" : "eddemii",
       "count" : 1,
+      "phonetic" : "ed-de-mii",
       "word" : "my-life"
    },
    "ed-dem" : {
+      "chakobsa" : "eddem",
       "count" : 1,
+      "phonetic" : "ed-dem",
       "word" : "life"
    },
    "ek-ke-ra" : {
+      "chakobsa" : "ekkera",
       "count" : 3,
+      "phonetic" : "ek-ke-ra",
       "word" : "of-the-water"
    },
    "ek-ke-ra:" : {
+      "chakobsa" : "ekkera:",
       "count" : 1,
+      "phonetic" : "ek-ke-ra:",
       "word" : "water:"
    },
    "ek-ke-ri" : {
+      "chakobsa" : "ekkeri",
       "count" : 3,
+      "phonetic" : "ek-ke-ri",
       "word" : "water"
    },
    "ek-ke-rim" : {
+      "chakobsa" : "ekkerim",
       "count" : 1,
+      "phonetic" : "ek-ke-rim",
       "word" : "water-our"
    },
    "ek-ke-rish" : {
+      "chakobsa" : "ekkerish",
       "count" : 2,
+      "phonetic" : "ek-ke-rish",
       "word" : "your-water"
    },
    "ek-ker" : {
+      "chakobsa" : "ekker",
       "count" : 3,
+      "phonetic" : "ek-ker",
       "word" : "water"
    },
    "ek-ker-cha" : {
+      "chakobsa" : "ekkercha",
       "count" : 1,
+      "phonetic" : "ek-ker-cha",
       "word" : "drop"
    },
    "er-le" : {
+      "chakobsa" : "erle",
       "count" : 2,
+      "phonetic" : "er-le",
       "word" : "time"
    },
    "ez-lii" : {
+      "chakobsa" : "ezlii",
       "count" : 2,
+      "phonetic" : "ez-lii",
       "word" : "holy"
    },
    "ez-lish" : {
+      "chakobsa" : "ezlish",
       "count" : 1,
+      "phonetic" : "ez-lish",
       "word" : "miracle"
    },
    "fa-dil" : {
+      "chakobsa" : "fadil",
       "count" : 1,
+      "phonetic" : "fa-dil",
       "word" : "peace"
    },
    "fa-shi-ba-kha" : {
+      "chakobsa" : "fashibakha",
       "count" : 1,
+      "phonetic" : "fa-shi-ba-kha",
       "word" : "her-gag"
    },
    "fa-shii" : {
+      "chakobsa" : "fashii",
       "count" : 1,
+      "phonetic" : "fa-shii",
       "word" : "silently"
    },
    "faa-fa" : {
+      "chakobsa" : "faafa",
       "count" : 1,
+      "phonetic" : "faa-fa",
       "word" : "too"
    },
    "fad-la" : {
+      "chakobsa" : "fadla",
       "count" : 2,
+      "phonetic" : "fad-la",
       "word" : "peace"
    },
    "fai-za" : {
+      "chakobsa" : "faiza",
       "count" : 1,
+      "phonetic" : "fai-za",
       "word" : "jump"
    },
    "fash-shur" : {
+      "chakobsa" : "fashshur",
       "count" : 1,
+      "phonetic" : "fash-shur",
       "word" : "shut-up"
    },
    "fe-dai-kin" : {
+      "chakobsa" : "fedaikin",
       "count" : 1,
+      "phonetic" : "fe-dai-kin",
       "word" : "fedaykin"
    },
    "fedh" : {
+      "chakobsa" : "fedh",
       "count" : 1,
+      "phonetic" : "fedh",
       "word" : "soul"
    },
    "fi-zi" : {
+      "chakobsa" : "fizi",
       "count" : 1,
+      "phonetic" : "fi-zi",
       "word" : "sun"
    },
    "fi-zib" : {
+      "chakobsa" : "fizib",
       "count" : 1,
+      "phonetic" : "fi-zib",
       "word" : "day"
    },
    "fii-dhiir" : {
+      "chakobsa" : "fiidhiir",
       "count" : 1,
+      "phonetic" : "fii-dhiir",
       "word" : "as-stupid"
    },
    "fish-lin" : {
+      "chakobsa" : "fishlin",
       "count" : 1,
+      "phonetic" : "fish-lin",
       "word" : "trouble"
    },
    "frai-min" : {
+      "chakobsa" : "fraimin",
       "count" : 1,
+      "phonetic" : "frai-min",
       "word" : "fremen"
    },
    "fre-min" : {
+      "chakobsa" : "fremin",
       "count" : 3,
+      "phonetic" : "fre-min",
       "word" : "fremen"
    },
    "frem-nii" : {
+      "chakobsa" : "fremnii",
       "count" : 1,
+      "phonetic" : "frem-nii",
       "word" : "fremen"
    },
    "ga-ri" : {
+      "chakobsa" : "gari",
       "count" : 1,
+      "phonetic" : "ga-ri",
       "word" : "rock"
    },
    "ga-rig" : {
+      "chakobsa" : "garig",
       "count" : 1,
+      "phonetic" : "ga-rig",
       "word" : "strength"
    },
    "ga-sas" : {
+      "chakobsa" : "gasas",
       "count" : 1,
+      "phonetic" : "ga-sas",
       "word" : "be-freed"
    },
    "ga-siig" : {
+      "chakobsa" : "gasiig",
       "count" : 1,
+      "phonetic" : "ga-siig",
       "word" : "are-free"
    },
    "gaib" : {
+      "chakobsa" : "gaib",
       "count" : 1,
+      "phonetic" : "gaib",
       "word" : "khaib"
    },
    "gas-su" : {
+      "chakobsa" : "gassu",
       "count" : 1,
+      "phonetic" : "gas-su",
       "word" : "free"
    },
    "gas-suu-bit" : {
+      "chakobsa" : "gassuubit",
       "count" : 1,
+      "phonetic" : "gas-suu-bit",
       "word" : "which-frees"
    },
    "ge-bre-ha" : {
+      "chakobsa" : "gebreha",
       "count" : 1,
+      "phonetic" : "ge-bre-ha",
       "word" : "his-smell"
    },
    "gef-tha" : {
+      "chakobsa" : "geftha",
       "count" : 1,
+      "phonetic" : "gef-tha",
       "word" : "ways"
    },
    "gef-thak" : {
+      "chakobsa" : "gefthak",
       "count" : 1,
+      "phonetic" : "gef-thak",
       "word" : "your-ways"
    },
    "gef-tham" : {
+      "chakobsa" : "geftham",
       "count" : 1,
+      "phonetic" : "gef-tham",
       "word" : "our-ways"
    },
    "gef-thek" : {
+      "chakobsa" : "gefthek",
       "count" : 1,
+      "phonetic" : "gef-thek",
       "word" : "ways-your"
    },
    "ghas-su-ma" : {
+      "chakobsa" : "ghassuma",
       "count" : 1,
+      "phonetic" : "ghas-su-ma",
       "word" : "free-us"
    },
    "ghas-su-nii" : {
+      "chakobsa" : "ghassunii",
       "count" : 1,
+      "phonetic" : "ghas-su-nii",
       "word" : "free-me"
    },
    "gif" : {
+      "chakobsa" : "gif",
       "count" : 4,
+      "phonetic" : "gif",
       "word" : "way"
    },
    "gom-mudh-ma" : {
+      "chakobsa" : "gommudhma",
       "count" : 1,
+      "phonetic" : "gom-mudh-ma",
       "word" : "embarrass-us"
    },
    "gon-dho" : {
+      "chakobsa" : "gondho",
       "count" : 1,
+      "phonetic" : "gon-dho",
       "word" : "guilt"
    },
    "ha-de-rach" : {
+      "chakobsa" : "haderach",
       "count" : 1,
+      "phonetic" : "ha-de-rach",
       "word" : "haderach"
    },
    "ha-de-rak" : {
+      "chakobsa" : "haderak",
       "count" : 1,
+      "phonetic" : "ha-de-rak",
       "word" : "haderach"
    },
    "ha-dha" : {
+      "chakobsa" : "hadha",
       "count" : 2,
+      "phonetic" : "ha-dha",
       "word" : "stop"
    },
    "ha-dhaak" : {
+      "chakobsa" : "hadhaak",
       "count" : 1,
+      "phonetic" : "ha-dhaak",
       "word" : "they-will-stop"
    },
    "ha-ja-ga" : {
+      "chakobsa" : "hajaga",
       "count" : 1,
+      "phonetic" : "ha-ja-ga",
       "word" : "to-learn"
    },
    "ha-jaa-ga-ha" : {
+      "chakobsa" : "hajaagaha",
       "count" : 1,
+      "phonetic" : "ha-jaa-ga-ha",
       "word" : "he-is-learning"
    },
    "ha-jim" : {
+      "chakobsa" : "hajim",
       "count" : 1,
+      "phonetic" : "ha-jim",
       "word" : "patrol"
    },
    "ha-raa-dhas-ha" : {
+      "chakobsa" : "haraadhasha",
       "count" : 1,
+      "phonetic" : "ha-raa-dhas-ha",
       "word" : "lost"
    },
    "ha-raa-dhim" : {
+      "chakobsa" : "haraadhim",
       "count" : 1,
+      "phonetic" : "ha-raa-dhim",
       "word" : "we-lose"
    },
    "hai-ya-ta-ha" : {
+      "chakobsa" : "haiyataha",
       "count" : 1,
+      "phonetic" : "hai-ya-ta-ha",
       "word" : "its-people"
    },
    "hai-yi-ta-ha" : {
+      "chakobsa" : "haiyitaha",
       "count" : 1,
+      "phonetic" : "hai-yi-ta-ha",
       "word" : "her-people"
    },
    "hann" : {
+      "chakobsa" : "hann",
       "count" : 1,
+      "phonetic" : "hann",
       "word" : "hmm"
    },
    "har-dha-ha" : {
+      "chakobsa" : "hardhaha",
       "count" : 1,
+      "phonetic" : "har-dha-ha",
       "word" : "she-lost"
    },
    "har-dhii-kaa" : {
+      "chakobsa" : "hardhiikaa",
       "count" : 1,
+      "phonetic" : "har-dhii-kaa",
       "word" : "i-lost-them"
    },
    "he" : {
+      "chakobsa" : "he",
       "count" : 2,
+      "phonetic" : "he",
       "word" : "ha"
    },
    "he-shi-dha-nii:" : {
+      "chakobsa" : "heshidhanii:",
       "count" : 1,
+      "phonetic" : "he-shi-dha-nii:",
       "word" : "witness-me:"
    },
    "he-shi-sha" : {
+      "chakobsa" : "heshisha",
       "count" : 1,
+      "phonetic" : "he-shi-sha",
       "word" : "foresee"
    },
    "he-shii-gii-shii" : {
+      "chakobsa" : "heshiigiishii",
       "count" : 1,
+      "phonetic" : "he-shii-gii-shii",
       "word" : "i-recognize-you"
    },
    "hesh-ka-sha" : {
+      "chakobsa" : "heshkasha",
       "count" : 1,
+      "phonetic" : "hesh-ka-sha",
       "word" : "you-have-seen"
    },
    "hesh-kii" : {
+      "chakobsa" : "heshkii",
       "count" : 1,
+      "phonetic" : "hesh-kii",
       "word" : "i-have-seen"
    },
    "hesh-shya-ha" : {
+      "chakobsa" : "heshshyaha",
       "count" : 1,
+      "phonetic" : "hesh-shya-ha",
       "word" : "he-saw"
    },
    "hesh-shya-ha-bit" : {
+      "chakobsa" : "heshshyahabit",
       "count" : 1,
+      "phonetic" : "hesh-shya-ha-bit",
       "word" : "has-seen-that"
    },
    "hesh-shya-ha-ho" : {
+      "chakobsa" : "heshshyahaho",
       "count" : 1,
+      "phonetic" : "hesh-shya-ha-ho",
       "word" : "he-saw-it"
    },
    "hesh-shya-ka" : {
+      "chakobsa" : "heshshyaka",
       "count" : 1,
+      "phonetic" : "hesh-shya-ka",
       "word" : "you-saw"
    },
    "hesh-shya-sa-ho" : {
+      "chakobsa" : "heshshyasaho",
       "count" : 1,
+      "phonetic" : "hesh-shya-sa-ho",
       "word" : "you-saw-it"
    },
    "hesh-shyu-ho" : {
+      "chakobsa" : "heshshyuho",
       "count" : 2,
+      "phonetic" : "hesh-shyu-ho",
       "word" : "show-him"
    },
    "hesh-shyu-ma-ho" : {
+      "chakobsa" : "heshshyumaho",
       "count" : 3,
+      "phonetic" : "hesh-shyu-ma-ho",
       "word" : "show-us-it"
    },
    "hesh-shyuu-ha-ma" : {
+      "chakobsa" : "heshshyuuhama",
       "count" : 1,
+      "phonetic" : "hesh-shyuu-ha-ma",
       "word" : "to-prove-to-us"
    },
    "hesh-ya-kaa" : {
+      "chakobsa" : "heshyakaa",
       "count" : 1,
+      "phonetic" : "hesh-ya-kaa",
       "word" : "see-them"
    },
    "hesh-yaash" : {
+      "chakobsa" : "heshyaash",
       "count" : 2,
+      "phonetic" : "hesh-yaash",
       "word" : "you-see"
    },
    "hi" : {
+      "chakobsa" : "hi",
       "count" : 10,
+      "phonetic" : "hi",
       "word" : "and"
    },
    "hi-nat" : {
+      "chakobsa" : "hinat",
       "count" : 2,
+      "phonetic" : "hi-nat",
       "word" : "then"
    },
    "hi-yaa-la-ha" : {
+      "chakobsa" : "hiyaalaha",
       "count" : 1,
+      "phonetic" : "hi-yaa-la-ha",
       "word" : "he-is-gathering"
    },
    "hi-yak" : {
+      "chakobsa" : "hiyak",
       "count" : 4,
+      "phonetic" : "hi-yak",
       "word" : "with-them"
    },
    "hi-yii" : {
+      "chakobsa" : "hiyii",
       "count" : 1,
+      "phonetic" : "hi-yii",
       "word" : "with-me"
    },
    "hii-la" : {
+      "chakobsa" : "hiila",
       "count" : 1,
+      "phonetic" : "hii-la",
       "word" : "to-collect"
    },
    "hii-li" : {
+      "chakobsa" : "hiili",
       "count" : 2,
+      "phonetic" : "hii-li",
       "word" : "together"
    },
    "hii-lih" : {
+      "chakobsa" : "hiilih",
       "count" : 1,
+      "phonetic" : "hii-lih",
       "word" : "everything"
    },
    "hiil" : {
+      "chakobsa" : "hiil",
       "count" : 2,
+      "phonetic" : "hiil",
       "word" : "all"
    },
    "hiil-hi" : {
+      "chakobsa" : "hiilhi",
       "count" : 1,
+      "phonetic" : "hiil-hi",
       "word" : "all"
    },
    "his-na-ta" : {
+      "chakobsa" : "hisnata",
       "count" : 1,
+      "phonetic" : "his-na-ta",
       "word" : "however"
    },
    "ho" : {
+      "chakobsa" : "ho",
       "count" : 23,
+      "phonetic" : "ho",
       "word" : "he"
    },
    "hoz-jom" : {
+      "chakobsa" : "hozjom",
       "count" : 1,
+      "phonetic" : "hoz-jom",
       "word" : "to-residency"
    },
    "hu" : {
+      "chakobsa" : "hu",
       "count" : 10,
+      "phonetic" : "hu",
       "word" : "lest"
    },
    "hu-krash" : {
+      "chakobsa" : "hukrash",
       "count" : 1,
+      "phonetic" : "hu-krash",
       "word" : "to-your-heart"
    },
    "hu-luud" : {
+      "chakobsa" : "huluud",
       "count" : 2,
+      "phonetic" : "hu-luud",
       "word" : "hulud"
    },
    "hu-ra" : {
+      "chakobsa" : "hura",
       "count" : 4,
+      "phonetic" : "hu-ra",
       "word" : "coming"
    },
    "hu-ra-na" : {
+      "chakobsa" : "hurana",
       "count" : 1,
+      "phonetic" : "hu-ra-na",
       "word" : "visit"
    },
    "hu-ra-tha" : {
+      "chakobsa" : "huratha",
       "count" : 1,
+      "phonetic" : "hu-ra-tha",
       "word" : "find-his-way"
    },
    "hu-ra-yi" : {
+      "chakobsa" : "hurayi",
       "count" : 1,
+      "phonetic" : "hu-ra-yi",
       "word" : "my-coming"
    },
    "hu-raa-ha" : {
+      "chakobsa" : "huraaha",
       "count" : 4,
+      "phonetic" : "hu-raa-ha",
       "word" : "it-coming"
    },
    "hwi-shi" : {
+      "chakobsa" : "hwishi",
       "count" : 2,
+      "phonetic" : "hwi-shi",
       "word" : "until"
    },
    "i-fer-ha" : {
+      "chakobsa" : "iferha",
       "count" : 1,
+      "phonetic" : "i-fer-ha",
       "word" : "his-powers"
    },
    "i-sa" : {
+      "chakobsa" : "isa",
       "count" : 1,
+      "phonetic" : "i-sa",
       "word" : "leave"
    },
    "i-sa-dha" : {
+      "chakobsa" : "isadha",
       "count" : 1,
+      "phonetic" : "i-sa-dha",
       "word" : "leave"
    },
    "i-saa-dhak" : {
+      "chakobsa" : "isaadhak",
       "count" : 1,
+      "phonetic" : "i-saa-dhak",
       "word" : "they-will-leave"
    },
    "i-saa-dhash" : {
+      "chakobsa" : "isaadhash",
       "count" : 1,
+      "phonetic" : "i-saa-dhash",
       "word" : "you-leave"
    },
    "i-shi" : {
+      "chakobsa" : "ishi",
       "count" : 1,
+      "phonetic" : "i-shi",
       "word" : "moment"
    },
    "i-sim" : {
+      "chakobsa" : "isim",
       "count" : 1,
+      "phonetic" : "i-sim",
       "word" : "from-us"
    },
    "is-cha-mas" : {
+      "chakobsa" : "ischamas",
       "count" : 1,
+      "phonetic" : "is-cha-mas",
       "word" : "from-jamis"
    },
    "is-kif-tha" : {
+      "chakobsa" : "iskiftha",
       "count" : 5,
+      "phonetic" : "is-kif-tha",
       "word" : "way"
    },
    "is-li-sha" : {
+      "chakobsa" : "islisha",
       "count" : 1,
+      "phonetic" : "is-li-sha",
       "word" : "in-the-fire"
    },
    "is-na-ta" : {
+      "chakobsa" : "isnata",
       "count" : 4,
+      "phonetic" : "is-na-ta",
       "word" : "but"
    },
    "is-na-taho" : {
+      "chakobsa" : "isnataho",
       "count" : 1,
+      "phonetic" : "is-na-taho",
       "word" : "buthe"
    },
    "is-resh-ma" : {
+      "chakobsa" : "isreshma",
       "count" : 1,
+      "phonetic" : "is-resh-ma",
       "word" : "from-desert"
    },
    "is-ru-zam" : {
+      "chakobsa" : "isruzam",
       "count" : 1,
+      "phonetic" : "is-ru-zam",
       "word" : "by-nightmare-your"
    },
    "is-sih" : {
+      "chakobsa" : "issih",
       "count" : 1,
+      "phonetic" : "is-sih",
       "word" : "from-here"
    },
    "is-tha-na-ha" : {
+      "chakobsa" : "isthanaha",
       "count" : 1,
+      "phonetic" : "is-tha-na-ha",
       "word" : "from-body-his"
    },
    "ish" : {
+      "chakobsa" : "ish",
       "count" : 2,
+      "phonetic" : "ish",
       "word" : "may"
    },
    "isru" : {
+      "chakobsa" : "isru",
       "count" : 1,
+      "phonetic" : "isru",
       "word" : "by"
    },
    "ith-thuz" : {
+      "chakobsa" : "iththuz",
       "count" : 1,
+      "phonetic" : "ith-thuz",
       "word" : "bless"
    },
    "ja-ha" : {
+      "chakobsa" : "jaha",
       "count" : 1,
+      "phonetic" : "ja-ha",
       "word" : "fear"
    },
    "ja-haash:" : {
+      "chakobsa" : "jahaash:",
       "count" : 1,
+      "phonetic" : "ja-haash:",
       "word" : "you-are-afraid:"
    },
    "ja-mas" : {
+      "chakobsa" : "jamas",
       "count" : 1,
+      "phonetic" : "ja-mas",
       "word" : "of-jamis"
    },
    "ja-mis" : {
+      "chakobsa" : "jamis",
       "count" : 1,
+      "phonetic" : "ja-mis",
       "word" : "jamis"
    },
    "ja-ra-kaa" : {
+      "chakobsa" : "jarakaa",
       "count" : 1,
+      "phonetic" : "ja-ra-kaa",
       "word" : "tell-them"
    },
    "ja-raa-ga-ha" : {
+      "chakobsa" : "jaraagaha",
       "count" : 1,
+      "phonetic" : "ja-raa-ga-ha",
       "word" : "he-speaks"
    },
    "ja-raa-mas-ha" : {
+      "chakobsa" : "jaraamasha",
       "count" : 1,
+      "phonetic" : "ja-raa-mas-ha",
       "word" : "it-was-being-called"
    },
    "jah-huf-ha" : {
+      "chakobsa" : "jahhufha",
       "count" : 1,
+      "phonetic" : "jah-huf-ha",
       "word" : "she-changed"
    },
    "jah-huu-fa-ha-shii" : {
+      "chakobsa" : "jahhuufahashii",
       "count" : 1,
+      "phonetic" : "jah-huu-fa-ha-shii",
       "word" : "it-is-transforming-you"
    },
    "jah-kaz" : {
+      "chakobsa" : "jahkaz",
       "count" : 1,
+      "phonetic" : "jah-kaz",
       "word" : "horror"
    },
    "jam-sa" : {
+      "chakobsa" : "jamsa",
       "count" : 2,
+      "phonetic" : "jam-sa",
       "word" : "jamis"
    },
    "jar-ma" : {
+      "chakobsa" : "jarma",
       "count" : 1,
+      "phonetic" : "jar-ma",
       "word" : "call"
    },
    "jar-ma-ha" : {
+      "chakobsa" : "jarmaha",
       "count" : 1,
+      "phonetic" : "jar-ma-ha",
       "word" : "he-called"
    },
    "jar-mik" : {
+      "chakobsa" : "jarmik",
       "count" : 1,
+      "phonetic" : "jar-mik",
       "word" : "call"
    },
    "je-dhii" : {
+      "chakobsa" : "jedhii",
       "count" : 1,
+      "phonetic" : "je-dhii",
       "word" : "fat"
    },
    "jes-ke" : {
+      "chakobsa" : "jeske",
       "count" : 1,
+      "phonetic" : "jes-ke",
       "word" : "belt"
    },
    "ji-la" : {
+      "chakobsa" : "jila",
       "count" : 5,
+      "phonetic" : "ji-la",
       "word" : "move"
    },
    "ji-la-dha" : {
+      "chakobsa" : "jiladha",
       "count" : 1,
+      "phonetic" : "ji-la-dha",
       "word" : "to-reach"
    },
    "ji-ya-ha" : {
+      "chakobsa" : "jiyaha",
       "count" : 1,
+      "phonetic" : "ji-ya-ha",
       "word" : "inside-her"
    },
    "jil-la-ha" : {
+      "chakobsa" : "jillaha",
       "count" : 1,
+      "phonetic" : "jil-la-ha",
       "word" : "has-gone"
    },
    "jis-ne" : {
+      "chakobsa" : "jisne",
       "count" : 1,
+      "phonetic" : "jis-ne",
       "word" : "half"
    },
    "ju-naa-za-ha" : {
+      "chakobsa" : "junaazaha",
       "count" : 1,
+      "phonetic" : "ju-naa-za-ha",
       "word" : "he-is-in-a-trance"
    },
    "ju-raak" : {
+      "chakobsa" : "juraak",
       "count" : 1,
+      "phonetic" : "ju-raak",
       "word" : "you-smash"
    },
    "jun-ju" : {
+      "chakobsa" : "junju",
       "count" : 1,
+      "phonetic" : "jun-ju",
       "word" : "each-other"
    },
    "jur-ra-ha" : {
+      "chakobsa" : "jurraha",
       "count" : 1,
+      "phonetic" : "jur-ra-ha",
       "word" : "it-had-smashed"
    },
    "juu-go" : {
+      "chakobsa" : "juugo",
       "count" : 1,
+      "phonetic" : "juu-go",
       "word" : "grandfather"
    },
    "ka-la" : {
+      "chakobsa" : "kala",
       "count" : 1,
+      "phonetic" : "ka-la",
       "word" : "mother"
    },
    "ka-la-gash" : {
+      "chakobsa" : "kalagash",
       "count" : 1,
+      "phonetic" : "ka-la-gash",
       "word" : "to-your-grandmother"
    },
    "ka-lidh" : {
+      "chakobsa" : "kalidh",
       "count" : 3,
+      "phonetic" : "ka-lidh",
       "word" : "reverend-mother"
    },
    "kaa-lik" : {
+      "chakobsa" : "kaalik",
       "count" : 1,
+      "phonetic" : "kaa-lik",
       "word" : "mothers-your"
    },
    "kaah" : {
+      "chakobsa" : "kaah",
       "count" : 2,
+      "phonetic" : "kaah",
       "word" : "they"
    },
    "kai-fa" : {
+      "chakobsa" : "kaifa",
       "count" : 1,
+      "phonetic" : "kai-fa",
       "word" : "limits"
    },
    "kai-rat" : {
+      "chakobsa" : "kairat",
       "count" : 1,
+      "phonetic" : "kai-rat",
       "word" : "names"
    },
    "kal-ha-ha" : {
+      "chakobsa" : "kalhaha",
       "count" : 1,
+      "phonetic" : "kal-ha-ha",
       "word" : "her-heritage"
    },
    "kash-sha-ha-ho" : {
+      "chakobsa" : "kashshahaho",
       "count" : 1,
+      "phonetic" : "kash-sha-ha-ho",
       "word" : "he-saved-her"
    },
    "ke-mim" : {
+      "chakobsa" : "kemim",
       "count" : 1,
+      "phonetic" : "ke-mim",
       "word" : "all-of-that"
    },
    "ker" : {
+      "chakobsa" : "ker",
       "count" : 1,
+      "phonetic" : "ker",
       "word" : "words"
    },
    "kha-de-rach" : {
+      "chakobsa" : "khaderach",
       "count" : 1,
+      "phonetic" : "kha-de-rach",
       "word" : "haderach"
    },
    "kha-dha" : {
+      "chakobsa" : "khadha",
       "count" : 1,
+      "phonetic" : "kha-dha",
       "word" : "stop"
    },
    "khu-ra" : {
+      "chakobsa" : "khura",
       "count" : 1,
+      "phonetic" : "khu-ra",
       "word" : "come"
    },
    "ki-raa-lak" : {
+      "chakobsa" : "kiraalak",
       "count" : 1,
+      "phonetic" : "ki-raa-lak",
       "word" : "will-continue"
    },
    "kim-me" : {
+      "chakobsa" : "kimme",
       "count" : 1,
+      "phonetic" : "kim-me",
       "word" : "bulk"
    },
    "kwa-dii" : {
+      "chakobsa" : "kwadii",
       "count" : 1,
+      "phonetic" : "kwa-dii",
       "word" : "son-my"
    },
    "kwi-sats" : {
+      "chakobsa" : "kwisats",
       "count" : 3,
+      "phonetic" : "kwi-sats",
       "word" : "kwisatz"
    },
    "kyur-hum" : {
+      "chakobsa" : "kyurhum",
       "count" : 1,
+      "phonetic" : "kyur-hum",
       "word" : "language"
    },
    "kyur-tu" : {
+      "chakobsa" : "kyurtu",
       "count" : 1,
+      "phonetic" : "kyur-tu",
       "word" : "name"
    },
    "laik-sat" : {
+      "chakobsa" : "laiksat",
       "count" : 1,
+      "phonetic" : "laik-sat",
       "word" : "strangers"
    },
    "le-da" : {
+      "chakobsa" : "leda",
       "count" : 3,
+      "phonetic" : "le-da",
       "word" : "mahdi"
    },
    "le-da-ga" : {
+      "chakobsa" : "ledaga",
       "count" : 1,
+      "phonetic" : "le-da-ga",
       "word" : "know"
    },
    "le-daa-ha" : {
+      "chakobsa" : "ledaaha",
       "count" : 2,
+      "phonetic" : "le-daa-ha",
       "word" : "knows"
    },
    "le-daa-ra-ha" : {
+      "chakobsa" : "ledaaraha",
       "count" : 1,
+      "phonetic" : "le-daa-ra-ha",
       "word" : "knows-how-he"
    },
    "le-dib" : {
+      "chakobsa" : "ledib",
       "count" : 1,
+      "phonetic" : "le-dib",
       "word" : "prophecy"
    },
    "le-dii" : {
+      "chakobsa" : "ledii",
       "count" : 1,
+      "phonetic" : "le-dii",
       "word" : "i-know"
    },
    "le-fa-dhas" : {
+      "chakobsa" : "lefadhas",
       "count" : 1,
+      "phonetic" : "le-fa-dhas",
       "word" : "to-be-accomplished"
    },
    "le-hii" : {
+      "chakobsa" : "lehii",
       "count" : 1,
+      "phonetic" : "le-hii",
       "word" : "safe"
    },
    "le-kis" : {
+      "chakobsa" : "lekis",
       "count" : 1,
+      "phonetic" : "le-kis",
       "word" : "dune"
    },
    "led-du-ha-ho" : {
+      "chakobsa" : "ledduhaho",
       "count" : 1,
+      "phonetic" : "led-du-ha-ho",
       "word" : "taught-him"
    },
    "lef-thas-ha" : {
+      "chakobsa" : "lefthasha",
       "count" : 1,
+      "phonetic" : "lef-thas-ha",
       "word" : "has-been-accomplished"
    },
    "lek" : {
+      "chakobsa" : "lek",
       "count" : 2,
+      "phonetic" : "lek",
       "word" : "sand"
    },
    "lek-se" : {
+      "chakobsa" : "lekse",
       "count" : 1,
+      "phonetic" : "lek-se",
       "word" : "dune"
    },
    "lek-set" : {
+      "chakobsa" : "lekset",
       "count" : 1,
+      "phonetic" : "lek-set",
       "word" : "foreigner"
    },
    "lek-sit" : {
+      "chakobsa" : "leksit",
       "count" : 1,
+      "phonetic" : "lek-sit",
       "word" : "stranger"
    },
    "let-she" : {
+      "chakobsa" : "letshe",
       "count" : 1,
+      "phonetic" : "let-she",
       "word" : "news"
    },
    "li-saan" : {
+      "chakobsa" : "lisaan",
       "count" : 7,
+      "phonetic" : "li-saan",
       "word" : "lisan"
    },
    "li-san" : {
+      "chakobsa" : "lisan",
       "count" : 2,
+      "phonetic" : "li-san",
       "word" : "lisan"
    },
    "lii-ka-sat" : {
+      "chakobsa" : "liikasat",
       "count" : 1,
+      "phonetic" : "lii-ka-sat",
       "word" : "of-strangers"
    },
    "lii-yet" : {
+      "chakobsa" : "liiyet",
       "count" : 1,
+      "phonetic" : "lii-yet",
       "word" : "liet"
    },
    "lik-sit" : {
+      "chakobsa" : "liksit",
       "count" : 1,
+      "phonetic" : "lik-sit",
       "word" : "foreigners"
    },
    "lish-ki" : {
+      "chakobsa" : "lishki",
       "count" : 1,
+      "phonetic" : "lish-ki",
       "word" : "the-flame"
    },
    "lu-dhaiz" : {
+      "chakobsa" : "ludhaiz",
       "count" : 1,
+      "phonetic" : "lu-dhaiz",
       "word" : "very-young"
    },
    "lu-dhii" : {
+      "chakobsa" : "ludhii",
       "count" : 2,
+      "phonetic" : "lu-dhii",
       "word" : "is-young"
    },
    "mah-da" : {
+      "chakobsa" : "mahda",
       "count" : 2,
+      "phonetic" : "mah-da",
       "word" : "mahdi"
    },
    "mah-di" : {
+      "chakobsa" : "mahdi",
       "count" : 5,
+      "phonetic" : "mah-di",
       "word" : "mahdi"
    },
    "mar-ra-ha" : {
+      "chakobsa" : "marraha",
       "count" : 1,
+      "phonetic" : "mar-ra-ha",
       "word" : "she-heard"
    },
    "mar-ra-ka" : {
+      "chakobsa" : "marraka",
       "count" : 1,
+      "phonetic" : "mar-ra-ka",
       "word" : "you-have-heard"
    },
    "mar-ra-sha" : {
+      "chakobsa" : "marrasha",
       "count" : 1,
+      "phonetic" : "mar-ra-sha",
       "word" : "it-seems"
    },
    "mar-rii-ho" : {
+      "chakobsa" : "marriiho",
       "count" : 1,
+      "phonetic" : "mar-rii-ho",
       "word" : "i-have-heard"
    },
    "mar-za" : {
+      "chakobsa" : "marza",
       "count" : 3,
+      "phonetic" : "mar-za",
       "word" : "listen"
    },
    "mi-na-za" : {
+      "chakobsa" : "minaza",
       "count" : 1,
+      "phonetic" : "mi-na-za",
       "word" : "to-think"
    },
    "mi-naa-za-sha-ho" : {
+      "chakobsa" : "minaazashaho",
       "count" : 2,
+      "phonetic" : "mi-naa-za-sha-ho",
       "word" : "you-think-it"
    },
    "mi-naa-zash" : {
+      "chakobsa" : "minaazash",
       "count" : 3,
+      "phonetic" : "mi-naa-zash",
       "word" : "think"
    },
    "mi-naa-zii" : {
+      "chakobsa" : "minaazii",
       "count" : 4,
+      "phonetic" : "mi-naa-zii",
       "word" : "i-think"
    },
    "mi-naash" : {
+      "chakobsa" : "minaash",
       "count" : 1,
+      "phonetic" : "mi-naash",
       "word" : "are-you-thinking"
    },
    "mi-ni-za" : {
+      "chakobsa" : "miniza",
       "count" : 1,
+      "phonetic" : "mi-ni-za",
       "word" : "to-believe"
    },
    "min-zi-dhash" : {
+      "chakobsa" : "minzidhash",
       "count" : 1,
+      "phonetic" : "min-zi-dhash",
       "word" : "your-faith"
    },
    "moth-cha" : {
+      "chakobsa" : "mothcha",
       "count" : 1,
+      "phonetic" : "moth-cha",
       "word" : "tears"
    },
    "mur-sha" : {
+      "chakobsa" : "mursha",
       "count" : 1,
+      "phonetic" : "mur-sha",
       "word" : "kneel"
    },
    "mwad-dib" : {
+      "chakobsa" : "mwaddib",
       "count" : 12,
+      "phonetic" : "mwad-dib",
       "word" : "desert-mouse"
    },
    "na-ti" : {
+      "chakobsa" : "nati",
       "count" : 1,
+      "phonetic" : "na-ti",
       "word" : "that"
    },
    "na-ziim" : {
+      "chakobsa" : "naziim",
       "count" : 1,
+      "phonetic" : "na-ziim",
       "word" : "we-carry"
    },
    "nah" : {
+      "chakobsa" : "nah",
       "count" : 1,
+      "phonetic" : "nah",
       "word" : "poison"
    },
    "nair-ge-vi" : {
+      "chakobsa" : "nairgevi",
       "count" : 1,
+      "phonetic" : "nair-ge-vi",
       "word" : "at-months"
    },
    "nat" : {
+      "chakobsa" : "nat",
       "count" : 2,
+      "phonetic" : "nat",
       "word" : "there"
    },
    "naz-dha-nii" : {
+      "chakobsa" : "nazdhanii",
       "count" : 1,
+      "phonetic" : "naz-dha-nii",
       "word" : "bring-me"
    },
    "naz-ga-ha" : {
+      "chakobsa" : "nazgaha",
       "count" : 1,
+      "phonetic" : "naz-ga-ha",
       "word" : "his-works"
    },
    "naz-ga-ha-bit" : {
+      "chakobsa" : "nazgahabit",
       "count" : 1,
+      "phonetic" : "naz-ga-ha-bit",
       "word" : "he-did-it"
    },
    "naz-ga-ha-ho" : {
+      "chakobsa" : "nazgahaho",
       "count" : 1,
+      "phonetic" : "naz-ga-ha-ho",
       "word" : "she-did-it"
    },
    "ne" : {
+      "chakobsa" : "ne",
       "count" : 3,
+      "phonetic" : "ne",
       "word" : "i"
    },
    "ne-ril" : {
+      "chakobsa" : "neril",
       "count" : 1,
+      "phonetic" : "ne-ril",
       "word" : "at-the-time"
    },
    "ni-chai-za" : {
+      "chakobsa" : "nichaiza",
       "count" : 1,
+      "phonetic" : "ni-chai-za",
       "word" : "most-quickly"
    },
    "ni-chii" : {
+      "chakobsa" : "nichii",
       "count" : 4,
+      "phonetic" : "ni-chii",
       "word" : "quickly"
    },
    "ni-fri-ha" : {
+      "chakobsa" : "nifriha",
       "count" : 2,
+      "phonetic" : "ni-fri-ha",
       "word" : "can-she"
    },
    "ni-fri-yi" : {
+      "chakobsa" : "nifriyi",
       "count" : 1,
+      "phonetic" : "ni-fri-yi",
       "word" : "i-can"
    },
    "ni-frii" : {
+      "chakobsa" : "nifrii",
       "count" : 1,
+      "phonetic" : "ni-frii",
       "word" : "i-can"
    },
    "ni-frish" : {
+      "chakobsa" : "nifrish",
       "count" : 2,
+      "phonetic" : "ni-frish",
       "word" : "you-can"
    },
    "ni-shi" : {
+      "chakobsa" : "nishi",
       "count" : 2,
+      "phonetic" : "ni-shi",
       "word" : "at-the-time"
    },
    "ni-tha" : {
+      "chakobsa" : "nitha",
       "count" : 1,
+      "phonetic" : "ni-tha",
       "word" : "be-kind"
    },
    "nich-nich" : {
+      "chakobsa" : "nichnich",
       "count" : 1,
+      "phonetic" : "nich-nich",
       "word" : "hurry-hurry"
    },
    "nif-ri-bit" : {
+      "chakobsa" : "nifribit",
       "count" : 1,
+      "phonetic" : "nif-ri-bit",
       "word" : "can-who"
    },
    "nif-ri-ha" : {
+      "chakobsa" : "nifriha",
       "count" : 1,
+      "phonetic" : "nif-ri-ha",
       "word" : "he-can"
    },
    "nif-rish" : {
+      "chakobsa" : "nifrish",
       "count" : 1,
+      "phonetic" : "nif-rish",
       "word" : "you-can"
    },
    "no-je-rach" : {
+      "chakobsa" : "nojerach",
       "count" : 1,
+      "phonetic" : "no-je-rach",
       "word" : "soon"
    },
    "no-qa-dha-kaa" : {
+      "chakobsa" : "noqadhakaa",
       "count" : 1,
+      "phonetic" : "no-qa-dha-kaa",
       "word" : "devour-them"
    },
    "no-qaj" : {
+      "chakobsa" : "noqaj",
       "count" : 1,
+      "phonetic" : "no-qaj",
       "word" : "of-a-worm"
    },
    "noq-chich" : {
+      "chakobsa" : "noqchich",
       "count" : 1,
+      "phonetic" : "noq-chich",
       "word" : "baby-worm"
    },
    "noq-cho" : {
+      "chakobsa" : "noqcho",
       "count" : 1,
+      "phonetic" : "noq-cho",
       "word" : "worm"
    },
    "nosh-shai-dah" : {
+      "chakobsa" : "noshshaidah",
       "count" : 1,
+      "phonetic" : "nosh-shai-dah",
       "word" : "always"
    },
    "nu-kah" : {
+      "chakobsa" : "nukah",
       "count" : 1,
+      "phonetic" : "nu-kah",
       "word" : "right"
    },
    "o" : {
+      "chakobsa" : "o",
       "count" : 8,
+      "phonetic" : "o",
       "word" : "on"
    },
    "o-bit" : {
+      "chakobsa" : "obit",
       "count" : 3,
+      "phonetic" : "o-bit",
       "word" : "during-it"
    },
    "o-gaa-ra-ha" : {
+      "chakobsa" : "ogaaraha",
       "count" : 1,
+      "phonetic" : "o-gaa-ra-ha",
       "word" : "is-she-moving-herself"
    },
    "o-grog" : {
+      "chakobsa" : "ogrog",
       "count" : 1,
+      "phonetic" : "o-grog",
       "word" : "rite"
    },
    "o-ja" : {
+      "chakobsa" : "oja",
       "count" : 1,
+      "phonetic" : "o-ja",
       "word" : "be-strong"
    },
    "o-jij" : {
+      "chakobsa" : "ojij",
       "count" : 1,
+      "phonetic" : "o-jij",
       "word" : "a-mighty-one"
    },
    "o-ma" : {
+      "chakobsa" : "oma",
       "count" : 5,
+      "phonetic" : "o-ma",
       "word" : "we-must"
    },
    "o-maa-kath-sha-ho" : {
+      "chakobsa" : "omaakathshaho",
       "count" : 1,
+      "phonetic" : "o-maa-kath-sha-ho",
       "word" : "you-value-him"
    },
    "o-mai-za" : {
+      "chakobsa" : "omaiza",
       "count" : 1,
+      "phonetic" : "o-mai-za",
       "word" : "too-much"
    },
    "o-maiz" : {
+      "chakobsa" : "omaiz",
       "count" : 3,
+      "phonetic" : "o-maiz",
       "word" : "too-much"
    },
    "o-shii" : {
+      "chakobsa" : "oshii",
       "count" : 2,
+      "phonetic" : "o-shii",
       "word" : "you-must"
    },
    "o-zai" : {
+      "chakobsa" : "ozai",
       "count" : 2,
+      "phonetic" : "o-zai",
       "word" : "further"
    },
    "o-zii-gi" : {
+      "chakobsa" : "oziigi",
       "count" : 1,
+      "phonetic" : "o-zii-gi",
       "word" : "differently"
    },
    "o-zii-yag" : {
+      "chakobsa" : "oziiyag",
       "count" : 1,
+      "phonetic" : "o-zii-yag",
       "word" : "others"
    },
    "o-ziig" : {
+      "chakobsa" : "oziig",
       "count" : 1,
+      "phonetic" : "o-ziig",
       "word" : "otherwise"
    },
    "of-mak" : {
+      "chakobsa" : "ofmak",
       "count" : 1,
+      "phonetic" : "of-mak",
       "word" : "spots-your"
    },
    "og-go-ri" : {
+      "chakobsa" : "oggori",
       "count" : 1,
+      "phonetic" : "og-go-ri",
       "word" : "coffee"
    },
    "og-rog" : {
+      "chakobsa" : "ogrog",
       "count" : 1,
+      "phonetic" : "og-rog",
       "word" : "rite"
    },
    "paul" : {
+      "chakobsa" : "paul",
       "count" : 2,
+      "phonetic" : "paul",
       "word" : "paul"
    },
    "qab-dhi-ka-kaa" : {
+      "chakobsa" : "qabdhikakaa",
       "count" : 1,
+      "phonetic" : "qab-dhi-ka-kaa",
       "word" : "give-them-back"
    },
    "qab-gab" : {
+      "chakobsa" : "qabgab",
       "count" : 1,
+      "phonetic" : "qab-gab",
       "word" : "council"
    },
    "qau-ba-ka" : {
+      "chakobsa" : "qaubaka",
       "count" : 1,
+      "phonetic" : "qau-ba-ka",
       "word" : "warned-they"
    },
    "qaz-dha-ha" : {
+      "chakobsa" : "qazdhaha",
       "count" : 1,
+      "phonetic" : "qaz-dha-ha",
       "word" : "deserves"
    },
    "qels-shoq" : {
+      "chakobsa" : "qelsshoq",
       "count" : 1,
+      "phonetic" : "qels-shoq",
       "word" : "five-hundred"
    },
    "qi-ra" : {
+      "chakobsa" : "qira",
       "count" : 1,
+      "phonetic" : "qi-ra",
       "word" : "stand"
    },
    "qi-raa-sha-ha" : {
+      "chakobsa" : "qiraashaha",
       "count" : 2,
+      "phonetic" : "qi-raa-sha-ha",
       "word" : "he-is-about-to"
    },
    "qi-raa-shii" : {
+      "chakobsa" : "qiraashii",
       "count" : 1,
+      "phonetic" : "qi-raa-shii",
       "word" : "i-am-ready"
    },
    "qi-tha-na" : {
+      "chakobsa" : "qithana",
       "count" : 1,
+      "phonetic" : "qi-tha-na",
       "word" : "try"
    },
    "qith-la-ka" : {
+      "chakobsa" : "qithlaka",
       "count" : 1,
+      "phonetic" : "qith-la-ka",
       "word" : "wrote-they"
    },
    "qith-la-sha" : {
+      "chakobsa" : "qithlasha",
       "count" : 1,
+      "phonetic" : "qith-la-sha",
       "word" : "it-was-written"
    },
    "qith-las-ha" : {
+      "chakobsa" : "qithlasha",
       "count" : 4,
+      "phonetic" : "qith-las-ha",
       "word" : "it-was-written"
    },
    "qith-na-ka" : {
+      "chakobsa" : "qithnaka",
       "count" : 1,
+      "phonetic" : "qith-na-ka",
       "word" : "have-tried"
    },
    "qo-riir" : {
+      "chakobsa" : "qoriir",
       "count" : 1,
+      "phonetic" : "qo-riir",
       "word" : "are-blind"
    },
    "qu-maj" : {
+      "chakobsa" : "qumaj",
       "count" : 1,
+      "phonetic" : "qu-maj",
       "word" : "outsider"
    },
    "qu-mih" : {
+      "chakobsa" : "qumih",
       "count" : 1,
+      "phonetic" : "qu-mih",
       "word" : "night"
    },
    "qul-la-ha" : {
+      "chakobsa" : "qullaha",
       "count" : 1,
+      "phonetic" : "qul-la-ha",
       "word" : "was-born"
    },
    "qum-ju" : {
+      "chakobsa" : "qumju",
       "count" : 1,
+      "phonetic" : "qum-ju",
       "word" : "enemy"
    },
    "qum-mu-nii" : {
+      "chakobsa" : "qummunii",
       "count" : 1,
+      "phonetic" : "qum-mu-nii",
       "word" : "stand-against-me"
    },
    "raab-jil" : {
+      "chakobsa" : "raabjil",
       "count" : 1,
+      "phonetic" : "raab-jil",
       "word" : "spies"
    },
    "re-dha" : {
+      "chakobsa" : "redha",
       "count" : 2,
+      "phonetic" : "re-dha",
       "word" : "man"
    },
    "re-dhi" : {
+      "chakobsa" : "redhi",
       "count" : 1,
+      "phonetic" : "re-dhi",
       "word" : "man"
    },
    "re-sham" : {
+      "chakobsa" : "resham",
       "count" : 2,
+      "phonetic" : "re-sham",
       "word" : "desert"
    },
    "re-shii" : {
+      "chakobsa" : "reshii",
       "count" : 1,
+      "phonetic" : "re-shii",
       "word" : "long"
    },
    "re-shiiiiii" : {
+      "chakobsa" : "reshiiiiii",
       "count" : 1,
+      "phonetic" : "re-shiiiiii",
       "word" : "whoaaaaa"
    },
    "re-shim" : {
+      "chakobsa" : "reshim",
       "count" : 1,
+      "phonetic" : "re-shim",
       "word" : "desert"
    },
    "resh-me" : {
+      "chakobsa" : "reshme",
       "count" : 1,
+      "phonetic" : "resh-me",
       "word" : "desert"
    },
    "rii" : {
+      "chakobsa" : "rii",
       "count" : 5,
+      "phonetic" : "rii",
       "word" : "regarding"
    },
    "rii-dhi" : {
+      "chakobsa" : "riidhi",
       "count" : 1,
+      "phonetic" : "rii-dhi",
       "word" : "men"
    },
    "rii-ho" : {
+      "chakobsa" : "riiho",
       "count" : 1,
+      "phonetic" : "rii-ho",
       "word" : "about-it"
    },
    "rob-buuch-kaa" : {
+      "chakobsa" : "robbuuchkaa",
       "count" : 1,
+      "phonetic" : "rob-buuch-kaa",
       "word" : "to-lure-them"
    },
    "ru" : {
+      "chakobsa" : "ru",
       "count" : 9,
+      "phonetic" : "ru",
       "word" : "will"
    },
    "ru-che" : {
+      "chakobsa" : "ruche",
       "count" : 3,
+      "phonetic" : "ru-che",
       "word" : "for-what"
    },
    "ru-dhi" : {
+      "chakobsa" : "rudhi",
       "count" : 1,
+      "phonetic" : "ru-dhi",
       "word" : "hand"
    },
    "ru-ha" : {
+      "chakobsa" : "ruha",
       "count" : 7,
+      "phonetic" : "ru-ha",
       "word" : "will-he"
    },
    "ru-qa-za" : {
+      "chakobsa" : "ruqaza",
       "count" : 1,
+      "phonetic" : "ru-qa-za",
       "word" : "pray"
    },
    "ru-qaa-fii-kaa" : {
+      "chakobsa" : "ruqaafiikaa",
       "count" : 1,
+      "phonetic" : "ru-qaa-fii-kaa",
       "word" : "i-beg-you"
    },
    "ru-qaa-ha-shii" : {
+      "chakobsa" : "ruqaahashii",
       "count" : 1,
+      "phonetic" : "ru-qaa-ha-shii",
       "word" : "he-ask-you"
    },
    "ru-qaa-zash" : {
+      "chakobsa" : "ruqaazash",
       "count" : 1,
+      "phonetic" : "ru-qaa-zash",
       "word" : "you-are-praying"
    },
    "ru-qaa-zim" : {
+      "chakobsa" : "ruqaazim",
       "count" : 1,
+      "phonetic" : "ru-qaa-zim",
       "word" : "we-are-praying"
    },
    "ru-vai-ja" : {
+      "chakobsa" : "ruvaija",
       "count" : 1,
+      "phonetic" : "ru-vai-ja",
       "word" : "because"
    },
    "ru-yi" : {
+      "chakobsa" : "ruyi",
       "count" : 3,
+      "phonetic" : "ru-yi",
       "word" : "will"
    },
    "ruk" : {
+      "chakobsa" : "ruk",
       "count" : 2,
+      "phonetic" : "ruk",
       "word" : "you-will"
    },
    "rum" : {
+      "chakobsa" : "rum",
       "count" : 4,
+      "phonetic" : "rum",
       "word" : "for-us"
    },
    "rush" : {
+      "chakobsa" : "rush",
       "count" : 5,
+      "phonetic" : "rush",
       "word" : "for-you"
    },
    "sa" : {
+      "chakobsa" : "sa",
       "count" : 6,
+      "phonetic" : "sa",
       "word" : "our"
    },
    "sa-gar-ga" : {
+      "chakobsa" : "sagarga",
       "count" : 1,
+      "phonetic" : "sa-gar-ga",
       "word" : "by-might"
    },
    "sa-ha-tha-ho" : {
+      "chakobsa" : "sahathaho",
       "count" : 1,
+      "phonetic" : "sa-ha-tha-ho",
       "word" : "let-him"
    },
    "sa-haa-lash" : {
+      "chakobsa" : "sahaalash",
       "count" : 1,
+      "phonetic" : "sa-haa-lash",
       "word" : "you-accept"
    },
    "sa-haa-tha-ha-ho" : {
+      "chakobsa" : "sahaathahaho",
       "count" : 1,
+      "phonetic" : "sa-haa-tha-ha-ho",
       "word" : "it-allows-him"
    },
    "sa-hi-fir" : {
+      "chakobsa" : "sahifir",
       "count" : 1,
+      "phonetic" : "sa-hi-fir",
       "word" : "by-power"
    },
    "sa-hiim" : {
+      "chakobsa" : "sahiim",
       "count" : 3,
+      "phonetic" : "sa-hiim",
       "word" : "like"
    },
    "sa-hiim-bit" : {
+      "chakobsa" : "sahiimbit",
       "count" : 1,
+      "phonetic" : "sa-hiim-bit",
       "word" : "as-one-who"
    },
    "sa-nai" : {
+      "chakobsa" : "sanai",
       "count" : 1,
+      "phonetic" : "sa-nai",
       "word" : "like-that"
    },
    "sa-vi" : {
+      "chakobsa" : "savi",
       "count" : 1,
+      "phonetic" : "sa-vi",
       "word" : "none-of"
    },
    "sa-ya" : {
+      "chakobsa" : "saya",
       "count" : 1,
+      "phonetic" : "sa-ya",
       "word" : "walk"
    },
    "sa-ya-dha" : {
+      "chakobsa" : "sayadha",
       "count" : 1,
+      "phonetic" : "sa-ya-dha",
       "word" : "be-fit"
    },
    "sah" : {
+      "chakobsa" : "sah",
       "count" : 1,
+      "phonetic" : "sah",
       "word" : "take"
    },
    "sah-tha" : {
+      "chakobsa" : "sahtha",
       "count" : 1,
+      "phonetic" : "sah-tha",
       "word" : "let"
    },
    "sah-thi-mi" : {
+      "chakobsa" : "sahthimi",
       "count" : 1,
+      "phonetic" : "sah-thi-mi",
       "word" : "we-have-done"
    },
    "saich" : {
+      "chakobsa" : "saich",
       "count" : 1,
+      "phonetic" : "saich",
       "word" : "sietches"
    },
    "sar-daa-kra" : {
+      "chakobsa" : "sardaakra",
       "count" : 1,
+      "phonetic" : "sar-daa-kra",
       "word" : "sardaukar"
    },
    "say-ya-di-na" : {
+      "chakobsa" : "sayyadina",
       "count" : 1,
+      "phonetic" : "say-ya-di-na",
       "word" : "sayyadina"
    },
    "say-ya-ha" : {
+      "chakobsa" : "sayyaha",
       "count" : 1,
+      "phonetic" : "say-ya-ha",
       "word" : "she-had-walked"
    },
    "sek-ka-ha" : {
+      "chakobsa" : "sekkaha",
       "count" : 1,
+      "phonetic" : "sek-ka-ha",
       "word" : "found"
    },
    "sha-rii" : {
+      "chakobsa" : "sharii",
       "count" : 1,
+      "phonetic" : "sha-rii",
       "word" : "green"
    },
    "sha-ya" : {
+      "chakobsa" : "shaya",
       "count" : 1,
+      "phonetic" : "sha-ya",
       "word" : "shai-hulud"
    },
    "sha-yi-hu-luud" : {
+      "chakobsa" : "shayihuluud",
       "count" : 1,
+      "phonetic" : "sha-yi-hu-luud",
       "word" : "shai-hulud"
    },
    "shai" : {
+      "chakobsa" : "shai",
       "count" : 1,
+      "phonetic" : "shai",
       "word" : "shai"
    },
    "shai-dash" : {
+      "chakobsa" : "shaidash",
       "count" : 1,
+      "phonetic" : "shai-dash",
       "word" : "today"
    },
    "shai-dish" : {
+      "chakobsa" : "shaidish",
       "count" : 1,
+      "phonetic" : "shai-dish",
       "word" : "today"
    },
    "she" : {
+      "chakobsa" : "she",
       "count" : 6,
+      "phonetic" : "she",
       "word" : "you"
    },
    "shi" : {
+      "chakobsa" : "shi",
       "count" : 7,
+      "phonetic" : "shi",
       "word" : "may"
    },
    "shii-dhiz" : {
+      "chakobsa" : "shiidhiz",
       "count" : 1,
+      "phonetic" : "shii-dhiz",
       "word" : "sign"
    },
    "shiidh-gim" : {
+      "chakobsa" : "shiidhgim",
       "count" : 1,
+      "phonetic" : "shiidh-gim",
       "word" : "paradise"
    },
    "shyadh-za" : {
+      "chakobsa" : "shyadhza",
       "count" : 2,
+      "phonetic" : "shyadh-za",
       "word" : "signs"
    },
    "si-ha-ya" : {
+      "chakobsa" : "sihaya",
       "count" : 2,
+      "phonetic" : "si-ha-ya",
       "word" : "desert-spring"
    },
    "sich" : {
+      "chakobsa" : "sich",
       "count" : 1,
+      "phonetic" : "sich",
       "word" : "sietch"
    },
    "so" : {
+      "chakobsa" : "so",
       "count" : 24,
+      "phonetic" : "so",
       "word" : "not"
    },
    "so-la-ga-ho" : {
+      "chakobsa" : "solagaho",
       "count" : 1,
+      "phonetic" : "so-la-ga-ho",
       "word" : "welcome-him"
    },
    "so-la-gas" : {
+      "chakobsa" : "solagas",
       "count" : 1,
+      "phonetic" : "so-la-gas",
       "word" : "be-welcomed"
    },
    "sot" : {
+      "chakobsa" : "sot",
       "count" : 1,
+      "phonetic" : "sot",
       "word" : "no-one"
    },
    "stil-gar" : {
+      "chakobsa" : "stilgar",
       "count" : 6,
+      "phonetic" : "stil-gar",
       "word" : "stilgar"
    },
    "suun-zaad" : {
+      "chakobsa" : "suunzaad",
       "count" : 1,
+      "phonetic" : "suun-zaad",
       "word" : "eighty"
    },
    "ta-br" : {
+      "chakobsa" : "tabr",
       "count" : 1,
+      "phonetic" : "ta-br",
       "word" : "tabr"
    },
    "ta-maa-ha-shii" : {
+      "chakobsa" : "tamaahashii",
       "count" : 1,
+      "phonetic" : "ta-maa-ha-shii",
       "word" : "is-awaiting-you"
    },
    "ta-maak-shii" : {
+      "chakobsa" : "tamaakshii",
       "count" : 1,
+      "phonetic" : "ta-maak-shii",
       "word" : "they-are-waiting-for-you"
    },
    "ta-sa" : {
+      "chakobsa" : "tasa",
       "count" : 1,
+      "phonetic" : "ta-sa",
       "word" : "strike"
    },
    "ta-sa-ho" : {
+      "chakobsa" : "tasaho",
       "count" : 1,
+      "phonetic" : "ta-sa-ho",
       "word" : "strike-him"
    },
    "taam-rih" : {
+      "chakobsa" : "taamrih",
       "count" : 1,
+      "phonetic" : "taam-rih",
       "word" : "others"
    },
    "tab-ra" : {
+      "chakobsa" : "tabra",
       "count" : 1,
+      "phonetic" : "tab-ra",
       "word" : "tabr"
    },
    "tam-ma-sha-bit" : {
+      "chakobsa" : "tammashabit",
       "count" : 1,
+      "phonetic" : "tam-ma-sha-bit",
       "word" : "you-have-waited-for-which"
    },
    "tam-ra" : {
+      "chakobsa" : "tamra",
       "count" : 2,
+      "phonetic" : "tam-ra",
       "word" : "stay"
    },
    "tas-sa-sak" : {
+      "chakobsa" : "tassasak",
       "count" : 1,
+      "phonetic" : "tas-sa-sak",
       "word" : "have-been-hit"
    },
    "tha-nath" : {
+      "chakobsa" : "thanath",
       "count" : 1,
+      "phonetic" : "tha-nath",
       "word" : "of-body"
    },
    "tha-ni" : {
+      "chakobsa" : "thani",
       "count" : 1,
+      "phonetic" : "tha-ni",
       "word" : "body"
    },
    "thaa" : {
+      "chakobsa" : "thaa",
       "count" : 1,
+      "phonetic" : "thaa",
       "word" : "two"
    },
    "than" : {
+      "chakobsa" : "than",
       "count" : 1,
+      "phonetic" : "than",
       "word" : "body"
    },
    "the-dem" : {
+      "chakobsa" : "thedem",
       "count" : 1,
+      "phonetic" : "the-dem",
       "word" : "forty"
    },
    "thodh-dhat" : {
+      "chakobsa" : "thodhdhat",
       "count" : 1,
+      "phonetic" : "thodh-dhat",
       "word" : "prisoners"
    },
    "u-kai-ri-bii" : {
+      "chakobsa" : "ukairibii",
       "count" : 1,
+      "phonetic" : "u-kai-ri-bii",
       "word" : "promise-my"
    },
    "u-na" : {
+      "chakobsa" : "una",
       "count" : 1,
+      "phonetic" : "u-na",
       "word" : "to-be"
    },
    "u-na-ra" : {
+      "chakobsa" : "unara",
       "count" : 1,
+      "phonetic" : "u-na-ra",
       "word" : "there-is"
    },
    "u-naa-ha" : {
+      "chakobsa" : "unaaha",
       "count" : 1,
+      "phonetic" : "u-naa-ha",
       "word" : "it-was-near"
    },
    "u-naa-ra-ha" : {
+      "chakobsa" : "unaaraha",
       "count" : 1,
+      "phonetic" : "u-naa-ra-ha",
       "word" : "there-is"
    },
    "u-naa-ra-ha-shii" : {
+      "chakobsa" : "unaarahashii",
       "count" : 1,
+      "phonetic" : "u-naa-ra-ha-shii",
       "word" : "is-for-you"
    },
    "u-naa-rash" : {
+      "chakobsa" : "unaarash",
       "count" : 1,
+      "phonetic" : "u-naa-rash",
       "word" : "you-be"
    },
    "u-nak" : {
+      "chakobsa" : "unak",
       "count" : 1,
+      "phonetic" : "u-nak",
       "word" : "upon-them"
    },
    "u-nij" : {
+      "chakobsa" : "unij",
       "count" : 1,
+      "phonetic" : "u-nij",
       "word" : "anyone"
    },
    "un-ba-chi" : {
+      "chakobsa" : "unbachi",
       "count" : 1,
+      "phonetic" : "un-ba-chi",
       "word" : "beneath"
    },
    "un-fai-si-fash" : {
+      "chakobsa" : "unfaisifash",
       "count" : 1,
+      "phonetic" : "un-fai-si-fash",
       "word" : "in-your-dreams"
    },
    "un-gi-fi" : {
+      "chakobsa" : "ungifi",
       "count" : 1,
+      "phonetic" : "un-gi-fi",
       "word" : "by-path"
    },
    "un-noq-chim" : {
+      "chakobsa" : "unnoqchim",
       "count" : 1,
+      "phonetic" : "un-noq-chim",
       "word" : "in-the-south"
    },
    "un-nu-kim" : {
+      "chakobsa" : "unnukim",
       "count" : 1,
+      "phonetic" : "un-nu-kim",
       "word" : "at-a-time"
    },
    "un-rau-dhi-ha" : {
+      "chakobsa" : "unraudhiha",
       "count" : 1,
+      "phonetic" : "un-rau-dhi-ha",
       "word" : "in-hands-his"
    },
    "un-re-shim" : {
+      "chakobsa" : "unreshim",
       "count" : 1,
+      "phonetic" : "un-re-shim",
       "word" : "for-the-desert"
    },
    "un-tau-fih" : {
+      "chakobsa" : "untaufih",
       "count" : 1,
+      "phonetic" : "un-tau-fih",
       "word" : "in-room"
    },
    "un-yuch-kim" : {
+      "chakobsa" : "unyuchkim",
       "count" : 3,
+      "phonetic" : "un-yuch-kim",
       "word" : "in-north"
    },
    "uq-nu" : {
+      "chakobsa" : "uqnu",
       "count" : 1,
+      "phonetic" : "uq-nu",
       "word" : "piss"
    },
    "us-la" : {
+      "chakobsa" : "usla",
       "count" : 1,
+      "phonetic" : "us-la",
       "word" : "usul"
    },
    "uuth" : {
+      "chakobsa" : "uuth",
       "count" : 1,
+      "phonetic" : "uuth",
       "word" : "eye"
    },
    "uz-zu-la-tha" : {
+      "chakobsa" : "uzzulatha",
       "count" : 3,
+      "phonetic" : "uz-zu-la-tha",
       "word" : "die"
    },
    "uz-zu-laa-thak" : {
+      "chakobsa" : "uzzulaathak",
       "count" : 1,
+      "phonetic" : "uz-zu-laa-thak",
       "word" : "they-die"
    },
    "uz-zu-laash" : {
+      "chakobsa" : "uzzulaash",
       "count" : 1,
+      "phonetic" : "uz-zu-laash",
       "word" : "die"
    },
    "uz-zul" : {
+      "chakobsa" : "uzzul",
       "count" : 1,
+      "phonetic" : "uz-zul",
       "word" : "death"
    },
    "uz-zul-lu-ho" : {
+      "chakobsa" : "uzzulluho",
       "count" : 1,
+      "phonetic" : "uz-zul-lu-ho",
       "word" : "kill-him"
    },
    "uz-zul-luth-ho" : {
+      "chakobsa" : "uzzulluthho",
       "count" : 1,
+      "phonetic" : "uz-zul-luth-ho",
       "word" : "get-him-killed"
    },
    "uz-zul-tha-bit" : {
+      "chakobsa" : "uzzulthabit",
       "count" : 1,
+      "phonetic" : "uz-zul-tha-bit",
       "word" : "who-died"
    },
    "uz-zul-tha-ka" : {
+      "chakobsa" : "uzzulthaka",
       "count" : 1,
+      "phonetic" : "uz-zul-tha-ka",
       "word" : "have-died"
    },
    "va-hii" : {
+      "chakobsa" : "vahii",
       "count" : 1,
+      "phonetic" : "va-hii",
       "word" : "big"
    },
    "vaa-hai-za" : {
+      "chakobsa" : "vaahaiza",
       "count" : 1,
+      "phonetic" : "vaa-hai-za",
       "word" : "biggest"
    },
    "vaa-nar" : {
+      "chakobsa" : "vaanar",
       "count" : 1,
+      "phonetic" : "vaa-nar",
       "word" : "fates"
    },
    "vad-zih" : {
+      "chakobsa" : "vadzih",
       "count" : 4,
+      "phonetic" : "vad-zih",
       "word" : "now"
    },
    "vad-zikh" : {
+      "chakobsa" : "vadzikh",
       "count" : 1,
+      "phonetic" : "vad-zikh",
       "word" : "now"
    },
    "vah-cha" : {
+      "chakobsa" : "vahcha",
       "count" : 1,
+      "phonetic" : "vah-cha",
       "word" : "large-one"
    },
    "vai-yiz" : {
+      "chakobsa" : "vaiyiz",
       "count" : 1,
+      "phonetic" : "vai-yiz",
       "word" : "spice"
    },
    "vak-kii" : {
+      "chakobsa" : "vakkii",
       "count" : 1,
+      "phonetic" : "vak-kii",
       "word" : "funny"
    },
    "vak-la-ho" : {
+      "chakobsa" : "vaklaho",
       "count" : 1,
+      "phonetic" : "vak-la-ho",
       "word" : "mock-him"
    },
    "van-na-ha" : {
+      "chakobsa" : "vannaha",
       "count" : 1,
+      "phonetic" : "van-na-ha",
       "word" : "it-occurred"
    },
    "van-ra-ha" : {
+      "chakobsa" : "vanraha",
       "count" : 1,
+      "phonetic" : "van-ra-ha",
       "word" : "his-fate"
    },
    "ve-jii" : {
+      "chakobsa" : "vejii",
       "count" : 7,
+      "phonetic" : "ve-jii",
       "word" : "fair"
    },
    "vesh-sha" : {
+      "chakobsa" : "veshsha",
       "count" : 1,
+      "phonetic" : "vesh-sha",
       "word" : "maker"
    },
    "vi-za-la" : {
+      "chakobsa" : "vizala",
       "count" : 1,
+      "phonetic" : "vi-za-la",
       "word" : "to-hunt"
    },
    "vid-za-kho" : {
+      "chakobsa" : "vidzakho",
       "count" : 1,
+      "phonetic" : "vid-za-kho",
       "word" : "kill-him"
    },
    "vii" : {
+      "chakobsa" : "vii",
       "count" : 10,
+      "phonetic" : "vii",
       "word" : "are"
    },
    "viiiiii" : {
+      "chakobsa" : "viiiiii",
       "count" : 1,
+      "phonetic" : "viiiiii",
       "word" : "yeaaaaah"
    },
    "viz-dha" : {
+      "chakobsa" : "vizdha",
       "count" : 1,
+      "phonetic" : "viz-dha",
       "word" : "kill"
    },
    "viz-dha-ha" : {
+      "chakobsa" : "vizdhaha",
       "count" : 2,
+      "phonetic" : "viz-dha-ha",
       "word" : "killed-him"
    },
    "viz-dhik" : {
+      "chakobsa" : "vizdhik",
       "count" : 1,
+      "phonetic" : "viz-dhik",
       "word" : "poison"
    },
    "vo-thash" : {
+      "chakobsa" : "vothash",
       "count" : 1,
+      "phonetic" : "vo-thash",
       "word" : "your-eyes"
    },
    "vo-thim" : {
+      "chakobsa" : "vothim",
       "count" : 1,
+      "phonetic" : "vo-thim",
       "word" : "our-eyes"
    },
    "wa" : {
+      "chakobsa" : "wa",
       "count" : 2,
+      "phonetic" : "wa",
       "word" : "by"
    },
    "wa-shai-dah" : {
+      "chakobsa" : "washaidah",
       "count" : 1,
+      "phonetic" : "wa-shai-dah",
       "word" : "finally"
    },
    "wad-zih" : {
+      "chakobsa" : "wadzih",
       "count" : 1,
+      "phonetic" : "wad-zih",
       "word" : "ago"
    },
    "wak" : {
+      "chakobsa" : "wak",
       "count" : 1,
+      "phonetic" : "wak",
       "word" : "before-you"
    },
    "ya-qa-la" : {
+      "chakobsa" : "yaqala",
       "count" : 1,
+      "phonetic" : "ya-qa-la",
       "word" : "to-cross"
    },
    "ya-qaa-la-ha" : {
+      "chakobsa" : "yaqaalaha",
       "count" : 1,
+      "phonetic" : "ya-qaa-la-ha",
       "word" : "she-was-crossing"
    },
    "ya-zaa-la-ha-o" : {
+      "chakobsa" : "yazaalahao",
       "count" : 1,
+      "phonetic" : "ya-zaa-la-ha-o",
       "word" : "he-favors-him"
    },
    "yi-maa-thash" : {
+      "chakobsa" : "yimaathash",
       "count" : 1,
+      "phonetic" : "yi-maa-thash",
       "word" : "you-are-questioning"
    },
    "yi-mash" : {
+      "chakobsa" : "yimash",
       "count" : 1,
+      "phonetic" : "yi-mash",
       "word" : "her-face"
    },
    "yo-hesh-ya" : {
+      "chakobsa" : "yoheshya",
       "count" : 1,
+      "phonetic" : "yo-hesh-ya",
       "word" : "keep-an-eye-out"
    },
    "yosh-la" : {
+      "chakobsa" : "yoshla",
       "count" : 1,
+      "phonetic" : "yosh-la",
       "word" : "again"
    },
    "yoz-bo" : {
+      "chakobsa" : "yozbo",
       "count" : 1,
+      "phonetic" : "yoz-bo",
       "word" : "beauty"
    },
    "za-ma-ha" : {
+      "chakobsa" : "zamaha",
       "count" : 2,
+      "phonetic" : "za-ma-ha",
       "word" : "fighting"
    },
    "za-ma-sha-kaa" : {
+      "chakobsa" : "zamashakaa",
       "count" : 1,
+      "phonetic" : "za-ma-sha-kaa",
       "word" : "engage-them"
    },
    "za-maak" : {
+      "chakobsa" : "zamaak",
       "count" : 1,
+      "phonetic" : "za-maak",
       "word" : "they-fight"
    },
    "za-mah" : {
+      "chakobsa" : "zamah",
       "count" : 1,
+      "phonetic" : "za-mah",
       "word" : "battle"
    },
    "za-mit" : {
+      "chakobsa" : "zamit",
       "count" : 1,
+      "phonetic" : "za-mit",
       "word" : "fighter"
    },
    "zaad-hi-thaa" : {
+      "chakobsa" : "zaadhithaa",
       "count" : 1,
+      "phonetic" : "zaad-hi-thaa",
       "word" : "twelve"
    },
    "zai-ha" : {
+      "chakobsa" : "zaiha",
       "count" : 1,
+      "phonetic" : "zai-ha",
       "word" : "to-drink"
    },
    "zai-ha-ho" : {
+      "chakobsa" : "zaihaho",
       "count" : 1,
+      "phonetic" : "zai-ha-ho",
       "word" : "drink-it"
    },
    "zai-haa-la-ha" : {
+      "chakobsa" : "zaihaalaha",
       "count" : 1,
+      "phonetic" : "zai-haa-la-ha",
       "word" : "she-will-drink"
    },
    "zai-haash" : {
+      "chakobsa" : "zaihaash",
       "count" : 3,
+      "phonetic" : "zai-haash",
       "word" : "you-drink"
    },
    "zai-hadh" : {
+      "chakobsa" : "zaihadh",
       "count" : 1,
+      "phonetic" : "zai-hadh",
       "word" : "champion"
    },
    "zai-kha" : {
+      "chakobsa" : "zaikha",
       "count" : 1,
+      "phonetic" : "zai-kha",
       "word" : "drink"
    },
    "zam-ha" : {
+      "chakobsa" : "zamha",
       "count" : 1,
+      "phonetic" : "zam-ha",
       "word" : "attack"
    },
    "zan-la" : {
+      "chakobsa" : "zanla",
       "count" : 2,
+      "phonetic" : "zan-la",
       "word" : "fight"
    },
    "ze-yaa-sha-ha" : {
+      "chakobsa" : "zeyaashaha",
       "count" : 1,
+      "phonetic" : "ze-yaa-sha-ha",
       "word" : "is-fading"
    },
    "zeh-la" : {
+      "chakobsa" : "zehla",
       "count" : 1,
+      "phonetic" : "zeh-la",
       "word" : "drink"
    },
    "zi-ha" : {
+      "chakobsa" : "ziha",
       "count" : 1,
+      "phonetic" : "zi-ha",
       "word" : "these"
    },
    "zi-hi" : {
+      "chakobsa" : "zihi",
       "count" : 2,
+      "phonetic" : "zi-hi",
       "word" : "this"
    },
    "zi-hik" : {
+      "chakobsa" : "zihik",
       "count" : 3,
+      "phonetic" : "zi-hik",
       "word" : "this"
    },
    "zih" : {
+      "chakobsa" : "zih",
       "count" : 7,
+      "phonetic" : "zih",
       "word" : "here"
    },
    "zih-ki" : {
+      "chakobsa" : "zihki",
       "count" : 2,
+      "phonetic" : "zih-ki",
       "word" : "this"
    },
    "zii-hij" : {
+      "chakobsa" : "ziihij",
       "count" : 1,
+      "phonetic" : "zii-hij",
       "word" : "these-people"
    },
    "zikh" : {
+      "chakobsa" : "zikh",
       "count" : 1,
+      "phonetic" : "zikh",
       "word" : "here"
    },
    "zo-thib" : {
+      "chakobsa" : "zothib",
       "count" : 1,
+      "phonetic" : "zo-thib",
       "word" : "impostor"
    }
 }

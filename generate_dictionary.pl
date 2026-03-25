@@ -55,7 +55,9 @@ foreach my $entry (@$data) {
         if( exists( $dictionary{$key} ) ) {
             $dictionary{$key}{count}++;
         } else {
-            $dictionary{$key} = { word => $word_pairs{$key}, count => 1 };
+            my $w = $word_pairs{$key};
+            my $c = $key =~ s/-//gr;
+            $dictionary{$key} = { chakobsa => $c, word => $w, count => 1, phonetic => $key };
         }
     }
 }
