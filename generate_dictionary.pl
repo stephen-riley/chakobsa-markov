@@ -19,10 +19,10 @@ foreach my $entry (@$data) {
     # We want to match the phonetic spelling to the transliteration.
     # After removing (implied words/phrases) from transliteration, there should be a one-to-one mapping between words.
 
-    my $transliteration = $entry->{transliteration} 
+    my $transliteration = lc($entry->{translation_english}) 
                             =~ s/[\.",!?]//gr
                             =~ s/--/ /gr;
-    my $phonetic = lc($entry->{phonetic}) 
+    my $phonetic = lc($entry->{phonetic_transcription}) 
                             =~ s/[\.",!?]//gr
                             =~ s/--/ /gr;
     
@@ -34,9 +34,10 @@ foreach my $entry (@$data) {
     my @phonetic_words = grep { $_ } split /\s+/, $phonetic;
 
     if( $#transliteration_words != $#phonetic_words ) {
-        say STDERR "Line " . $entry->{line} . " has different number of words in transliteration and phonetic spelling.";
-        say STDERR " Transliteration: " . join( ' ', map { "[$_]" } @transliteration_words);
-        say STDERR " Phonetic: " . join( ' ', map { "[$_]" } @phonetic_words);
+        say STDERR "Scene " . $entry->{scene} . " has different number of words in transliteration and phonetic spelling.";
+        say_arrays_vertically( \@phonetic_words, \@transliteration_words );
+        say STDERR "";
+        exit( -1 );
         next;
     }
 
@@ -56,3 +57,13 @@ foreach my $entry (@$data) {
 }
 
 say $json->encode(\%dictionary);
+
+sub say_arrays_vertically {
+    my( $a1, $a2 ) = @_;
+    my $count = scalar( @$a1 ) >= scalar( @$a2 ) ? scalar( @$a1 ) : scalar( @$a2 );
+    for my $i (0 .. $count - 1) {
+        my $a = $a1->[$i] // "";
+        my $b = $a2->[$i] // "";
+        say STDERR sprintf( "%-20s : %-20s", $a, $b );
+    }
+}

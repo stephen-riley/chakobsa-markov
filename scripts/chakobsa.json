@@ -149,7 +149,7 @@
       "english_dialogue": "Jamis's body yields thirty-three liters and seven drachms of water. Yours by right.",
       "chakobsa_translation": "Bellaha thani Jamas jisne thanath, thedem amhadh, hi suunzaad o qels-shoq akkaarcha ekkera. Rush wa nukah.",
       "phonetic_transcription": "BEL-la-ha THA-ni JA-mas JIS-ne THA-nath, THE-dem AM-hadh, hi suun-ZAAD O QELS-SHOQ ak-KAAR-cha EK-ke-ra. RUSH wa NU-kah.",
-      "translation_english": "Held body of-Jamis half of-body, forty jars, and five-hundred eight drops of-water. For-you by right."
+      "translation_english": "Held body of-Jamis half of-body, forty jars, and eighty on five-hundred drops of-water. For-you by right."
    },
    {
       "scene": 15,
@@ -220,7 +220,7 @@
       "character": "OLDEST ELDER",
       "english_dialogue": "Stilgar, how many times have you seen the signs? Your faith is playing tricks on you.",
       "chakobsa_translation": "E Stilgar, erah chaiya heshkasha shyadhza? Jahhuufahashii minzidhash a-fii.",
-      "phonetic_transcription": "e STIL-gar, E-rah CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shii MIN-zi-dhash a-FII.",
+      "phonetic_transcription": "e STIL-gar, E-rah-CHAI-ya HESH-ka-sha SHYADH-za? jah-HUU-fa-ha-shii MIN-zi-dhash a-FII.",
       "translation_english": "O Stilgar, how-many-times you-have-seen (the) signs? It-is-transforming-you your-faith into-moth. (Expression)"
    },
    {
@@ -308,8 +308,8 @@
       "character": "SHISHAKLI",
       "english_dialogue": "Bi-lal kaifa! (Amen!)",
       "chakobsa_translation": "Belal kaifa!",
-      "phonetic_transcription": "be-LAL KAI-fa!",
-      "translation_english": "Without limits!"
+      "phonetic_transcription": "be-LAL-KAI-fa!",
+      "translation_english": "Amen."
    },
    {
       "scene": 23,
@@ -365,7 +365,7 @@
       "english_dialogue": "If you drink, you shall die. If you drink, you may see.",
       "chakobsa_translation": "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
       "phonetic_transcription": "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
-      "translation_english": "If you-drink, you-will die. If you drink, shi you-see."
+      "translation_english": "If you-drink, you-will die. If you-drink, may you-see."
    },
    {
       "scene": 24,
@@ -692,7 +692,7 @@
       "character": "JESSICA",
       "english_dialogue": "Shai-Hulud knows the coming of the storm.",
       "chakobsa_translation": "Ledaaha Shayi Huluud hura afshal.",
-      "phonetic_transcription": "le-DAA-ha SHA-yi hu-LUUD HU-ra AF-shal.",
+      "phonetic_transcription": "le-DAA-ha SHA-yi-hu-LUUD HU-ra AF-shal.",
       "translation_english": "Knows Shai-Hulud (the) coming of-the-storm."
    },
    {
@@ -813,7 +813,7 @@
       "english_dialogue": "Only one at a time. Otherwise they fight each other to death.",
       "chakobsa_translation": "Bii un-nukim biibii. Un-gifi oziig zamaak junju hwishi uzzulaathak.",
       "phonetic_transcription": "BII un-NU-kim BII-bii. un-GI-fi o-ZIIG za-MAAK JUN-ju hwi-shi uz-zu-LAA-thak.",
-      "translation_english": "One at-a-time only. Otherwise they-fight each-other until they-die."
+      "translation_english": "One at-a-time only. By-path otherwise they-fight each-other until they-die."
    },
    {
       "scene": 90,
@@ -845,7 +845,7 @@
       "english_dialogue": "How is it done?",
       "chakobsa_translation": "Is-kiftha chaiya anzagaas-ha?",
       "phonetic_transcription": "is-KIF-tha CHAI-ya an-za-GAAS-ha?",
-      "translation_english": "How (is) it-accomplished?"
+      "translation_english": "By-path how (is) it-accomplished?"
    },
    {
       "scene": 90,
@@ -853,7 +853,7 @@
       "english_dialogue": "What is she doing?",
       "chakobsa_translation": "Is-kiftha chaiya ogaaraha?",
       "phonetic_transcription": "is-KIF-tha CHAI-ya o-GAA-ra-ha?",
-      "translation_english": "How is-she-moving-herself? (Expression)"
+      "translation_english": "By-path How is-she-moving-herself? (Expression)"
    },
    {
       "scene": 90,
@@ -877,7 +877,7 @@
       "english_dialogue": "Listen carefully. A man is going to arrive--",
       "chakobsa_translation": "Marza cheshii. Ru redha hura--",
       "phonetic_transcription": "MAR-za CHE-shii. ru RE-dha HU-ra--",
-      "translation_english": "Listen carefully. Will (a) come--"
+      "translation_english": "Listen carefully. Will (a) man come--"
    },
    {
       "scene": 90,
@@ -965,7 +965,7 @@
       "english_dialogue": "You're not allowed in here, stranger. Leave or die.",
       "chakobsa_translation": "So oshii una zih, e leksit. Isa hu uzzulaash.",
       "phonetic_transcription": "SO O-shii U-na ZIH, e LEK-sit. I-sa hu uz-zu-LAASH.",
-      "translation_english": "Not for-you to-be here, stranger. Leave or die."
+      "translation_english": "Not for-you to-be here, O stranger. Leave or die."
    },
    {
       "scene": 104,
@@ -997,7 +997,7 @@
       "english_dialogue": "If you drink, you shall die. If you drink, you may see.",
       "chakobsa_translation": "Hu zaihaash, rush uzzulatha. Hu zaihaash, shi heshyaash.",
       "phonetic_transcription": "HU ZAI-haash, rush uz-ZU-la-tha. HU ZAI-haash, shi HESH-yaash.",
-      "translation_english": "If you-drink, you-will die. If you drink, may you-see."
+      "translation_english": "If you-drink, you-will die. If you-drink, may you-see."
    },
    {
       "scene": 106,
@@ -1036,7 +1036,7 @@
       "character": "JESSICA",
       "english_dialogue": "Amen.",
       "chakobsa_translation": "Belal Kaifa.",
-      "phonetic_transcription": "be-LAL KAI-fa.",
+      "phonetic_transcription": "be-LAL-KAI-fa.",
       "translation_english": "Amen."
    },
    {
@@ -1115,9 +1115,9 @@
       "scene": 112,
       "character": "PAUL",
       "english_dialogue": "But you're afraid: What if he could be the One? This could be the moment you've been waiting for all your life. You're praying now--to your grandmother--who passed away nine moons ago. She lost an eye. A rock had smashed her face as she was crossing the Belt. She was twelve when it happened. At that time, this world had a Fremen name--Dune.",
-      "chakobsa_translation": "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit o eddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevi barthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalaha Jeske obit. Sayyaha airhur zaad hi thaa nishi vannaha obit. erle chausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis.",
-      "phonetic_transcription": "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bit o ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bit NAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YI-mash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD hi THAA ni-shi VAN-na-ha o-bit. ER-le CHAU-si, ja-RAA-mas-ha AB-zih ZI-hi sa KYUR-tu FREM-nii--ho LE-kis.",
-      "translation_english": "But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is) (the) moment you-have-waited-for-which during life-your all. You-are-praying now--to-your-grandmother--who-died at-months nine ago. She-lost (an) eye. It-had-smashed (a) rock her-face at-the-time she-was-crossing (the) Belt during-it. She-had-walked years twelve at-that-moment it-occurred during-it. During time that, it-was-being-called world this by name Fremen--it-was Dune."
+      "chakobsa_translation": "Is-nata jahaash: Shi ho Chausij? Shi zihik ishi tammashabit o eddemash hiili. Ruqaazash vadzih--kalagash--uzzulthabit nairgevi barthaa wadzih. Hardhaha uuth. Jurraha gari yimash neril yaqaalaha Jeske obit. Sayyaha airhur zaad-hi-thaa nishi vannaha obit. erle chausi, jaraamas-ha abzih zihi sa kyurtu Fremnii--ho Lekis.",
+      "phonetic_transcription": "is-NA-ta ja-HAASH: SHI HO CHAU-sij? SHI ZI-hik I-shi TAM-ma-sha-bit o ED-de-mash HII-li. ru-QAA-zash vad-ZIH--KA-la-gash--uz-ZUL-tha-bit NAIR-ge-vi BAR-thaa wad-ZIH. HAR-dha-ha UUTH. JUR-ra-ha GA-ri YI-mash ne-ril ya-QAA-la-ha JES-ke o-bit. SAY-ya-ha AIR-hur ZAAD-hi-THAA ni-shi VAN-na-ha o-bit. ER-le CHAU-si, ja-RAA-mas-ha AB-zih ZI-hi sa KYUR-tu FREM-nii--ho LE-kis.",
+      "translation_english": "But you-are-afraid: Maybe he (is) the-One? Perhaps this-one (is) (the) moment you-have-waited-for-which during life-your all. You-are-praying now--to-your-grandmother--who-died at-months nine ago. She-lost (an) eye. It-had-smashed (a) rock her-face at-the-time she-was-crossing (the) Belt during-it. She-had-walked years twelve at-that-moment it-occurred during-it. During time-that, it-was-being-called world this by name Fremen--it-was Dune."
    },
    {
       "scene": 112,
@@ -1133,7 +1133,7 @@
       "english_dialogue": "In your nightmares, you give water to the dead. And it brings joy to your heart.",
       "chakobsa_translation": "Un-faisifash is-ruzam, dhikaash ekker a-zulhu. Hi anzaadhaha chimbi hukrash.",
       "phonetic_transcription": "un-FAI-si-fash is-RU-zam, dhi-KAASH EK-ker a-ZUL-hu. hi an-ZAA-dha-ha CHIM-bi hu-krash.",
-      "translation_english": "In-nightmares-your, you-give water to-the-dead. And it-brings joy to-your-heart."
+      "translation_english": "In-your-dreams by-nightmare-your, you-give water to-the-dead. And it-brings joy to-your-heart."
    },
    {
       "scene": 112,
@@ -1149,7 +1149,7 @@
       "english_dialogue": "The Hand of God be my witness, I am the Voice from the Outer World. I will lead you to PARADISE.",
       "chakobsa_translation": "E Rudhi Dina, heshidhanii: ne Lisaan al-Gayib. Ruyi dimala ruk a-SHIDHGIM.",
       "phonetic_transcription": "e RU-dhi DI-na, HE-shi-dha-nii: ne li-SAAN al-GA-yib. ru-yi DI-ma-la ruk a-SHIDH-gim.",
-      "translation_english": "O Hand of God, witness-me: I (am) Lisan al-Gaib. I-will lead you to-Paradise."
+      "translation_english": "O Hand of-God, witness-me: I (am) Lisan al-Gaib. I-will lead you to-Paradise."
    },
    {
       "scene": 112,
@@ -1213,7 +1213,7 @@
       "english_dialogue": "He doesn't know how to cross! Stilgar is going to get him killed. What is he trying to prove?",
       "chakobsa_translation": "So ledaaraha yaqala! Qiraashaha Stilgar uzzulluth-ho. Hesshyuuhama gif chaiyi?",
       "phonetic_transcription": "SO le-DAA-ra-ha YA-qa-la! qi-RAA-sha-ha STIL-gar uz-ZUL-luth-ho. hesh-SHYUU-ha-ma GIF CHAI-yi?",
-      "translation_english": "Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To-prove-to-us what? (Expression)"
+      "translation_english": "Not knows-how-he to-cross! Is-about-to Stilgar get-him-killed. To-prove-to-us what is-it? (Expression)"
    },
    {
       "scene": "XXX",
@@ -1228,8 +1228,8 @@
       "character": "SHISHAKLI",
       "english_dialogue": "He shall know the ways of the desert. I think it's all for the best. (off Chani's look) What? You care for him now?",
       "chakobsa_translation": "Ruha ledaga geftha resham. Minaazii ho a-cheshhe. (off Chani's look) Ru-che? Abraachashho vadzih?",
-      "phonetic_transcription": "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. (off Chani's look) ru-CHE? a-BRAA-chash-ho vad-zih?",
-      "translation_english": "He-shall know (the) ways of-the-desert. I-think it (is) to-the-greater-good. (off Chani's look) What? You-care-for-him now?"
+      "phonetic_transcription": "RU-ha LE-da-ga GEF-tha RE-sham. mi-NAA-zii a-CHESH-he. ru-CHE? a-BRAA-chash-ho vad-zih?",
+      "translation_english": "He-shall know (the) ways of-the-desert. I-think (it) (is) to-the-greater-good. What? You-care-for-him now?"
    },
    {
       "scene": "XXX",
@@ -1483,8 +1483,8 @@
       "scene": "ADR",
       "character": "GROUP",
       "english_dialogue": "Muad'Dib.",
-      "chakobsa_translation": "Mwad Dib.",
-      "phonetic_transcription": "MWAD DIB.",
+      "chakobsa_translation": "Mwad-Dib.",
+      "phonetic_transcription": "MWAD-DIB.",
       "translation_english": "Muad'Dib."
    },
    {
@@ -1492,7 +1492,7 @@
       "character": "GROUP",
       "english_dialogue": "Lisan al-Gaib.",
       "chakobsa_translation": "Lisan al Ghaib.",
-      "phonetic_transcription": "LI-san al GHAIB.",
+      "phonetic_transcription": "LI-san al-GHAIB.",
       "translation_english": "Lisan al-Gaib."
    },
    {
