@@ -1,545 +1,2171 @@
 {
-   "a-bit" : "to-there",
-   "a-braa-chash-ho" : "you-care-for-him",
-   "a-braa-na-ha" : "likes",
-   "a-chem" : "to-where",
-   "a-chesh-he" : "to-the-greater-good",
-   "a-fii" : "many",
-   "a-fiz" : "enough",
-   "a-ga" : "use",
-   "a-gef" : "to-the-path",
-   "a-kaa" : "you",
-   "a-kai-rash" : "to-water-your",
-   "a-ker" : "into-water",
-   "a-kwad" : "to-son",
-   "a-led-be" : "the-prophecy",
-   "a-min-zi-mash" : "your-temple",
-   "a-noq-chom" : "to-south",
-   "a-resh-me" : "to-the-desert",
-   "a-shidh-gim" : "to-paradise",
-   "a-sich" : "to-sietch",
-   "a-tre-i-dis" : "atreides",
-   "a-vad-zih" : "ever",
-   "a-van-nat" : "until-then",
-   "a-zaa-ga-ha-yi" : "it-appears-to-me",
-   "a-zaan-ta" : "to-the-fighters",
-   "a-zul-hu" : "to-the-dead",
-   "ab-zih" : "world",
-   "ad-daam" : "lives",
-   "af-shal" : "of-the-storm",
-   "af-shil" : "storm",
-   "ah-sah" : "whispers",
-   "air-hur" : "years",
-   "ak-kaar-cha" : "drops",
-   "ak-sha-hii" : "friend",
-   "al" : "al",
-   "al-ga-yib" : "al-gaib",
-   "al-ghaib" : "al-gaib",
-   "al-ka-lig" : "great-grandmother",
-   "am-hadh" : "jars",
-   "an-za-ga" : "perform",
-   "an-za-gaas-ha" : "it-accomplished",
-   "an-zaa-dha-ha" : "it-brings",
-   "ar-diz" : "agony",
-   "ar-rak-sa" : "arrakis",
-   "at-ma-ra" : "stay",
-   "ats" : "no",
-   "bar-thaa" : "nine",
-   "be-la" : "to-hold",
-   "be-la-la-ha" : "without-her",
-   "be-laa-lim-shii" : "we-support-you",
-   "be-lak" : "pillar",
-   "be-lal" : "without",
-   "be-lal-kai-fa" : "amen",
-   "be-li-lii" : "countenance-my",
-   "bel-la-ha" : "held",
-   "bii" : "one",
-   "bii-bii" : "only",
-   "bil" : "woman",
-   "bir-sii" : "own",
-   "bir-sii-ya" : "own",
-   "chah-ma" : "fall-into",
-   "chai-ya" : "which",
-   "chai-yi" : "is-it",
-   "char-ra" : "yes",
-   "chau-si" : "time-that",
-   "chau-sij" : "chosen-one",
-   "chau-sik" : "that",
-   "che" : "what",
-   "che-shii" : "good",
-   "chi-vel-dha-nii" : "get-off-of-me",
-   "chif-thit" : "witch",
-   "chim-bi" : "joy",
-   "chiv-la-ho" : "worry",
-   "chiz-zu-la-tha" : "come-back-from-the-dead",
-   "chos" : "there",
-   "chos-ka" : "that",
-   "chuk-ku-ha" : "he-has-broken",
-   "de-qah" : "of-war",
-   "dhi-ka" : "give",
-   "dhi-ka-dha-ho" : "to-pledge-him",
-   "dhi-kaash" : "you-give",
-   "dhik-la-nii" : "give-it-me",
-   "dhik-tha" : "share",
-   "dho-naa-shash" : "you-blaspheme",
-   "dho-naj" : "of-the-baron",
-   "di-ma-dha-gas" : "to-be-decided",
-   "di-ma-dhag" : "decide",
-   "di-ma-la" : "to-lead",
-   "di-ma-la-nii" : "to-guide-me",
-   "di-mash" : "blade-your",
-   "di-na" : "of-god",
-   "di-ni" : "god",
-   "dim-bi" : "the-knife",
-   "din-dha-kho" : "remove",
-   "din-la" : "bring",
-   "e" : "o",
-   "e-dhii-ya" : "final",
-   "e-rah-chai-ya" : "how-many-times",
-   "e-ri-ga-ha" : "its-age",
-   "ed-de-ma" : "of-life",
-   "ed-de-ma-dha" : "survive",
-   "ed-de-maa-dha-ha" : "he-live",
-   "ed-de-mash" : "life-your",
-   "ed-de-mii" : "my-life",
-   "ed-dem" : "life",
-   "ek-ke-ra" : "of-water",
-   "ek-ke-ra:" : "water:",
-   "ek-ke-ri" : "water",
-   "ek-ke-rim" : "water-our",
-   "ek-ke-rish" : "fetus",
-   "ek-ker" : "water",
-   "ek-ker-cha" : "drop",
-   "er-le" : "during",
-   "ez-lii" : "holy",
-   "ez-lish" : "miracle",
-   "fa-dil" : "peace",
-   "fa-shi-ba-kha" : "her-gag",
-   "fa-shii" : "silently",
-   "faa-fa" : "too",
-   "fad-la" : "peace",
-   "fai-za" : "jump",
-   "fash-shur" : "shut-up",
-   "fe-dai-kin" : "fedaykin",
-   "fedh" : "soul",
-   "fi-zi" : "sun",
-   "fi-zib" : "day",
-   "fii-dhiir" : "as-stupid",
-   "fish-lin" : "trouble",
-   "frai-min" : "fremen",
-   "fre-min" : "fremen",
-   "frem-nii" : "fremen",
-   "ga-ri" : "rock",
-   "ga-rig" : "strength",
-   "ga-sas" : "be-freed",
-   "ga-siig" : "are-free",
-   "gaib" : "khaib",
-   "gas-su" : "free",
-   "gas-suu-bit" : "which-frees",
-   "ge-bre-ha" : "his-smell",
-   "gef-tha" : "ways",
-   "gef-thak" : "your-ways",
-   "gef-tham" : "our-ways",
-   "gef-thek" : "ways-your",
-   "ghas-su-ma" : "free-us",
-   "ghas-su-nii" : "free-me",
-   "gif" : "what",
-   "gom-mudh-ma" : "embarrass-us",
-   "gon-dho" : "guilt",
-   "ha-de-rach" : "haderach",
-   "ha-de-rak" : "haderach",
-   "ha-dha" : "to-stop",
-   "ha-dhaak" : "they-will-stop",
-   "ha-ja-ga" : "to-learn",
-   "ha-jaa-ga-ha" : "he-is-learning",
-   "ha-jim" : "patrol",
-   "ha-raa-dhas-ha" : "lost",
-   "ha-raa-dhim" : "we-lose",
-   "hai-ya-ta-ha" : "its-people",
-   "hai-yi-ta-ha" : "her-people",
-   "hann" : "hmm",
-   "har-dha-ha" : "she-lost",
-   "har-dhii-kaa" : "i-lost-them",
-   "he" : "ha",
-   "he-shi-dha-nii:" : "witness-me:",
-   "he-shi-sha" : "foresee",
-   "he-shii-gii-shii" : "i-recognize-you",
-   "hesh-ka-sha" : "you-have-seen",
-   "hesh-kii" : "i-have-seen",
-   "hesh-shya-ha" : "he-saw",
-   "hesh-shya-ha-bit" : "has-seen-that",
-   "hesh-shya-ha-ho" : "he-saw-it",
-   "hesh-shya-ka" : "you-saw",
-   "hesh-shya-sa-ho" : "you-saw-it",
-   "hesh-shyu-ho" : "make-see-him",
-   "hesh-shyu-ma-ho" : "show-us-it",
-   "hesh-shyuu-ha-ma" : "to-prove-to-us",
-   "hesh-ya-kaa" : "see-them",
-   "hesh-yaash" : "you-see",
-   "hi" : "and",
-   "hi-nat" : "then",
-   "hi-yaa-la-ha" : "he-is-gathering",
-   "hi-yak" : "with-them",
-   "hi-yii" : "with-me",
-   "hii-la" : "to-collect",
-   "hii-li" : "all",
-   "hii-lih" : "everything",
-   "hiil" : "all",
-   "hiil-hi" : "all",
-   "his-na-ta" : "however",
-   "ho" : "he",
-   "hoz-jom" : "to-residency",
-   "hu" : "if",
-   "hu-krash" : "to-your-heart",
-   "hu-luud" : "know",
-   "hu-ra" : "come",
-   "hu-ra-na" : "visit",
-   "hu-ra-tha" : "find-his-way",
-   "hu-ra-yi" : "my-coming",
-   "hu-raa-ha" : "he-arrives",
-   "hwi-shi" : "until",
-   "i-fer-ha" : "his-powers",
-   "i-sa" : "leave",
-   "i-sa-dha" : "leave",
-   "i-saa-dhak" : "they-will-leave",
-   "i-saa-dhash" : "you-leave",
-   "i-shi" : "moment",
-   "i-sim" : "from-us",
-   "is-cha-mas" : "from-jamis",
-   "is-kif-tha" : "by-path",
-   "is-li-sha" : "in-the-fire",
-   "is-na-ta" : "but",
-   "is-na-taho" : "buthe",
-   "is-resh-ma" : "from-desert",
-   "is-ru-zam" : "by-nightmare-your",
-   "is-sih" : "from-here",
-   "is-tha-na-ha" : "from-body-his",
-   "ish" : "moment",
-   "isru" : "by",
-   "ith-thuz" : "bless",
-   "ja-ha" : "fear",
-   "ja-haash:" : "you-are-afraid:",
-   "ja-mas" : "of-jamis",
-   "ja-mis" : "jamis",
-   "ja-ra-kaa" : "tell-them",
-   "ja-raa-ga-ha" : "he-speaks",
-   "ja-raa-mas-ha" : "it-was-being-called",
-   "jah-huf-ha" : "she-changed",
-   "jah-huu-fa-ha-shii" : "it-is-transforming-you",
-   "jah-kaz" : "horror",
-   "jam-sa" : "jamis",
-   "jar-ma" : "call",
-   "jar-ma-ha" : "he-called",
-   "jar-mik" : "call",
-   "je-dhii" : "fat",
-   "jes-ke" : "belt",
-   "ji-la" : "go",
-   "ji-la-dha" : "to-reach",
-   "ji-ya-ha" : "inside-her",
-   "jil-la-ha" : "has-gone",
-   "jis-ne" : "half",
-   "ju-naa-za-ha" : "he-is-in-a-trance",
-   "ju-raak" : "you-smash",
-   "jun-ju" : "each-other",
-   "jur-ra-ha" : "it-had-smashed",
-   "juu-go" : "grandfather",
-   "ka-la" : "mother",
-   "ka-la-gash" : "to-your-grandmother",
-   "ka-lidh" : "reverend-mother",
-   "kaa-lik" : "mothers-your",
-   "kaah" : "they",
-   "kai-fa" : "limits",
-   "kai-rat" : "names",
-   "kal-ha-ha" : "her-heritage",
-   "kash-sha-ha-ho" : "he-saved-her",
-   "ke-mim" : "all-of-that",
-   "ker" : "words",
-   "kha-de-rach" : "haderach",
-   "kha-dha" : "stop",
-   "khu-ra" : "come",
-   "ki-raa-lak" : "will-continue",
-   "kim-me" : "bulk",
-   "kwa-dii" : "son-my",
-   "kwi-sats" : "kwisatz",
-   "kyur-hum" : "language",
-   "kyur-tu" : "name",
-   "laik-sat" : "strangers",
-   "le-da" : "to-know",
-   "le-da-ga" : "know",
-   "le-daa-ha" : "knows",
-   "le-daa-ra-ha" : "knows-how-he",
-   "le-dib" : "prophecy",
-   "le-dii" : "i-know",
-   "le-fa-dhas" : "to-be-accomplished",
-   "le-hii" : "safe",
-   "le-kis" : "dune",
-   "led-du-ha-ho" : "taught-him",
-   "lef-thas-ha" : "has-been-accomplished",
-   "lek" : "sand",
-   "lek-se" : "dune",
-   "lek-set" : "foreigner",
-   "lek-sit" : "stranger",
-   "let-she" : "news",
-   "li-saan" : "lisan",
-   "li-san" : "of-lisan",
-   "lii-ka-sat" : "of-strangers",
-   "lii-yet" : "liet",
-   "lik-sit" : "foreigners",
-   "lish-ki" : "the-flame",
-   "lu-dhaiz" : "very-young",
-   "lu-dhii" : "young",
-   "mah-da" : "when",
-   "mah-di" : "the-mahdi",
-   "mar-ra-ha" : "she-heard",
-   "mar-ra-ka" : "you-have-heard",
-   "mar-ra-sha" : "it-seems",
-   "mar-rii-ho" : "i-have-heard",
-   "mar-za" : "listen",
-   "mi-na-za" : "to-think",
-   "mi-naa-za-sha-ho" : "you-think-it",
-   "mi-naa-zash" : "you-believe",
-   "mi-naa-zii" : "i-believe",
-   "mi-naash" : "are-you-thinking",
-   "mi-ni-za" : "to-believe",
-   "min-zi-dhash" : "your-faith",
-   "moth-cha" : "tears",
-   "mur-sha" : "kneel",
-   "mwad-dib" : "muad'dib",
-   "na-ti" : "that",
-   "na-ziim" : "we-carry",
-   "nah" : "poison",
-   "nair-ge-vi" : "at-months",
-   "nat" : "there",
-   "naz-dha-nii" : "bring-me",
-   "naz-ga-ha" : "his-works",
-   "naz-ga-ha-bit" : "he-did-it",
-   "naz-ga-ha-ho" : "she-did-it",
-   "ne" : "i",
-   "ne-ril" : "at-the-time",
-   "ni-chai-za" : "most-quickly",
-   "ni-chii" : "quickly",
-   "ni-fri-ha" : "one-is-able",
-   "ni-fri-yi" : "i-can",
-   "ni-frii" : "i-can",
-   "ni-frish" : "you-can",
-   "ni-shi" : "at-that-moment",
-   "ni-tha" : "be-kind",
-   "nich-nich" : "hurry-hurry",
-   "nif-ri-bit" : "can-who",
-   "nif-ri-ha" : "he-can",
-   "nif-rish" : "you-can",
-   "no-je-rach" : "soon",
-   "no-qa-dha-kaa" : "devour-them",
-   "no-qaj" : "of-a-worm",
-   "noq-chich" : "baby-worm",
-   "noq-cho" : "worm",
-   "nosh-shai-dah" : "always",
-   "nu-kah" : "right",
-   "o" : "during",
-   "o-bit" : "during-it",
-   "o-gaa-ra-ha" : "is-she-moving-herself",
-   "o-grog" : "rite",
-   "o-ja" : "be-strong",
-   "o-jij" : "a-mighty-one",
-   "o-ma" : "on-us",
-   "o-maa-kath-sha-ho" : "you-value-him",
-   "o-mai-za" : "too-much",
-   "o-maiz" : "too-much",
-   "o-shii" : "for-you",
-   "o-zai" : "further",
-   "o-zii-gi" : "differently",
-   "o-zii-yag" : "others",
-   "o-ziig" : "otherwise",
-   "of-mak" : "spots-your",
-   "og-go-ri" : "coffee",
-   "og-rog" : "rite",
-   "paul" : "paul",
-   "qab-dhi-ka-kaa" : "give-them-back",
-   "qab-gab" : "council",
-   "qau-ba-ka" : "warned-they",
-   "qaz-dha-ha" : "deserves",
-   "qels-shoq" : "five-hundred",
-   "qi-ra" : "stand",
-   "qi-raa-sha-ha" : "is-about-to",
-   "qi-raa-shii" : "i-am-ready",
-   "qi-tha-na" : "try",
-   "qith-la-ka" : "wrote-they",
-   "qith-la-sha" : "it-was-written",
-   "qith-las-ha" : "it-was-written",
-   "qith-na-ka" : "have-tried",
-   "qo-riir" : "are-blind",
-   "qu-maj" : "outsider",
-   "qu-mih" : "night",
-   "qul-la-ha" : "was-born",
-   "qum-ju" : "enemy",
-   "qum-mu-nii" : "stand-against-me",
-   "raab-jil" : "spies",
-   "re-dha" : "man",
-   "re-dhi" : "man",
-   "re-sham" : "of-the-desert",
-   "re-shii" : "long",
-   "re-shiiiiii" : "whoaaaaa",
-   "re-shim" : "desert",
-   "resh-me" : "desert",
-   "rii" : "about",
-   "rii-dhi" : "men",
-   "rii-ho" : "about-it",
-   "rob-buuch-kaa" : "to-lure-them",
-   "ru" : "for",
-   "ru-che" : "what",
-   "ru-dhi" : "hand",
-   "ru-ha" : "will-it",
-   "ru-qa-za" : "pray",
-   "ru-qaa-fii-kaa" : "i-beg-you",
-   "ru-qaa-ha-shii" : "he-ask-you",
-   "ru-qaa-zash" : "you-are-praying",
-   "ru-qaa-zim" : "we-are-praying",
-   "ru-vai-ja" : "because",
-   "ru-yi" : "i-will",
-   "ruk" : "you",
-   "rum" : "are-we",
-   "rush" : "you-will",
-   "sa" : "with",
-   "sa-gar-ga" : "by-might",
-   "sa-ha-tha-ho" : "let-him",
-   "sa-haa-lash" : "you-accept",
-   "sa-haa-tha-ha-ho" : "it-allows-him",
-   "sa-hi-fir" : "by-power",
-   "sa-hiim" : "like",
-   "sa-hiim-bit" : "as-one-who",
-   "sa-nai" : "like-that",
-   "sa-vi" : "none-of",
-   "sa-ya" : "walk",
-   "sa-ya-dha" : "be-fit",
-   "sah" : "take",
-   "sah-tha" : "let",
-   "sah-thi-mi" : "we-have-done",
-   "saich" : "sietches",
-   "sar-daa-kra" : "sardaukar",
-   "say-ya-di-na" : "sayyadina",
-   "say-ya-ha" : "she-had-walked",
-   "sek-ka-ha" : "found",
-   "sha-rii" : "green",
-   "sha-ya" : "shai-hulud",
-   "sha-yi-hu-luud" : "shai-hulud",
-   "shai" : "shai",
-   "shai-dash" : "today",
-   "shai-dish" : "today",
-   "she" : "you",
-   "shi" : "maybe",
-   "shii-dhiz" : "sign",
-   "shiidh-gim" : "paradise",
-   "shyadh-za" : "signs",
-   "si-ha-ya" : "of-desert-spring",
-   "sich" : "sietch",
-   "so" : "not",
-   "so-la-ga-ho" : "welcome-him",
-   "so-la-gas" : "be-welcomed",
-   "sot" : "no-one",
-   "stil-gar" : "stilgar",
-   "suun-zaad" : "eighty",
-   "ta-br" : "tabr",
-   "ta-maa-ha-shii" : "is-awaiting-you",
-   "ta-maak-shii" : "they-are-waiting-for-you",
-   "ta-sa" : "strike",
-   "ta-sa-ho" : "strike-him",
-   "taam-rih" : "others",
-   "tab-ra" : "tabr",
-   "tam-ma-sha-bit" : "you-have-waited-for-which",
-   "tam-ra" : "stay",
-   "tas-sa-sak" : "have-been-hit",
-   "tha-nath" : "of-body",
-   "tha-ni" : "body",
-   "thaa" : "two",
-   "than" : "body",
-   "the-dem" : "forty",
-   "thodh-dhat" : "prisoners",
-   "u-kai-ri-bii" : "promise-my",
-   "u-na" : "to-be",
-   "u-na-ra" : "there-is",
-   "u-naa-ha" : "it-was-near",
-   "u-naa-ra-ha" : "there-is",
-   "u-naa-ra-ha-shii" : "is-for-you",
-   "u-naa-rash" : "you-be",
-   "u-nak" : "upon-them",
-   "u-nij" : "anyone",
-   "un-ba-chi" : "beneath",
-   "un-fai-si-fash" : "in-your-dreams",
-   "un-gi-fi" : "by-path",
-   "un-noq-chim" : "in-the-south",
-   "un-nu-kim" : "at-a-time",
-   "un-rau-dhi-ha" : "in-hands-his",
-   "un-re-shim" : "for-the-desert",
-   "un-tau-fih" : "in-room",
-   "un-yuch-kim" : "in-the-north",
-   "uq-nu" : "piss",
-   "us-la" : "usul",
-   "uuth" : "eye",
-   "uz-zu-la-tha" : "die",
-   "uz-zu-laa-thak" : "they-die",
-   "uz-zu-laash" : "die",
-   "uz-zul" : "death",
-   "uz-zul-lu-ho" : "kill-him",
-   "uz-zul-luth-ho" : "get-him-killed",
-   "uz-zul-tha-bit" : "who-died",
-   "uz-zul-tha-ka" : "have-died",
-   "va-hii" : "big",
-   "vaa-hai-za" : "biggest",
-   "vaa-nar" : "fates",
-   "vad-zih" : "now",
-   "vad-zikh" : "now",
-   "vah-cha" : "large-one",
-   "vai-yiz" : "spice",
-   "vak-kii" : "funny",
-   "vak-la-ho" : "mock-him",
-   "van-na-ha" : "it-occurred",
-   "van-ra-ha" : "his-fate",
-   "ve-jii" : "real",
-   "vesh-sha" : "maker",
-   "vi-za-la" : "to-hunt",
-   "vid-za-kho" : "kill-him",
-   "vii" : "is-it-that",
-   "viiiiii" : "yeaaaaah",
-   "viz-dha" : "kill",
-   "viz-dha-ha" : "he-killed",
-   "viz-dhik" : "poison",
-   "vo-thash" : "your-eyes",
-   "vo-thim" : "our-eyes",
-   "wa" : "before",
-   "wa-shai-dah" : "finally",
-   "wad-zih" : "ago",
-   "wak" : "before-you",
-   "ya-qa-la" : "to-cross",
-   "ya-qaa-la-ha" : "she-was-crossing",
-   "ya-zaa-la-ha-o" : "he-favors-him",
-   "yi-maa-thash" : "you-are-questioning",
-   "yi-mash" : "her-face",
-   "yo-hesh-ya" : "keep-an-eye-out",
-   "yosh-la" : "again",
-   "yoz-bo" : "beauty",
-   "za-ma-ha" : "battle",
-   "za-ma-sha-kaa" : "engage-them",
-   "za-maak" : "they-fight",
-   "za-mah" : "battle",
-   "za-mit" : "fighter",
-   "zaad-hi-thaa" : "twelve",
-   "zai-ha" : "to-drink",
-   "zai-ha-ho" : "drink-it",
-   "zai-haa-la-ha" : "she-will-drink",
-   "zai-haash" : "you-drink",
-   "zai-hadh" : "champion",
-   "zai-kha" : "drink",
-   "zam-ha" : "attack",
-   "zan-la" : "fight",
-   "ze-yaa-sha-ha" : "is-fading",
-   "zeh-la" : "drink",
-   "zi-ha" : "these",
-   "zi-hi" : "this",
-   "zi-hik" : "this-one",
-   "zih" : "here",
-   "zih-ki" : "this",
-   "zii-hij" : "these-people",
-   "zikh" : "here",
-   "zo-thib" : "impostor"
+   "a-bit" : {
+      "count" : 1,
+      "word" : "to-there"
+   },
+   "a-braa-chash-ho" : {
+      "count" : 1,
+      "word" : "you-care-for-him"
+   },
+   "a-braa-na-ha" : {
+      "count" : 1,
+      "word" : "likes"
+   },
+   "a-chem" : {
+      "count" : 1,
+      "word" : "to-where"
+   },
+   "a-chesh-he" : {
+      "count" : 1,
+      "word" : "to-the-greater-good"
+   },
+   "a-fii" : {
+      "count" : 2,
+      "word" : "into-moth"
+   },
+   "a-fiz" : {
+      "count" : 1,
+      "word" : "enough"
+   },
+   "a-ga" : {
+      "count" : 1,
+      "word" : "use"
+   },
+   "a-gef" : {
+      "count" : 1,
+      "word" : "to-the-path"
+   },
+   "a-kaa" : {
+      "count" : 1,
+      "word" : "you"
+   },
+   "a-kai-rash" : {
+      "count" : 1,
+      "word" : "to-water-your"
+   },
+   "a-ker" : {
+      "count" : 1,
+      "word" : "into-water"
+   },
+   "a-kwad" : {
+      "count" : 1,
+      "word" : "to-son"
+   },
+   "a-led-be" : {
+      "count" : 1,
+      "word" : "the-prophecy"
+   },
+   "a-min-zi-mash" : {
+      "count" : 1,
+      "word" : "your-temple"
+   },
+   "a-noq-chom" : {
+      "count" : 1,
+      "word" : "to-south"
+   },
+   "a-resh-me" : {
+      "count" : 2,
+      "word" : "to-the-desert"
+   },
+   "a-shidh-gim" : {
+      "count" : 1,
+      "word" : "to-paradise"
+   },
+   "a-sich" : {
+      "count" : 1,
+      "word" : "to-sietch"
+   },
+   "a-tre-i-dis" : {
+      "count" : 1,
+      "word" : "atreides"
+   },
+   "a-vad-zih" : {
+      "count" : 2,
+      "word" : "yet"
+   },
+   "a-van-nat" : {
+      "count" : 1,
+      "word" : "until-then"
+   },
+   "a-zaa-ga-ha-yi" : {
+      "count" : 1,
+      "word" : "it-appears-to-me"
+   },
+   "a-zaan-ta" : {
+      "count" : 1,
+      "word" : "to-the-fighters"
+   },
+   "a-zul-hu" : {
+      "count" : 1,
+      "word" : "to-the-dead"
+   },
+   "ab-zih" : {
+      "count" : 1,
+      "word" : "world"
+   },
+   "ad-daam" : {
+      "count" : 1,
+      "word" : "lives"
+   },
+   "af-shal" : {
+      "count" : 1,
+      "word" : "of-the-storm"
+   },
+   "af-shil" : {
+      "count" : 1,
+      "word" : "storm"
+   },
+   "ah-sah" : {
+      "count" : 1,
+      "word" : "whispers"
+   },
+   "air-hur" : {
+      "count" : 1,
+      "word" : "years"
+   },
+   "ak-kaar-cha" : {
+      "count" : 1,
+      "word" : "drops"
+   },
+   "ak-sha-hii" : {
+      "count" : 1,
+      "word" : "friend"
+   },
+   "al" : {
+      "count" : 1,
+      "word" : "al"
+   },
+   "al-ga-yib" : {
+      "count" : 7,
+      "word" : "al-gaib"
+   },
+   "al-ghaib" : {
+      "count" : 1,
+      "word" : "al-gaib"
+   },
+   "al-ka-lig" : {
+      "count" : 1,
+      "word" : "great-grandmother"
+   },
+   "am-hadh" : {
+      "count" : 1,
+      "word" : "jars"
+   },
+   "an-za-ga" : {
+      "count" : 2,
+      "word" : "to-perform"
+   },
+   "an-za-gaas-ha" : {
+      "count" : 1,
+      "word" : "it-accomplished"
+   },
+   "an-zaa-dha-ha" : {
+      "count" : 1,
+      "word" : "it-brings"
+   },
+   "ar-diz" : {
+      "count" : 1,
+      "word" : "agony"
+   },
+   "ar-rak-sa" : {
+      "count" : 1,
+      "word" : "arrakis"
+   },
+   "at-ma-ra" : {
+      "count" : 1,
+      "word" : "stay"
+   },
+   "ats" : {
+      "count" : 1,
+      "word" : "no"
+   },
+   "bar-thaa" : {
+      "count" : 1,
+      "word" : "nine"
+   },
+   "be-la" : {
+      "count" : 1,
+      "word" : "to-hold"
+   },
+   "be-la-la-ha" : {
+      "count" : 1,
+      "word" : "without-her"
+   },
+   "be-laa-lim-shii" : {
+      "count" : 1,
+      "word" : "we-support-you"
+   },
+   "be-lak" : {
+      "count" : 1,
+      "word" : "pillar"
+   },
+   "be-lal" : {
+      "count" : 2,
+      "word" : "without"
+   },
+   "be-lal-kai-fa" : {
+      "count" : 2,
+      "word" : "amen"
+   },
+   "be-li-lii" : {
+      "count" : 1,
+      "word" : "countenance-my"
+   },
+   "bel-la-ha" : {
+      "count" : 1,
+      "word" : "held"
+   },
+   "bii" : {
+      "count" : 1,
+      "word" : "one"
+   },
+   "bii-bii" : {
+      "count" : 2,
+      "word" : "only"
+   },
+   "bil" : {
+      "count" : 1,
+      "word" : "woman"
+   },
+   "bir-sii" : {
+      "count" : 1,
+      "word" : "own"
+   },
+   "bir-sii-ya" : {
+      "count" : 1,
+      "word" : "own"
+   },
+   "chah-ma" : {
+      "count" : 1,
+      "word" : "fall-into"
+   },
+   "chai-ya" : {
+      "count" : 5,
+      "word" : "what"
+   },
+   "chai-yi" : {
+      "count" : 1,
+      "word" : "is-it"
+   },
+   "char-ra" : {
+      "count" : 1,
+      "word" : "yes"
+   },
+   "chau-si" : {
+      "count" : 1,
+      "word" : "time-that"
+   },
+   "chau-sij" : {
+      "count" : 7,
+      "word" : "the-one"
+   },
+   "chau-sik" : {
+      "count" : 1,
+      "word" : "that"
+   },
+   "che" : {
+      "count" : 7,
+      "word" : "who"
+   },
+   "che-shii" : {
+      "count" : 9,
+      "word" : "good"
+   },
+   "chi-vel-dha-nii" : {
+      "count" : 1,
+      "word" : "get-off-of-me"
+   },
+   "chif-thit" : {
+      "count" : 1,
+      "word" : "witch"
+   },
+   "chim-bi" : {
+      "count" : 1,
+      "word" : "joy"
+   },
+   "chiv-la-ho" : {
+      "count" : 1,
+      "word" : "worry"
+   },
+   "chiz-zu-la-tha" : {
+      "count" : 1,
+      "word" : "come-back-from-the-dead"
+   },
+   "chos" : {
+      "count" : 2,
+      "word" : "yonder"
+   },
+   "chos-ka" : {
+      "count" : 1,
+      "word" : "that"
+   },
+   "chuk-ku-ha" : {
+      "count" : 1,
+      "word" : "he-has-broken"
+   },
+   "de-qah" : {
+      "count" : 1,
+      "word" : "of-war"
+   },
+   "dhi-ka" : {
+      "count" : 2,
+      "word" : "give"
+   },
+   "dhi-ka-dha-ho" : {
+      "count" : 1,
+      "word" : "to-pledge-him"
+   },
+   "dhi-kaash" : {
+      "count" : 1,
+      "word" : "you-give"
+   },
+   "dhik-la-nii" : {
+      "count" : 1,
+      "word" : "give-it-me"
+   },
+   "dhik-tha" : {
+      "count" : 1,
+      "word" : "share"
+   },
+   "dho-naa-shash" : {
+      "count" : 1,
+      "word" : "you-blaspheme"
+   },
+   "dho-naj" : {
+      "count" : 1,
+      "word" : "of-the-baron"
+   },
+   "di-ma-dha-gas" : {
+      "count" : 1,
+      "word" : "to-be-decided"
+   },
+   "di-ma-dhag" : {
+      "count" : 1,
+      "word" : "decide"
+   },
+   "di-ma-la" : {
+      "count" : 2,
+      "word" : "lead"
+   },
+   "di-ma-la-nii" : {
+      "count" : 1,
+      "word" : "to-guide-me"
+   },
+   "di-mash" : {
+      "count" : 1,
+      "word" : "blade-your"
+   },
+   "di-na" : {
+      "count" : 1,
+      "word" : "of-god"
+   },
+   "di-ni" : {
+      "count" : 1,
+      "word" : "god"
+   },
+   "dim-bi" : {
+      "count" : 3,
+      "word" : "knife"
+   },
+   "din-dha-kho" : {
+      "count" : 1,
+      "word" : "remove"
+   },
+   "din-la" : {
+      "count" : 1,
+      "word" : "bring"
+   },
+   "e" : {
+      "count" : 24,
+      "word" : "o"
+   },
+   "e-dhii-ya" : {
+      "count" : 1,
+      "word" : "final"
+   },
+   "e-rah-chai-ya" : {
+      "count" : 1,
+      "word" : "how-many-times"
+   },
+   "e-ri-ga-ha" : {
+      "count" : 1,
+      "word" : "its-age"
+   },
+   "ed-de-ma" : {
+      "count" : 3,
+      "word" : "of-life"
+   },
+   "ed-de-ma-dha" : {
+      "count" : 1,
+      "word" : "survive"
+   },
+   "ed-de-maa-dha-ha" : {
+      "count" : 1,
+      "word" : "he-live"
+   },
+   "ed-de-mash" : {
+      "count" : 1,
+      "word" : "life-your"
+   },
+   "ed-de-mii" : {
+      "count" : 1,
+      "word" : "my-life"
+   },
+   "ed-dem" : {
+      "count" : 1,
+      "word" : "life"
+   },
+   "ek-ke-ra" : {
+      "count" : 3,
+      "word" : "of-the-water"
+   },
+   "ek-ke-ra:" : {
+      "count" : 1,
+      "word" : "water:"
+   },
+   "ek-ke-ri" : {
+      "count" : 3,
+      "word" : "water"
+   },
+   "ek-ke-rim" : {
+      "count" : 1,
+      "word" : "water-our"
+   },
+   "ek-ke-rish" : {
+      "count" : 2,
+      "word" : "your-water"
+   },
+   "ek-ker" : {
+      "count" : 3,
+      "word" : "water"
+   },
+   "ek-ker-cha" : {
+      "count" : 1,
+      "word" : "drop"
+   },
+   "er-le" : {
+      "count" : 2,
+      "word" : "time"
+   },
+   "ez-lii" : {
+      "count" : 2,
+      "word" : "holy"
+   },
+   "ez-lish" : {
+      "count" : 1,
+      "word" : "miracle"
+   },
+   "fa-dil" : {
+      "count" : 1,
+      "word" : "peace"
+   },
+   "fa-shi-ba-kha" : {
+      "count" : 1,
+      "word" : "her-gag"
+   },
+   "fa-shii" : {
+      "count" : 1,
+      "word" : "silently"
+   },
+   "faa-fa" : {
+      "count" : 1,
+      "word" : "too"
+   },
+   "fad-la" : {
+      "count" : 2,
+      "word" : "peace"
+   },
+   "fai-za" : {
+      "count" : 1,
+      "word" : "jump"
+   },
+   "fash-shur" : {
+      "count" : 1,
+      "word" : "shut-up"
+   },
+   "fe-dai-kin" : {
+      "count" : 1,
+      "word" : "fedaykin"
+   },
+   "fedh" : {
+      "count" : 1,
+      "word" : "soul"
+   },
+   "fi-zi" : {
+      "count" : 1,
+      "word" : "sun"
+   },
+   "fi-zib" : {
+      "count" : 1,
+      "word" : "day"
+   },
+   "fii-dhiir" : {
+      "count" : 1,
+      "word" : "as-stupid"
+   },
+   "fish-lin" : {
+      "count" : 1,
+      "word" : "trouble"
+   },
+   "frai-min" : {
+      "count" : 1,
+      "word" : "fremen"
+   },
+   "fre-min" : {
+      "count" : 3,
+      "word" : "fremen"
+   },
+   "frem-nii" : {
+      "count" : 1,
+      "word" : "fremen"
+   },
+   "ga-ri" : {
+      "count" : 1,
+      "word" : "rock"
+   },
+   "ga-rig" : {
+      "count" : 1,
+      "word" : "strength"
+   },
+   "ga-sas" : {
+      "count" : 1,
+      "word" : "be-freed"
+   },
+   "ga-siig" : {
+      "count" : 1,
+      "word" : "are-free"
+   },
+   "gaib" : {
+      "count" : 1,
+      "word" : "khaib"
+   },
+   "gas-su" : {
+      "count" : 1,
+      "word" : "free"
+   },
+   "gas-suu-bit" : {
+      "count" : 1,
+      "word" : "which-frees"
+   },
+   "ge-bre-ha" : {
+      "count" : 1,
+      "word" : "his-smell"
+   },
+   "gef-tha" : {
+      "count" : 1,
+      "word" : "ways"
+   },
+   "gef-thak" : {
+      "count" : 1,
+      "word" : "your-ways"
+   },
+   "gef-tham" : {
+      "count" : 1,
+      "word" : "our-ways"
+   },
+   "gef-thek" : {
+      "count" : 1,
+      "word" : "ways-your"
+   },
+   "ghas-su-ma" : {
+      "count" : 1,
+      "word" : "free-us"
+   },
+   "ghas-su-nii" : {
+      "count" : 1,
+      "word" : "free-me"
+   },
+   "gif" : {
+      "count" : 4,
+      "word" : "way"
+   },
+   "gom-mudh-ma" : {
+      "count" : 1,
+      "word" : "embarrass-us"
+   },
+   "gon-dho" : {
+      "count" : 1,
+      "word" : "guilt"
+   },
+   "ha-de-rach" : {
+      "count" : 1,
+      "word" : "haderach"
+   },
+   "ha-de-rak" : {
+      "count" : 1,
+      "word" : "haderach"
+   },
+   "ha-dha" : {
+      "count" : 2,
+      "word" : "stop"
+   },
+   "ha-dhaak" : {
+      "count" : 1,
+      "word" : "they-will-stop"
+   },
+   "ha-ja-ga" : {
+      "count" : 1,
+      "word" : "to-learn"
+   },
+   "ha-jaa-ga-ha" : {
+      "count" : 1,
+      "word" : "he-is-learning"
+   },
+   "ha-jim" : {
+      "count" : 1,
+      "word" : "patrol"
+   },
+   "ha-raa-dhas-ha" : {
+      "count" : 1,
+      "word" : "lost"
+   },
+   "ha-raa-dhim" : {
+      "count" : 1,
+      "word" : "we-lose"
+   },
+   "hai-ya-ta-ha" : {
+      "count" : 1,
+      "word" : "its-people"
+   },
+   "hai-yi-ta-ha" : {
+      "count" : 1,
+      "word" : "her-people"
+   },
+   "hann" : {
+      "count" : 1,
+      "word" : "hmm"
+   },
+   "har-dha-ha" : {
+      "count" : 1,
+      "word" : "she-lost"
+   },
+   "har-dhii-kaa" : {
+      "count" : 1,
+      "word" : "i-lost-them"
+   },
+   "he" : {
+      "count" : 2,
+      "word" : "ha"
+   },
+   "he-shi-dha-nii:" : {
+      "count" : 1,
+      "word" : "witness-me:"
+   },
+   "he-shi-sha" : {
+      "count" : 1,
+      "word" : "foresee"
+   },
+   "he-shii-gii-shii" : {
+      "count" : 1,
+      "word" : "i-recognize-you"
+   },
+   "hesh-ka-sha" : {
+      "count" : 1,
+      "word" : "you-have-seen"
+   },
+   "hesh-kii" : {
+      "count" : 1,
+      "word" : "i-have-seen"
+   },
+   "hesh-shya-ha" : {
+      "count" : 1,
+      "word" : "he-saw"
+   },
+   "hesh-shya-ha-bit" : {
+      "count" : 1,
+      "word" : "has-seen-that"
+   },
+   "hesh-shya-ha-ho" : {
+      "count" : 1,
+      "word" : "he-saw-it"
+   },
+   "hesh-shya-ka" : {
+      "count" : 1,
+      "word" : "you-saw"
+   },
+   "hesh-shya-sa-ho" : {
+      "count" : 1,
+      "word" : "you-saw-it"
+   },
+   "hesh-shyu-ho" : {
+      "count" : 2,
+      "word" : "show-him"
+   },
+   "hesh-shyu-ma-ho" : {
+      "count" : 3,
+      "word" : "show-us-it"
+   },
+   "hesh-shyuu-ha-ma" : {
+      "count" : 1,
+      "word" : "to-prove-to-us"
+   },
+   "hesh-ya-kaa" : {
+      "count" : 1,
+      "word" : "see-them"
+   },
+   "hesh-yaash" : {
+      "count" : 2,
+      "word" : "you-see"
+   },
+   "hi" : {
+      "count" : 10,
+      "word" : "and"
+   },
+   "hi-nat" : {
+      "count" : 2,
+      "word" : "then"
+   },
+   "hi-yaa-la-ha" : {
+      "count" : 1,
+      "word" : "he-is-gathering"
+   },
+   "hi-yak" : {
+      "count" : 4,
+      "word" : "with-them"
+   },
+   "hi-yii" : {
+      "count" : 1,
+      "word" : "with-me"
+   },
+   "hii-la" : {
+      "count" : 1,
+      "word" : "to-collect"
+   },
+   "hii-li" : {
+      "count" : 2,
+      "word" : "together"
+   },
+   "hii-lih" : {
+      "count" : 1,
+      "word" : "everything"
+   },
+   "hiil" : {
+      "count" : 2,
+      "word" : "all"
+   },
+   "hiil-hi" : {
+      "count" : 1,
+      "word" : "all"
+   },
+   "his-na-ta" : {
+      "count" : 1,
+      "word" : "however"
+   },
+   "ho" : {
+      "count" : 23,
+      "word" : "he"
+   },
+   "hoz-jom" : {
+      "count" : 1,
+      "word" : "to-residency"
+   },
+   "hu" : {
+      "count" : 10,
+      "word" : "lest"
+   },
+   "hu-krash" : {
+      "count" : 1,
+      "word" : "to-your-heart"
+   },
+   "hu-luud" : {
+      "count" : 2,
+      "word" : "hulud"
+   },
+   "hu-ra" : {
+      "count" : 4,
+      "word" : "coming"
+   },
+   "hu-ra-na" : {
+      "count" : 1,
+      "word" : "visit"
+   },
+   "hu-ra-tha" : {
+      "count" : 1,
+      "word" : "find-his-way"
+   },
+   "hu-ra-yi" : {
+      "count" : 1,
+      "word" : "my-coming"
+   },
+   "hu-raa-ha" : {
+      "count" : 4,
+      "word" : "it-coming"
+   },
+   "hwi-shi" : {
+      "count" : 2,
+      "word" : "until"
+   },
+   "i-fer-ha" : {
+      "count" : 1,
+      "word" : "his-powers"
+   },
+   "i-sa" : {
+      "count" : 1,
+      "word" : "leave"
+   },
+   "i-sa-dha" : {
+      "count" : 1,
+      "word" : "leave"
+   },
+   "i-saa-dhak" : {
+      "count" : 1,
+      "word" : "they-will-leave"
+   },
+   "i-saa-dhash" : {
+      "count" : 1,
+      "word" : "you-leave"
+   },
+   "i-shi" : {
+      "count" : 1,
+      "word" : "moment"
+   },
+   "i-sim" : {
+      "count" : 1,
+      "word" : "from-us"
+   },
+   "is-cha-mas" : {
+      "count" : 1,
+      "word" : "from-jamis"
+   },
+   "is-kif-tha" : {
+      "count" : 5,
+      "word" : "way"
+   },
+   "is-li-sha" : {
+      "count" : 1,
+      "word" : "in-the-fire"
+   },
+   "is-na-ta" : {
+      "count" : 4,
+      "word" : "but"
+   },
+   "is-na-taho" : {
+      "count" : 1,
+      "word" : "buthe"
+   },
+   "is-resh-ma" : {
+      "count" : 1,
+      "word" : "from-desert"
+   },
+   "is-ru-zam" : {
+      "count" : 1,
+      "word" : "by-nightmare-your"
+   },
+   "is-sih" : {
+      "count" : 1,
+      "word" : "from-here"
+   },
+   "is-tha-na-ha" : {
+      "count" : 1,
+      "word" : "from-body-his"
+   },
+   "ish" : {
+      "count" : 2,
+      "word" : "may"
+   },
+   "isru" : {
+      "count" : 1,
+      "word" : "by"
+   },
+   "ith-thuz" : {
+      "count" : 1,
+      "word" : "bless"
+   },
+   "ja-ha" : {
+      "count" : 1,
+      "word" : "fear"
+   },
+   "ja-haash:" : {
+      "count" : 1,
+      "word" : "you-are-afraid:"
+   },
+   "ja-mas" : {
+      "count" : 1,
+      "word" : "of-jamis"
+   },
+   "ja-mis" : {
+      "count" : 1,
+      "word" : "jamis"
+   },
+   "ja-ra-kaa" : {
+      "count" : 1,
+      "word" : "tell-them"
+   },
+   "ja-raa-ga-ha" : {
+      "count" : 1,
+      "word" : "he-speaks"
+   },
+   "ja-raa-mas-ha" : {
+      "count" : 1,
+      "word" : "it-was-being-called"
+   },
+   "jah-huf-ha" : {
+      "count" : 1,
+      "word" : "she-changed"
+   },
+   "jah-huu-fa-ha-shii" : {
+      "count" : 1,
+      "word" : "it-is-transforming-you"
+   },
+   "jah-kaz" : {
+      "count" : 1,
+      "word" : "horror"
+   },
+   "jam-sa" : {
+      "count" : 2,
+      "word" : "jamis"
+   },
+   "jar-ma" : {
+      "count" : 1,
+      "word" : "call"
+   },
+   "jar-ma-ha" : {
+      "count" : 1,
+      "word" : "he-called"
+   },
+   "jar-mik" : {
+      "count" : 1,
+      "word" : "call"
+   },
+   "je-dhii" : {
+      "count" : 1,
+      "word" : "fat"
+   },
+   "jes-ke" : {
+      "count" : 1,
+      "word" : "belt"
+   },
+   "ji-la" : {
+      "count" : 5,
+      "word" : "move"
+   },
+   "ji-la-dha" : {
+      "count" : 1,
+      "word" : "to-reach"
+   },
+   "ji-ya-ha" : {
+      "count" : 1,
+      "word" : "inside-her"
+   },
+   "jil-la-ha" : {
+      "count" : 1,
+      "word" : "has-gone"
+   },
+   "jis-ne" : {
+      "count" : 1,
+      "word" : "half"
+   },
+   "ju-naa-za-ha" : {
+      "count" : 1,
+      "word" : "he-is-in-a-trance"
+   },
+   "ju-raak" : {
+      "count" : 1,
+      "word" : "you-smash"
+   },
+   "jun-ju" : {
+      "count" : 1,
+      "word" : "each-other"
+   },
+   "jur-ra-ha" : {
+      "count" : 1,
+      "word" : "it-had-smashed"
+   },
+   "juu-go" : {
+      "count" : 1,
+      "word" : "grandfather"
+   },
+   "ka-la" : {
+      "count" : 1,
+      "word" : "mother"
+   },
+   "ka-la-gash" : {
+      "count" : 1,
+      "word" : "to-your-grandmother"
+   },
+   "ka-lidh" : {
+      "count" : 3,
+      "word" : "reverend-mother"
+   },
+   "kaa-lik" : {
+      "count" : 1,
+      "word" : "mothers-your"
+   },
+   "kaah" : {
+      "count" : 2,
+      "word" : "they"
+   },
+   "kai-fa" : {
+      "count" : 1,
+      "word" : "limits"
+   },
+   "kai-rat" : {
+      "count" : 1,
+      "word" : "names"
+   },
+   "kal-ha-ha" : {
+      "count" : 1,
+      "word" : "her-heritage"
+   },
+   "kash-sha-ha-ho" : {
+      "count" : 1,
+      "word" : "he-saved-her"
+   },
+   "ke-mim" : {
+      "count" : 1,
+      "word" : "all-of-that"
+   },
+   "ker" : {
+      "count" : 1,
+      "word" : "words"
+   },
+   "kha-de-rach" : {
+      "count" : 1,
+      "word" : "haderach"
+   },
+   "kha-dha" : {
+      "count" : 1,
+      "word" : "stop"
+   },
+   "khu-ra" : {
+      "count" : 1,
+      "word" : "come"
+   },
+   "ki-raa-lak" : {
+      "count" : 1,
+      "word" : "will-continue"
+   },
+   "kim-me" : {
+      "count" : 1,
+      "word" : "bulk"
+   },
+   "kwa-dii" : {
+      "count" : 1,
+      "word" : "son-my"
+   },
+   "kwi-sats" : {
+      "count" : 3,
+      "word" : "kwisatz"
+   },
+   "kyur-hum" : {
+      "count" : 1,
+      "word" : "language"
+   },
+   "kyur-tu" : {
+      "count" : 1,
+      "word" : "name"
+   },
+   "laik-sat" : {
+      "count" : 1,
+      "word" : "strangers"
+   },
+   "le-da" : {
+      "count" : 3,
+      "word" : "mahdi"
+   },
+   "le-da-ga" : {
+      "count" : 1,
+      "word" : "know"
+   },
+   "le-daa-ha" : {
+      "count" : 2,
+      "word" : "knows"
+   },
+   "le-daa-ra-ha" : {
+      "count" : 1,
+      "word" : "knows-how-he"
+   },
+   "le-dib" : {
+      "count" : 1,
+      "word" : "prophecy"
+   },
+   "le-dii" : {
+      "count" : 1,
+      "word" : "i-know"
+   },
+   "le-fa-dhas" : {
+      "count" : 1,
+      "word" : "to-be-accomplished"
+   },
+   "le-hii" : {
+      "count" : 1,
+      "word" : "safe"
+   },
+   "le-kis" : {
+      "count" : 1,
+      "word" : "dune"
+   },
+   "led-du-ha-ho" : {
+      "count" : 1,
+      "word" : "taught-him"
+   },
+   "lef-thas-ha" : {
+      "count" : 1,
+      "word" : "has-been-accomplished"
+   },
+   "lek" : {
+      "count" : 2,
+      "word" : "sand"
+   },
+   "lek-se" : {
+      "count" : 1,
+      "word" : "dune"
+   },
+   "lek-set" : {
+      "count" : 1,
+      "word" : "foreigner"
+   },
+   "lek-sit" : {
+      "count" : 1,
+      "word" : "stranger"
+   },
+   "let-she" : {
+      "count" : 1,
+      "word" : "news"
+   },
+   "li-saan" : {
+      "count" : 7,
+      "word" : "lisan"
+   },
+   "li-san" : {
+      "count" : 2,
+      "word" : "lisan"
+   },
+   "lii-ka-sat" : {
+      "count" : 1,
+      "word" : "of-strangers"
+   },
+   "lii-yet" : {
+      "count" : 1,
+      "word" : "liet"
+   },
+   "lik-sit" : {
+      "count" : 1,
+      "word" : "foreigners"
+   },
+   "lish-ki" : {
+      "count" : 1,
+      "word" : "the-flame"
+   },
+   "lu-dhaiz" : {
+      "count" : 1,
+      "word" : "very-young"
+   },
+   "lu-dhii" : {
+      "count" : 2,
+      "word" : "is-young"
+   },
+   "mah-da" : {
+      "count" : 2,
+      "word" : "mahdi"
+   },
+   "mah-di" : {
+      "count" : 5,
+      "word" : "mahdi"
+   },
+   "mar-ra-ha" : {
+      "count" : 1,
+      "word" : "she-heard"
+   },
+   "mar-ra-ka" : {
+      "count" : 1,
+      "word" : "you-have-heard"
+   },
+   "mar-ra-sha" : {
+      "count" : 1,
+      "word" : "it-seems"
+   },
+   "mar-rii-ho" : {
+      "count" : 1,
+      "word" : "i-have-heard"
+   },
+   "mar-za" : {
+      "count" : 3,
+      "word" : "listen"
+   },
+   "mi-na-za" : {
+      "count" : 1,
+      "word" : "to-think"
+   },
+   "mi-naa-za-sha-ho" : {
+      "count" : 2,
+      "word" : "you-think-it"
+   },
+   "mi-naa-zash" : {
+      "count" : 3,
+      "word" : "think"
+   },
+   "mi-naa-zii" : {
+      "count" : 4,
+      "word" : "i-think"
+   },
+   "mi-naash" : {
+      "count" : 1,
+      "word" : "are-you-thinking"
+   },
+   "mi-ni-za" : {
+      "count" : 1,
+      "word" : "to-believe"
+   },
+   "min-zi-dhash" : {
+      "count" : 1,
+      "word" : "your-faith"
+   },
+   "moth-cha" : {
+      "count" : 1,
+      "word" : "tears"
+   },
+   "mur-sha" : {
+      "count" : 1,
+      "word" : "kneel"
+   },
+   "mwad-dib" : {
+      "count" : 12,
+      "word" : "desert-mouse"
+   },
+   "na-ti" : {
+      "count" : 1,
+      "word" : "that"
+   },
+   "na-ziim" : {
+      "count" : 1,
+      "word" : "we-carry"
+   },
+   "nah" : {
+      "count" : 1,
+      "word" : "poison"
+   },
+   "nair-ge-vi" : {
+      "count" : 1,
+      "word" : "at-months"
+   },
+   "nat" : {
+      "count" : 2,
+      "word" : "there"
+   },
+   "naz-dha-nii" : {
+      "count" : 1,
+      "word" : "bring-me"
+   },
+   "naz-ga-ha" : {
+      "count" : 1,
+      "word" : "his-works"
+   },
+   "naz-ga-ha-bit" : {
+      "count" : 1,
+      "word" : "he-did-it"
+   },
+   "naz-ga-ha-ho" : {
+      "count" : 1,
+      "word" : "she-did-it"
+   },
+   "ne" : {
+      "count" : 3,
+      "word" : "i"
+   },
+   "ne-ril" : {
+      "count" : 1,
+      "word" : "at-the-time"
+   },
+   "ni-chai-za" : {
+      "count" : 1,
+      "word" : "most-quickly"
+   },
+   "ni-chii" : {
+      "count" : 4,
+      "word" : "quickly"
+   },
+   "ni-fri-ha" : {
+      "count" : 2,
+      "word" : "can-she"
+   },
+   "ni-fri-yi" : {
+      "count" : 1,
+      "word" : "i-can"
+   },
+   "ni-frii" : {
+      "count" : 1,
+      "word" : "i-can"
+   },
+   "ni-frish" : {
+      "count" : 2,
+      "word" : "you-can"
+   },
+   "ni-shi" : {
+      "count" : 2,
+      "word" : "at-the-time"
+   },
+   "ni-tha" : {
+      "count" : 1,
+      "word" : "be-kind"
+   },
+   "nich-nich" : {
+      "count" : 1,
+      "word" : "hurry-hurry"
+   },
+   "nif-ri-bit" : {
+      "count" : 1,
+      "word" : "can-who"
+   },
+   "nif-ri-ha" : {
+      "count" : 1,
+      "word" : "he-can"
+   },
+   "nif-rish" : {
+      "count" : 1,
+      "word" : "you-can"
+   },
+   "no-je-rach" : {
+      "count" : 1,
+      "word" : "soon"
+   },
+   "no-qa-dha-kaa" : {
+      "count" : 1,
+      "word" : "devour-them"
+   },
+   "no-qaj" : {
+      "count" : 1,
+      "word" : "of-a-worm"
+   },
+   "noq-chich" : {
+      "count" : 1,
+      "word" : "baby-worm"
+   },
+   "noq-cho" : {
+      "count" : 1,
+      "word" : "worm"
+   },
+   "nosh-shai-dah" : {
+      "count" : 1,
+      "word" : "always"
+   },
+   "nu-kah" : {
+      "count" : 1,
+      "word" : "right"
+   },
+   "o" : {
+      "count" : 8,
+      "word" : "on"
+   },
+   "o-bit" : {
+      "count" : 3,
+      "word" : "during-it"
+   },
+   "o-gaa-ra-ha" : {
+      "count" : 1,
+      "word" : "is-she-moving-herself"
+   },
+   "o-grog" : {
+      "count" : 1,
+      "word" : "rite"
+   },
+   "o-ja" : {
+      "count" : 1,
+      "word" : "be-strong"
+   },
+   "o-jij" : {
+      "count" : 1,
+      "word" : "a-mighty-one"
+   },
+   "o-ma" : {
+      "count" : 5,
+      "word" : "we-must"
+   },
+   "o-maa-kath-sha-ho" : {
+      "count" : 1,
+      "word" : "you-value-him"
+   },
+   "o-mai-za" : {
+      "count" : 1,
+      "word" : "too-much"
+   },
+   "o-maiz" : {
+      "count" : 3,
+      "word" : "too-much"
+   },
+   "o-shii" : {
+      "count" : 2,
+      "word" : "you-must"
+   },
+   "o-zai" : {
+      "count" : 2,
+      "word" : "further"
+   },
+   "o-zii-gi" : {
+      "count" : 1,
+      "word" : "differently"
+   },
+   "o-zii-yag" : {
+      "count" : 1,
+      "word" : "others"
+   },
+   "o-ziig" : {
+      "count" : 1,
+      "word" : "otherwise"
+   },
+   "of-mak" : {
+      "count" : 1,
+      "word" : "spots-your"
+   },
+   "og-go-ri" : {
+      "count" : 1,
+      "word" : "coffee"
+   },
+   "og-rog" : {
+      "count" : 1,
+      "word" : "rite"
+   },
+   "paul" : {
+      "count" : 2,
+      "word" : "paul"
+   },
+   "qab-dhi-ka-kaa" : {
+      "count" : 1,
+      "word" : "give-them-back"
+   },
+   "qab-gab" : {
+      "count" : 1,
+      "word" : "council"
+   },
+   "qau-ba-ka" : {
+      "count" : 1,
+      "word" : "warned-they"
+   },
+   "qaz-dha-ha" : {
+      "count" : 1,
+      "word" : "deserves"
+   },
+   "qels-shoq" : {
+      "count" : 1,
+      "word" : "five-hundred"
+   },
+   "qi-ra" : {
+      "count" : 1,
+      "word" : "stand"
+   },
+   "qi-raa-sha-ha" : {
+      "count" : 2,
+      "word" : "he-is-about-to"
+   },
+   "qi-raa-shii" : {
+      "count" : 1,
+      "word" : "i-am-ready"
+   },
+   "qi-tha-na" : {
+      "count" : 1,
+      "word" : "try"
+   },
+   "qith-la-ka" : {
+      "count" : 1,
+      "word" : "wrote-they"
+   },
+   "qith-la-sha" : {
+      "count" : 1,
+      "word" : "it-was-written"
+   },
+   "qith-las-ha" : {
+      "count" : 4,
+      "word" : "it-was-written"
+   },
+   "qith-na-ka" : {
+      "count" : 1,
+      "word" : "have-tried"
+   },
+   "qo-riir" : {
+      "count" : 1,
+      "word" : "are-blind"
+   },
+   "qu-maj" : {
+      "count" : 1,
+      "word" : "outsider"
+   },
+   "qu-mih" : {
+      "count" : 1,
+      "word" : "night"
+   },
+   "qul-la-ha" : {
+      "count" : 1,
+      "word" : "was-born"
+   },
+   "qum-ju" : {
+      "count" : 1,
+      "word" : "enemy"
+   },
+   "qum-mu-nii" : {
+      "count" : 1,
+      "word" : "stand-against-me"
+   },
+   "raab-jil" : {
+      "count" : 1,
+      "word" : "spies"
+   },
+   "re-dha" : {
+      "count" : 2,
+      "word" : "man"
+   },
+   "re-dhi" : {
+      "count" : 1,
+      "word" : "man"
+   },
+   "re-sham" : {
+      "count" : 2,
+      "word" : "desert"
+   },
+   "re-shii" : {
+      "count" : 1,
+      "word" : "long"
+   },
+   "re-shiiiiii" : {
+      "count" : 1,
+      "word" : "whoaaaaa"
+   },
+   "re-shim" : {
+      "count" : 1,
+      "word" : "desert"
+   },
+   "resh-me" : {
+      "count" : 1,
+      "word" : "desert"
+   },
+   "rii" : {
+      "count" : 5,
+      "word" : "regarding"
+   },
+   "rii-dhi" : {
+      "count" : 1,
+      "word" : "men"
+   },
+   "rii-ho" : {
+      "count" : 1,
+      "word" : "about-it"
+   },
+   "rob-buuch-kaa" : {
+      "count" : 1,
+      "word" : "to-lure-them"
+   },
+   "ru" : {
+      "count" : 9,
+      "word" : "will"
+   },
+   "ru-che" : {
+      "count" : 3,
+      "word" : "for-what"
+   },
+   "ru-dhi" : {
+      "count" : 1,
+      "word" : "hand"
+   },
+   "ru-ha" : {
+      "count" : 7,
+      "word" : "will-he"
+   },
+   "ru-qa-za" : {
+      "count" : 1,
+      "word" : "pray"
+   },
+   "ru-qaa-fii-kaa" : {
+      "count" : 1,
+      "word" : "i-beg-you"
+   },
+   "ru-qaa-ha-shii" : {
+      "count" : 1,
+      "word" : "he-ask-you"
+   },
+   "ru-qaa-zash" : {
+      "count" : 1,
+      "word" : "you-are-praying"
+   },
+   "ru-qaa-zim" : {
+      "count" : 1,
+      "word" : "we-are-praying"
+   },
+   "ru-vai-ja" : {
+      "count" : 1,
+      "word" : "because"
+   },
+   "ru-yi" : {
+      "count" : 3,
+      "word" : "will"
+   },
+   "ruk" : {
+      "count" : 2,
+      "word" : "you-will"
+   },
+   "rum" : {
+      "count" : 4,
+      "word" : "for-us"
+   },
+   "rush" : {
+      "count" : 5,
+      "word" : "for-you"
+   },
+   "sa" : {
+      "count" : 6,
+      "word" : "our"
+   },
+   "sa-gar-ga" : {
+      "count" : 1,
+      "word" : "by-might"
+   },
+   "sa-ha-tha-ho" : {
+      "count" : 1,
+      "word" : "let-him"
+   },
+   "sa-haa-lash" : {
+      "count" : 1,
+      "word" : "you-accept"
+   },
+   "sa-haa-tha-ha-ho" : {
+      "count" : 1,
+      "word" : "it-allows-him"
+   },
+   "sa-hi-fir" : {
+      "count" : 1,
+      "word" : "by-power"
+   },
+   "sa-hiim" : {
+      "count" : 3,
+      "word" : "like"
+   },
+   "sa-hiim-bit" : {
+      "count" : 1,
+      "word" : "as-one-who"
+   },
+   "sa-nai" : {
+      "count" : 1,
+      "word" : "like-that"
+   },
+   "sa-vi" : {
+      "count" : 1,
+      "word" : "none-of"
+   },
+   "sa-ya" : {
+      "count" : 1,
+      "word" : "walk"
+   },
+   "sa-ya-dha" : {
+      "count" : 1,
+      "word" : "be-fit"
+   },
+   "sah" : {
+      "count" : 1,
+      "word" : "take"
+   },
+   "sah-tha" : {
+      "count" : 1,
+      "word" : "let"
+   },
+   "sah-thi-mi" : {
+      "count" : 1,
+      "word" : "we-have-done"
+   },
+   "saich" : {
+      "count" : 1,
+      "word" : "sietches"
+   },
+   "sar-daa-kra" : {
+      "count" : 1,
+      "word" : "sardaukar"
+   },
+   "say-ya-di-na" : {
+      "count" : 1,
+      "word" : "sayyadina"
+   },
+   "say-ya-ha" : {
+      "count" : 1,
+      "word" : "she-had-walked"
+   },
+   "sek-ka-ha" : {
+      "count" : 1,
+      "word" : "found"
+   },
+   "sha-rii" : {
+      "count" : 1,
+      "word" : "green"
+   },
+   "sha-ya" : {
+      "count" : 1,
+      "word" : "shai-hulud"
+   },
+   "sha-yi-hu-luud" : {
+      "count" : 1,
+      "word" : "shai-hulud"
+   },
+   "shai" : {
+      "count" : 1,
+      "word" : "shai"
+   },
+   "shai-dash" : {
+      "count" : 1,
+      "word" : "today"
+   },
+   "shai-dish" : {
+      "count" : 1,
+      "word" : "today"
+   },
+   "she" : {
+      "count" : 6,
+      "word" : "you"
+   },
+   "shi" : {
+      "count" : 7,
+      "word" : "may"
+   },
+   "shii-dhiz" : {
+      "count" : 1,
+      "word" : "sign"
+   },
+   "shiidh-gim" : {
+      "count" : 1,
+      "word" : "paradise"
+   },
+   "shyadh-za" : {
+      "count" : 2,
+      "word" : "signs"
+   },
+   "si-ha-ya" : {
+      "count" : 2,
+      "word" : "desert-spring"
+   },
+   "sich" : {
+      "count" : 1,
+      "word" : "sietch"
+   },
+   "so" : {
+      "count" : 24,
+      "word" : "not"
+   },
+   "so-la-ga-ho" : {
+      "count" : 1,
+      "word" : "welcome-him"
+   },
+   "so-la-gas" : {
+      "count" : 1,
+      "word" : "be-welcomed"
+   },
+   "sot" : {
+      "count" : 1,
+      "word" : "no-one"
+   },
+   "stil-gar" : {
+      "count" : 6,
+      "word" : "stilgar"
+   },
+   "suun-zaad" : {
+      "count" : 1,
+      "word" : "eighty"
+   },
+   "ta-br" : {
+      "count" : 1,
+      "word" : "tabr"
+   },
+   "ta-maa-ha-shii" : {
+      "count" : 1,
+      "word" : "is-awaiting-you"
+   },
+   "ta-maak-shii" : {
+      "count" : 1,
+      "word" : "they-are-waiting-for-you"
+   },
+   "ta-sa" : {
+      "count" : 1,
+      "word" : "strike"
+   },
+   "ta-sa-ho" : {
+      "count" : 1,
+      "word" : "strike-him"
+   },
+   "taam-rih" : {
+      "count" : 1,
+      "word" : "others"
+   },
+   "tab-ra" : {
+      "count" : 1,
+      "word" : "tabr"
+   },
+   "tam-ma-sha-bit" : {
+      "count" : 1,
+      "word" : "you-have-waited-for-which"
+   },
+   "tam-ra" : {
+      "count" : 2,
+      "word" : "stay"
+   },
+   "tas-sa-sak" : {
+      "count" : 1,
+      "word" : "have-been-hit"
+   },
+   "tha-nath" : {
+      "count" : 1,
+      "word" : "of-body"
+   },
+   "tha-ni" : {
+      "count" : 1,
+      "word" : "body"
+   },
+   "thaa" : {
+      "count" : 1,
+      "word" : "two"
+   },
+   "than" : {
+      "count" : 1,
+      "word" : "body"
+   },
+   "the-dem" : {
+      "count" : 1,
+      "word" : "forty"
+   },
+   "thodh-dhat" : {
+      "count" : 1,
+      "word" : "prisoners"
+   },
+   "u-kai-ri-bii" : {
+      "count" : 1,
+      "word" : "promise-my"
+   },
+   "u-na" : {
+      "count" : 1,
+      "word" : "to-be"
+   },
+   "u-na-ra" : {
+      "count" : 1,
+      "word" : "there-is"
+   },
+   "u-naa-ha" : {
+      "count" : 1,
+      "word" : "it-was-near"
+   },
+   "u-naa-ra-ha" : {
+      "count" : 1,
+      "word" : "there-is"
+   },
+   "u-naa-ra-ha-shii" : {
+      "count" : 1,
+      "word" : "is-for-you"
+   },
+   "u-naa-rash" : {
+      "count" : 1,
+      "word" : "you-be"
+   },
+   "u-nak" : {
+      "count" : 1,
+      "word" : "upon-them"
+   },
+   "u-nij" : {
+      "count" : 1,
+      "word" : "anyone"
+   },
+   "un-ba-chi" : {
+      "count" : 1,
+      "word" : "beneath"
+   },
+   "un-fai-si-fash" : {
+      "count" : 1,
+      "word" : "in-your-dreams"
+   },
+   "un-gi-fi" : {
+      "count" : 1,
+      "word" : "by-path"
+   },
+   "un-noq-chim" : {
+      "count" : 1,
+      "word" : "in-the-south"
+   },
+   "un-nu-kim" : {
+      "count" : 1,
+      "word" : "at-a-time"
+   },
+   "un-rau-dhi-ha" : {
+      "count" : 1,
+      "word" : "in-hands-his"
+   },
+   "un-re-shim" : {
+      "count" : 1,
+      "word" : "for-the-desert"
+   },
+   "un-tau-fih" : {
+      "count" : 1,
+      "word" : "in-room"
+   },
+   "un-yuch-kim" : {
+      "count" : 3,
+      "word" : "in-north"
+   },
+   "uq-nu" : {
+      "count" : 1,
+      "word" : "piss"
+   },
+   "us-la" : {
+      "count" : 1,
+      "word" : "usul"
+   },
+   "uuth" : {
+      "count" : 1,
+      "word" : "eye"
+   },
+   "uz-zu-la-tha" : {
+      "count" : 3,
+      "word" : "die"
+   },
+   "uz-zu-laa-thak" : {
+      "count" : 1,
+      "word" : "they-die"
+   },
+   "uz-zu-laash" : {
+      "count" : 1,
+      "word" : "die"
+   },
+   "uz-zul" : {
+      "count" : 1,
+      "word" : "death"
+   },
+   "uz-zul-lu-ho" : {
+      "count" : 1,
+      "word" : "kill-him"
+   },
+   "uz-zul-luth-ho" : {
+      "count" : 1,
+      "word" : "get-him-killed"
+   },
+   "uz-zul-tha-bit" : {
+      "count" : 1,
+      "word" : "who-died"
+   },
+   "uz-zul-tha-ka" : {
+      "count" : 1,
+      "word" : "have-died"
+   },
+   "va-hii" : {
+      "count" : 1,
+      "word" : "big"
+   },
+   "vaa-hai-za" : {
+      "count" : 1,
+      "word" : "biggest"
+   },
+   "vaa-nar" : {
+      "count" : 1,
+      "word" : "fates"
+   },
+   "vad-zih" : {
+      "count" : 4,
+      "word" : "now"
+   },
+   "vad-zikh" : {
+      "count" : 1,
+      "word" : "now"
+   },
+   "vah-cha" : {
+      "count" : 1,
+      "word" : "large-one"
+   },
+   "vai-yiz" : {
+      "count" : 1,
+      "word" : "spice"
+   },
+   "vak-kii" : {
+      "count" : 1,
+      "word" : "funny"
+   },
+   "vak-la-ho" : {
+      "count" : 1,
+      "word" : "mock-him"
+   },
+   "van-na-ha" : {
+      "count" : 1,
+      "word" : "it-occurred"
+   },
+   "van-ra-ha" : {
+      "count" : 1,
+      "word" : "his-fate"
+   },
+   "ve-jii" : {
+      "count" : 7,
+      "word" : "fair"
+   },
+   "vesh-sha" : {
+      "count" : 1,
+      "word" : "maker"
+   },
+   "vi-za-la" : {
+      "count" : 1,
+      "word" : "to-hunt"
+   },
+   "vid-za-kho" : {
+      "count" : 1,
+      "word" : "kill-him"
+   },
+   "vii" : {
+      "count" : 10,
+      "word" : "are"
+   },
+   "viiiiii" : {
+      "count" : 1,
+      "word" : "yeaaaaah"
+   },
+   "viz-dha" : {
+      "count" : 1,
+      "word" : "kill"
+   },
+   "viz-dha-ha" : {
+      "count" : 2,
+      "word" : "killed-him"
+   },
+   "viz-dhik" : {
+      "count" : 1,
+      "word" : "poison"
+   },
+   "vo-thash" : {
+      "count" : 1,
+      "word" : "your-eyes"
+   },
+   "vo-thim" : {
+      "count" : 1,
+      "word" : "our-eyes"
+   },
+   "wa" : {
+      "count" : 2,
+      "word" : "by"
+   },
+   "wa-shai-dah" : {
+      "count" : 1,
+      "word" : "finally"
+   },
+   "wad-zih" : {
+      "count" : 1,
+      "word" : "ago"
+   },
+   "wak" : {
+      "count" : 1,
+      "word" : "before-you"
+   },
+   "ya-qa-la" : {
+      "count" : 1,
+      "word" : "to-cross"
+   },
+   "ya-qaa-la-ha" : {
+      "count" : 1,
+      "word" : "she-was-crossing"
+   },
+   "ya-zaa-la-ha-o" : {
+      "count" : 1,
+      "word" : "he-favors-him"
+   },
+   "yi-maa-thash" : {
+      "count" : 1,
+      "word" : "you-are-questioning"
+   },
+   "yi-mash" : {
+      "count" : 1,
+      "word" : "her-face"
+   },
+   "yo-hesh-ya" : {
+      "count" : 1,
+      "word" : "keep-an-eye-out"
+   },
+   "yosh-la" : {
+      "count" : 1,
+      "word" : "again"
+   },
+   "yoz-bo" : {
+      "count" : 1,
+      "word" : "beauty"
+   },
+   "za-ma-ha" : {
+      "count" : 2,
+      "word" : "fighting"
+   },
+   "za-ma-sha-kaa" : {
+      "count" : 1,
+      "word" : "engage-them"
+   },
+   "za-maak" : {
+      "count" : 1,
+      "word" : "they-fight"
+   },
+   "za-mah" : {
+      "count" : 1,
+      "word" : "battle"
+   },
+   "za-mit" : {
+      "count" : 1,
+      "word" : "fighter"
+   },
+   "zaad-hi-thaa" : {
+      "count" : 1,
+      "word" : "twelve"
+   },
+   "zai-ha" : {
+      "count" : 1,
+      "word" : "to-drink"
+   },
+   "zai-ha-ho" : {
+      "count" : 1,
+      "word" : "drink-it"
+   },
+   "zai-haa-la-ha" : {
+      "count" : 1,
+      "word" : "she-will-drink"
+   },
+   "zai-haash" : {
+      "count" : 3,
+      "word" : "you-drink"
+   },
+   "zai-hadh" : {
+      "count" : 1,
+      "word" : "champion"
+   },
+   "zai-kha" : {
+      "count" : 1,
+      "word" : "drink"
+   },
+   "zam-ha" : {
+      "count" : 1,
+      "word" : "attack"
+   },
+   "zan-la" : {
+      "count" : 2,
+      "word" : "fight"
+   },
+   "ze-yaa-sha-ha" : {
+      "count" : 1,
+      "word" : "is-fading"
+   },
+   "zeh-la" : {
+      "count" : 1,
+      "word" : "drink"
+   },
+   "zi-ha" : {
+      "count" : 1,
+      "word" : "these"
+   },
+   "zi-hi" : {
+      "count" : 2,
+      "word" : "this"
+   },
+   "zi-hik" : {
+      "count" : 3,
+      "word" : "this"
+   },
+   "zih" : {
+      "count" : 7,
+      "word" : "here"
+   },
+   "zih-ki" : {
+      "count" : 2,
+      "word" : "this"
+   },
+   "zii-hij" : {
+      "count" : 1,
+      "word" : "these-people"
+   },
+   "zikh" : {
+      "count" : 1,
+      "word" : "here"
+   },
+   "zo-thib" : {
+      "count" : 1,
+      "word" : "impostor"
+   }
 }
 

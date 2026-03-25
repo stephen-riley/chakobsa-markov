@@ -52,7 +52,11 @@ foreach my $entry (@$data) {
         next unless $key;
         
         # Store translation
-        $dictionary{$key} = $word_pairs{$key};
+        if( exists( $dictionary{$key} ) ) {
+            $dictionary{$key}{count}++;
+        } else {
+            $dictionary{$key} = { word => $word_pairs{$key}, count => 1 };
+        }
     }
 }
 
