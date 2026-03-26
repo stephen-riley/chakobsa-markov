@@ -55,3 +55,11 @@ Please replace any Unicode symbols with the closest ASCII symbols, just as U+201
 
 Be sure to process all of both documents and return a single JSON structure.
 ```
+
+# Adding parts of speech to the dictionary
+
+## Prompt
+
+```
+`chakobsa.json` is an extract from the scripts for the movies "Dune: Parts 1 and 2".  `phonetic_dictionary.json` was built from `chakobsa.json`.  What I need you to do is add the parts of speech of each Chakobsa word in the phonetic dictionary based on its use in the script extracts.  Use 3 or 4 letter abbreviations for the parts of speech as needed and make these codes all caps; for example, "NOUN", "VERB", "ADJ", "ADV", "PREP".  Put these in a `pos` field in the JSON of the dictionary.  Return the updated form of the phonetic dictionary in clean JSON.  Only return the JSON--don't add any commentary or explanation.
+```
