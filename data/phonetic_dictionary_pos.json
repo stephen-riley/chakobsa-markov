@@ -729,16 +729,9 @@
     },
     "ek-ke-ra": {
         "chakobsa": "ekkera",
-        "count": 3,
-        "phonetic": "ek-ke-ra",
-        "word": "of-the-water",
-        "pos": "NOUN"
-    },
-    "ek-ke-ra:": {
-        "chakobsa": "ekkera:",
         "count": 1,
-        "phonetic": "ek-ke-ra:",
-        "word": "water:",
+        "phonetic": "ek-ke-ra",
+        "word": "water",
         "pos": "NOUN"
     },
     "ek-ke-ri": {
@@ -1133,11 +1126,11 @@
         "word": "ha",
         "pos": "INTJ"
     },
-    "he-shi-dha-nii:": {
-        "chakobsa": "heshidhanii:",
+    "he-shi-dha-nii": {
+        "chakobsa": "heshidhanii",
         "count": 1,
-        "phonetic": "he-shi-dha-nii:",
-        "word": "witness-me:",
+        "phonetic": "he-shi-dha-nii",
+        "word": "witness-me",
         "pos": "VERB"
     },
     "he-shi-sha": {
@@ -1532,11 +1525,11 @@
         "word": "fear",
         "pos": "VERB"
     },
-    "ja-haash:": {
-        "chakobsa": "jahaash:",
+    "ja-haash": {
+        "chakobsa": "jahaash",
         "count": 1,
-        "phonetic": "ja-haash:",
-        "word": "you-are-afraid:",
+        "phonetic": "ja-haash",
+        "word": "you-are-afraid",
         "pos": "VERB"
     },
     "ja-mas": {
