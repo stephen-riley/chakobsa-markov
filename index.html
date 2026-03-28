@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chakobsa Phoneme Branching</title>
     <!-- Modern Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Outfit:wght@200;400;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Outfit:wght@200;400;600&display=swap"
+        rel="stylesheet">
     <style>
         :root {
             --bg-color: #0f1013;
@@ -47,7 +50,8 @@
             text-align: center;
         }
 
-        .loading, .upload-container {
+        .loading,
+        .upload-container {
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -128,7 +132,7 @@
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
             transform: translateY(-2px);
         }
-        
+
         input::placeholder {
             color: rgba(242, 234, 204, 0.2);
             font-style: italic;
@@ -156,34 +160,41 @@
             backdrop-filter: blur(12px);
             width: 300px;
             animation: fadeIn 0.4s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .word-cell {
             width: 100%;
             padding: 1.5rem;
             border-radius: 12px;
-            background: linear-gradient(135deg, rgba(218,192,136,0.08), rgba(218,192,136,0.02));
-            border: 1px solid rgba(218,192,136,0.15);
+            background: linear-gradient(135deg, rgba(218, 192, 136, 0.08), rgba(218, 192, 136, 0.02));
+            border: 1px solid rgba(218, 192, 136, 0.15);
             transition: transform 0.2s, box-shadow 0.2s;
             position: relative;
-            box-shadow: inset 0 1px 1px rgba(255,255,255,0.05), 0 4px 15px rgba(0,0,0,0.2);
+            box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.05), 0 4px 15px rgba(0, 0, 0, 0.2);
         }
 
         .word-cell:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
-            border-color: rgba(218,192,136,0.4);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border-color: rgba(218, 192, 136, 0.4);
         }
 
         .word-cell.prefix {
-            background: rgba(255,255,255,0.03);
-            border: 1px dashed rgba(218,192,136,0.4);
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px dashed rgba(218, 192, 136, 0.4);
             box-shadow: none;
             opacity: 0.8;
         }
@@ -195,7 +206,7 @@
             left: 50%;
             width: 2px;
             height: 1.2rem;
-            background: linear-gradient(to bottom, rgba(218,192,136,0.5), transparent);
+            background: linear-gradient(to bottom, rgba(218, 192, 136, 0.5), transparent);
             transform: translateX(-50%);
         }
 
@@ -212,7 +223,7 @@
             margin-bottom: 1rem;
             letter-spacing: 0.05em;
         }
-        
+
         .word-title.typing {
             opacity: 0.7;
             font-style: italic;
@@ -232,9 +243,9 @@
             gap: 0.8rem;
             line-height: 1.4;
             padding-top: 0.8rem;
-            border-top: 1px solid rgba(255,255,255,0.05);
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
         }
-        
+
         .word-def:first-child {
             padding-top: 0;
             border-top: none;
@@ -245,7 +256,7 @@
             font-weight: 600;
             background: var(--accent-dim);
             color: var(--accent);
-            border: 1px solid rgba(218,192,136,0.3);
+            border: 1px solid rgba(218, 192, 136, 0.3);
             padding: 0.2rem 0.5rem;
             border-radius: 4px;
             letter-spacing: 0.1em;
@@ -253,17 +264,17 @@
             flex-shrink: 0;
             margin-top: 0.1rem;
         }
-        
+
         .meanings {
             display: flex;
             flex-direction: column;
             gap: 0.2rem;
         }
-        
+
         .meaning-word {
             color: var(--text-main);
         }
-        
+
         .meaning-phonetic {
             color: var(--text-muted);
             font-family: monospace;
@@ -278,20 +289,33 @@
             opacity: 0.7;
             animation: fadeIn 0.4s ease;
         }
-
     </style>
 </head>
+
 <body>
 
     <h1>Chakobsa Analyzer</h1>
 
     <div id="loading" class="loading">
-        <svg width="40" height="40" stroke="#dac088" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g><circle cx="12" cy="12" r="9.5" fill="none" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-dasharray" calcMode="spline" values="0 150;42 150;42 150" keyTimes="0;0.475;1" dur="1.5s" repeatCount="indefinite" keySplines="0.42,0,0.58,1;0.42,0,0.58,1"/><animate attributeName="stroke-dashoffset" calcMode="spline" values="0;-16;-59" keyTimes="0;0.475;1" dur="1.5s" repeatCount="indefinite" keySplines="0.42,0,0.58,1;0.42,0,0.58,1"/></circle><animateTransform attributeName="transform" type="rotate" dur="2s" repeatCount="indefinite" keyTimes="0;1" values="0 12 12;360 12 12"/></g></svg>
+        <svg width="40" height="40" stroke="#dac088" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <circle cx="12" cy="12" r="9.5" fill="none" stroke-width="2" stroke-linecap="round">
+                    <animate attributeName="stroke-dasharray" calcMode="spline" values="0 150;42 150;42 150"
+                        keyTimes="0;0.475;1" dur="1.5s" repeatCount="indefinite"
+                        keySplines="0.42,0,0.58,1;0.42,0,0.58,1" />
+                    <animate attributeName="stroke-dashoffset" calcMode="spline" values="0;-16;-59" keyTimes="0;0.475;1"
+                        dur="1.5s" repeatCount="indefinite" keySplines="0.42,0,0.58,1;0.42,0,0.58,1" />
+                </circle>
+                <animateTransform attributeName="transform" type="rotate" dur="2s" repeatCount="indefinite"
+                    keyTimes="0;1" values="0 12 12;360 12 12" />
+            </g>
+        </svg>
         <p>Awaiting Memory of the Universe...</p>
     </div>
 
     <div id="upload-container" class="upload-container" style="display: none;">
-        <p>The application could not automatically load the Chakobsa dictionary (this usually happens if you opened the file directly in your browser without a local server due to security policies).</p>
+        <p>The application could not automatically load the Chakobsa dictionary (this usually happens if you opened the
+            file directly in your browser without a local server due to security policies).</p>
         <p>Please manually select the <strong>phonetic_dictionary_pos.json</strong> file to continue.</p>
         <div class="file-upload-btn">
             Load Dictionary
@@ -301,7 +325,8 @@
 
     <div id="app-container">
         <div class="input-group">
-            <input type="text" id="phoneme-input" placeholder="Type syllables (e.g., ru qa) ..." autocomplete="off" spellcheck="false" autofocus>
+            <input type="text" id="phoneme-input" placeholder="Type syllables (e.g., ru qa) ..." autocomplete="off"
+                spellcheck="false" autofocus>
         </div>
         <div id="branches-container"></div>
     </div>
@@ -335,7 +360,7 @@
                 try {
                     rawDict = JSON.parse(event.target.result);
                     processDict();
-                } catch(err) {
+                } catch (err) {
                     alert("Error parsing JSON file: " + err);
                 }
             };
@@ -347,17 +372,17 @@
             document.getElementById('loading').style.display = 'none';
             document.getElementById('upload-container').style.display = 'none';
             document.getElementById('app-container').style.display = 'flex';
-            
+
             // Build the un-hyphenated lookup map
             Object.values(rawDict).forEach(entry => {
-                let cleanKey = entry.chakobsa.toLowerCase().replace(/[\s\-]/g, '');
+                let cleanKey = entry.chakobsa.toLowerCase().replace(/[^a-z\']/g, '');
                 if (!dictByChakobsa[cleanKey]) {
                     dictByChakobsa[cleanKey] = [];
                 }
                 dictByChakobsa[cleanKey].push(entry);
-                
+
                 // Add all prefixes of this key for continuous string matching
-                for(let i = 1; i <= cleanKey.length; i++) {
+                for (let i = 1; i <= cleanKey.length; i++) {
                     prefixes.add(cleanKey.substring(0, i));
                 }
             });
@@ -371,30 +396,25 @@
         function parseInput(S) {
             // Base case: successfully matched the whole string
             if (S.length === 0) return [{ words: [], lastPrefix: "" }];
-            
+
             let results = [];
-            
+
             // Try every possible substring length from the start
             for (let i = 1; i <= S.length; i++) {
                 let prefix = S.slice(0, i);
                 let isWord = dictByChakobsa[prefix] !== undefined;
                 let isPrefix = prefixes.has(prefix);
-                
+
                 if (i === S.length) {
                     // Reached the end of the user string
                     if (isWord) {
                         // The entire remaining string is a valid word
                         results.push({ words: [prefix], lastPrefix: "" });
                     }
-                    if (isPrefix && !isWord) {
-                        // The entire remaining string is an incomplete prefix, but NOT a full word 
-                        // (actually if it's both, we want it to branch! The branch where it's a word is handled above)
-                        results.push({ words: [], lastPrefix: prefix });
-                    }
-                    if (isPrefix && isWord) {
-                        // The string is a full word AND the prefix of a longer word
-                        results.push({ words: [], lastPrefix: prefix });
-                    }
+                    // Unconditionally show the remaining characters as an incomplete prefix,
+                    // regardless of whether they form a valid dictionary prefix yet. This allows
+                    // users to continuously type sentences without branches abruptly vanishing.
+                    results.push({ words: [], lastPrefix: prefix });
                 } else {
                     // Not at the end of the user string; we MUST match a full word to continue
                     if (isWord) {
@@ -417,11 +437,11 @@
             let text = rawText.toLowerCase().replace(/[\s\-]/g, '').replace(/[^a-z\']/g, '');
             let container = document.getElementById('branches-container');
             container.innerHTML = '';
-            
+
             if (text.trim() === '') return;
-            
+
             let branches = parseInput(text);
-            
+
             // To prevent massive UI lag on very small single-letter inputs that generate hundreds of paths
             // we can limit the rendering or only show if less than X branches. 
             // In typical use, the branching factor shrinks fast.
@@ -433,17 +453,17 @@
             branches.forEach((branch, index) => {
                 let col = document.createElement('div');
                 col.className = 'branch-col';
-                
+
                 // Add nodes for fully matched words
                 branch.words.forEach(wordKey => {
                     let entries = dictByChakobsa[wordKey];
                     let cell = document.createElement('div');
                     cell.className = 'word-cell locked';
-                    
+
                     // Show actual formatted phonetic spelling from the first match
                     let displayTitle = entries[0].phonetic;
                     let html = `<div class="word-title">${displayTitle}</div><div class="word-def-container">`;
-                    
+
                     entries.forEach(ent => {
                         html += `
                             <div class="word-def">
@@ -454,12 +474,12 @@
                             </div>
                         `;
                     });
-                    
+
                     html += `</div>`;
                     cell.innerHTML = html;
                     col.appendChild(cell);
                 });
-                
+
                 // Add a ghost node if there's a typing prefix mapping to future words
                 if (branch.lastPrefix) {
                     let cell = document.createElement('div');
@@ -474,7 +494,7 @@
                     `;
                     col.appendChild(cell);
                 }
-                
+
                 // Animate entry with stagger
                 col.style.animationDelay = `${index * 0.05}s`;
                 container.appendChild(col);
@@ -486,4 +506,5 @@
 
     </script>
 </body>
+
 </html>
