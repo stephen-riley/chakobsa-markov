@@ -6,8 +6,8 @@ use v5.30;
 
 my $json = JSON::PP->new->utf8->pretty->canonical;
 
-my $json_file = 'scripts/chakobsa.json';
-my $dict_file = 'scripts/chakobsa_dictionary.json';
+my $json_file = 'text/chakobsa.json';
+my $dict_file = 'text/chakobsa_dictionary.json';
 
 open my $fh, '<:encoding(UTF-8)', $json_file or die "Cannot open $json_file: $!";
 my $data = decode_json(do { local $/; <$fh> });

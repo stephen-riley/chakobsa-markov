@@ -7,7 +7,7 @@ use v5.40;
 
 my $json = JSON::PP->new->utf8->pretty->canonical;
 
-my @files = ('scripts/raw/master_dune_diaglogue.txt', 'scripts/raw/master_dune2_dialogue.txt');
+my @files = ('text/raw/master_dune_diaglogue.txt', 'text/raw/master_dune2_dialogue.txt');
 
 my @chakobsa;
 
