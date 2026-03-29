@@ -287,12 +287,46 @@
             margin-top: 2rem;
             font-size: 1.1rem;
             opacity: 0.7;
-            animation: fadeIn 0.4s ease;
+            animation: fadeIn 0.4s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
+        }
+
+        nav {
+            width: 100%;
+            max-width: 800px;
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 1rem;
+        }
+
+        nav a {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            opacity: 0.8;
+            transition: opacity 0.2s;
+        }
+
+        nav a:hover {
+            opacity: 1;
         }
     </style>
 </head>
 
 <body>
+
+    <nav>
+        <a href="dict.html">
+            Dictionary
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+        </a>
+    </nav>
 
     <h1>Chakobsa Analyzer</h1>
 
@@ -469,7 +503,7 @@
                             <div class="word-def">
                                 <span class="pos">${ent.pos || '?'}</span>
                                 <div class="meanings">
-                                    <span class="meaning-word">${ent.word.replace(/-/g, ' ')}</span>
+                                    <span class="meaning-word">${ent.word}</span>
                                 </div>
                             </div>
                         `;
