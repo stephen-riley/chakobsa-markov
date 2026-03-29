@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chakobsa Dictionary</title>
+    <!-- Modern Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Outfit:wght@200;400;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f1013;
+            --text-main: #f2eacc;
+            --text-muted: #a8a39a;
+            --accent: #dac088;
+            --accent-dim: rgba(218, 192, 136, 0.2);
+            --border-subtle: rgba(255, 255, 255, 0.05);
+            --panel-bg: rgba(255, 255, 255, 0.02);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 3rem 2rem;
+            overflow-y: scroll;
+        }
+
+        nav {
+            width: 100%;
+            max-width: 800px;
+            display: flex;
+            justify-content: flex-start;
+            margin-bottom: 1rem;
+        }
+
+        nav a {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            opacity: 0.8;
+            transition: opacity 0.2s;
+        }
+
+        nav a:hover {
+            opacity: 1;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 200;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            font-size: 1.8rem;
+            color: var(--accent);
+            text-shadow: 0 0 20px var(--accent-dim);
+            margin-bottom: 2.5rem;
+            text-align: center;
+        }
+
+        .loading,
+        .upload-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            margin-top: 5rem;
+            text-align: center;
+            max-width: 400px;
+        }
+
+        .upload-container p {
+            color: var(--text-muted);
+            font-size: 0.9 remit;
+            line-height: 1.5;
+        }
+
+        .file-upload-btn {
+            background: var(--accent-dim);
+            border: 1px solid rgba(218, 192, 136, 0.4);
+            color: var(--accent);
+            padding: 0.8rem 1.5rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-family: 'Inter';
+            font-weight: 600;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .file-upload-btn:hover {
+            background: rgba(218, 192, 136, 0.3);
+            box-shadow: 0 0 15px rgba(218, 192, 136, 0.3);
+        }
+
+        .file-upload-btn input[type="file"] {
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+            cursor: pointer;
+            width: 100%;
+            height: 100%;
+        }
+
+        #app-container {
+            display: none;
+            width: 100%;
+            max-width: 800px;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .search-group {
+            width: 100%;
+            position: relative;
+            margin-bottom: 2.5rem;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--accent);
+            opacity: 0.5;
+            pointer-events: none;
+        }
+
+        input {
+            width: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-subtle);
+            border-bottom: 2px solid rgba(218, 192, 136, 0.4);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 300;
+            padding: 1.2rem 2rem 1.2rem 4rem;
+            border-radius: 12px 12px 0 0;
+            outline: none;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            backdrop-filter: blur(10px);
+        }
+
+        input:focus {
+            border-color: var(--accent);
+            background: rgba(218, 192, 136, 0.05);
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            transform: translateY(-2px);
+        }
+
+        input::placeholder {
+            color: rgba(242, 234, 204, 0.2);
+            font-style: italic;
+        }
+
+        #results-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+            width: 100%;
+        }
+
+        .dict-card {
+            background: linear-gradient(135deg, rgba(218, 192, 136, 0.08), rgba(218, 192, 136, 0.02));
+            border: 1px solid rgba(218, 192, 136, 0.15);
+            border-radius: 12px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.05), 0 4px 15px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) forwards;
+        }
+
+        .dict-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border-color: rgba(218, 192, 136, 0.4);
+        }
+
+        .word-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-subtle);
+            padding-bottom: 0.8rem;
+        }
+
+        .chakobsa-word {
+            font-family: 'Outfit';
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: var(--accent);
+            letter-spacing: 0.05em;
+        }
+
+        .pos-badge {
+            font-size: 0.7rem;
+            font-weight: 600;
+            background: var(--accent-dim);
+            color: var(--accent);
+            border: 1px solid rgba(218, 192, 136, 0.3);
+            padding: 0.3rem 0.6rem;
+            border-radius: 6px;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+        }
+
+        .word-body {
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+        }
+
+        .meta-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.8rem;
+        }
+
+        .meta-label {
+            font-size: 0.75rem;
+            color: rgba(218, 192, 136, 0.6);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            width: 80px;
+            flex-shrink: 0;
+            padding-top: 0.15rem;
+        }
+
+        .meta-value {
+            color: var(--text-main);
+            font-size: 1rem;
+            line-height: 1.4;
+        }
+
+        .meta-value.phonetic {
+            font-family: monospace;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+        }
+
+        .meta-value.english {
+            font-weight: 400;
+        }
+
+        .no-match {
+            grid-column: 1 / -1;
+            text-align: center;
+            color: var(--text-muted);
+            font-style: italic;
+            padding: 3rem;
+            font-size: 1.1rem;
+            opacity: 0.7;
+        }
+
+        .count-indicator {
+            grid-column: 1 / -1;
+            color: rgba(218, 192, 136, 0.5);
+            font-size: 0.85rem;
+            text-align: right;
+            margin-bottom: -0.5rem;
+            padding-right: 0.5rem;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <a href="phonetics.html">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            Analyzer
+        </a>
+    </nav>
+
+    <h1>Chakobsa Lexicon</h1>
+
+    <div id="loading" class="loading">
+        <svg width="40" height="40" stroke="#dac088" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <circle cx="12" cy="12" r="9.5" fill="none" stroke-width="2" stroke-linecap="round">
+                    <animate attributeName="stroke-dasharray" calcMode="spline" values="0 150;42 150;42 150"
+                        keyTimes="0;0.475;1" dur="1.5s" repeatCount="indefinite"
+                        keySplines="0.42,0,0.58,1;0.42,0,0.58,1" />
+                    <animate attributeName="stroke-dashoffset" calcMode="spline" values="0;-16;-59" keyTimes="0;0.475;1"
+                        dur="1.5s" repeatCount="indefinite" keySplines="0.42,0,0.58,1;0.42,0,0.58,1" />
+                </circle>
+                <animateTransform attributeName="transform" type="rotate" dur="2s" repeatCount="indefinite"
+                    keyTimes="0;1" values="0 12 12;360 12 12" />
+            </g>
+        </svg>
+        <p>Awaiting Memory of the Universe...</p>
+    </div>
+
+    <div id="upload-container" class="upload-container" style="display: none;">
+        <p>The application could not automatically load the Chakobsa dictionary.</p>
+        <p>Please manually select the <strong>phonetic_dictionary_pos.json</strong> file to continue.</p>
+        <div class="file-upload-btn">
+            Load Dictionary
+            <input type="file" id="file-input" accept=".json">
+        </div>
+    </div>
+
+    <div id="app-container">
+        <div class="search-group">
+            <svg class="search-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="search-input" placeholder="Search Chakobsa or English..." autocomplete="off"
+                spellcheck="false" autofocus>
+        </div>
+        <div id="results-container"></div>
+    </div>
+
+    <script>
+        let dictionaryList = [];
+
+        // 1. Initial Load Logic
+        async function init() {
+            try {
+                const response = await fetch('data/phonetic_dictionary_pos.json');
+                if (!response.ok) throw new Error('Network response was not ok');
+                let rawDict = await response.json();
+                processDict(rawDict);
+            } catch (error) {
+                console.warn("Could not fetch JSON directly.", error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('upload-container').style.display = 'flex';
+            }
+        }
+
+        // 2. File Upload Fallback
+        document.getElementById('file-input').addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = (event) => {
+                try {
+                    let rawDict = JSON.parse(event.target.result);
+                    processDict(rawDict);
+                } catch (err) {
+                    alert("Error parsing JSON file: " + err);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        // 3. Process the Dictionary
+        function processDict(rawDict) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('upload-container').style.display = 'none';
+            document.getElementById('app-container').style.display = 'flex';
+
+            // Convert to array and prepare searchable fields
+            dictionaryList = Object.values(rawDict).map(entry => {
+                // Remove hyphens for easy searching
+                let cleanChakobsa = entry.chakobsa.toLowerCase().replace(/[\s\-:\']/g, '');
+                let cleanWord = entry.word.toLowerCase().replace(/[\s\-]/g, ' ');
+                return {
+                    ...entry,
+                    _searchChakobsa: cleanChakobsa,
+                    _searchEnglish: cleanWord
+                };
+            });
+
+            // Sort alphabetically by Chakobsa word
+            dictionaryList.sort((a, b) => a.chakobsa.localeCompare(b.chakobsa));
+
+            // Initial render (show all or empty)
+            renderResults('');
+
+            document.getElementById('search-input').focus();
+        }
+
+        // 4. Render Results
+        function renderResults(query) {
+            const container = document.getElementById('results-container');
+            container.innerHTML = '';
+
+            // Clean the query
+            let cleanQuery = query.toLowerCase().replace(/[\s\-:\']/g, '');
+            let spacedQuery = query.toLowerCase().trim();
+
+            let matches = [];
+
+            if (cleanQuery === '') {
+                // If empty, show let's say the first 50 results to not overwhelm the DOM
+                matches = dictionaryList.slice(0, 50);
+            } else {
+                // Filter
+                matches = dictionaryList.filter(entry => {
+                    // Match prefix of chakobsa
+                    return entry._searchChakobsa.startsWith(cleanQuery);
+                });
+            }
+
+            if (matches.length === 0) {
+                container.innerHTML = '<div class="no-match">No matching Chakobsa words found for "' + query + '"</div>';
+                return;
+            }
+
+            // Cap display at 100 for performance
+            const limit = 100;
+            const displayMatches = matches.slice(0, limit);
+
+            if (query !== '' && matches.length > 0) {
+                let countDiv = document.createElement('div');
+                countDiv.className = 'count-indicator';
+                countDiv.textContent = `Found ${matches.length} matches${matches.length > limit ? ' (showing top ' + limit + ')' : ''}`;
+                container.appendChild(countDiv);
+            }
+
+            displayMatches.forEach((entry, index) => {
+                let card = document.createElement('div');
+                card.className = 'dict-card';
+                card.style.animationDelay = `${Math.min(index * 0.02, 0.5)}s`;
+
+                card.innerHTML = `
+                    <div class="word-header">
+                        <div class="chakobsa-word">${entry.chakobsa}</div>
+                        <div class="pos-badge">${entry.pos || '?'}</div>
+                    </div>
+                    <div class="word-body">
+                        <div class="meta-row">
+                            <div class="meta-label">Phonetic</div>
+                            <div class="meta-value phonetic">${entry.phonetic}</div>
+                        </div>
+                        <div class="meta-row">
+                            <div class="meta-label">English</div>
+                            <div class="meta-value english">${entry.word}</div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // 5. Input Handler
+        document.getElementById('search-input').addEventListener('input', (e) => {
+            renderResults(e.target.value);
+        });
+
+        // Fire initialization
+        window.addEventListener('DOMContentLoaded', init);
+
+    </script>
+</body>
+
+</html>
